@@ -1,28 +1,22 @@
 const express = require('express');
-const http = require('http');
-const socketIo = require('socket.io');
-
 const app = express();
-const server = http.createServer(app);
-const io = socketIo(server); // Instantiate Socket.IO with the server
+const port = 3000;
 
-const PORT = process.env.PORT || 3000;
+app.use(express.static('public'));
 
-app.use(express.static('public')); // Serve static files from 'public' directory
-
-// Socket.IO connection handler
-io.on('connection', (socket) => {
-    console.log('A user connected');
-
-    socket.on('chat message', (msg) => {
-        io.emit('chat message', msg); // Broadcast message to everyone
-    });
-
-    socket.on('disconnect', () => {
-        console.log('User disconnected');
-    });
+app.listen(port, () => {
+  console.log(`Server running at http://localhost:${port}/`);
 });
 
-server.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`);
+const fs = require('fs');
+const path = require('path');
+
+app.get('/search', (req, res) => {
+  const query = req.query.query;
+  const directoryPath = path.join(__dirname, '../OAH Decisions/CPC/txt');
+
+  // Search logic here
+  // Read the directory, filter files based on the query, and return results
+
+  res.json({ /* search results */ });
 });
