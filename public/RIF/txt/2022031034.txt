@@ -1,0 +1,1050 @@
+BEFORE THE 
+GOVERNING BOARD OF THE 
+NEVADA JOINT UNION HIGH SCHOOL DISTRICT 
+STATE OF CALIFORNIA 
+
+In the Matter of the Statement of Reduction in Force of: 
+
+JULIE AHERN; KATHRYN BACA; GABRIELLA BLANEY; JULIE 
+
+CAMPBELL (COFFIN); TRENT DUFFEY; ELI FERRIER; CARLEN 
+
+HANDLEY; KRISTINA KNOX; BROOKE LOMELI; KYLE 
+
+LUTKEMULLER; MARGARET CRISTINA MCFADDEN-SHOPP; 
+
+REBECCA NAVARRO; TIMOTHY NEWKIRK; LAUREL PHILLIPS; 
+
+MICHAEL PROFUMO; KARA SCHEITLIN; TYLER SMITH; and 
+
+ANNA THORELL, Respondents1 
+
+OAH No. 2022031034 
+
+1 The District also served layoff notices to Christian Martinez Armesto, David 
+
+Butterworth, and Kristina Larson. Mr. Armesto and Mr. Butterworth did not request a 
+
+hearing. Ms. Larson requested a hearing but later withdrew her request because the 
+
+District rescinded her layoff notice. Exhibits refer to Mr. Armesto as Christian Martinez. 
+
+In this Proposed Decision, he will be referred to as Mr. Armesto. 
+
+ 
+PROPOSED DECISION
+
+Sean Gavin, Administrative Law Judge, Office of Administrative Hearings (OAH), 
+
+State of California, heard this matter by videoconference on April 28 and May 2, 2022, 
+
+from Sacramento, California. 
+
+John Dietrich, Attorney at Law, represented the Nevada Joint Union High School 
+
+District (District). 
+
+Matthew Chevedden, Attorney at Law, represented respondents Julie Ahern, 
+
+Kathryn Baca, Gabriella Blaney, Julie Campbell, Trent Duffey, Eli Ferrier, Carlen Handley, 
+
+Kristina Knox, Brooke Lomeli, Margaret Cristina McFadden-Shopp, Rebecca Navarro, 
+
+Timothy Newkirk, Laurel Phillips, Kara Scheitlin, and Anna Thorell (collectively, “the 
+
+represented respondents”). 
+
+Respondent Kyle Lutkemuller appeared on his own behalf. 
+
+Respondents Michael Profumo and Tyler Smith did not appear, their defaults 
+
+were entered pursuant to Government Code section 11520, and the matter proceeded 
+
+in their absence.
+
+Evidence was received, the record was closed, and the matter was submitted for 
+
+decision on May 2, 2022.
+
+2
+
+FACTUAL FINDINGS
+
+Jurisdictional Matters 
+
+1.
+
+Brett W. McFadden is the District’s Superintendent. Superintendent 
+
+McFadden’s actions, and those of the District’s staff and Board of Trustees (Board), 
+
+were taken solely in their official capacities.
+
+2. 
+
+On March 9, 2022, Superintendent McFadden recommended to the 
+
+Board a reduction and/or discontinuation of particular kinds of services (PKS) and the 
+
+termination of services of a corresponding number of certificated employees. The 
+
+same day, the Board adopted Resolution No. 15-21/22, “Reduction of Particular Kinds 
+
+of Services of Certificated Services” (Resolution), mandating the same, “in the best 
+
+interests of the District and the welfare of the schools and the pupils.” The Resolution 
+
+mandated a reduction or discontinuation of PKS in the amount of 17.76 full-time 
+
+equivalent (FTE) positions for the 2022-2023 school year, provided the method to 
+
+determine which teachers to lay off, and authorized Superintendent McFadden to 
+
+initiate lay off procedures. The Resolution identified the PKS to be reduced or 
+
+discontinued, and their corresponding FTEs, as follows: 
+
+Nevada Union High School 
+
+English 
+
+Social Science 
+
+Physics 
+
+Mathematics  
+
+1.50 FTE
+
+0.66 FTE
+
+0.17 FTE
+
+1.0 FTE 
+
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dance
+
+Foreign Language 
+
+Physical Education 
+
+0.33 FTE
+
+0.66 FTE 
+
+0.66 FTE 
+
+Get Focused, Stay Focused
+
+0.33 FTE 
+
+Study Hall 
+
+APEX   
+
+Chemistry
+
+Biology
+
+3.0 FTE 
+
+0.50 FTE 
+
+0.17 FTE 
+
+0.33 FTE 
+
+Special Education Mild/Moderate
+
+0.66 FTE 
+
+Exploratory CTE 
+
+0.33 FTE 
+
+Work Based Learning Coordinator 
+
+0.33 FTE 
+
+Bear River High School
+
+Social Science 
+
+Chemistry 
+
+Mathematics  
+
+Physical Education   
+
+Dance  
+
+Foreign Language 
+
+4
+
+0.40 FTE
+
+0.20 FTE 
+
+0.20 FTE 
+
+0.20 FTE 
+
+0.20 FTE 
+
+0.20 FTE 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ELD
+
+APEX   
+
+Music/Band  
+
+Physics 
+
+Reconnecting Youth
+
+Silver Springs High School
+
+0.20 FTE
+
+0.40 FTE 
+
+0.40 FTE 
+
+0.20 FTE 
+
+0.20 FTE 
+
+Building & Construction
+
+0.66 FTE 
+
+Mathematics  
+
+English 
+
+Silver Strong  
+
+Business Math 
+
+Physical Education   
+
+Social Science 
+
+Science 
+
+North Point Academy 
+
+0.17 FTE 
+
+0.33 FTE 
+
+0.33 FTE 
+
+0.17 FTE 
+
+0.33 FTE 
+
+0.17 FTE 
+
+0.17 FTE 
+
+Independent Study   
+
+2.0 FTE 
+
+Total   
+
+17.76 FTE 
+
+5
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+
+The Resolution specified, among other things, that “as between 
+
+certificated employees with the same seniority date, the order of termination shall be 
+
+determined solely by the Board-adopted criteria.” It further provided: ““competency” 
+
+as described in Education Code section 44955(b), for purposes of bumping, shall 
+
+necessarily include all credentials, authorizations, training and experience possessed 
+
+by the employee to be bumped that are relevant to the subject matter area of the 
+
+position to be filled, including BCLAD [Bilingual, Crosscultural, Language, and 
+
+Academic Development] authorization.” 
+
+4. 
+
+The Resolution directed Superintendent McFadden or his designee(s)2 to
+
+initiate layoff procedures and give appropriate notices to all employees whose services 
+
+would be terminated. On March 10, 2022, Superintendent McFadden served each 
+
+respondent with a written “Notice of Recommendation That Services Will Not be 
+
+Required” (Notice), which included his recommendation to the Board that the 
+
+respondents’ services would not be required for the 2022-2023 school year. A copy of 
+
+the Resolution was served with each Notice.
+
+5.
+
+Respondents timely filed Requests for Hearing. On April 18, 2022, Lesa St. 
+
+Germain, District Human Resources Coordinator, served respondents with a First 
+
+Amended Notice of Hearing for Thursday, April 28, 2020, at 9:00 a.m., which included 
+
+instructions for video or telephone appearance. Jurisdiction for the subject 
+
+proceedings exists pursuant to Education Code sections 44949 and 44955.
+
+2 On March 10, 2022, Superintendent McFadden designated Dan Frisella and 
+
+Lesa St. Germain to act on his behalf to implement the reduction-in-force proceedings.
+
+6
+
+ 
+Cause for Reduction or Discontinuation of Services
+
+6.
+
+Dan Frisella, the District’s assistant superintendent, testified at hearing 
+
+about the reason for the District’s layoffs. Mr. Frisella has worked for the District for 
+
+nearly 11 years and is finishing his sixth year as the assistant superintendent. He 
+
+explained the District maintains five high schools, including two comprehensive 
+
+schools (Nevada Union High School and Bear River High School), an early college 
+
+school (Ghidotti), a continuation school (Silver Springs High School), and an 
+
+independent study school (North Point Academy). Presently, the schools collectively 
+
+serve approximately 2,375 students. 
+
+7. 
+
+The District’s budget suffers from several “uncertainties” for the 2022-
+
+2023 school year and beyond. Those uncertainties include inflation, retirement fund 
+
+obligations, decreasing enrollment, the rising cost of special education, and projected 
+
+cost-of-living adjustments to payroll. Currently, the District is deficit spending and its 
+
+ending fund balance reserves are diminishing. 
+
+Necessity for Layoffs 
+
+NECESSITY VS. EXCESSIVE PRECAUTION
+
+8. 
+
+School districts are authorized to lay off certificated employees at the 
+
+close of the school year “whenever a particular kind of service is to be reduced or 
+
+discontinued not later than the beginning of the following school year . . . and when in 
+
+the opinion of the governing board of the district it shall have become necessary by 
+
+reason of [this] condition[] to decrease the number of permanent employees in the 
+
+district.” (Ed. Code § 44955, subd. (b).) At hearing, the represented respondents argued 
+
+these layoffs are not “necessary” within the meaning of section 44955. Instead, they 
+
+argued the District sent the layoff notices as an “excessive precaution.” 
+
+7
+
+9.
+
+In support of their argument, the represented respondents noted that in 
+
+March 2020, the District served layoff notices to multiple teachers, including at least 
+
+three respondents in this matter (respondents Campbell, Knox, and Phillips). The 
+
+represented respondents noted those individuals are still employed by the District, 
+
+which they believe proves the 2020 layoff notices were excessive. By extension, they 
+
+reason the current layoff notices are similarly excessive.
+
+10. 
+
+The represented respondents’ argument is rejected. Although official 
+
+notice was taken of the OAH’s proposed decision regarding the District’s 2020 layoffs, 
+
+the evidence at the instant hearing did not prove those layoffs were unnecessary. 
+
+Furthermore, even assuming for the sake of argument that the 2020 layoffs were 
+
+unnecessary, the reasons for this year’s layoff notices are separate and discrete from 
+
+the reasons motivating any prior layoffs. The represented respondents’ argument that 
+
+the current layoff notices are unnecessary is based on conjecture and unsupported by 
+
+the evidence. 
+
+NECESSITY VS. ESSENTIAL SERVICES
+
+11. 
+
+The represented respondents also argued the layoffs are not necessary 
+
+because, in at least one instance, the layoffs, if consummated, could deprive students 
+
+of essential services. Specifically, respondent Handley testified that, at the time she 
+
+received her layoff notice, the District maintained a job posting wherein it was seeking 
+
+to hire a science teacher for Silver Springs High School. She believes the District has 
+
+since withdrawn that posting without filling the position. She further believes the 
+
+science teacher position at Silver Springs High School that is subject to layoff is the 
+
+only such position at that school. The represented respondents conclude that laying 
+
+off the only science teacher at Silver Springs High School will deprive those students of 
+
+essential curriculum.
+
+8
+
+12.
+
+Once again, the represented respondents’ argument is rejected as based 
+
+on conjecture and unsupported by evidence. Moreover, on scrutiny, their actual 
+
+argument is that the District should not reduce a specific PKS (namely, science at a 
+
+particular site). Arguing that a PKS should not be reduced is different from arguing 
+
+that such a reduction does not necessitate a layoff. Additionally, “even though a 
+
+service must continue to be performed in a school district, the particular kind of 
+
+service of the employee may be eliminated.” (
+
+(1976) 64 
+
+Cal.App.3d 167, 177 (citing 
+
+(1934) 2 Cal.2d 770).)
+
+Seniority Dates – Respondents Baca, Duffey, and Lutkemuller 
+
+13.  Ms. St. Germain helped create and maintain the District’s seniority list 
+
+(Seniority List), which contains 174 teachers, including all respondents. A teacher’s
+
+seniority date on the Seniority List indicates the date his or her employment contract 
+
+began, which is based on information from the District’s personnel files. 
+
+14. 
+
+The Seniority List identifies August 12, 2021, as the seniority date for 
+
+respondents Baca and Lutkemuller. At hearing, they each argued their seniority date 
+
+should be August 3, 2021, because on that date and the day after, they both attended 
+
+a paid staff development training at the request of their principal. Their testimony was 
+
+credible and unopposed. The District argued, however, that their attendance was 
+
+voluntary and does not affect their seniority dates. Rather, the District contends their 
+
+seniority dates are properly determined by the start dates included in their respective 
+
+employment contracts.
+
+15.
+
+The Seniority List identifies August 12, 2019, as the seniority date for 
+
+respondent Duffey. At hearing, he argued his seniority date should be August 9, 2019, 
+
+because on that date he attended a training on the District’s new textbooks, which was 
+
+9
+
+essential to performing his job. The District contends respondent Duffey’s training was 
+
+not paid, and that his attendance was voluntary and does not affect his seniority date.
+
+16. 
+
+“Every probationary or permanent employee employed after June 30, 
+
+1947, shall be deemed to have been employed on the date upon which he first 
+
+rendered paid service in a probationary position.” (Ed. Code, § 44845.) The evidence 
+
+did not establish that respondent Duffey was paid for the training on August 9, 2019, 
+
+and therefore his attendance did not change his seniority date. Respondents Baca and 
+
+Lutkemuller, however, were paid for the training, and therefore first rendered paid 
+
+service to the District on August 3, 2021. Consequently, the relevant question is 
+
+whether they did so “in a probationary position.”
+
+17. 
+
+"The Education Code establishes four possible classifications for 
+
+certificated employees: permanent, probationary, substitute and temporary." (
+
+ (1984) 36 Cal.3d 500, 504.) The District must determine a new 
+
+certificated employee’s employment status, and notify the employee of the 
+
+determination in writing, "[a]t the time of initial employment," which means “before 
+
+they first render paid service to their employer.” (Ed. Code, § 44916; 
+
+ (2003) 29 Cal.4th 911, 921.) Absent a written 
+
+statement indicating the employment is temporary, “the certificated employee shall be 
+
+deemed to be a probationary employee of the school district, unless employed with 
+
+permanent status.” (Ed. Code, § 44916.) 
+
+18. 
+
+The District did not notify respondents Baca or Lutkemuller that their 
+
+paid service on August 3, 2021, was temporary employment. In the absence of such 
+
+written notification, their employment is deemed probationary under Education Code 
+
+section 44916. Consequently, respondents Baca and Lutkemuller first rendered paid 
+
+service in a probationary position on August 3, 2021, and that is their seniority date. 
+
+10 
+
+19.
+
+At hearing, the District further argued that respondents Baca and 
+
+Lutkemuller would still have received layoff notices even with an August 3, 2021, 
+
+seniority date. The evidence supports the District’s argument. Respondent Baca is an 
+
+English teacher, and the Seniority List shows no English teacher was hired between 
+
+August 3 and August 11, 2021, or ranked higher than her with an August 12, 2021, 
+
+seniority date. Respondent Lutkemuller is a Social Science teacher, and the other Social 
+
+Science teachers ranked higher than him with an August 12, 2021, seniority date either 
+
+also received a layoff notice (respondents Profumo and Thorell) or did not receive a 
+
+layoff notice because their attrition was already positively assured for the 2022-2023 
+
+school year (Joshua Tygart). Respondent Lutkemuller did not contend, and the 
+
+evidence did not establish, that he is certificated or competent to teach any other 
+
+assignment currently held by teachers with an August 12, 2021, seniority date. As a 
+
+result, although the Seniority List reflects an inaccurate seniority date for respondents 
+
+Baca and Lutkemuller, the error did not cause either respondent to receive a layoff 
+
+notice they should not have received. 
+
+Positively-Assured Attrition 
+
+20. 
+
+Finally, certain represented respondents argued that the District did not 
+
+appropriately consider positively-assured attrition (PAA) when it decided which 
+
+teachers to lay off. PAA is the term the District applies when it knows a specific teacher 
+
+will not be employed by the District the following school year. On the Seniority List, 
+
+the District listed PAA codes in place of a teacher’s seniority number for reasons such 
+
+as resignation, retirement, or death. 
+
+21. 
+
+Respondents Phillips, Thorell, Duffey, and Scheitlin argued that when the 
+
+District chose them for lay off, it did not consider PAA. They based their argument on a 
+
+version of the District’s Seniority List labeled “Draft as of 4/4/22” (Draft Seniority List). 
+
+11 
+
+Ms. St. Germain explained the Seniority List is “a living document,” which means the 
+
+District saves the list electronically and updates it when needed, rather than creating a 
+
+new one each school year. She recognized the Draft Seniority List as a version of the 
+
+Seniority List that was generated sometime after the layoff notices were sent in this 
+
+matter. The Draft Seniority List does not include tie-breaking ranks for teachers with 
+
+shared seniority dates, nor does it include PAA information. In contrast, the Seniority 
+
+List the District used when generating the layoff notices includes both. 
+
+22. 
+
+Respondent Phillps argued that when the District selected her for layoff, 
+
+it did not consider the PAA status of Mr. Armesto. However, the evidence did not 
+
+establish that Mr. Armesto’s attrition is positively assured for the 2022-2023 school 
+
+year. Rather, Mr. Armesto was also selected for layoff.
+
+23. 
+
+Respondents Thorell and Duffey argued that when the District selected 
+
+them for layoff, it did not consider the PAA status of a less senior employee, Mr. 
+
+Tygart. However, the District’s Seniority List notes an “R” in place of Mr. Tygart’s 
+
+seniority ranking, which Ms. St. Germain testified is a PAA code that means he either 
+
+resigned or retired for next year. Consequently, the evidence proved the District did 
+
+consider Mr. Tygart’s PAA status when it chose respondents Thorell and Duffey for 
+
+layoff. 
+
+24. 
+
+Respondent Scheitlin argued that when the District selected her for 
+
+layoff, it did not consider the PAA status of a less senior employee, Joel Stroeve.3
+
+However, the District’s Seniority List notes an “NR” in place of Mr. Stroeve’s seniority 
+
+ranking, which Ms. St. Germain testified is a PAA code that means he is not returning 
+
+3 Mr. Stroeve did not receive a layoff notice.
+
+12 
+
+ 
+for next year. Consequently, the evidence proved the District did consider Mr. 
+
+Stroeve’s PAA status when it chose respondent Scheitlin for layoff. 
+
+25. 
+
+To the extent respondents argued the District did not consider any 
+
+change to teachers’ PAA status between the time the layoff notices were sent and the 
+
+final decision rendered in this case, that argument is also rejected. “A school district 
+
+need not consider positively assured attrition occurring between the date of the 
+
+preliminary notice and the final notice in determining the number of certificated 
+
+employees to be terminated by reason of a reduction or discontinuation of a particular 
+
+kind of service.” (
+
+ (1983) 144 Cal.App.3d 627, 630.) 
+
+Represented Respondent’s Individual Arguments 
+
+REDUCTION OF PARTIAL ASSIGNMENT – RESPONDENT MCFADDEN-SHOPP 
+
+26. 
+
+Respondent McFadden-Shopp is assigned 0.67 FTE at Ghidotti and 0.33 
+
+FTE at North Point Academy, where she is an independent study teacher. The 
+
+Resolution seeks to discontinue her 0.33 FTE independent study PKS, but not her 0.67 
+
+FTE assignment at Ghidotti. To the extent she argues she should not be subject to a 
+
+layoff notice because only a portion of her assignment is being discontinued, that 
+
+argument is rejected. Under Education Code section 44955, subdivision (b), “whenever 
+
+a particular kind of service is to be reduced or discontinued,” the District is authorized 
+
+to “terminate the services of not more than a corresponding percentage of the 
+
+certificated employees of the district.” In other words, once a district decides to 
+
+discontinue or reduce a PKS, “it is simply within the discretion of the board to 
+
+determine the amount by which it will reduce a particular service.” (
+
+(1974) 42 Cal.App.3d 394, 406.)
+
+13 
+
+APPROPRIATE BUMPING – RESPONDENT KNOX
+
+27. Ms. St. Germain helped prepare a spreadsheet titled “Bump Analysis,” 
+
+which contains information about teachers who “bumped” other teachers. For 
+
+purposes of a school district’s reduction in force, “bumping” occurs when a teacher
+
+whose assignment is slated for reduction or discontinuation instead moves into a
+
+different assignment (for which they are certificated and competent to teach) held by a 
+
+less senior teacher, which in turn “bumps” the less senior teacher. School districts 
+
+provide for bumping to comply with Education Code section 44955, subdivision (b), 
+
+which provides, in relevant part: “[e]xcept as otherwise provided by statute, the 
+
+services of no permanent employee may be terminated under the provisions of this 
+
+section while any probationary employee, or any other employee with less seniority, is 
+
+retained to render a service which said permanent employee is certificated and 
+
+competent to render.” 
+
+28. 
+
+Respondent Knox is assigned 1.0 English FTE at Nevada Union High 
+
+School. The Resolution calls for reducing or discontinuing 1.5 English FTE at Nevada 
+
+Union High School and .33 English FTE at Silver Springs High School, for a District-
+
+wide total of 1.83 English FTE. Respondent Knox is number 137 on the Seniority List. 
+
+She argued her layoff is unnecessary because the District already seeks to lay off 2.6 
+
+English FTE from teachers less senior to her: respondents Baca (number 153, 1.0 FTE), 
+
+Navarro (number 157, 1.0 FTE), and Lomeli (number 163, 0.6 FTE).
+
+29. 
+
+To evaluate respondent Knox’s argument, it is appropriate to start with 
+
+the least senior teacher, respondent Lomeli. According to the District’s Bump Analysis, 
+
+a more senior English teacher (Debi Fairchild, number 45) had her 0.17 Study Hall FTE 
+
+discontinued, so Ms. Fairchild bumped respondent Lomeli’s English assignment by 
+
+0.17 FTE. Another more senior teacher (Kelsey Langel, number 91) had both her 0.33 
+
+14 
+
+Exploratory CTE FTE and her 0.33 Work Based Learning Coordinator FTE discontinued, 
+
+so Ms. Langel, who is also credentialed and competent to teach English, bumped 
+
+respondent Lomeli’s remaining 0.4 FTE4 English assignment. 
+
+30. 
+
+The District is discontinuing respondent Navarro’s full 1.0 English FTE 
+
+position. Finally, it is also reducing respondent Baca’s assignment by 0.33 FTE, plus 
+
+another 0.50 FTE due to bumping. Specifically, a more senior English teacher (Alexis 
+
+Olsen, number 112) had her 0.17 Study Hall FTE discontinued, so Ms. Olsen bumped 
+
+respondent Baca’s English assignment by 0.17 FTE. Additionally, Ms. Langel had her 
+
+0.33 Get Focused, Stay Focused FTE discontinued, so she bumped 0.33 FTE of Ms. 
+
+Baca’s remaining English assignment.
+
+31. 
+
+Based on the above, the District appropriately used bumping to ensure 
+
+the least senior teachers were laid off as a result of the PKS reduction or 
+
+discontinuation identified in the Resolution. The final result, which partially reduces 
+
+respondent Knox’s assignment by 0.50 English FTE, justifies her layoff notice. 
+
+Summary of Findings 
+
+32.
+
+The District’s financial uncertainties for the 2022-2023 school year
+
+provide cause for it to reduce or discontinue PKS. The layoff notices issued to 
+
+respondents were necessary based on the District’s determination to reduce or 
+
+4 Respondent Lomeli’s 0.6 FTE assignment was fully bumped by 0.57 FTE 
+
+because her assignment at Bear River High School was in increments of 0.2 FTE, while 
+
+assignments at all other District schools are in increments of 0.17 FTE. 
+
+15 
+
+ 
+discontinue PKS. Both the reduction and discontinuation of PKS as well as the resulting 
+
+layoff notices are related to the welfare of the District’s schools and pupils. 
+
+33. 
+
+The District’s Seniority List includes incorrect seniority dates for 
+
+respondents Baca and Lutkemuller. However, the error did not cause either respondent 
+
+to receive a layoff notice they should not have received. 
+
+34. 
+
+The District appropriately accounted for PAA when it determined which 
+
+teachers to lay off. The Seniority List includes PAA designations, and the District 
+
+properly considered those designations when it made its layoff decisions. 
+
+35. 
+
+The District appropriately issued layoff notices to respondents 
+
+McFadden-Shopp and Knox, as discussed in Findings 26 through 31, above. Any other 
+
+assertions put forth by any of the respondents at hearing and not addressed above are 
+
+found to be without merit and rejected. 
+
+36.  No employee that is not a party to this matter with less seniority than 
+
+any of the respondents is being retained to perform a service that any of the 
+
+respondents are certificated and competent to render. Additionally, there was no 
+
+evidence that the District proposes to discontinue any services that are mandated by 
+
+state or federal laws or regulations. 
+
+LEGAL CONCLUSIONS 
+
+1. 
+
+All notice and jurisdictional requirements set forth in Education Code 
+
+sections 44949 and 44955 were met. 
+
+16 
+
+2.
+
+Under Government Code section 11520, if a respondent fails to appear 
+
+after timely filing a notice of participation, the agency involved may proceed with a 
+
+default and take action. 
+
+3. 
+
+“A school district may consider its financial circumstances in deciding 
+
+whether to reduce or discontinue a particular kind of service.” (
+
+, 
+
+144 Cal.App.3d at p. 631.) “A board's decision as to reduction or 
+
+discontinuation of a particular kind of service is not tied in with any statistical 
+
+computation, such as reduction in the number of students. The number of 
+
+terminations made necessary by PKS reductions depends totally upon the district's 
+
+decision as to how many services to reduce.” (
+
+. at p. 635.) A school district's decision 
+
+to reduce a PKS must not be fraudulent, arbitrary, or capricious. (
+
+. at p. 637.) The 
+
+services identified in the Resolution are PKS that can be reduced or discontinued 
+
+under Education Code section 44955, and there was no evidence that the District’s 
+
+decision was fraudulent, arbitrary, or capricious.
+
+4.
+
+The District is authorized to reduce services within the meaning of 
+
+Education Code section 44955, subdivision (b), “either by determining that a certain 
+
+type of service to students shall not, thereafter, be performed at all by anyone, or it 
+
+may ‘reduce services’ by determining that proffered services shall be reduced in extent 
+
+because fewer employees are made available to deal with the pupils involved.” 
+
+(
+
+, 
+
+, 64 Cal.App.3d at pp. 178-179.) 
+
+5. 
+
+Certificated employees subject to layoff “shall be terminated in the 
+
+inverse of the order in which they were employed.” (Ed. Code, § 44955, subd. (c).) To 
+
+accomplish this, “[t]he governing board shall make assignments and reassignments in 
+
+such a manner that employees shall be retained to render any service which their 
+
+seniority and qualifications entitle them to render.” (
+
+.) 
+
+17 
+
+6.
+
+The District appropriately accounted for positively-assured attrition when 
+
+it determined which teachers to lay off. The District also appropriately applied 
+
+bumping rules such that no employee with less seniority than respondents is being 
+
+retained to perform a service that any of the respondents are certificated and 
+
+competent to render. 
+
+7. 
+
+Cause exists for the reduction and/or discontinuation of the PKS and for 
+
+the reduction and or discontinuation of 17.76 FTE certificated positions for the 2022-
+
+2023 school year pursuant to Education Code sections 44949 and 44955. Cause for the 
+
+reduction and/or discontinuation of services relates solely to the welfare of the 
+
+District’s schools and pupils within the meaning of section 44949. Respondents’ 
+
+arguments have been considered and rejected. As a result, cause exists to give 
+
+respondents notice that their services will not be required, or their hours reduced, for 
+
+the 2022-2023 school year. 
+
+RECOMMENDATION 
+
+The Statement of Reduction in Force is affirmed. The District may notify 
+
+respondents that their services will not be needed or will be reduced during the 2022-
+
+2023 school year due to reduction or discontinuation of particular kinds of services.
+
+DATE: May 4, 2022 
+
+SEAN GAVIN 
+
+Administrative Law Judge 
+
+Office of Administrative Hearings 
+
+18 
+
+ 
+ 
+

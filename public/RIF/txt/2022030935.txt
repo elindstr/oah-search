@@ -1,0 +1,1871 @@
+BEFORE THE 
+GOVERNING BOARD 
+SAN FRANCISCO COMMUNITY COLLEGE DISTRICT 
+STATE OF CALIFORNIA 
+
+In the Matter of the Reduction in Force Involving: 
+
+58 FACULTY MEMBERS, 
+
+Respondents. 
+
+OAH No. 2022030935 
+
+PROPOSED DECISION 
+
+Administrative Law Judge Holly M. Baldwin, State of California, Office of 
+
+Administrative Hearings, heard this matter on April 18 through 21 and 26, 2022, by 
+
+videoconference.
+
+Attorneys Kathryn Meola, Georgelle Cuevas, and Jacqueline Hang represented 
+
+complainant David Martin, Chancellor of the San Francisco Community College 
+
+District.
+
+Attorneys Patricia Lim, Robert Bezemek, and Tanya Smith represented all 
+
+respondents.
+
+The record closed and the matter was submitted for decision on April 26, 2022.
+
+FACTUAL FINDINGS
+
+Board Resolution to Reduce Particular Kinds of Services 
+
+1.
+
+At its meeting on February 24, 2022, the Governing Board of the San 
+
+Francisco Community College District (Board)1 adopted District Resolution No.
+
+22.02.24 10.B.16 (the Resolution). The Resolution declares the District’s intention at the 
+
+end of the 2021–2022 academic year to reduce particular kinds of services, as stated in 
+
+the Resolution and as listed in Exhibit A to this Decision, in a total amount of 
+
+50 full-time equivalent (FTE) faculty employee positions. 
+
+2. 
+
+The Board determined, consistent with the recommendation of 
+
+Chancellor David Martin, that the reductions stated in the Resolution are in the best 
+
+interests of the District and its students, based on the District’s financial concerns.
+
+Prior to the Resolution, on April 7, 2021, the Fiscal Crisis and Management 
+
+Assistance Team (FCMAT) reported to the California Community Colleges Chancellor’s 
+
+Office (State Chancellor) that the District had experienced a 35 percent decline in 
+
+student enrollment over a period of eight years without reducing staffing.2 California 
+
+community colleges are funded mainly based on the number of full-time equivalent 
+
+students. FCMAT noted the District’s ongoing structural deficit spending and other 
+
+1 The San Francisco Community College District governs and operates City 
+
+College of San Francisco, or City College.
+
+2 The District engaged in a layoff proceeding last year, but no layoffs ultimately 
+
+occurred, because the District and the union agreed to one-year salary concessions.
+
+2
+
+ 
+factors, and found that the District could no longer fulfill its commitments to its staff, 
+
+faculty, administration, and students while also remaining solvent. FCMAT found that 
+
+correctly sizing its staffing will be the largest factor in improving the District’s fiscal 
+
+situation. 
+
+On October 8, 2021, the Accreditation Commission for Community and Junior 
+
+Colleges (ACCJC) reported that the District was assessed as an at-risk institution and 
+
+was being placed on enhanced monitoring status for a second consecutive year based 
+
+on concerns about its fiscal stability. In addition to declining student enrollment, 
+
+deficit spending, and other financial factors, the ACCJC noted audit findings that the 
+
+District was listed as a “going concern,” meaning its fund balance and historical 
+
+structural deficit raise substantial doubt about the District’s ability to continue as a 
+
+going concern. The District’s independent auditors have assigned a going concern 
+
+finding for four consecutive years. 
+
+3. 
+
+In his testimony at hearing and in his recommendation to the Board, 
+
+Chancellor Martin explained that staffing adjustments for 2022–2023 are critical, 
+
+because that budget year will be considered by the ACCJC during its accreditation 
+
+evaluation in Spring 2023. In order for City College to keep its accreditation, it must 
+
+demonstrate an institutional plan to ensure solvency and financial stability, and to 
+
+respond to the financial concerns identified by the ACCJC and auditors. If City College 
+
+loses its accreditation, the credits earned by its students will not qualify for transfer to 
+
+other institutions or be recognized by professions, and the institution would lose its 
+
+ability to issue financial aid to students. 
+
+4. 
+
+For several years, the District has received “hold harmless” funding in 
+
+excess of the enrollment-based funding formula, receiving about $10 million this year.
+
+However, “hold harmless” funding is set to expire after the 2024–2025 academic year.
+
+3
+
+Notices to Faculty Member Respondents
+
+5.
+
+On March 9, 2022, Associate Vice Chancellor of Human Resources Clara 
+
+Starr gave timely notice in writing to 50 full-time District faculty members that it had 
+
+been recommended to the Board that the services of these faculty members will not 
+
+be required for the 2022–2023 academic year. Each such preliminary layoff notice 
+
+stated that it was being sent “because you are serving within a particular kind of 
+
+service, as listed [in the Resolution], which is being discontinued or reduced, or 
+
+because an employee with greater seniority and qualifications is entitled to 
+
+reassignment into the service you are currently providing.” Each such notice also 
+
+stated that pursuant to Education Code section 87740, the faculty member may 
+
+request a hearing to determine if there is cause for discontinuing their services for the 
+
+2022–2023 academic year. 
+
+6. 
+
+Also on March 9, 2022, Starr gave timely notice in writing to eight other 
+
+full-time District faculty members that it had been recommended to the Board that the 
+
+services of these faculty members will not be required and that they would be 
+
+reassigned for the 2022–2023 academic year. Each of the eight “precautionary” layoff 
+
+notices stated that it was being sent “because you are serving within a particular kind 
+
+of service, as listed [in the Resolution], which is being discontinued or reduced, and as 
+
+notification that you have bumping rights into another position and your reassignment 
+
+for the ensuing 2022–2023 academic year will be in [name of Department].” Each such 
+
+notice also stated that pursuant to Education Code section 87740, the faculty member 
+
+may request a hearing to determine if there is cause for discontinuing their services for 
+
+the 2022–2023 academic year. 
+
+7. 
+
+All 58 faculty members who received the notices described in Factual 
+
+Findings 5 and 6 requested hearings. 
+
+4
+
+8.
+
+Acting in his official capacity of Chancellor, on March 25, 2022,
+
+complainant David Martin signed an accusation alleging the District’s grounds for not 
+
+re-employing respondents for the 2022–2023 academic year. Each faculty member 
+
+received timely service of the accusation, and each became a respondent in this matter 
+
+by filing a timely notice of defense. The names of the 58 faculty member respondents 
+
+are listed in Exhibits B (50 people) and C (8 people) to this Decision. 
+
+Particular Kinds of Service and the Seniority-FSA List 
+
+9. 
+
+The State Chancellor regularly publishes and revises a handbook listing 
+
+Minimum Qualifications for Faculty and Administrators in California Community 
+
+Colleges (the MQ Handbook). The MQ Handbook lists many disciplines, corresponding 
+
+roughly to academic subjects of study and instruction and to discrete types of 
+
+non-instructional student service. For each discipline, the MQ Handbook identifies 
+
+educational credentials, and in some cases professional experience, constituting the 
+
+minimum qualifications to serve as a California community college faculty member 
+
+teaching a course in that discipline or rendering student service in that 
+
+non-instructional discipline. The MQ Handbook provides that community college 
+
+districts may also establish local qualifications beyond the minimum standards 
+
+prescribed in the MQ Handbook, and that districts have flexibility in how they organize 
+
+courses within disciplines and in how to apply equivalency. The District has established 
+
+local qualifications for some disciplines that are above those in the MQ Handbook.
+
+10.
+
+The District organizes its faculty members, courses, and student services 
+
+into departments. These departments are long-standing administrative units.
+
+11.
+
+Some District departments include only one MQ Handbook discipline. 
+
+Some District departments combine several distinct MQ Handbook disciplines in one
+
+5
+
+department. For example, faculty members in the District’s Social Sciences department 
+
+teach courses in history, economics, political science, and philosophy, which are
+
+distinct disciplines in the MQ Handbook. A few disciplines occur in multiple 
+
+departments; for example, the MQ Handbook identifies “physics/astronomy” as a 
+
+single discipline, but the District has separate Physics and Astronomy departments. 
+
+12. 
+
+District faculty members are assigned at least one faculty service area 
+
+(FSA), which is to be considered in the event of a layoff. FSA’s are a construct of the 
+
+statutory layoff process. In identifying faculty members whose services may become 
+
+unnecessary because of service reductions, the District must evaluate whether any 
+
+faculty member qualifies for reassignment to render a service in which that faculty 
+
+member is relatively more senior. (Ed. Code, § 87743.) Because formal credentials from 
+
+the California Commission on Teacher Credentialing are not necessary for community 
+
+college faculty, the Education Code requires the District to make this evaluation with 
+
+reference to the faculty member’s FSA, defined as “a service or instructional subject 
+
+area or group of related services or instructional subject areas performed by faculty 
+
+and established by a community college district.” (Ed. Code, § 87743.1.) The process of 
+
+assigning FSA’s and considering them to determine whether a faculty member has 
+
+reassignment (“bumping”) rights is discussed further in Factual Findings 18 through 28.
+
+13.  Human Resources staff at the District compiled a list of all full-time 
+
+faculty members (Seniority-FSA List), using information from the District’s personnel 
+
+records. The Seniority-FSA List is sorted by department and seniority date. Each faculty 
+
+member has an entry listing a department, seniority date, lottery number, and one or 
+
+more FSA’s. The lottery numbers are for use if necessary to break ties in seniority dates 
+
+for faculty members hired at the same time.
+
+6
+
+14.
+
+The Resolution identifies service reductions with reference to the 
+
+District’s academic departments, for a total of 50 full-time equivalent faculty positions. 
+
+Each kind of service listed in the Resolution and in Exhibit A to this Decision 
+
+corresponds to a single District department. Human Resources staff used the 
+
+Seniority-FSA list in identifying the specific faculty members within each department 
+
+who would receive the notices described above in Factual Findings 5 and 6. For each 
+
+department, staff reviewed the department’s list of full-time faculty members 
+
+according to seniority. Staff then identified faculty members whose re-employment 
+
+would not be necessary if the District reduced the department’s services to the extent 
+
+stated in the Resolution, beginning with the most junior full-time member of each 
+
+department and accounting for the possibility that faculty members may have FSA’s
+
+and sufficient seniority that would allow them to bump into another department. If a 
+
+faculty member had an FSA and seniority to bump into another department, the least 
+
+senior faculty member in the destination department was identified to receive a 
+
+preliminary layoff notice. By this method, a list was prepared of 50 faculty members to 
+
+receive preliminary layoff notices and 8 faculty members to receive precautionary 
+
+layoff notices. 
+
+15. 
+
+The Resolution defined “competency” as described in Education Code 
+
+section 87743.5 for the purposes of bumping as including: (1) an FSA in the relevant 
+
+subject matter area; (2) a specific and compelling need to employ and retain faculty 
+
+members who meet the minimum qualifications to serve as community college faculty 
+
+members to teach students with disabilities pursuant to California Code of 
+
+Regulations, title 5, section 53414; (3) a specific and compelling need to employ and 
+
+retain faculty members who meet the minimum qualifications to serve as community 
+
+college faculty members in the area of Foreign Languages in the language of Spanish; 
+
+and (4) for faculty members with the same seniority date, the order of termination is 
+
+7
+
+determined by the lottery number recorded on the seniority list. The District used 
+
+these criteria to “skip,” or exempt from layoff, faculty who teach Spanish. 
+
+16.  No respondents claimed that their seniority dates were inaccurate.
+
+17. 
+
+District witnesses testified that while lottery numbers are generally 
+
+assigned upon hiring faculty members, in some semesters if there were only a few 
+
+probationary hires, the District might wait for two or three semesters before 
+
+conducting a lottery drawing. The faculty member union, Local 2121 of the American 
+
+Federation of Teachers (AFT or the union), is notified when the District conducts 
+
+lotteries, and a union representative is present at lottery drawings. No respondents 
+
+specifically claimed that their lottery numbers were inaccurate. 
+
+FSA’s and Cross-Service Qualifications (Bumping) 
+
+18. 
+
+Article 23 of the 2015 collective bargaining agreement (CBA) between the 
+
+District and the union governs FSA’s.
+
+19. 
+
+A faculty member’s primary FSA is assigned at the time of initial hiring, 
+
+reflecting the teaching assignment for which they were hired. Article 23 provides that a 
+
+faculty member is assumed to be competent in the primary FSA corresponding to the 
+
+discipline in which the faculty member is hired and assigned to teach. When a full-time 
+
+faculty member is being hired to fill a position, there is an analysis of the minimum 
+
+qualifications required to teach that subject matter area, and those qualifications are 
+
+listed on the job description. Human Resources staff confirm in the hiring process that 
+
+the faculty member meets minimum qualifications. Article 23 also provides that faculty 
+
+employed prior to the date of ratification of the 2015 CBA shall be assigned to one or 
+
+more primary FSA’s based on qualifications as of their hiring. 
+
+8
+
+20.
+
+Article 23 sets forth the process by which a faculty member can request 
+
+the addition of one or more secondary FSA’s to be considered in the event of a layoff.
+
+It is the faculty member’s responsibility to request a secondary FSA, and to provide the 
+
+District with all records necessary to substantiate a claim of competency. Article 23 
+
+states that the annual deadline for such secondary FSA applications is September 1, 
+
+but at hearing the witnesses for all parties agreed that the statutory deadline set in the 
+
+Education Code is February 15 of each year.
+
+Article 23 provides that secondary FSA applications are to be evaluated by a 
+
+Committee consisting of representatives from Academic Affairs, a Dean, the Academic 
+
+Senate, and the union. The Committee decides by majority vote whether the applicant 
+
+has demonstrated meeting the competency criteria for the requested FSA. Any denials 
+
+shall be explained in writing. Any dispute about whether a faculty member has been 
+
+improperly denied a secondary FSA is addressed through the CBA’s grievance process. 
+
+(See also Ed. Code, § 87743.3.) Article 23 does not specify when the Committee is to 
+
+conduct or complete its evaluation process. 
+
+21. 
+
+District witnesses testified that primary FSA’s and secondary FSA’s are 
+
+recorded in the District’s human resources database. FSA assignments may or may not 
+
+be reflected on documents contained in an individual faculty member’s personnel file, 
+
+although the personnel file documents do reflect the teaching assignment into which 
+
+the faculty member was hired. 
+
+22. 
+
+District staff posted a list of faculty member FSA’s on the District’s 
+
+website in early February 2022. 
+
+23. 
+
+During the 2021–2022 academic year, 39 faculty members applied for 
+
+secondary FSA’s prior to the deadline of February 15, 2022. Human Resources staff 
+
+9
+
+made a preliminary review of these secondary FSA applications and provided
+
+recommendations to the Committee. The Committee convened after the application 
+
+deadline to begin the review process, with a weekly meeting schedule. As of the dates 
+
+of hearing in this matter, the Committee’s work was still in progress. The Committee 
+
+prioritized its review of secondary FSA applications for those faculty members who had 
+
+been identified as affected by this year’s layoff proceeding. That group of priority 
+
+applicants consisted of approximately 20 faculty members. 
+
+24. 
+
+The preliminary and precautionary layoff notices described in Factual 
+
+Findings 5 and 6 were issued based on the preliminary review of Human Resources 
+
+staff regarding seniority and FSA’s for faculty members in departments affected by the 
+
+Resolution. For some of those faculty members, a subsequent decision by the 
+
+Committee was rendered after reviewing secondary FSA applications, and in some 
+
+cases the Committee disagreed with the preliminary recommendation of Human 
+
+Resources. All parties agreed at hearing that the decisions of the Committee 
+
+supersede the recommendations of Human Resources regarding secondary FSA’s. 
+
+SPECIALTY COUNSELING DEPARTMENTS: EOPS AND DSPS 
+
+25. 
+
+In addition to a general Counseling department, the District has two 
+
+specialty counseling departments: EOPS (Extended Opportunity Programs and 
+
+Services) and DSPS (Disabled Student Programs and Services). 
+
+26. 
+
+The MQ Handbook distinguishes general counseling from EOPS 
+
+counseling, and prescribes minimum qualifications for EOPS counseling that are in 
+
+addition to the minimum qualifications for general counseling. 
+
+10 
+
+27.
+
+The MQ Handbook also distinguishes general counseling from 
+
+“community college counselor of students with disabilities,” and prescribes different 
+
+minimum qualifications for these two non-instructional disciplines. 
+
+28. 
+
+Some faculty members of the District’s DSPS department are instructors 
+
+and some are counselors. The corresponding FSA’s are “DSPS-INSTRUCTOR” and 
+
+“DSPS-COUNSELOR.” There are different minimum qualifications for serving as an 
+
+instructor and as a counselor in the DSPS department. 
+
+THE DISTRICT’S ANALYSIS OF WHICH FACULTY MEMBERS SHOULD RECEIVE 
+
+FINAL LAYOFF NOTICES
+
+29. 
+
+At the close of the hearing in this matter, the District provided an 
+
+updated list of which faculty members it contends should receive final layoff notices, 
+
+based on a bumping analysis using the decisions of the Committee regarding FSA’s. 
+
+This analysis of FSA qualifications and bumping rights is discussed as pertinent below.
+
+Faculty Members Who Received Precautionary Layoff 
+
+Notices 
+
+30. 
+
+Elaine Avrus is a faculty member in the Learning Assistance department. 
+
+This department was not slated for a reduction in services based on the Resolution. 
+
+However, Avrus received a precautionary layoff notice, because Human Resources staff 
+
+determined that Avrus would be bumped out of the Learning Assistance department 
+
+by Tanaka Gaines, but that Avrus also met minimum qualifications for Counseling and 
+
+could bump into that department. The Committee has not issued any contrary 
+
+subsequent decision. Thus, Avrus should not receive a final layoff notice and the 
+
+District must withdraw its accusation. 
+
+11 
+
+31.
+
+Tanaka Gaines is a faculty member in the Business department. She 
+
+received a precautionary layoff notice, because Human Resources staff determined 
+
+that she would be subject to layoff in Business based on seniority but that she met 
+
+minimum qualifications for Learning Assistance and could bump into that department. 
+
+The Committee agreed. Thus, Gaines should not receive a final layoff notice and the 
+
+District must withdraw its accusation. 
+
+32. 
+
+Adriana Garcia is a faculty member in the Counseling department. She 
+
+received a precautionary layoff notice, because Human Resources staff determined 
+
+that she would be subject to layoff in Counseling based on seniority but that she met 
+
+minimum qualifications for EOPS and could bump into that department. The 
+
+Committee agreed. Thus, Garcia should not receive a final layoff notice and the District 
+
+must withdraw its accusation. 
+
+33. 
+
+Tamika Jones is a faculty member in the Computer Networking and 
+
+Information (CNIT) department. She received a precautionary layoff notice, because 
+
+Human Resources staff determined that she would be subject to layoff in CNIT based 
+
+on seniority but believed based on her FSA of “COMPUTER INFO SYSTEMS” that she 
+
+met minimum qualifications for Computer Science and could bump into that 
+
+department. However, a subsequent review of her transcripts revealed that Jones does 
+
+not have the master’s degree required to teach in the Computer Science discipline. 
+
+Jones did not apply for a secondary FSA. 
+
+Because Jones does not meet the qualifications for the Computer Science 
+
+department, Daniel O’Leary is not bumped out of Computer Science by Jones. The 
+
+Computer Science department was not targeted for service reductions. Thus, O’Leary 
+
+should not receive a final layoff notice and the District must withdraw its accusation. 
+
+12 
+
+34.
+
+Paula Jung is a faculty member in the Counseling department. She 
+
+received a precautionary layoff notice, because Human Resources staff determined she 
+
+would be subject to layoff in Counseling based on seniority but believed she met 
+
+minimum qualifications for DSPS and could bump into that department. However, the 
+
+Committee subsequently reviewed Jung’s secondary FSA application and determined 
+
+that she does not meet the minimum qualifications for DSPS Counseling. Jung also has 
+
+an FSA in EOPS, but she cannot bump into that department based on her seniority. 
+
+35. 
+
+Kathleen Marquez is a faculty member in the Counseling department. 
+
+She received a precautionary layoff notice, because Human Resources staff determined 
+
+she would be subject to layoff in Counseling based on seniority but believed she met 
+
+minimum qualifications for Sociology and could bump into the Behavioral Sciences 
+
+department with a Sociology FSA. However, the Committee subsequently reviewed 
+
+Marquez’s secondary FSA application and determined that she does not meet the 
+
+minimum qualifications for Sociology, but that she does meet the minimum 
+
+qualifications for both EOPS and Learning Assistance. While Marquez has FSA’s in 
+
+EOPS and Learning Assistance, she cannot bump into either department based on her 
+
+seniority. 
+
+36.  Michael Needham is a faculty member in the Business department who 
+
+received a precautionary layoff notice regarding bumping into the Social Sciences 
+
+department to teach Economics. Human Resources staff determined that Needham 
+
+would be subject to layoff in Business based on seniority but believed that minimum 
+
+qualifications for an FSA in Economics had been met. However, the Committee 
+
+subsequently reviewed Needham’s application for a secondary FSA in Economics, and 
+
+determined that while the MQ Handbook requirements had been met, Needham did 
+
+13 
+
+not meet the additional City College local requirements to teach Economics.
+
+Needham’s qualifications are discussed further in Factual Findings 62 through 65. 
+
+If Needham does not meet the qualifications to bump into Economics, then 
+
+Deniz Demiray is not bumped out of Social Sciences, a department that was not 
+
+targeted for service reductions, and should not receive a final layoff notice. 
+
+37. 
+
+Lorenzo Ubungen is a faculty member in the Counseling department. He 
+
+received a precautionary layoff notice, because Human Resources staff determined he 
+
+would be subject to layoff in Counseling based on seniority but believed he met 
+
+minimum qualifications to bump into EOPS. The Committee agreed that Ubungen 
+
+meets minimum qualifications for both EOPS and Learning Assistance. Ubungen 
+
+cannot bump into Learning Assistance based on his seniority, but he can bump into 
+
+EOPS. Thus, Ubungen should not receive a final layoff notice and the District must 
+
+withdraw its accusation. 
+
+Faculty Members Who Received Preliminary Layoff Notices 
+
+and Whose Secondary FSA Applications Were Reviewed 
+
+38.
+
+The Committee has reviewed secondary FSA applications for faculty 
+
+members who received preliminary layoff notices, as discussed below.
+
+39. 
+
+Lori Admokom is a faculty member in the ESL (English as a Second 
+
+Language) department. She applied for a secondary FSA in “Vocational ESL in 
+
+Hospitality.” The Committee denied her application because this is not a separate FSA. 
+
+40.  Gabriela Alvarenga is a faculty member in the Counseling department. 
+
+The Committee determined that Alvarenga met minimum qualifications for FSA’s in 
+
+both EOPS and Psychology, but denied her request to add Student Services because it 
+
+14 
+
+is not a separate FSA. Based on the Committee’s decision, Alvarenga can bump into 
+
+the Behavioral Sciences department to teach Psychology. Thus, Alvarenga should not 
+
+receive a final layoff notice and the District must withdraw its accusation. 
+
+41. 
+
+Alexandra Kaplan is a faculty member in the Counseling department. 
+
+The Committee found that she met minimum qualifications for both EOPS and 
+
+Learning Assistance. The Committee denied her request to add Health/Safety because 
+
+it is not a separate FSA, and denied Work Experience because faculty already qualify 
+
+for teaching work experience classes in their respective disciplines. While Kaplan has 
+
+FSA’s in EOPS and Learning Assistance, she cannot bump into either department based 
+
+on seniority. 
+
+42. 
+
+Carina Lin is a faculty member in the Counseling department. The 
+
+Committee found that she meets minimum qualifications for EOPS, but denied her 
+
+request to add Career Counseling because this is not a separate FSA. While Lin has an 
+
+FSA in EOPS, she cannot bump into that department based on seniority. 
+
+43. 
+
+Patricia Miller is a faculty member in the Theatre Arts department. She 
+
+has an FSA in “DRAMA/THEATRE ARTS.” Miller applied for a secondary FSA in “Film 
+
+Broadcasting.” The Committee determined that this request does not directly 
+
+correspond to any FSA in use, and asked her to clarify whether she would like to be 
+
+considered for the FSA’s of “Film and Media Studies,” or “Broadcasting Technology,” or 
+
+both. The record did not reflect that Miller had responded as of the date of the 
+
+hearing. The Committee’s decision noted that Miller meets the standards for Film and 
+
+Media Studies. The District stated that Miller meets the minimum qualifications for 
+
+Cinema, but that she cannot bump into that department based on seniority. 
+
+15 
+
+44. Michelle Nermon is a faculty member in the Architecture department. 
+
+The Committee granted her request to add secondary FSA’s in Building Codes, 
+
+Drafting/CADD, and Interior Design. The record did not establish that these FSA’s 
+
+would qualify Nermon to teach courses in any department other than Architecture. 
+
+45.  Wynn Newberry is a faculty member in the ESL department. The 
+
+Committee denied his request to add a secondary FSA in Architecture, finding he had 
+
+not shown the work experience required to accompany his degree for this FSA. 
+
+46. 
+
+Adriana Rivera is a faculty member in the Counseling department. She 
+
+applied for secondary FSA’s in several areas. The Committee determined that she was 
+
+already assigned a Counseling FSA. The Committee granted her request to add 
+
+Education. However, the record did not establish that an Education FSA would qualify 
+
+Rivera to teach in another department than her current assignment. The Committee 
+
+denied her request to add EOPS, based on lack of specific coursework for that FSA. The 
+
+Committee also found that she did not meet the requirements for Economics or 
+
+Interdisciplinary Studies. Lastly, the Committee denied her request to add Student 
+
+Services and Veteran Counseling, because those are not distinct FSAs. 
+
+47.  Mia Rusali is a faculty member in the Business department. The 
+
+Committee granted her request to add a secondary FSA in Office Technology. The 
+
+record did not establish that this FSA would qualify Rusali to teach courses in any 
+
+department other than Business. 
+
+48. 
+
+Erica Tom is a faculty member in the Counseling department. The 
+
+Committee found that she meets the minimum qualifications for both EOPS and DSPS. 
+
+Based on the Committee’s decision, the District agrees that Tom can bump into the 
+
+16 
+
+DSPS department. Thus, Tom should not receive a final layoff notice and the District 
+
+must withdraw its accusation. 
+
+Tom bumping into the DSPS department results in Olga Galvez, the least senior 
+
+faculty member in DSPS, receiving a final layoff notice. 
+
+49. 
+
+Kenyon Verbeckmoes is a faculty member in the Aircraft Maintenance 
+
+Technology department. The Committee granted his requests to add Engineering and 
+
+Engineering Technology as secondary FSA’s. However, there are no faculty members 
+
+less senior to Verbeckmoes in the District’s Engineering and Technology department 
+
+and thus he cannot bump into that department. 
+
+Challenges Raised by Respondents to Layoff Process 
+
+BUDGET AND FUNDING
+
+50. 
+
+Respondents argued that the District’s fiscal concerns based on declining 
+
+student enrollment are undermined by the receipt of “hold harmless” funding. 
+
+However, the evidence established that the “hold harmless” funding will expire soon, 
+
+that the District still has a structural deficit, and that the District faces an accreditation
+
+evaluation in the coming academic year that requires it to demonstrate a plan for fiscal 
+
+stability. (Factual Findings 2-4.)
+
+LOTTERY PROCESS 
+
+51.  Malaika Finkelstein, the president of AFT Local 2121, testified regarding 
+
+faculty member lottery numbers. During last year’s layoff proceeding, it was 
+
+discovered that two faculty members have the same lottery number, leading 
+
+Finkelstein to have concerns about the lottery process. Neither of those two faculty 
+
+members received a preliminary layoff notice this year or is a respondent this year. 
+
+17 
+
+52.
+
+Education Code section 87414 requires that a district assign new full-time 
+
+faculty members lottery numbers within 30 days of hire. Respondents point to the 
+
+evidence that this was not always done by the District, argue that this prejudiced 
+
+faculty members for whom a lottery draw was delayed, and argue that the failure to 
+
+comply with the deadline requires rescission of all layoff notices. However, 
+
+respondents did not identify any specific respondent faculty member for whom this 
+
+would have made a difference in this year’s layoff process. Finkelstein also confirmed 
+
+that AFT has not filed any grievances regarding the lottery process. 
+
+ASSIGNMENTS OF PRIMARY FSA’S AND MAINTENANCE OF FSA RECORDS
+
+53. 
+
+Education Code section 87743.3 provides that each faculty member shall 
+
+qualify for one or more FSA’s at the time of initial employment, based on state 
+
+minimum qualifications and district competency standards. Education Code section 
+
+87743.4 states that the district shall maintain records of each faculty member’s FSA’s, 
+
+in the faculty member’s personnel file. Respondents argue that the District has not 
+
+properly followed these requirements. Respondents also point to confusion during last 
+
+year’s layoff proceeding because there had been no layoff process in recent memory, 
+
+and some faculty member FSA’s were based on old versions of the MQ Handbook or 
+
+an FSA list from 1990 that does not neatly correlate with current discipline listings.
+
+However, these issues do not require resolution in this Decision. No respondents 
+
+claimed that their initial FSA or departmental assignments were improper.
+
+SECONDARY FSA APPLICATION REVIEW PROCESS
+
+54. 
+
+Last year, more than 80 faculty members applied by the deadline of 
+
+February 15, 2021, for corrections or additions to their FSA designations. Many of 
+
+those FSA applications were not resolved during the last academic year. AFT and the 
+
+18 
+
+Academic Senate requested that the District reconvene the Committee for review of 
+
+pending FSA applications, but it was not reconvened until mid-February 2022. 
+
+55. 
+
+This year, 39 applications for secondary FSA review were submitted by 
+
+the deadline of February 15, 2022. The Committee prioritized about 20 for review. 
+
+However, the Committee had not yet rendered decisions by the time preliminary layoff 
+
+notices were served based on the initial review of Human Resources staff. As discussed 
+
+in this Decision, for some faculty members, the Committee’s later decision was 
+
+contrary to and superseded the initial analysis of Human Resources. 
+
+56. 
+
+Respondents contend that the District was dilatory for not reconvening 
+
+the Committee earlier, and that any inaccuracies in the initial FSA analysis create a 
+
+situation in which all preliminary layoff notices must be rescinded. This argument is 
+
+not persuasive. It is undisputed that under Article 23 of the CBA, the decisions of the 
+
+FSA review Committee are controlling, and that any challenges to the Committee’s 
+
+decisions go through the grievance process. Nor does Article 23 specify at what time 
+
+the Committee must perform its evaluations. The District reviewed decisions rendered 
+
+by the Committee for respondents in this matter and applied those decisions to the 
+
+bumping analysis in order to identify who should receive final layoff notices. 
+
+GABRIELA ALVARENGA (COUNSELING) 
+
+57. 
+
+Alvarenga contended that her preliminary layoff notice was issued in 
+
+error because she can bump into another department. The evidence established that 
+
+Alvarenga can bump into Behavioral Sciences to teach Psychology, as set forth in 
+
+Factual Finding 40, and she should not receive a final layoff notice. 
+
+19 
+
+OLGA GALVEZ (DSPS)
+
+58.
+
+Olga Galvez is a counselor in the DSPS department, and currently serves 
+
+as the department chair for DSPS. The Resolution did not target the DSPS department 
+
+for a reduction in services. However, Galvez received a preliminary layoff notice due to 
+
+another faculty member with more seniority and an FSA in DSPS bumping into the 
+
+department.
+
+59. 
+
+The District did not use the skipping criterion described in Factual 
+
+Finding 15 for faculty members qualified to teach students with disabilities to exempt 
+
+Galvez from layoff, because the Resolution’s criterion is for instructors of disabled 
+
+students, and not counselors. As set forth in Factual Findings 27 and 28, there are 
+
+different minimum qualifications for serving as an instructor and as a counselor in the 
+
+DSPS department. Galvez has an FSA of “DSPS-COUNSELOR” and does not have an 
+
+FSA of “DSPS-INSTRUCTOR.” Galvez did not apply for a secondary FSA this year.
+
+60. 
+
+Galvez contends that the decision to lay her off is unreasonable under 
+
+the circumstances. She testified that the DSPS department is funded by a separate 
+
+budget directly from the state, and that the department had completed most of a 
+
+hiring process to hire additional counselors. However, the evidence established that 
+
+the hiring process has been frozen and that no offers have been made. No faculty 
+
+member less senior to Galvez in DSPS is being retained.
+
+MICHAEL NEEDHAM (BUSINESS) 
+
+61.  Needham contends that he cannot be laid off because he is on sabbatical
+
+leave this semester (Spring 2022), relying on the language of Education Code section 
+
+87774, which states that after expiration of a leave of absence, an employee shall be 
+
+reinstated to the position held at the time of granting the leave of absence.
+
+20 
+
+62.
+
+Needham also disputes the Committee’s determination that he does not 
+
+meet the requirements for an FSA in Economics, which would have allowed him to 
+
+bump into the Social Sciences department. (See Factual Finding 36.) Needham has a 
+
+bachelor’s degree in economics and a master’s degree in business administration with 
+
+a concentration in finance. Human Resources staff believed that Needham met the 
+
+requirements for an FSA in Economics based on the state minimum qualifications, and 
+
+an FSA of Economics for Needham was included on the FSA list described in Factual 
+
+Finding 22. However, the Committee subsequently determined that Needham had not 
+
+met additional local requirements of a master’s degree in economics and graduate 
+
+level coursework in statistics. Needham testified at hearing and admitted that he did 
+
+not possess the additional local requirements relied on by the Committee, but 
+
+contends that he should be found to meet equivalency for those requirements. 
+
+63. 
+
+Last year, Needham applied for FSA’s in Economics, Real Estate, and 
+
+Small Business (Entrepreneurship), but never received a determination on those FSA 
+
+requests. He filed three grievances regarding these FSA’s in March 2021, but has never 
+
+received a formal response from the District. Needham contends that if the District 
+
+had responded to his grievances, or to his requests to reconvene the Committee for 
+
+consideration of FSA applications, he would have been able to timely provide further 
+
+information about his qualifications to teach Economics. 
+
+64. 
+
+To the extent that Needham contests the Committee’s FSA decision, or 
+
+the District’s failure to timely resolve his grievances, those issues should be resolved 
+
+within the CBA’s grievance process and its subsequent provisions for arbitration. 
+
+65. 
+
+As of the time of hearing, the Committee had not yet made a decision 
+
+regarding Needham’s applications for FSA’s in Real Estate and Small Business 
+
+(Entrepreneurship). However, the evidence did not establish that if Needham were to 
+
+21 
+
+receive either of these FSA’s, it would provide qualification to teach in a department 
+
+other than Business. 
+
+IMPACT OF PROPOSED LAYOFFS ON INSTRUCTIONAL PROGRAMS 
+
+66. 
+
+The District has established a Board Policy and Administrative Procedure 
+
+(Number 6.17) governing the suspension or discontinuance of instructional programs. 
+
+The District has engaged in the required process with respect to the Aircraft 
+
+Maintenance and Technology department, although a final determination has not yet 
+
+been made by the Chancellor. Respondents contend that other instructional programs 
+
+will be discontinued as a result of the planned layoffs in this matter, and that the 
+
+program discontinuance police and procedure should have been invoked.
+
+Respondents argue that the District acted arbitrarily in seeking to lay off faculty 
+
+members without first determining whether others in the affected departments can 
+
+teach the courses students still need to graduate. 
+
+67. 
+
+Thomas Boegel, Vice Chancellor of Academic and Institutional Affairs, 
+
+testified credibly regarding the District’s identification of departments for reductions in 
+
+service. Boegel explained that the District tried to mitigate the impact on students and 
+
+their ability to complete degree and certificate programs, and considered enrollment 
+
+areas, class sizes, and numbers of students enrolled in degree programs. The District 
+
+also considered whether proposed layoffs would affect the classes required for 
+
+students to complete degree and certificate programs.
+
+68. 
+
+Boegel also testified credibly that some departments in the District are 
+
+staffed with only part-time faculty members, and that there are no District courses that 
+
+are reserved specifically for full-time faculty members and cannot be taught by 
+
+part-time instructors. 
+
+22 
+
+69.
+
+The evidence did not establish that the proposed layoffs will result in 
+
+instructional programs being discontinued, or that courses required by students for 
+
+graduation will not be offered. 
+
+RESPONDENTS WHO ARE THE ONLY FULL-TIME FACULTY TEACHING 
+
+COURSES REQUIRED FOR DEGREE OR CERTIFICATE PROGRAMS 
+
+70. More specifically, four respondents contend that the District abused its 
+
+discretion in issuing preliminary layoff notices to them, because they are the only 
+
+full-time faculty that teach particular courses required by their departments’ degree or 
+
+certificate programs, as set forth below.
+
+Michelle Nermon (Architecture) 
+
+71.  Michelle Nermon is a faculty member in the Architecture department, 
+
+which also houses the Interior Design and Construction Management programs. 
+
+Nermon testified credibly that she is the only full-time faculty member who can teach 
+
+classes in the software programs AutoCAD and Revit that are required for the 
+
+Architecture degree, the Interior Design degree, and four certificate programs. George 
+
+Lin, the Architecture department chair, testified credibly that neither he nor any other 
+
+full-time faculty in the department is qualified to teach these classes, because they 
+
+have not used the software programs professionally in recent years. Nermon is 
+
+qualified based on recent professional experience using these software programs as a 
+
+practicing architect. Nermon has also signed a contract with the District to develop 
+
+and teach an online AutoCAD course in the fall.
+
+72.
+
+The District has not taken formal steps to suspend or discontinue its 
+
+Architecture department or any of the degree and certificate programs the 
+
+department offers. 
+
+23 
+
+73.
+
+If the District does not re-employ Nermon as a full-time faculty member 
+
+for the 2022–2023 academic year, or if these courses were to be taught by a part-time 
+
+instructor, they may not be offered as frequently or on schedules as convenient to 
+
+students. The evidence did not establish, however, that the District will be unable to 
+
+offer Architecture or Interior Design degrees or any certificates without continuing to 
+
+employ Nermon as a full-time faculty member. 
+
+74.  Nermon did not testify that her education or experience should qualify 
+
+her to teach in any department other than Architecture. 
+
+Mia Rusali (Business) 
+
+75.  Mia Rusali is a faculty member in the Business department. Rusali 
+
+testified credibly that she is the only full-time faculty member who is qualified to teach 
+
+a number of the courses required for the degree and certificate programs in Human 
+
+Resources Management, and Supervision and Management.
+
+76. 
+
+The District has not taken formal steps to suspend or discontinue its 
+
+Business department or any of the degree and certificate programs the department 
+
+offers.
+
+77.
+
+Rusali did not testify that her education or experience should qualify her 
+
+to teach in any department other than Business.
+
+Jenny Tabarracci (Environmental Horticulture & Floristry) 
+
+78. 
+
+Jenny Tabarracci is a faculty member in the Environmental Horticulture 
+
+and Floristry department. Tabarracci teaches a number of floristry classes required for 
+
+the department’s Floristry degree, Retail Floristry certificate, and Floral and Special 
+
+Events Coordinator certificate. Tabarracci and department chair Steven Brown testified 
+
+24 
+
+credibly that Brown is the only other full-time faculty member in the department who 
+
+can teach those floristry classes. 
+
+79. 
+
+Brown testified that without Tabarracci, the required floristry classes 
+
+would not be offered as frequently, and it may take students longer to complete a 
+
+degree. He reports that there are no other floral design programs at nearby schools. 
+
+80. 
+
+The District has not taken formal steps to suspend or discontinue its 
+
+Environmental Horticulture and Floristry department or any of the degree and 
+
+certificate programs the department offers. 
+
+81. 
+
+Tabarracci also runs the student chapter of the American Institute of 
+
+Floral Designers, an industry group that provides scholarships and national student 
+
+competitions. She believes that this student chapter would not continue if she were to 
+
+be laid off from the District. 
+
+82. 
+
+Tabarracci did not testify that her education or experience should qualify 
+
+her to teach in any department other than Environmental Horticulture and Floristry. 
+
+Patricia Miller (Theatre Arts) 
+
+83.
+
+Patricia Miller is a faculty member in the Theatre Arts department. Miller 
+
+testified credibly that she is the only full-time faculty member who can teach the 
+
+performance classes required for the Theatre Arts degree and Acting certificate. 
+
+Department chair Patrick Toebe testified credibly that he is the only other full-time 
+
+faculty member in the Theatre Arts department, and that he is not qualified to teach 
+
+acting classes because his expertise is in stagecraft and lighting. 
+
+25 
+
+84.
+
+Toebe testified that the Theatre Arts department does not currently have 
+
+any part-time instructors. Miller and Toebe are both presently teaching more than a 
+
+full-time load, due to the retirement of a part-time acting instructor.
+
+85.  Miller testified that if the performance classes she teaches are not offered 
+
+by the District, students would need to commute to other schools to take such classes. 
+
+86. 
+
+The District has not taken formal steps to suspend or discontinue its 
+
+Theatre Arts department or any of the degree and certificate programs the 
+
+department offers. 
+
+87.  Miller testified regarding her professional experience, including her 
+
+experience in acting for the camera, as a voice-over actor, and in film and broadcast. 
+
+Miller applied for a secondary FSA in Film Broadcasting. The Committee determined 
+
+that this request does not directly correspond to any FSA in use, and asked Miller to 
+
+clarify whether she would like to be considered for the FSA’s of Film and Media 
+
+Studies, or Broadcasting Technology, or both. The record did not reflect that Miller 
+
+had responded as of the date of the hearing. The Committee’s decision noted that 
+
+Miller meets the standards for Film and Media Studies. The District stated that Miller 
+
+meets the minimum qualifications for Cinema, but no one less senior is being retained 
+
+in the Cinema department. 
+
+OTHER MATTERS 
+
+88. 
+
+As to the 58 respondents, this Decision addresses all challenges these 
+
+respondents have identified to the accusations against each of them. Any contentions 
+
+not specifically addressed in this Decision are found to be without merit and are 
+
+rejected. To the extent that other challenges may have been possible but were not 
+
+26 
+
+identified during testimony or in oral or written argument, respondents have waived 
+
+those challenges. 
+
+LEGAL CONCLUSIONS 
+
+1. 
+
+Jurisdiction in this matter exists under Education Code sections 87740 
+
+and 87743. The District’s and complainant’s pre-hearing notices and actions, described 
+
+in Factual Findings 1, 2, and 5 through 8, satisfied these statutes’ requirements, making 
+
+all 58 respondents proper respondents in this proceeding.
+
+2. 
+
+The rights and status of any part-time faculty members the District may 
+
+employ are not at issue in this layoff proceeding. (
+
+ (1989) 212 Cal.App.3d 909.)
+
+3. 
+
+The statutory re-hire rights of faculty members under the Education Code 
+
+are also outside the scope of this layoff proceeding.
+
+4. 
+
+A district may consider its financial circumstances in deciding whether to 
+
+reduce or discontinue a particular kind of service. However, the district’s decision to 
+
+reduce a particular kind of service must not be fraudulent, arbitrary, or capricious. (
+
+(1983) 144 Cal.App.3d 627, 637.) The courts have held this 
+
+standard permits “a difference of opinion on the same subject.” (
+
+ (1978) 76 Cal.App.3d 796, 808.) 
+
+5. 
+
+The services listed in the Resolution and in Exhibit A to this Decision are 
+
+services that the District may reduce or discontinue. (Factual Findings 1, 9-11.) The 
+
+Board’s identification of these services for reduction is not arbitrary or capricious, and 
+
+is not an abuse of the Board’s discretion. 
+
+27 
+
+6.
+
+The Board’s decision to reduce District services in the manner described 
+
+by the Resolution, in the amount of 50 full-time equivalent faculty positions, will likely 
+
+cause changes to the District’s course offerings and staffing. (Factual Findings 67-87.) 
+
+These matters do not, however, establish that the Board’s decision is fraudulent or 
+
+dishonest, or that that it will compel the Board to act in the future in a manner 
+
+violating any other law. The Board’s decision to reduce the services stated in the 
+
+Resolution by the amounts stated in that Resolution is not arbitrary or capricious, and 
+
+is not an abuse of the Board’s discretion. 
+
+7. 
+
+The matters raised by respondents regarding budget and funding 
+
+(Factual Findings 50 & 60) do not establish that the Board’s decision to reduce the 
+
+services stated in the Resolution by the amounts stated in that Resolution is 
+
+fraudulent, arbitrary or capricious, or an abuse of the Board’s discretion. 
+
+8. 
+
+Respondents’ contention, that the District’s failure to assign lottery 
+
+numbers to new full-time faculty members within 30 days renders all layoff notices 
+
+invalid (Factual Finding 52), is rejected. In 
+
+(1980) 108 Cal.App.3d 437, 443, the court of appeal
+
+held that layoffs were not rendered invalid by the district’s failure to comply with the 
+
+30-day deadline of Education Code section 87414, finding it to be directory and not 
+
+mandatory.
+
+9.
+
+The matters raised by respondents regarding the assignment of primary 
+
+FSA’s (Factual Finding 53) do not establish that the Board’s layoff decisions are 
+
+fraudulent, arbitrary or capricious, or an abuse of the Board’s discretion.
+
+10.
+
+Respondents’ contention that Needham cannot be laid off while he is on 
+
+sabbatical leave (Factual Finding 61) is rejected. A teacher employed but on a leave of 
+
+28 
+
+absence is still considered an employee, including for purposes of determining 
+
+seniority rights. (
+
+(1941) 17 Cal.2d 753, 759.) 
+
+11. 
+
+Respondents’ contentions regarding the effect of proposed layoffs on 
+
+the District’s instructional programs (Factual Findings 66-87) are rejected. The evidence 
+
+did not establish that the District’s decision was arbitrary or capricious. 
+
+12. 
+
+Complainant has not notified any respondent that the respondent’s 
+
+services will not be required for the 2022–2023 academic year, while failing to give 
+
+similar notice to any more junior full-time faculty member who served within the same 
+
+District department during the 2021–2022 academic year. (Factual Findings 12-14.) No 
+
+full-time faculty member with less seniority is being retained to render a service for 
+
+which respondents are certificated and competent. 
+
+13. 
+
+The District may not terminate any full-time faculty member’s services 
+
+while retaining a junior full-time faculty member “to render a service in a faculty 
+
+service area in which” the senior full-time faculty member qualifies to serve. (Ed. Code, 
+
+§ 87743.) To render a service with respect to this proceeding means to serve as a 
+
+member of a District department. A respondent in this proceeding might qualify for 
+
+retention and reassignment for the 2022–2023 academic year if the respondent 
+
+qualifies for a secondary FSA that is a discipline occurring within a different District 
+
+department from the department in which the respondent currently serves. However, 
+
+the District would need to retain such a respondent only if reassignment would make 
+
+that respondent senior to at least one non-respondent in the new department. 
+
+14. 
+
+School districts have broad discretion to establish competency standards 
+
+for purposes of exercising bumping and reassignment rights. (
+
+ (1987) 196 Cal.App.3d 555, 564-65.) This broad discretion is limited by a 
+
+29 
+
+reasonableness standard. The burden of proof is on the senior teacher to establish 
+
+competence over a retained junior employee. (
+
+(1980) 
+
+109 Cal.App.3d 648.) 
+
+15. 
+
+Because of the matters stated in Factual Findings 30-32, 37, 40, 48, and 
+
+57, respondents Avrus, Gaines, Garcia, Ubungen, Alvarenga, and Tom qualify for 
+
+reassignment to a different department based on their FSA’s and seniority. The District 
+
+must withdraw the accusations as to these six respondents. 
+
+16. 
+
+Because of the matters stated in Factual Findings 33-36, 39, 41-47, 49, 
+
+58-60, 62-65, 74, 82, and 87, respondents Jones, Jung, Marquez, Needham, Admokom, 
+
+Kaplan, Lin, Miller, Nermon, Newberry, Rivera, Rusali, Verbeckmoes, Galvez, and 
+
+Tabarracci do not qualify for reassignment to a different department based on their 
+
+FSA’s and seniority, and may receive final layoff notices. 
+
+17. 
+
+Because of the matters stated in Factual Findings 33 and 36, respondents 
+
+O’Leary and Demiray are not bumped out of their departments, which were not 
+
+targeted for reductions in service. The District must withdraw the accusations as to 
+
+these two respondents. 
+
+Summary
+
+18. 
+
+The matters stated in Legal Conclusions 15 and 17 do not constitute 
+
+cause under Education Code section 87743 to give notice to respondents Avrus, 
+
+Gaines, Garcia, Ubungen, Alvarenga, Tom, O’Leary, and Demiray that their services will 
+
+not be required for the upcoming 2022–2023 academic year. 
+
+19. 
+
+The matters stated in Legal Conclusion 16 constitute cause under 
+
+Education Code section 87743 to give notice to all respondents other than Avrus, 
+
+30 
+
+Gaines, Garcia, Ubungen, Alvarenga, Tom, O’Leary, and Demiray that their services will 
+
+not be required for the upcoming 2022–2023 academic year. In accordance with 
+
+Education Code section 87740, the cause relates solely to the welfare of the District 
+
+and its students.
+
+RECOMMENDATION
+
+1.
+
+The San Francisco Community College District may not give notice to the 
+
+eight respondents whose names appear on Exhibit C to this Decision that the District 
+
+will not require their services for the 2022–2023 academic year. Instead, with respect to 
+
+the eight respondents whose names appear on Exhibit C to this Decision, the 
+
+accusation is dismissed.
+
+2.
+
+The San Francisco Community College District may give notice to the 50 
+
+respondents whose names appear on Exhibit B to this Decision that the District will not 
+
+require their services for the 2022–2023 academic year. The District may give this 
+
+notice to these 50 respondents in inverse seniority order within the departments in 
+
+which they served during the 2021–2022 academic year, but only to the extent 
+
+necessary to achieve the departmental service reductions stated in Exhibit A to District 
+
+Resolution No. 22.02.24 10.B.16.
+
+DATE:
+
+HOLLY M. BALDWIN
+
+Administrative Law Judge
+
+Office of Administrative Hearings
+
+31
+
+Exhibit A: Reduction or Elimination of Particular Kinds of Services
+
+Aircraft Maintenance Technology,
+
+English, 9 FTEs 
+
+2 FTEs (Full-Time Equivalent) 
+
+Environmental Horticulture & Floristry, 
+
+Architecture, 1 FTE 
+
+1 FTE 
+
+Automotive, 2 FTEs 
+
+ESL, 7 FTEs 
+
+Biological Sciences, 2 FTEs 
+
+Library & Learning Resources, 2 FTEs 
+
+Broadcast Electronic Media Arts, 1 FTE 
+
+Music, 1 FTE 
+
+Business, 6 FTEs 
+
+Physics, 1 FTE 
+
+Chemistry, 2 FTEs
+
+Theatre Arts, 1 FTE 
+
+Computer Networking & Information, 
+
+World Languages & Cultures (French), 
+
+1 FTE 
+
+1 FTE 
+
+Counseling, 9 FTEs 
+
+Engineering & Technology, 1 FTE 
+
+TOTAL: 50 FTEs
+
+ 
+ 
+ 
+Exhibit B: Faculty Members Who May Receive Final Notices That the District Will Not 
+
+Re-Employ Them for the 2022–2023 Academic Year (50) 
+
+Admokom, Lori 
+
+Afshar, Golnar 
+
+Frei, Kathryn 
+
+Fung, Allen 
+
+Arceneaux, Jacques 
+
+Galvez, Olga 
+
+Bailey Burns, Cullen 
+
+Green, Erik 
+
+Barone, Augustus 
+
+Hamilton, Shawna 
+
+Blackwell, Angela 
+
+Branagan, Laura 
+
+Buckley, Alissa 
+
+Hill, Kyle 
+
+Hong, Bo 
+
+Hurt, Mai 
+
+Bugayong, Arlene 
+
+Jones, Tamika 
+
+Chu, Emily 
+
+Cox, Natalie 
+
+Jung, Paula 
+
+Kamatani, Pamela 
+
+D'Aloisio, Michael 
+
+Kaplan, Alexandra 
+
+DiGirolamo, Lisa 
+
+Easa, Leila 
+
+Lin, Carina 
+
+Lyles, Tanya 
+
+Evans (Johnsen), Jill 
+
+Marquez, Kathleen
+
+Frankel, Maggie 
+
+Meagher, Carole 
+
+33 
+
+Miller, Patricia
+
+Rusali, Mia
+
+Needham, Michael 
+
+Salangsang, John
+
+Nermon, Michelle 
+
+Scheffer, Johanna 
+
+Newberry, Wynn 
+
+Sheetz, Nuala
+
+Olmos, Christian 
+
+Smith, Elizabeth 
+
+Peterson Jr., George 
+
+Tabarracci, Jenny 
+
+Rahn, Katrina 
+
+Verbeckmoes, Kenyon 
+
+Richardson, Ronald 
+
+Viertel, Clayton 
+
+Rivera, Adriana 
+
+Yanuaria, Christina 
+
+34 
+
+ 
+ 
+ 
+Exhibit C: Faculty Members Whose Accusations the District Must Dismiss (8)
+
+Alvarenga, Gabriela
+
+Avrus, Elaine
+
+Demiray, Deniz 
+
+Gaines, Tanaka 
+
+Garcia, Adriana 
+
+O'Leary, Daniel 
+
+Tom, Erica 
+
+Ubungen, Lorenzo 
+
+35 
+
+

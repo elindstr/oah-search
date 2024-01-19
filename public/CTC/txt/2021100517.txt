@@ -1,0 +1,1404 @@
+BEFORE THE 
+COMMISSION ON TEACHER CREDENTIALING 
+STATE OF CALIFORNIA 
+
+In the Consolidated Matter of the Accusation and Statement 
+
+of Issues Against: 
+
+THOMAS GUTIERREZ, Respondent. 
+
+Agency Case No. 2-21933751 
+
+OAH Nos. 2021100517, 2021100518 
+
+PROPOSED DECISION 
+
+Administrative Law Judge Deena R. Ghaly, Office of Administrative Hearings, 
+
+State of California, heard these consolidated matters on May 3, 4, and 5, 2022, by 
+
+videoconference. 
+
+Deputy Attorney General Stephanie J. Lee represented Complainant Mary Vixie 
+
+Sandy, Ed.D., in her official capacity as the Executive Director of the Commission on 
+
+Teacher Credentialing (Commission). Attorney James Kosnett represented Respondent 
+
+Thomas Gutierrez, who was present throughout the hearing.
+
+Documents and testimony were received in evidence. The record was closed,
+
+and the matter submitted for decision on May 5, 2022. 
+
+Motion for Protective Order
+
+Complainant moved for a protective order to protect the identities of students 
+
+involved in the matter. A list of the students’ names is attached to the motion. 
+
+Complainant subsequently amended the motion to add an additional name to the list 
+
+of confidential names. Respondent did not oppose the original motion or its 
+
+amendment. 
+
+Complainant’s amended motion for a protective order is granted. The 
+
+individuals named in the list will be identified by their initials only in any transcript of 
+
+the hearing. The confidential names lists attached to Complainant’s motion for a 
+
+protective order and amended motion for a protective order are sealed. 
+
+Motion in Limine Rulings 
+
+Complainant moved to exclude three of Respondent’s exhibits, marked BBB, 
+
+CCC, and IIII for identification, and any reference to the information therein during the 
+
+hearing.
+
+Exhibit BBB is a summary of an incident central to Complainant’s allegations 
+
+prepared by Rene Barrera, then a school police officer who was present during the 
+
+incident. The summary includes a statement that two of the students were “girlfriends.” 
+
+The students in the summary are referenced by first name. In the motion, Complainant 
+
+objects to the summary and to any testimony by Mr. Barrera (he is erroneously 
+
+identified as Ms. Barrera in the motion) on grounds Exhibit BBB is hearsay, constitutes 
+
+“improper” administrative hearsay, lacks foundation, Mr. Barrera lacks personal 
+
+knowledge of the matters therein, its use may infringe privacy rights under federal and 
+
+state law, it constitutes improper character evidence, and its probative value is 
+
+outweighed by its prejudicial effect. 
+
+2
+
+Complainant makes similar objections to Exhibits CCC, a summary from another 
+
+school police officer, Sergeant Thomas Langston, who also testified at the hearing. 
+
+Sergeant Langston’s summary and part of his testimony referenced a statement he 
+
+heard by one of the alleged student victims to the effect that she intends to retaliate 
+
+against Respondent for cooperating with police to apprehend another student, her 
+
+boyfriend at the time. Exhibit IIII is a subpoena ordering Respondent to appear at the 
+
+boyfriend’s criminal trial. 
+
+Under the relaxed evidentiary rules governing administrative hearings, hearsay 
+
+may be admissible to the extent it explains or supplements direct evidence. (See Gov. 
+
+Code, § 11513, subd. (d).) Here, Mr. Barrera testified at the hearing, laying an 
+
+evidentiary foundation, including detailed information reflecting his knowledge of 
+
+circumstances as an eyewitness. His testimony is direct evidence and his summary, 
+
+prepared closer to the time of the incident, supplements the testimony. Both Mr. 
+
+Barrera’s summary and testimony make passing reference to a potentially romantic 
+
+relationship between the students, also noted by one of the students herself during 
+
+her testimony, as context for some of the developments Mr. Barrera witnessed. The 
+
+students’ privacy is protected by using first names or initials throughout the 
+
+proceeding and that protection is extended by a protective order. The concern about
+
+the prejudicial effect of this information is not warranted.
+
+The same analysis applies to Sergeant Langston’s summary and testimony, 
+
+including his recounting of a student’s statement. Again, to protect privacy, the 
+
+students referenced are identified only by first names or initials. Their specific 
+
+identities are not at issue but, because this case involves charges based on the reports 
+
+of one of them, evidence relevant to that student’s potential motive to be untruthful 
+
+or act in a retaliatory manner is relevant and more probative than prejudicial. 
+
+3
+
+ 
+Exhibit IIII is a subpoena for Respondent to appear at a criminal case for one of 
+
+the students, the boyfriend. As described above, this too is relevant to Respondent’s 
+
+defense regarding students’ motive to be untruthful or retaliatory and excluding such 
+
+evidence would imperil Respondent’s right to a fair hearing. 
+
+Under these circumstances, Complainant’s objections to Exhibits BBB, CCC, and 
+
+IIII and the related objection to exclude testimony or argument involving the subject 
+
+matters addressed in the exhibits are overruled. The exhibits are admitted and 
+
+testimony and argument related to them is also admitted.
+
+SUMMARY 
+
+Complainant seeks to discipline Respondent’s expired Clear Administrative 
+
+Services Credential, Clear Multiple Subject Teaching Credential and Administrative 
+
+Services Credential Certificate of Eligibility as well as to deny his application for a new 
+
+Clear Administrative Services Credential and Clear Multiple Subject Teaching 
+
+Credential. Complainant’s position is based on allegations he sexually harassed 
+
+students while serving as the assistant principal for operations at Jordan High School 
+
+in the Los Angeles Unified School District (LAUSD). Complainant contended
+
+Respondent’s actions constitute unprofessional conduct, immoral conduct, evident 
+
+unfitness for service, and moral turpitude.
+
+Complainant’s case rested primarily on the testimony of two students, RM and 
+
+LS. RM stated Respondent caused her distress and discomfort by, among other 
+
+actions, placing his hand on her knee and then on an exposed part of her thigh, and 
+
+grazing the top of her breast while placing his arm around her shoulder. LS stated 
+
+Respondent frequently bumped fists and side-hugged her and asked about the 
+
+placement of a sticker on her chest in an embarrassing and intrusive way. Other 
+
+4
+
+ 
+students’ reports, relayed through teachers to a school administrator and eventually to
+
+LAUSD and Commission investigators, involved descriptions of Respondent engaging 
+
+in sexualized behavior, including leering at them, making comments referencing sexual 
+
+matters, and generally making them uncomfortable. 
+
+Respondent denied all allegations of sexual or otherwise inappropriate 
+
+behavior. He also presented evidence corroborating his testimony disputing the 
+
+incidents of, or even opportunity for, the misconduct alleged and of his longstanding 
+
+reputation as a skilled and ethical educator. 
+
+RM and LS testified credibly, particularly about their subjective perceptions and 
+
+feelings after interactions with Respondent. RM, however, admitted the incidents as 
+
+she remembers them occurred during periods when she was upset for unrelated 
+
+reasons such that her perceptions could have been affected by these circumstances. 
+
+Moreover, Respondent too was credible in his version of events, which he persuasively 
+
+corroborated with other witnesses’ testimony and evidence. Complainant attempted to 
+
+corroborate the most serious allegations with administrative hearsay evidence, which 
+
+was less persuasive. 
+
+Complainant has the burden of proof to prove the Accusation’s allegations 
+
+against Respondent’s credentials and must do so by clear and convincing evidence. 
+
+Respondent bears the burden of proof to establish his fitness for the new credentials 
+
+he seeks and must do so by a preponderance of the evidence. Complainant failed to 
+
+meet her burden. The direct evidence presented by Complainant through RM and LS’s 
+
+testimony is credible but rebutted by at least equally credible countervailing evidence. 
+
+As such, it does not meet the clear and convincing standard. Therefore, no grounds for 
+
+disciplining Respondent’s existing credentials have been established and the charges 
+
+must be dismissed. 
+
+5
+
+In the absence of a finding of sexual misconduct and with affirmative evidence 
+
+of competence as an educator, Respondent met his burden to establish his 
+
+qualifications and suitability to be issued a new Clear Administrative Services 
+
+Credential and Clear Multiple Subject Teaching Credential. 
+
+FACTUAL FINDINGS
+
+Background and Jurisdictional Matters 
+
+1.
+
+During the 2017-2018 and 2018-2019 school years, Respondent was an 
+
+assistant principal at LAUSD’s Jordan High School (Jordan). In March 2019, reports that 
+
+Respondent engaged in sexual misconduct reached Jordan’s principal, Lucia Cerda. 
+
+Principal Cerda immediately removed Respondent from his assistant principal position 
+
+and reassigned him to LAUSD’s school operations office pending investigation. She 
+
+also reported the matter to LAUSD headquarters and the Los Angeles Police 
+
+Department (LAPD). 
+
+2.
+
+On June 20, 2019, LAUSD reclassified Respondent to Elementary Teacher 
+
+for the 2019-2020 school year, a demotion. On September 6, 2019, Respondent 
+
+resigned from LAUSD while its investigation was pending. He commenced a new 
+
+position as Assistant Principal of Ramona Middle School in the Bonita Unified School 
+
+District. While at Ramona Middle School, Respondent discovered he could not renew 
+
+his administrative and teaching credentials because LAUSD had referred the matter to 
+
+the Commission. The Commission is responsible for issuing and disciplining teacher 
+
+and administrator credentials for California public school educators and undertook its 
+
+own investigation. 
+
+/// 
+
+6
+
+3.
+
+On July 21, 2020, pursuant to its authority under Education Code sections 
+
+44242.5 and 44244 (further statutory cites are to the Education Code unless otherwise 
+
+designated), the Commission’s Committee of Credentials (Committee) found probable 
+
+cause to commence a disciplinary action against Respondent. Respondent timely 
+
+requested an administrative hearing to challenge the charges, triggering a 
+
+requirement pursuant to section 44242.5 to file an Accusation initiating this 
+
+adjudicatory hearing. 
+
+4. 
+
+On November 25, 2019, Respondent signed and submitted applications 
+
+to the Commission for a Clear Administrative Services Credential and a Clear Multiple 
+
+Subject Teaching Credential. Based on the Committee’s probable cause finding 
+
+regarding Respondent’s existing credentials, the Commission denied Respondent’s 
+
+applications. Respondent requested an administrative hearing to challenge the denials, 
+
+also triggering a requirement pursuant to section 44242.5 to file a Statement of Issues, 
+
+also signed and issued by Complainant.
+
+Respondent’s Credentials 
+
+5. 
+
+On April 22, 2015, the Commission issued a Clear Administrative Services 
+
+Credential to Respondent, which expired on November 1, 2019, and has not been 
+
+renewed. On October 27, 2004, the Commission issued a Clear Multiple Subject 
+
+Teaching Credential, which expired on November 1, 2019, and has not been renewed. 
+
+On January 2, 2008, the Commission issued an Administrative Services Credential, 
+
+Certificate of Eligibility, which does not expire. The credentials were in force and effect 
+
+at the times relevant to the charges brought in the Accusation. 
+
+6. 
+
+Respondent held a Preliminary Administrative Services Credential from 
+
+July 1, 2012 through August 1, 2017, a Preliminary Multiple Subject Teaching 
+
+7
+
+Credential from August 6, 2003 through September 1, 2008, an Emergency Long Term 
+
+Multiple Subject Teaching Permit from February 1, 2000 through March 1, 2001, and 
+
+an Emergency Substitute Teaching Permit for Prospective Teachers from January 8, 
+
+1999 through February 1, 2000. 
+
+Reports of Misconduct and the LAUSD Investigation
+
+7. 
+
+The chain of events leading to the instant matter began when Jordan 
+
+teacher Javier Rodriguez, reported to its principal, Lucia Cerda, that he overheard a 
+
+student, JC, state that she did not like Respondent because he was a “weirdo” and 
+
+Respondent had touched her knee and rubbed her leg. In the same conversation, 
+
+other female students stated Respondent made them uncomfortable. Student LS 
+
+stated Respondent hugged her frequently and “checked her out.” 
+
+8. 
+
+After Principal Cerda referred the matter to LAUSD, its Student Safety 
+
+Investigation Team (SSIT) began its review. SSIT investigators interviewed Mr. 
+
+Rodriguez. Mr. Rodriguez told SSIT investigators he overheard students calling 
+
+Respondent “creepy,” and stating he leered at them and called them pet names such 
+
+as baby girl and mama.
+
+9.
+
+SSIT investigators interviewed Principal Cerda as well, who reported 
+
+student LS had also told her Respondent side-hugged her frequently. The hugs always 
+
+occurred in open places and other students saw them. Another student, CC, during the 
+
+summer session between the 2017-2018 and 2018-2019 academic years, reported to 
+
+Principal Cerda Respondent took her out of class and told her she should look up the 
+
+meaning of a tattoo design she was wearing and asked her if she was a prostitute.
+
+10.
+
+In addition to Mr. Rodriguez and Principal Cerda, another staff member
+
+interviewed by SSIT investigators reported being told Respondent stood close to the
+
+8
+
+legs of a student, RM, and made her feel cornered and that, on another occasion,
+
+Respondent stood “Captain Morgan style” with one foot up on a bench where she sat. 
+
+11. 
+
+SSIT investigators also spoke directly to some of the students named as 
+
+potential victims by Jordan faculty. “The complaints by the female students involved 
+
+[Respondent] touching students inappropriately and staring at the chest area of 
+
+female students.” (Exh. 6, p. A121.) LR (names of students in the SSIT report were 
+
+redacted to first initial or first and last initial; LS is sometimes identified as L) reported 
+
+repeated unwanted hugs from Respondent and RM and JC reported Respondent had 
+
+put his hand on their inner thigh. 
+
+12. 
+
+The SSIT investigation noted the Los Angeles Police Department had 
+
+been notified by school personnel and conducted its own investigation and that the 
+
+matter was referred to the Los Angeles City Attorney’s Office. A subsequent letter from 
+
+the Los Angeles City Attorney’s Office stated the matter had been closes without 
+
+further action though the file would be kept open for one year. 
+
+13. 
+
+SSIT investigators stated in the report that they obtained documents 
+
+reflecting past disciplinary actions against Respondent. According to the report, 
+
+Respondent’s past disciplinary history consisted of the following: 
+
+[Respondent] was issued a Conference Memorandum dated 
+
+May 20, 2011 at Parmalee Avenue School, from Principal 
+
+Laurent Hernandez, regarding a complaint from a 
+
+paraprofessional alleging that he made inappropriate 
+
+comments to her regarding her marriage. The 
+
+Memorandum also noted that this was not the first incident 
+
+9
+
+where a Teacher Assistant complained about unprofessional 
+
+comments by {Respondent]. 
+
+[Respondent] was issued a Conference Memorandum dated 
+
+March 28, 2012 at Parmalee Avenue School from Principal 
+
+Laurent Hernandez, regarding a formal Title IX complaint by 
+
+a Teacher alleging that [Respondent] used his position as a 
+
+Coordinator to get information from a Teacher Assistant 
+
+about her. [Respondent] was also accused of spreading 
+
+rumors about the Teacher and another staff member having 
+
+a “feud” on Facebook. The Memorandum also directed 
+
+[Respondent to refraim] from intimidating or taking any 
+
+action considered retaliatory towards any student or others 
+
+filing a complaint. 
+
+An interoffice correspondence dated February 7, 2014 was 
+
+issued by Assistant Principal Jose Gonzalez regarding 
+
+insubordinate behavior by [Respondent] during 
+
+[Respondent’s] tenure as Interim Principal at John Muir 
+
+Middle School. [Respondent] alleged that [Respondent] 
+
+created a hostile and untrustworthy environment among 
+
+Administration and Certificated Staff. Mr. Gonzalez cited 
+
+{Respondent] with lack of confidentiality of staff meeting 
+
+information, defiance, and retaliation towards teachers in 
+
+disagreement with him. Fourteen other complaints from 
+
+staff were submitted against [Respondent] citing 
+
+unprofessional behavior. 
+
+10 
+
+A complaint was filed on February 11, 2019 by Andres 
+
+Fresquez, Special Education Teacher at Jordan High School 
+
+on behalf of LG, Adaptive Behavior Physical Education 
+
+Teacher and JB, Math Teacher. 
+
+(Exh. 6, pp. 130-131.) 
+
+No disciplinary memoranda or any other documentation of prior disciplinary actions 
+
+were introduced into the record. 
+
+Commission Investigation
+
+14. 
+
+The Commission undertook its own investigation. A substantial portion of 
+
+the Commission report addresses a sexual harassment complaint made by a part-time 
+
+teacher. Her complaint is not addressed by the operative pleadings in the instant 
+
+matter and is therefore not considered as a possible ground for discipline here.
+
+15. 
+
+In the Commission report, a student identified as LS or S reported 
+
+wearing breast cancer awareness stickers on her chest as part of a school health event 
+
+and that Respondent questioned her about why the stickers were placed there. 
+
+According to the report, when LS asked why he was looking at her body, he responded 
+
+“they are just there, how could I not look?” (Exh. 7, p. A138.) LS also told the 
+
+Commission investigators about the incident with CC, stating CC told her Respondent 
+
+had asked about a tattoo she had and whether she was a student. 
+
+16.
+
+As addendum to the Commission report, is a bulletin entitled “Code of 
+
+Conduct with Students – Distribution and Dissemination Requirement.” The bulletin 
+
+provides in pertinent part:
+
+///
+
+11 
+
+the most important responsibility of all District employees is 
+
+the safety of our students. While the District encourages the 
+
+cultivation of positive relationships with students, 
+
+employees and all individuals who work with or have 
+
+contact with students are reminded that they must be 
+
+mindful of the fine line drawn between being sensitive to 
+
+and supportive of students and a possible or perceived 
+
+breach of responsible, ethical behavior. Employees and all 
+
+individuals who work with or have contact with students are 
+
+expected to use good judgment and are cautioned to avoid 
+
+the situations indicated in the “Code of Conduct with 
+
+Students.” 
+
+(Exh. 7, p. A147-148.) 
+
+The rest of the bulletin is devoted to directions regarding distribution requirements of 
+
+the Code of Conduct with Students and to reporting obligations to which faculty and 
+
+staff are subject. The Code of Conduct with Students is not attached to the bulletin 
+
+and was not otherwise introduced into the record. 
+
+Student RM’s Testimony 
+
+17. 
+
+Student RM came to Jordan as a transfer student in her sophomore year, 
+
+2017-2018. Although she was active in school activities, particularly sports, RM was 
+
+unhappy during her time at Jordan. She candidly admitted to often leaving classes
+
+without permission and otherwise disobeying school rules.
+
+18. 
+
+RM knew Respondent as an assistant principal and director of discipline 
+
+during her time as a Jordan student. RM stated Respondent did several things which 
+
+12 
+
+made her feel uncomfortable and unsafe: he called her by pet names such as mija
+
+(Spanish for “my daughter”), baby girl, and mama and she heard Respondent call other 
+
+students by these names; during her sophomore year, on an occasion when RM 
+
+“ditched” class and sat at an outdoor lunch table, Respondent joined her, putting a 
+
+foot on the bench “Captain Morgan style,” while bending his knee toward her, causing 
+
+his groin area to come within inches of her head; on another occasion, Respondent 
+
+approached her as she was crying and began to rub her back then dropped his hand 
+
+lower to the top of her pants’ waist band; during a disciplinary meeting, when RM 
+
+lunged at another student and then walked out. Respondent followed her out and 
+
+grabbed her shoulder, then wrapped his arm around her shoulders, his hand grazing 
+
+the top of one of her breasts. A final incident involved Respondent approaching RM as 
+
+she once again skipped class, rubbing her knee and then moving his hand up her thigh 
+
+where it was exposed through her distressed jeans. 
+
+19. 
+
+RM reported Respondent’s actions to LAPD officers. The report was not 
+
+introduced at the hearing. 
+
+20. 
+
+RM also testified mat she reported Respondent’s actions to Principal 
+
+Cerda and a teacher, Ms. Yates. Neither Principal Cerda nor Ms. Yates were called to 
+
+testify at the hearing. 
+
+21. 
+
+RM stated Respondent’s actions caused her great distress though she 
+
+also noted she could not remember all details about what transpired between them 
+
+because she was often already extremely upset for unrelated reasons during their 
+
+encounters. Asked how long Respondent kept his hand on her thigh, she stated that 
+
+she was crying and too upset to notice. At the disciplinary meeting, she was also 
+
+extremely upset and ran out of the office before the meeting was over. 
+
+13 
+
+Student LS’s Testimony
+
+22.
+
+Student LS is currently 20 years old and a freshman in college with plans 
+
+to become a mathematics teacher. She had been a transfer student into Jordan, 
+
+entering as a sophomore in the 2016-2017 school year.
+
+23. 
+
+During the hearing, LS recounted an incident with Respondent when, as 
+
+part of the school’s leadership team, she was involved with a breast cancer awareness 
+
+event. As part of the event, stickers were distributed. LS wore hers on her chest. 
+
+Respondent asked her whether she did so to draw attention to her breasts. LS asked 
+
+why Respondent was looking at that part of her body and he replied by asking how 
+
+could he help it.
+
+24. 
+
+LS reported the incident to Ms. Yates, the Leadership Team adviser and 
+
+Principal Cerda. At the hearing, LS stated another student, CM had been with LS when 
+
+the sticker incident occurred. CM did not testify at the hearing. 
+
+Commission Expert 
+
+25. 
+
+Vince Carbino was called as Complainant’s expert witness. Dr. Carbino 
+
+holds an Associates of Science degree in law enforcement, a Bachelor’s degree in 
+
+public administration, a Master of Science degree in educational administration and 
+
+counseling, and a Doctor of Education degree. He worked in law enforcement before 
+
+becoming an educator and has been a school administrator for over 21 years. Dr. 
+
+Carbino has written articles and participated in professional presentation with a 
+
+particular focus on school safety, including adult sexual misconduct (ASM) prevention. 
+
+He is currently the principal of City of Angels School, an independent study and online 
+
+program specialty school. 
+
+14 
+
+26.
+
+Dr. Carbino stated ASM encompasses a wide range of behaviors 
+
+including “grooming,” meaning a gradual pattern of increasingly intimate contact 
+
+between an adult and child intended to test the child’s proclivity to remain silent 
+
+about the abuse. Additional forms of ASM are staring or leering and physical touch 
+
+that “push the boundaries” and cause students discomfort. According to Dr. Carbino, 
+
+ASM does not have to be overtly sexual. Special or excessive attention on a particular 
+
+student can qualify. 
+
+27. 
+
+According to Dr. Carbino, the United States Department of Education’s 
+
+publication, “A Training Guide for Administrators and Educators on Addressing Adult 
+
+Sexual Misconduct in the School Setting (ASM Training Guide),” is the definitive text 
+
+on the subject of ASM and is used in teacher and administrators’ periodic trainings to 
+
+teach them about this issue and their responsibilities as educators.
+
+28. 
+
+Dr. Carbino opined that Respondent’s conduct, as alleged, clearly 
+
+constituted ASM and grooming. Dr. Carbino believes Respondent was trying out 
+
+relatively innocuous touching such as patting a knee or placing his hand on a student’s 
+
+back, then gradually moving to more sexualized touching to see if the students 
+
+tolerated his increasing levels of intimacy. He also stated Respondent’s hugging of 
+
+students violated their boundaries and represented conduct generally to be avoided 
+
+unless a student initiated it. Regarding comments Respondent allegedly made to CC 
+
+about whether she was a prostitute and the location of the breast cancer awareness 
+
+stickers on LS’s body, Dr. Carbino stated these were attempts to normalize sexual 
+
+banter and to test the students’ defenses and level of tolerance. 
+
+29. 
+
+Dr. Carbino stated his opinions were based on a presumption of the 
+
+veracity of the allegations against Respondent. He also stated he is comfortable 
+
+15 
+
+believing them because, in his experience, students do not make up allegations of this 
+
+type. 
+
+ASM Training Guide 
+
+30. 
+
+Pertinent provisions of the ASM Training Guide are as follows: 
+
+Schools and school districts must demonstrate a strong 
+
+commitment to elimination of behavior known as [ASM] by 
+
+school personnel. Efforts to address ASM are strengthened 
+
+by policies and procedures that describe appropriate, 
+
+allowable behaviors, identify inappropriate and illegal 
+
+actions, and outline methods for addressing allegations of 
+
+ASM in schools. 
+
+It is important to note that ASM manifests in many ways, 
+
+and the range of behaviors that may be considered 
+
+inappropriate (from inappropriate to illegal) underlines the 
+
+importance of clear policies and procedures that document 
+
+the responsibilities of specific staff members for preventing 
+
+ASM or the appearance of ASM. In many cases, behaviors 
+
+that are considered ASM are subject to interpretation; 
+
+therefore, these “grey areas” should be clearly spelled out in 
+
+school and school district policies. 
+
+Clear policies on boundaries for interpersonal contact 
+
+protects both students and staff members. 
+
+(Exh. 13, pp. A171-172.) 
+
+16 
+
+Hugging is listed among the “grey areas” subject to interpretation and needing 
+
+clarification and direction by promulgating school policies. The publication does call 
+
+out hugging “if the child is not receptive, if the staff member is hugging too often or 
+
+for too long or if the contact is romanticized or sexually intimate” as examples of 
+
+inappropriate conduct. (
+
+. at p. A176.) 
+
+Respondent’s Evidence 
+
+31. 
+
+Respondent testified at the hearing, stating he had had a lifelong interest 
+
+in being an educator. His first administrative job was at John Muir Middle School in 
+
+Pasadena. There he became versed in the alternate disciplinary system known as 
+
+“restorative justice,” which stresses respectful interactions and mediation-influenced 
+
+approaches to diffuse and resolve disputes and misconduct. He continued practicing 
+
+its methods at Jordan where his duties included disciplining both students and 
+
+teachers. 
+
+32. 
+
+Respondent maintained he was equally aware of the need to approach 
+
+his duties with care and his own safety in mind. This is because Respondent’s duties at 
+
+Jordan and other schools included direct involvement with dispensing discipline, 
+
+sometimes even reporting to and cooperating with law enforcement and he believed 
+
+this sometimes prompted subjects to retaliate against him. To protect himself, he
+
+never met with students alone, never closed his office door when meeting with 
+
+students there and never touched them except for giving them side-hugs, a physical 
+
+display of comfort and support he felt could not be interpreted as sexual or overly 
+
+familiar.
+
+///
+
+///
+
+17 
+
+33.
+
+Respondent further stated he generally knows students’ names and if he 
+
+does not know, he refers to them as “young man” or “young lady.” He denied calling 
+
+any students baby girl, mama or any similar terms. 
+
+34. 
+
+Regarding the specific allegations, Respondent adamantly denied leering 
+
+or staring at students, touching RM’s knee or leg or rubbing or touching any part of 
+
+her back, or standing “Captain Morgan style” in front of her. 
+
+35. 
+
+Respondent has his own recollections of some of the specific incidents at 
+
+issue. He recollects LS was one of the students he side-hugged, reiterating he does 
+
+this with many students, both boys and girls. Respondent submitted pictures of 
+
+himself with students, shoulders touching and Respondent’s arm around to the 
+
+student’s far shoulder. (See Exh. MMMM.) Respondent also recalled commenting on 
+
+the breast cancer stickers LS wore, but denied commenting on the stickers’ placement 
+
+on LS’s body. He recalls asking LS where he could get his own sticker because he 
+
+wanted to also show his support for the event. He recalled questioning CC about 
+
+whether she understood the implications of the tattoo she had, a money bag with 
+
+dollar bills seeming to fly out of it, because he knew it to be associated with sex 
+
+trafficking and believed she may not have known that. For her own protection, he 
+
+wanted her to look up its meaning and consider whether she should display it on her 
+
+person. 
+
+36. 
+
+Respondent did not have an independent recollection of particular 
+
+instances involving speaking to RM as she sat at the lunch tables instead of going to 
+
+class. He noted, however, this was not an uncommon occurrence at Jordan and it was 
+
+his practice and his duty to approach students who failed to report to class. Consistent 
+
+with his practices in other circumstances, though, he called for assistance from 
+
+members of the security team who would join him while he addressed the situation. 
+
+18 
+
+37.
+
+Respondent recalled the disciplinary meeting with RM. As Respondent 
+
+described it, he convened the meeting to address a conflict RM had with another 
+
+student, V, with whom RM was in a dating relationship. RM had seen V with another 
+
+student, G. RM understood V’s interactions with G were also romantic and became 
+
+angry and had a loud confrontation with V. Respondent, to diffuse the situation, had 
+
+all the students involved come in his office along with members of his safety team. 
+
+There he attempted to hold a “harm circle,” a restorative justice exercise intended to 
+
+help resolve such issues. The atmosphere only grew more heated, however, and at 
+
+some point, RM lunged toward V. Respondent physically restrained RM by the 
+
+shoulders but denied otherwise touching her. 
+
+38. 
+
+Because Respondent was also responsible for disciplining teachers, he 
+
+maintained that, despite his best efforts to approach his duties with equanimity and 
+
+fairness, they too could become quite angry with him. Respondent recounted he had 
+
+disciplined Teacher JR at least twice, once for wearing an inappropriate costume to 
+
+school and once because he resisted allowing a student who had been disruptive back 
+
+into the classroom. 
+
+39. 
+
+Respondent introduced the testimony of Inga Garrett, Rene Isidro 
+
+Barrera, and Thomas Langston, all members of Respondent’s security team at Jordan. 
+
+Ms. Garrett has been a security guard at Jordan for almost 35 years. Mr. Barrera 
+
+recently resigned from the Orange County Sheriff’s Department. Before that he was 
+
+with the LAUSD police department, assigned to Jordan and worked with Respondent 
+
+there. Thomas Langston is an LAUSD police sergeant assigned to Jordan where he 
+
+worked with Respondent from fall 2018 to winter 2019. 
+
+40. 
+
+The three witnesses corroborated Respondent’s testimony regarding his 
+
+practice of conducting student interviews with security team members present. Ms. 
+
+19 
+
+Garrett stated it is her practice to continually circle the campus and routinely helped 
+
+Respondent retrieve wayward students. Sergeant Langston noted there are some 42 
+
+security cameras trained on many areas of the campus, including the lunch tables. In a 
+
+letter submitted at the hearing, Jordan Plant Manager Clarence Lucky stated he met 
+
+with Respondent in Respondent’s office on a daily basis and, during these meetings, 
+
+students routinely arrived. Respondent asked Mr. Lucky to stay in the office while he 
+
+spoke to the students. (See Exh. NN.) 
+
+41.  Mr. Barrera recalled being present for the disciplinary meeting involving 
+
+RM, V, and G, including that RM lunged toward V during the meeting. Speaking of 
+
+Respondent and himself, Mr. Barrera stated “We got between her and the others.” 
+
+42.  Mr. Barrera and Sergeant Langford corroborated Respondent’s testimony 
+
+regarding the retaliatory dynamic he experienced as the school’s chief disciplinarian. 
+
+Mr. Barrera stated RM was very close to V and blamed Respondent when, as a result of 
+
+the altercation between them, V’s mother removed V from Jordan. Sergeant Langston 
+
+was present when Respondent assisted police in apprehending a student in the course 
+
+of a criminal investigation. That student was known to be JC’s boyfriend and Sergeant 
+
+Langston heard her call out “I’m going to get you, Mr. G.” as police took him away. 
+
+Respondent was subsequently subpoenaed to testify at his trial. (Exh. IIII.) 
+
+43. 
+
+Respondent presented extensive character and reputational evidence. His 
+
+former supervisor at John Muir Middle School, Dr. Nisha Dugal, testified about his 
+
+professionalism and capacity to handle students effectively and respectfully. Parent 
+
+Educator Coach Cynthia Iglesias, also a former supervisor of Respondent’s, testified 
+
+about Respondent’s talent as an educator and commitment to the profession. Both 
+
+witnesses stated they were familiar with the charges against Respondent and both 
+
+20 
+
+stated the information did not change their position. Ms. Iglesias added she would not 
+
+hesitate to leave her own daughter in the classroom with him. 
+
+44. 
+
+Respondent presented 46 letters of support. Of those, 21 did not indicate 
+
+knowledge of the charges and therefore were given little weight. Three others came 
+
+from direct family members, Respondent’s wife and two of his children. Though 
+
+apparently sincere in their support, these writers’ close relationship to Respondent 
+
+necessarily diminish their objectivity and for that reason, the letters were discounted.
+
+45. 
+
+The remaining 22 letters, from all aspects of Respondent’s professional 
+
+and personal life, reflect knowledge of the pending charges and nonetheless 
+
+demonstrate a nearly uniform pattern of support and unreserved belief in 
+
+Respondent’s integrity and commitment to his profession.
+
+Analysis 
+
+46. 
+
+The charges against Respondent, particularly when considered in the 
+
+aggregate, are extremely serious and disturbing. The evidence presented, however, 
+
+definitively established only a subset of the allegations. Respondent admits to certain 
+
+of the allegations, touching RM, though in the context of preventing her from 
+
+potentially injuring another student, side-hugging LS and speaking to her about 
+
+stickers related to a breast cancer awareness event, and asking whether CC understood 
+
+the implications of her tattoo. In the students’ version, these events and others to 
+
+which Respondent does not admit, were infused with sexual intention and more 
+
+pointed. In Respondent’s version, the events were routine arms-length encounters and 
+
+part of a work protocol intentionally designed to avoid impropriety. He expressly 
+
+denies sexual touching and commentary. The students are credible but their views, 
+
+perhaps tainted by the emotions of the situation, leave room for interpretation.
+
+21 
+
+47.
+
+Complainant relies on the direct evidence presented by the testifying 
+
+witnesses and reports documented in out-of-court statements in investigation reports. 
+
+This hearsay evidence, especially in contrast with the direct evidence corroborating 
+
+some of Respondent’s version of key incidents (such as the disciplinary meeting 
+
+involving RM), potential retaliatory motives behind some of the reporting Complainant 
+
+has relied upon, and the protocol Respondent employed to avoid being alone with 
+
+students, is insufficient to establish the disputed facts, which are by far the most 
+
+serious of the allegations. And, as noted in the Legal Conclusions below, the 
+
+undisputed facts generally do not constitute grounds for discipline as alleged in the 
+
+Accusation or grounds to deny Respondent’s applications for new credentials as set 
+
+out in the Statement of Issues. 
+
+LEGAL CONCLUSIONS 
+
+Jurisdiction 
+
+1. 
+
+Pursuant to Education Code section 44440, subdivision (b) (subsequent 
+
+statutory cites are to the Education Code), suspension or expiration of Commission-
+
+issued credential does not deprive the Commission of jurisdiction to impose discipline, 
+
+including suspending or revoking the credential or issuing a letter of public reproval or 
+
+private admonition to the credential holder.
+
+2.
+
+Section 44421 authorizes the Commission to take adverse action against 
+
+an individual’s teaching credential for, among many specified causes, immoral or 
+
+unprofessional conduct, evident unfitness for service, or any cause which would 
+
+warrant denial of an application for a credential. Section 44345, subdivision (e), allows 
+
+22 
+
+the Commission to deny an application by any applicant who has committed an act 
+
+involving moral turpitude. 
+
+Burden and Standard of Proof 
+
+3. 
+
+Complainant has the burden of establishing by clear and convincing 
+
+evidence to a reasonable certainty cause for adverse action against Respondent’s 
+
+credential and certificate, because they are considered professional licenses. (See 
+
+1038-1039; 
+
+ (1985) 164 Cal.App.3d 1035, 
+
+ (1982) 135 Cal.App.3d 853, 
+
+855–856.) Clear and convincing evidence is “of such convincing force that it 
+
+demonstrates, in contrast to the opposing evidence, a high probability of the truth of 
+
+the fact[s] for which it is offered as proof.” (
+
+(1997) 52 Cal.App.4th 820, 847.) 
+
+Causes for Adverse Action (Accusation) 
+
+UNPROFESSIONAL CONDUCT 
+
+4. 
+
+Under section 44421, a licensee may subject his credentials to 
+
+disciplinary actions for committing acts constituting unprofessional conduct. 
+
+Unprofessional conduct in the teaching profession is defined as conduct violating the 
+
+rules or ethical code of the profession or conduct unbecoming of a member of the 
+
+profession in good standing. (
+
+ (1953) 41 Cal.2d 
+
+546, 553, overruled on other grounds by 
+
+ (1972) 6 Cal.3d 575.) 
+
+5. 
+
+In this case, it is unclear what rules of the profession, if any, are at issue in 
+
+the Commission’s charges. There are references to a code of conduct in the bulletin 
+
+attached to the Commission’s report but the bulletin is about its distribution; the code 
+
+23 
+
+ 
+itself was never produced. (Factual Finding 16.) Indeed, no applicable rule or code was 
+
+presented and therefore no finding of its violation can be made. Alternatively, the 
+
+allegations, considered as a whole, can be reasonably determined to constitute 
+
+‘conduct unbecoming,’ in a common sense understanding of the phrase. Most of the 
+
+allegations, however, were not proven. (Factual Findings 46 and 47.) Based on the 
+
+direct evidence presented coupled with Respondent’s admissions, clear and convincing 
+
+evidence established Respondent physically restrained RM during a disciplinary 
+
+meeting, side-hugged LS, and spoke to CC about her tattoo and LS about breast 
+
+cancer awareness stickers, though the content of the conversations in the latter two is 
+
+in dispute. These occurrences alone likely fall into the “gray zone” of conduct 
+
+described in ASM Training Guide. The ASM Training Guide recognizes such gray zone 
+
+behavior must be addressed through thoughtful policies promulgated in advance so 
+
+educators have clear foreknowledge of acceptable behavior. (Factual Finding 30.) Here, 
+
+Complainant has not demonstrated such policies exist, much less that Respondent 
+
+violated them when he engaged in the undisputed conduct at issue. 
+
+6. 
+
+Regarding other aspects of the allegations – touching RM’s and other 
+
+students’ thighs, calling them by pet names, leering at them, asking whether CC is a 
+
+prostitute, noting the placement of the breast awareness sticker on LS’s chest – these, 
+
+no doubt, constitute conduct unbecoming but have not been established. (Factual 
+
+Findings 45 and 46.) 
+
+IMMORAL CONDUCT 
+
+7. 
+
+Under section 44421, a licensee may subject his credentials to 
+
+disciplinary action for committing acts of immoral conduct. Immoral conduct has been 
+
+defined generally as “that which is hostile to the welfare of the general public and 
+
+contrary to good morals. [It] includes conduct inconsistent with rectitude, or indicative 
+
+24 
+
+of corruption, indecency, depravity, dissoluteness; or as willful, flagrant, or shameless 
+
+conduct showing moral indifference to the opinions of respectable members of the 
+
+community, and as an inconsiderate attitude toward good order and the public 
+
+welfare.” (
+
+.) The conduct in question does not have to be related 
+
+to a sexual offense. (
+
+.) 
+
+addressed disciplining a teacher’s credentials for 
+
+falsifying attendance records to secure employment.
+
+8. 
+
+Given Complainant did not prove the majority of the allegations, and in 
+
+particular, did not prove the overall pattern of inappropriate behavior, the record does 
+
+not support a finding that Respondent engaged in immoral conduct as it is defined in 
+
+the context of teacher and school administrator practice. 
+
+EVIDENT UNFITNESS FOR SERVICE 
+
+9. 
+
+Under section 44421, a licensee may subject his credential to disciplinary 
+
+action by demonstrating evident unfitness for service. “Evident unfitness for service” 
+
+means clearly not fit, not adapted to or unsuitable for teaching, ordinarily by reason of 
+
+temperamental defects or inadequacies. (
+
+unfitness for service’ connotes a fixed character trait, presumably not remediable 
+
+merely on receipt of notice that one’s conduct fails to meet the expectations of the 
+
+(1992) 2 Cal.App.4th 1429, 1444.) “‘Evident 
+
+employing school district.” (
+
+.)
+
+10. 
+
+Again, here, the limited conduct proven under applicable standards does 
+
+not constitute temperamental inadequacies. Respondent’s affirmative reputational 
+
+evidence establishes the contrary, namely temperament, skills, and work policies and 
+
+procedures consistent with the practices of competent educators. 
+
+25 
+
+MORAL TURPITUDE
+
+11.
+
+Under section 44421 and 44345, subdivision (c), a licensee may subject 
+
+his credentials to disciplinary action for committing acts of moral turpitude. Under 
+
+section 44345, subdivision (e), license applications may be denied for committing acts 
+
+of moral turpitude. “Moral turpitude” has been defined as “everything done contrary 
+
+to justice, honesty, modesty or good morals.” (
+
+ (1979) 89 Cal.App.3d 30, 36.) As with the allegations of immoral conduct, nothing 
+
+in the record supports such a finding. 
+
+ORDER 
+
+1. 
+
+Complainant’s charges of unprofessional conduct, immoral conduct, 
+
+unfitness for service, and moral turpitude against Respondent Thomas Gutierrez are 
+
+dismissed as insufficient grounds to discipline his expired Clear Administrative Services 
+
+Credential and Clear Multiple Subject Teaching Credential. 
+
+2.
+
+Respondent Thomas Gutierrez’s applications for a Clear Administrative 
+
+Services Credential and for a Clear Multiple Subject Teaching Credential are granted.
+
+DATE:
+
+DEENA R. GHALY
+
+Administrative Law Judge
+
+Office of Administrative Hearing
+
+26 
+
+

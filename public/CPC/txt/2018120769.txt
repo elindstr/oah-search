@@ -1,0 +1,1231 @@
+BEFORE  A 
+COMMISSION  ON  PROFESSIONAL  COMPETENCE 
+FOR  THE  SAN  JACINTO  UNIFIED  SCHOOL  DISTRICT 
+
+In  the  Matter  of  the  Dismissal  of: 
+
+JAMES  RIZOR, 
+
+OAH  No.  2018120769 
+
+A  Permanent  Certificated  Employee, 
+
+    
+
+Respondent. 
+
+DECISION 
+
+On  March  18,  19,  and  20,  2019,  a  Commission  on  Professional  Competence 
+
+(Commission)  heard  this  matter  in  San  Jacinto,  California.  The  Commission  consisted  of  the 
+following  members:  Kimberly  J.  Belvedere,  Administrative  Law  Judge,  Office  of 
+Administrative  Hearings;  Jessica  Holbrook,  Chino  Valley  Unified  School  District;  and 
+Sharill  Cortez,  Perris  Elementary  School  District. 
+
+Mark  W.  Thompson,  Attorney  at  Law  with  the  law  firm  of  Atkinson,  Andelson,  Loya, 
+
+Ruud  &  Romo,  APC,  represented  complainant,  Matt  Hixson,  Assistant  Superintendent, 
+Personnel  Services,  San  Jacinto  Unified  School  District  (SJUSD). 
+
+Carlos  Perez,  Attorney  at  Law  with  the  Law  Office  of  Carlos  R.  Perez,  APC, 
+
+represented  respondent,  James  Rizor,  who  was  present  throughout  the  hearing. 
+
+The  record  was  held  open  to  permit  the  committee  to  deliberate  and  reach  a  decision. 
+
+The  record  was  closed  and  the  matter  submitted  on  March  29,  2019. 
+
+ISSUE 
+
+Did  respondent’s  conduct  concerning  his  interactions  with  students  in  the  classroom 
+
+during  the  first  few  days  of  the  2018-2019  school  year  warrant  his  dismissal  based  on 
+unprofessional  conduct;  evident  unfitness  for  service;  persistent  violation  of  or  refusal  to 
+obey  the  school  laws  of  the  state  or  reasonable  regulations  prescribed  by  the  government  of 
+the  public  schools  by  the  State  Board  of  Education  or  by  the  governing  board  of  the  school 
+district  employing  him  or  her;  or  willful  refusal  to  perform  regular  assignments  without 
+reasonable  cause,  as  prescribed  by  reasonable  rules  and  regulations  of  the  employing  school 
+district?
+
+PROTECTIVE  AND  SEALING  ORDER 
+
+The  names  of  the  minor  students  referred  to  in  this  matter  are  subject  to  a  protective 
+
+order.  Any  document  received  as  evidence  in  this  matter  that  contains  the  name  of  the  minor 
+student  shall  be  redacted  before  any  disclosure  to  the  public.  No  court  reporter  or 
+transcription  service  shall  transcribe  the  name  of  any  minor  student,  but  shall  instead  refer  to 
+the  student  by  their  initials  E.P.,  C.B.,  D.E.,  and  C.C.  Exhibit  1A,  which  contains  the  actual 
+names  of  the  minor  students  and  their  corresponding  initials,  1s  ordered  sealed.  A  reviewing 
+court,  parties  to  this  matter,  their  attorneys,  and  a  government  agency  decision  maker  or 
+designee,  may  review  Exhibit  1A  subject  to  this  order,  provided  that  the  documents  are 
+protected  from  release  to  the  public. 
+
+SUMMARY 
+
+Although  several  of  the  factual  allegations  were  not  established  and  the  cause  for 
+
+dismissal  regarding  willful  refusal  to  perform  regular  assignments  was  not  established,  all 
+other  factual  allegations  and  causes  for  dismissal  were  established  warranting  respondent’s 
+dismissal. 
+
+FACTUAL  FINDINGS 
+
+Procedural  Background 
+
+PRE-HEARING  MOTIONS 
+
+1. 
+
+Prior  to  the  hearing,  both  parties  filed  motions  in  limine  seeking  to  exclude 
+
+evidence.  Many  of  the  issues  dealt  with  in  the  motions  were  already  addressed  in  an  October 
+12,  2019,  Order  by  ALJ  Mary  Agnes  Matyszsewski.  Those  issues  not  resolved  were  as 
+follows:  respondent  wished  to  ensure  that  allegations  or  instances  of  misconduct  more  than 
+four  years  old  would  be  limited  to  the  purposes  stated  in  ALJ  Matyszewski’s  Order; 
+complainant  moved  to  strike/exclude  virtually  all  of  respondent’s  evidence  and  witnesses  due 
+to  untimely  disclosure  under  the  statutory  deadlines  and  discovery  cutoff  deadlines  set  forth 
+in  the  Pre-Hearing  Conference  Order. 
+
+Respondent’s  motion  was  granted,  in  part.  Complainant  is  permitted  to  raise  facts 
+
+and  evidence  concerning  allegations  of  misconduct  that  occurred  over  four  years  before 
+service  of  the  Statement  of  Charges  provided  that  the  allegations  and/or  evidence  are  relevant 
+to  the  Statement  of  Charges.  In  other  words,  given  that  there  is  an  allegation  of  evident 
+unfitness  for  service,  persistent  failure,  and  willful  refusal  to  perform  assignments,  whether 
+respondent  received  warnings  or  other  counseling  or  discipline  in  the  past  is  relevant  to  this 
+case.  However,  no  prior  misconduct,  allegations  of  misconduct,  or  discipline  imposed  that  1s 
+over  four  years  old  is  permitted  to  be  used  at  present  as  a  sole  basis  to  dismiss  respondent. 
+Respondent  was  advised  to  make  the  necessary  objections  during  the  hearing  if  he  believed
+
+information  being  introduced  or  elicited  through  testimony  was  being  used  for  an  improper 
+purpose. 
+
+1 
+
+Complainant’s  motion  with  respect  to  exclude  more  than  three  character  witnesses 
+
+was  already  granted  by  ALJ  Matyszewski  prior  to  hearing,  and  respondent  represented  that 
+he  did  not  intend  to  call  more  than  three  character  witnesses.  Complainant’s  motion  with 
+respect  to  exclusion  of  evidence  was  denied.  Although  some  of  respondent’s  evidence  was, 
+in  fact,  submitted  after  the  statutory  discovery  cutoff  and  the  discovery  cutoff  date  set  in  the 
+pre-hearing  conference  order,  there  was  no  evidence  that  complainant  was  unduly  burdened 
+or  prejudiced  by  the  late  disclosure.” 
+
+JURISDICTIONAL  MATTERS 
+
+2. 
+(SJHS). 
+
+Respondent  is  an  English  teacher  currently  assigned  to  San  Jacinto  High  School 
+
+3, 
+
+On  October  8,  2018,  complainant  sent  a  document  entitled,  “Notice  of  Proposed 
+
+Recommendation  for  Suspension  Without  Pay  and  Dismissal,  and  Statement  of  Charges 
+(Statement  of  Charges)”  to  respondent  notifying  respondent  of  the  district’s  intention  to 
+recommend  to  the  governing  board  of  the  district  that  respondent  be  suspended  without  pay 
+pending  his  dismissal  from  employment. 
+
+4. 
+
+Respondent  was  given  the  opportunity  to  discuss  the  matter  at  a  Skelly  meeting 
+
+on  October  19,  2018,  if  desired,  where  he  could  be  represented  by  a  representative  of  his  choice. 
+Respondent  did  not  elect  to  attend  the  meeting.° 
+
+  
+
+'  ALJ  Matyszewski’s  Order  stated  that  the  Commission  shall  not  make  any  decision 
+
+relating  to  dismissal  based  on  any  matters  occurring  more  than  four  years  before  the  filing  of 
+the  notice  except  as  follows:  (1)  as  allowed  pursuant  to  Education  Code  section  44944, 
+subdivisions  (b)(2)(A)(1)  and  (b)(2)(B);  (2)  as  required  by  Education  Code  section  44938  for 
+complainant  to  proceed  on  a  charge  of  unprofessional  conduct;  (3)  for  purposes  of 
+determining  whether  respondent  persistently  violated  district  policies  and  rules;  (4)  for 
+purposes  of  determining  whether  respondent  willfully  refused  to  perform  regular 
+assignments;  (5)  if  equitable  principles  apply;  or  (6)  to  impeach  any  witness. 
+
+*  There  were  some  photographs  and  documents  that  complainant  did  not  see  prior  to 
+
+the  hearing,  however,  it  was  established  that  these  photographs  and  documents  were 
+provided  to  complainant  by  an  e-mail  attachment.  Complainant  was  unable  to  open  the 
+attachments  or  view  them,  however,  so  complainant  was  unaware  of  what  the  e-mail 
+attachments  contained.  Complainant’s  objection  was  noted  and  counsel  was  given  time  to 
+review  the  photographs  and  documents  prior  to  hearing. 
+
+>In  Skelly  v.  State  Personnel  Board  (1975)  15  Cal.3d  194,  215,  the  California 
+Supreme  Court  held  that  in  order  to  satisfy  due  process,  an  agency  considering  disciplinary 
+action  against  a  public  employee  must  accord  the  employee  certain  “pre-removal
+
+6. 
+
+7. 
+
+5. 
+
+On  November  13,  2018,  complainant  presented  the  Statement  of  Charges  to  the 
+
+board.  The  board  approved  the  recommendation  to  suspend  respondent  without  pay  pending 
+his  dismissal.  Respondent  was  given  30  days  to  request  a  hearing. 
+
+On  November  28,  2018,  respondent  timely  requested  a  hearing  on  both  his 
+
+suspension  without  pay  and  dismissal. 
+
+The  Statement  of  Charges  alleges  that  respondent  engaged  in  conduct  that  was 
+
+unprofessional  conduct;  evident  unfitness  for  service;  persistent  violation  of  or  refusal  to  obey 
+the  school  laws  of  the  state  or  reasonable  regulations  prescribed  by  the  government  of  the 
+public  schools  by  the  State  Board  of  Education  or  by  the  governing  board  of  the  school 
+district  employing  him  or  her;  and  willful  refusal  to  perform  regular  assignments  without 
+reasonable  cause,  as  prescribed  by  reasonable  rules  and  regulations  of  the  employing  school 
+district. 
+
+The  conduct  underlying  these  charges  is  summarized  as  follows: 
+
+Paragraph  5  of  the  Statement  of  Charges:  In  or  about  August  2018,  respondent  regularly 
+used  the  words  “fuck,”  “shit,”  “ass,”  “asshole,”  and  “bullshit”  while  in  class  leading  instruction, 
+none  of  which  related  to  the  lesson  plan. 
+
+Paragraph  6  of  the  Statement  of  Charges:  In  or  about  August  2018,  during  instruction 
+
+and  in  front  of  his  class,  respondent  used  inappropriate  language  related  to  sexual  behavior, 
+genitalia,  and  bodily  functions.  Specifically,  respondent  a)  made  a  joking  reference  about  a 
+female’s  menstrual  cycle;  b)  told  student  Z.M.  that  he  has  “no  balls”;  c)  told  his  students  that 
+some  of  them  were  here  only  because  their  parents  “bought  a  bottle  of  wine”  and  d)  told  an 
+African-American  student  that  he  should  check  his  DNA  because  of  respondent’s  sexual 
+history,  there  might  be  a  genetic  relationship. 
+
+Paragraph  7  of  the  Statement  of  Charges:  On  several  occasions  in  August  2018, 
+
+respondent  wasted  student  instructional  time  for  inappropriate  purposes  unrelated  to  any 
+approved  lesson  plan,  as  follows:  a)  demonstrated  to  students  how  to  do  “water  shots’;  b) 
+described  in  detail  the  process  of  how  students  can  drop-out  of  school;  c)  told  students  that  the 
+school  practices  social  promotion  in  lieu  of  adequately  preparing  students  for  the  future. 
+
+Paragraph  8  of  the  Statement  of  Charges:  In  or  about  August  2018,  respondent  made 
+
+several  female  students  uncomfortable  due  to  unwanted  touching.  Specifically,  several  students 
+reported  respondent  inappropriately  touched  one  or  more  female  students’  shoulders,  hair,  and 
+arms. 
+
+  
+
+safeguards,”  including  “notice  of  the  proposed  action,  the  reasons  therefor,  a  copy  of  the 
+charges  and  materials  upon  which  the  action  is  based,  and  the  right  to  respond,  either  orally 
+or  in  writing,  to  the  authority  initially  imposing  discipline.”  The  Supreme  Court’s  directive 
+gave  rise  to  an  administrative  procedure  known  as  a  Skelly  hearing,  in  which  an  employee 
+has  the  opportunity  to  respond  to  the  charges  upon  which  the  proposed  discipline  1s  based.
+
+Relevant  Prior  Employment  History 
+
+8. 
+
+On  December  11,  2007,  respondent  received  a  letter  of  reprimand  and  notice  of 
+unprofessional  conduct  for  continued  use  of  class  time  to  discuss  inappropriate  topics  that  were 
+not  germane  to  the  lecture.  Specifically,  he  was  reprimanded  for  discussing  suicide  and  drug 
+use.  Respondent  was  warned  to  conduct  himself  in  an  appropriate  and  professional  manner  at 
+all  times  and  focus  classroom  discussion  on  topics  that  were  directly  or  indirectly  linked  to  the 
+topic  of  instruction. 
+
+The  specific  incident  connected  to  this  prior  history  occurred  on  October  4,  2007,  while 
+
+respondent  was  teaching  Language  Arts.  During  that  class,  respondent  made  comments 
+concerning  what  is  the  best  method  for  committing  suicide,  such  as  a  heroin  overdose,  and  also 
+stated  if  he  were  to  commit  suicide  he  would  do  so  on  a  boat  rigged  with  explosives.  None  of 
+these  comments  were  related  to  the  planned  lesson  for  the  day. 
+
+9. 
+
+On  December  6,  2010,  respondent  received  a  six-day  suspension  for  using 
+
+course,  obscene,  and/or  sexually  vulgar  language,  including  making  references  to  masturbation 
+and  male  genitalia  while  leading  classroom  instruction;  and  making  sexualized  comments. 
+Specifically,  respondent  was  alleged  to  have  called  students  “bitches”  during  class;  making 
+inappropriate,  condescending,  and  demoralizing  statements  to  students  about  graduation 
+requirements  (i.e.  that  they  were  in  the  class  because  they  were  low  performers);  telling  students 
+they  are  headed  to  the  prison  system;  telling  female  students  that  teenage  boys  just  want  to  get 
+them  pregnant;  telling  students  that  girls  sit  in  class  and  put  on  makeup  all  day  and  boys  play 
+with  themselves  all  day;  telling  boys  if  they  ever  got  his  daughter  pregnant  he  would  “cut  their 
+dicks  off’;  and  telling  students  —  while  reading  a  passage  written  by  Benjamin  Franklin  —  that 
+Benjamin  Franklin  “liked  to  fuck.” 
+
+Because  respondent  had  already  been  suspended  in  the  past,  the  district  offered 
+respondent  an  opportunity  to  reform  his  conduct  and  placed  him  on  a  workplace  assistance  plan, 
+commencing  April  27,  2011.  Respondent  was  given  directives,  as  follows:  conduct  himself  in 
+an  appropriate  and  professional  manner  at  all  times;  cease  from  using  inappropriate  language, 
+including  the  words  fuck,  dick,  bitch,  or  any  other  swear  words;  cease  and  desist  from  any 
+conduct  which  might  be  construed  as  humiliating,  belittling,  insulting,  and  or  demeaning;  cease 
+and  desist  from  any  and  all  inappropriate  communications  and  avoid  overly  personal 
+communications;  focus  on  the  topic  at  hand  during  instructional  time;  avoid  any  situation  that 
+may  cause  any  student  to  feel  uncomfortable;  immediately  assume  the  proper  role  of  a  teacher 
+and  discontinue  any  teaching  style  in  which  you  have  assumed  the  role  of  friend,  buddy,  peer, 
+or  other  such  relationship  with  students;  and  attend  and  participate  in  any  harassment, 
+sensitivity,  or  other  training  suggested  by  the  district. 
+
+10. 
+
+On  September  23,  2013,  respondent  received  a  letter  of  reprimand  and  notice  of 
+
+unprofessional  conduct  for  conduct  between  August  2013  and  September  2013.  Specifically, 
+respondent  was  alleged  to  have  made  comments  rife  with  sexual  innuendo  and  allusions  to  the 
+female  anatomy  in  class;  insulted  students  by  referring  to  a  student  as  a  male  anatomical  body 
+part;  and  inappropriately  made  physical  contact  with  a  female  student.
+
+According  to  the  letter  of  reprimand,  respondent  told  a  student  to  “stop  moaning  because 
+
+the  student  was  “not  experiencing  great  pleasure  or  pain”;  told  students  a  story  about  when  he 
+lived  in  Germany,  where  he  disrobed  in  front  of  an  attractive  woman;  told  students  he  thinks  of 
+female  breasts  when  he  looks  at  the  domes  of  the  San  Onofre  power  plant;  told  a  male  student 
+to  stop  being  a  dick;  and  hugged  a  10"  grader  to  greet  her  and  kissed  her  on  the  top  of  the  head. 
+
+Respondent  was  given  directives  as  follows:  conduct  yourself  in  an  appropriate  and 
+
+professional  manner  at  all  tmes;  use  appropriate  verbal  and  visual  examples  in  class  and  at  no 
+time  make  any  references  that  are  sexually  explicit  or  suggestive;  do  not  make  inappropriate 
+physical  contact  with  students;  and  follow  all  previous  directives  given  to  him  by 
+administrators. 
+
+Evidence  Presented  by  the  District 
+
+11. 
+
+Testimony  of  all  the  district’s  witnesses  is  summarized  below. 
+
+TESTIMONY  OF  MATT  HIXSON 
+
+12. 
+
+Matt  Hixson  is  the  Former  Assistant  Superintendent  of  Personnel  for  the 
+
+SJUSD.  Mr.  Hixson  has  served  the  SJUSD  as  an  Assistant  Superintendent  of  Personnel, 
+Director  of  Technology,  Principal,  and  Assistant  Principal.  His  duties  while  serving  as  an 
+Assistant  Superintendent  of  Personnel  included  recruitment,  training,  retention,  and 
+discipline,  up  to  and  including  termination. 
+
+Mr.  Hixson  has  known  respondent  for  approximately  16  years.  During  the  2018-2019 
+
+school  year,  respondent  taught  English  five  periods  per  day.  A  teacher’s  job  is  to  teach  the 
+curriculum  required.  That  academic  year,  school  began  in  August.  During  the  first  week  of 
+school,  Mr.  Hixson  received  a  phone  call  from  a  parent  concerning  a  female  student  in 
+respondent’s  class.  The  father  complained  that  respondent  was  making  inappropriate 
+comments,  using  sexual  innuendo,  having  students  model  alcohol  shots,  and  touching 
+students  inappropriately.  After  receiving  the  parent  complaint,  Mr.  Hixson  spoke  with  his 
+direct  executive,  Dr.  Sharon  Raffiee.  He  reported  to  Dr.  Raffiee  what  the  parent  had  alleged 
+and  asked  Dr.  Raffiee  to  go  to  SJHS  to  investigate. 
+
+Dr.  Raffiee  investigated  the  allegations  and  recommended  paid  disciplinary  leave 
+
+because  several  students  provided  information  that  corroborated  the  female  student’s  father’s 
+allegations.  Mr.  Hixson  prepared  the  Statement  of  Charges  according  to  what  he  was 
+provided  by  Dr.  Raffiee. 
+
+Mr.  Hixson,  Dr.  Raffiee,  district  counsel,  and  a  union  representative  met  with 
+respondent  on  August  27,  2018.  The  purpose  of  that  meeting  was  for  respondent  to  respond 
+to  the  allegations. 
+
+Regarding  the  use  of  the  words  “fuck”  “dick”  “shit”  “ass”  “asshole”  and  “bullshit,” 
+
+respondent  admitted  using  foul  language  to  connect  with  students  and  to  get  a  rise  out  of
+
+students.  At  one  point  in  the  conversation,  respondent  referenced  a  book  by a  nationally 
+known  scholar  who,  he  claimed,  encouraged  teachers  to  reach  students  at  the  ground  level. 
+Respondent  told  them  he  considers  himself  someone  who  thinks  outside  the  box. 
+
+Regarding  the  allegation  that  respondent  made  sexualized  comments,  respondent 
+
+asked  for  clarification  and  did  not  automatically  acknowledge  making  sexualized  comments. 
+Respondent  said  he  may  have  told  a  student  that  he  “had  no  balls.” 
+
+Regarding  the  comment  that  respondent  told  an  African-American  student  to  check 
+
+his  DNA  because  respondent  was  active  in  his  younger  days  and  the  student  could  be  related 
+to  him,  respondent  said  he  did  not  use  the  exact  words  alleged  but  that  he  may  have  made  a 
+statement  to  students  that  they  should  be  aware  of  their  backgrounds. 
+
+Regarding  the  allegation  that  respondent  modeled  alcohol  shots  in  class  using  water, 
+
+respondent  said  that  it  was  a  hot  day  and  he  was  trying  to  have  the  students  hydrate 
+themselves  in  a  fun  way. 
+
+Regarding  the  allegations  that  respondent  talked  about  dropping  out  of  school,  Mr. 
+
+Hixson  did  not  recall  respondent’s  response. 
+
+Regarding  the  allegation  of  inappropriate  touching,  respondent  said  that  in  the  course 
+of  teaching  he  may  engage  a  student  by  touching  them  to  get  their  attention,  but  did  not  recall 
+touching  anyone’s  hair. 
+
+Approximately  two  weeks  after  the  initial  meeting,  everyone  met  a  second  time.  The 
+
+purpose  of  the  second  meeting  was  to  tell  respondent  that  the  investigation  had  concluded 
+and  the  district  was  recommending  resignation  or  termination.  Respondent  never 
+acknowledged  wrongdoing  during  either  the  first  or  the  second  meeting  and  never  gave 
+assurances  that  he  would  not  repeat  the  offending  conduct.  In  fact,  respondent  laughed,  and 
+said  he  had  been  asked  to  stop  before. 
+
+TESTIMONY  OF  STUDENT  E.P. 
+
+13. 
+
+E.P.1is  asenior  at  SJHS.  This  school  year  started  in  August  2018.  E.P.  is 
+
+familiar  with  respondent  because  he  was  her  second  period  English  teacher  at  the  start  of  this 
+school  year.  After  several  days,  she  reported  inappropriate  conduct  to  her  parents. 
+Specifically,  she  told  her  parents  respondent  was  using  foul  language  in  class  and  being 
+“imappropriate”  with  students. 
+
+One  of  the  incidents  she  reported  was  that  respondent  had  students  do  “water  shots” 
+in  class.  She  said  respondent  told  students  that  they  were  going  to  do  some  water  shots  and 
+asked  one  of  the  female  students  to  do  a  demonstration  with  him.  He  put  water  in  small  cups 
+and  handed  it  out.  When  he  and  the  other  female  student  had  her  water  cup,  respondent 
+locked  arms  with  her  and  they  both  drank  the  water.  E.P.  was  not  sure  why  respondent  did
+
+this,  and  no  alcohol  was  used.  Nobody  in  class  said  anything  about  it  and  most  of  the 
+students  drank  their  water. 
+
+Another  incident  she  reported  had  to  do  with  respondent  using  the  words  “fuck,” 
+
+“ass,”  and  “shit”  on  three  different  days.  E.P.  said  respondent  told  them  he  used  that 
+language  with  them  because  they  are  seniors  and  he  1s  comfortable  with  them. 
+
+E.P.  also  recalled  an  incident  when  respondent  was  explaining  to  students  that  they 
+should  not  have  to  ask  to  go  to  the  bathroom  because  if  students  ask  to  leave  class  he  will 
+have  to  ask  them  why  —  and  then  a  female  student  would  have  to  say  “it’s  that  time  of  the 
+month.” 
+
+E.P.  recalled  an  incident  where  respondent  told  some  students  that  they  were  only  in 
+
+existence  because  of  “a  bottle  of  wine.” 
+
+E.P.  testified  that  respondent  also  told  students  that  they  did  not  have  to  get  a  degree; 
+
+they  could  drop  out  of  school,  and  a  “lot  of  dropouts  make  a  lot  of  money.” 
+
+None  of  these  incidents  had  anything  to  do  with  the  lesson  at  the  time. 
+
+‘TESTIMONY  OF  STUDENT  C.B. 
+
+14. 
+
+C.B.  1s  a  senior  at  SJHS  and  had  respondent  for  second  period  English  the  first 
+
+few  days  of  the  2018-2019  school  year,  which  started  in  August.  C.B.  testified  that 
+respondent  used  foul  language  in  class,  specifically,  he  said  “fuck”  about  10  times. 
+
+C.B.’s  testimony  regarding  the  use  of  “water  shots”  was  consistent  with  the  testimony 
+
+of  E.P. 
+
+C.B.  also  recalled  that  respondent  told  students  to  drop  out  of  high  school  and  made  a 
+
+comment  about  putting  cameras  in  the  bathrooms. 
+
+C.B.  recalled  that  respondent  touched  other  female  students  in  class  by  placing  his 
+
+hands  on  their  shoulders.  He  did  it  to  her  once,  during  a  lesson,  where  he  was  saying 
+something.  It  lasted  about  two  seconds  and  it  just  happened  one  time.  She  described  it  as  a 
+“quick  tap.”  She  did  not  recall  respondent  touching  any  students  on  their  hair. 
+
+C.B.  testified  that  respondent  told  the  class,  on  one  occasion,  something  about  “fuck 
+
+you  fuck  your  family.”  C.B.  said  this  statement  was  made  in  connection  with  telling  students 
+to  drop  out  of  school  because  they  could  make  more  money  without  a  high  school  diploma. 
+
+None  of  these  incidents  had  anything  to  do  with  the  lesson  at  the  time.
+
+TESTIMONY  OF  STUDENT  D.E. 
+
+15. 
+
+D.E.  is  asenior  at  SJHS  and  had  respondent  for  her  second  period  English 
+
+class  at  the  beginning  of  the  2018-2019  school  year.  She  testified  that  respondent  used  the 
+words  “shit,  fuck  asshole  and  bullshit”  in  class  on  several  occasions,  and  never  gave  any 
+explanation  as  to  why  he  was  using  foul  language. 
+
+D.E.’s  testimony  was  consistent  with  C.B.  and  E.P.’s  testimony  concerning  “water 
+
+shots.” 
+
+D.E.  testified  that  respondent  told  one  student  that  if  he  did  not  want  to  be  in  class  he 
+
+could  drop  out  of  school.  She  thought  respondent  was  serious,  but  also  not  that  he  was 
+advocating  to  drop  out  of  school.  Respondent  did  not  tell  students  how  to  drop  out  of  school. 
+These  comments  bothered  her  because  she  did  not  think  a  teacher  should  tell  students  to  drop 
+out  of  school  for  any  reason. 
+
+None  of  these  incidents  had  anything  to  do  with  the  lesson  at  issue. 
+
+TESTIMONY  OF  RYAN  COGDILL 
+
+16. 
+
+Mr.  Cogdill  is  a  special-needs  aid  at  SJHS.  He  attended  respondent’s  second 
+period  English  class  at  the  beginning  of  the  2018-2019  school  year,  which  began  in  August 
+2018. 
+
+Mr.  Cogdill  heard  respondent  use  the  words  “shit,  damn,  and  fuck”  at  least  5  to  10 
+times.  He  was  shocked  that  respondent  would  use  profanity.  It  drew  a  response  from  the 
+students  that  varied  from  shock  to  comical. 
+
+Mr.  Cogdill  did  recall  respondent  touching  students  on  the  shoulder  as  he  might  be 
+
+walking  through  the  classroom,  but  it  was  just  a  tap  on  the  shoulder  and  only  happened  about 
+five  times.  There  was  no  inappropriate  intent  and  no  students  ever  said  they  were  offended. 
+No  students  pulled  away.  No  students  ever  said  anything  to  respondent  about  it. 
+
+Mr.  Cogdill’s  testimony  regarding  the  “water  shots”  was  consistent  with  that  of  the 
+
+other  students  who  testified. 
+
+On  one  occasion,  while  respondent  was  speaking  to  an  African  American  student, 
+respondent  told  that  student  something  along  that  lines  that  the  student  could  be  related  to 
+him  and  he  should  check  his  DNA. 
+
+Finally,  on  another  occasion,  respondent  told  students  that  high  school  was  not  for 
+
+everybody,  and  if  they  did  not  like  being  there,  they  could  leave  and  get  a  career. 
+Respondent  also  told  students  about  a  friend  of  his  who  went  into  construction  and  made  a 
+lot  of  money.  Mr.  Cogdill  was  surprised  respondent  would  make  such  a  comment  because  it 
+was  like  he  was  advocating  dropping  out  of  school.
+
+Mr.  Cogdill  said  none  of  the  above-referenced  incidents  had  anything  to  do  with  the 
+
+lesson  at  the  time. 
+
+TESTIMONY  OF  SHARON  RAFFIEE 
+
+17. 
+
+Sharon  Raffiee,  Ph.D.,  is  the  Executive  Director  of  Personnel  Services  for  the 
+
+SJUSD.  She  has  held  various  positions  within  the  district  for  14  years.  Her  duties  include 
+hiring,  recruitment,  training,  and  discipline.  The  district  expects  all  teachers  to  adhere  to  the 
+required  curriculum,  state  standards,  policies,  and  to  teach  the  skills  necessary  to  prepare 
+students  for  college. 
+
+At  the  beginning  of  the  2018-2019  school  year,  she  was  notified  by  Mr.  Hixson 
+
+regarding  inappropriate  conduct  by  respondent  that  had  been  reported  by  a  student  and  that 
+student’s  father.  The  parent  was  upset  about  “vulgarity,  inappropriate  sexualized 
+conversations,  and  student  touching.”  The  incidents  had  occurred  the  first  three  days  of  the 
+school  year;  on  the  fourth  day,  she  immediately  went  to  SJHS  because  she  believed  it  was 
+imperative  to  do  so. 
+Dr.  Raffiee  took  statement  from  approximately  17  students,  wrote  a 
+report,  and  discussed  her  findings  with  Mr.  Hixson.  She  also  later  assisted  Mr.  Hixson  with 
+preparation  of  the  Statement  of  Charges. 
+
+She  met  with  respondent,  Mr.  Hixson,  two  union  representatives,  and  district  counsel 
+
+on  August  27,  2018,  regarding  respondent’s  conduct. 
+
+Regarding  the  allegation  in  paragraph  5  in  the  Statement  of  Charges  concerning  the 
+
+use  of  profanity  in  class,  respondent  admitted  that  not  only  did  he  use  profanity,  but  he  did  so 
+consciously.  Respondent  also  said  that  he  used  profanity  to  engage  students  and  “help  get 
+them  ready  for  life.”  He  also  said  it  was  a  form  of  communication. 
+
+Regarding  the  allegation  in  paragraph  6d  in  the  Statement  of  Charges  that  he  told  an 
+
+African  American  student  that  the  student  should  check  his  DNA  because  he  might  be 
+related,  respondent  said  that  the  comment  was  “in  context”  because  he  was  building  the 
+concept  of  family  among  the  students;  Dr.  Raffiee  said  this  made  no  sense  to  her  because 
+students  had  reported  respondent  was  talking  about  his  younger  days  and  being  wild. 
+Respondent  did  not  have  a  response  for  any  of  the  other  allegations  in  paragraph  6. 
+
+Regarding  the  allegations  in  paragraph  7a  in  the  Statement  of  Charges  concerning  the 
+
+“water  shots,”  respondent  simply  said  he  gave  students  water  because  it  was  hot. 
+
+Regarding  the  allegations  in  paragraph  7b  in  the  Statement  of  Charges  concerning 
+
+allegations  that  he  told  students  they  should  drop  out  of  school,  respondent  told  her  that  he 
+simply  wanted  the  students  to  know  they  had  choices. 
+
+Regarding  the  allegations  in  paragraph  7c  in  the  Statement  of  Charges  that  SJHS 
+practices  “social  promotion  (i.e.  just  moving  students  along),”  respondent  did  not  have  a 
+response. 
+
+10
+
+Regarding  the  allegation  in  paragraph  8  in  the  Statement  of  Charges  concerning 
+
+touching  student’s  arms,  hair,  or  shoulders,  she  did  not  recall  respondent’s  response. 
+
+None  of  these  incidents  have  anything  to  do  with  regular  teaching  assignments. 
+
+At  one  point  during  the  meeting,  she  told  respondent  that  he  is  not  upholding  the  core 
+
+values  of  the  district.  Respondent  responded  that  teaching  is  a  “dark  place”  and  sometimes 
+when  you  shine  you  have  to  go  to  the  “darkest  places.”  Respondent  also  stated  in  the 
+meeting  that  he  did  not  really  want  to  be  a  teacher. 
+
+At  the  end  of  the  meeting,  Mr.  Hixson  made  it  clear  that  remediation  was  not  an 
+
+option  because  respondent  had  been  warned  about  unprofessional  conduct  in  the  past.  Ata 
+second  meeting  two  weeks  later,  respondent  was  informed  the  district  would  proceed  with 
+his  dismissal. 
+
+Evidence  Presented  by  Respondent? 
+
+‘TESTIMONY  OF  STUDENT  C.C. 
+
+18. 
+
+C.C.1s  asenior  at  SJHS  and  was  in  respondent’s  second  period  English  class 
+at  the  beginning  of  the  2018-2019  school  year,  which  started  in  August  2018.  She  recalled 
+respondent,  for  the  three  days  he  was  in  class,  as  a  very  “outspoken”  teacher  but  one  who 
+was  “confident  in  himself.”  She  felt  he  was  a  good  teacher.  She  was  never  offended  in  his 
+class.  She  never  saw  him  touch  a  student  inappropriately.  She  said  respondent  may  have 
+patted  a  student  on  the  shoulder  very  briefly,  but  no  student  ever  complained.  Respondent 
+never  yelled  at  students  and  never  assaulted  or  bullied  anyone.  C.C.  did  recall  drinking 
+“cups”  of  water  once,  but  said  that  respondent  just  gave  them  the  cups  of  water  to  cheer  for 
+them  since  it  was  their  senior  year.  Respondent  did  make  a  comparison  of  the  water  to 
+alcohol,  but  it  was  done  in  a  “positive”  way  —  like  a  toast  to  them.  Respondent  never 
+encouraged  anyone  to  drop  out  of  school;  to  the  contrary,  respondent  encouraged  them  to 
+stay  in  school.  Respondent  was  very  inspirational  —  he  even  brought  backpacks  to  school  for 
+students  who  did  not  have  them.  Respondent  was  active  in  an  after  school  club  as  well.  C.C. 
+found  respondent  to  be  very  considerate  and  exciting.  He  encouraged  students  to  be  who 
+they  wanted  to  be  and  told  students  they  needed  to  do  what  they  need  to  do  for  themselves. 
+Respondent  told  students  that  some  of  them  may  not  enjoy  school  and  there  are  many 
+different  options  without  school.  C.C.  said  respondent  did  use  the  words  “shit”  and  “fuck”  in 
+class,  but  she  would  not  consider  them  a  “common”  part  of  his  language. 
+
+TESTIMONY  OF  PAUL  HENDRY 
+
+19. 
+
+Mr.  Hendry  currently  teaches  English  at  SJHS.  Respondent  has  been  a 
+
+colleague  of  his  for  eight  years.  Mr.  Hendry  was  also  a  department  chair  while  at  SJHS.  He 
+and  respondent  had  also  been  filmmaking  partners  in  France.  Mr.  Hendry  believed 
+
+  
+
+*  All  witness  testimony  is  summarized  and  paraphrased. 
+
+11
+
+respondent  was  an  excellent  teacher  because  he  was  always  prepared,  always  interacting  with 
+students,  and  always  developing  a  great  rapport  with  students.  Mr.  Hendry  often  saw 
+students  coming  to  respondent’s  classroom  to  eat  lunch  in  his  room  or  simply  to  visit  or  get 
+help.  Respondent  has  a  party  every  year  at  his  house  as  an  Earth  Day  fundraiser  because 
+respondent  is  very  socially  aware  about  the  environment.  Respondent  is  active  on  campus  in 
+an  environmental  club,  and  also  works  to  save  local  parks.  Of  all  the  teachers  he  has  worked 
+with  in  32  years,  respondent  is  the  most  dedicated  teacher  he  has  ever  seen. 
+
+TESTIMONY  OF  KENNETH  REED 
+
+20. 
+
+Mr.  Reed  used  to  be  the  history/social  science  department  chair  at  SJHS  and 
+
+retired  in  2005.  He  and  respondent,  aside  from  being  colleagues,  are  also  active  in  the  Lion’s 
+Club,  a  nonprofit  organization  focusing  on  things  like  conservation,  hunger,  ecosystems, 
+ecology,  and  pediatric  cancer.  Mr.  Reed  thought  respondent  was  a  very  good  teacher.  He 
+thought  respondent  did  an  excellent  job  and  was  well  regarded  as  a  teacher.  Mr.  Reed  saw 
+how  respondent  interacted  with  students  and  respondent  had  the  students  very  involved  in  the 
+classroom  and  out  of  the  classroom.  Mr.  Reed  was  “shocked”  when  he  found  out  about  the 
+Statement  of  Charges;  he  admitted  that  he  has  not  seen  respondent  in  the  classroom  since 
+2005. 
+
+TESTIMONY  OF  FRANKLIN  PEREZ 
+
+21. 
+
+Mr.  Perez  met  respondent  a  number  of  years  ago  when  respondent  was  his 
+
+sophomore  English  teacher  in  2001  at  SJHS.  He  testified  that  respondent  was  a  very  good 
+English  teacher  and  was  personable  and  authentic.  He  did  not  recall  respondent  using 
+profanity,  except  maybe  the  word  “shit.”  Respondent  knew  how  to  motivate  students  who 
+were  slacking.  Mr.  Perez  testified  about  how  he  was  a  football  player  who  was  failing  out  of 
+school,  and  respondent  worked  hard  with  him  so  he  could  qualify  for  spring  training.  Mr. 
+Perez  recalled  very  few  positive  interactions  with  teachers  in  his  education,  but  respondent’s 
+class  was  one  of  those  positive  experiences.  Mr.  Perez  continued  with  his  education  and  now 
+teaches  world  history,  U.S.  history,  civics,  and  government.  He  is  working  towards  his  Ph.D. 
+in  ethnic  studies.  Respondent  was  one  of  the  reasons  he  chose  to  pursue  a  higher  education 
+to  improve  the  educational  system,  because  respondent  really  showed  him  what  a  difference 
+a  teacher  who  cares  can  make  in  a  student’s  life. 
+
+RESPONDENT’S  EXTRACURRICULAR  ACTIVITIES  AND  DOCUMENTARY  EVIDENCE 
+
+22. 
+
+Respondent  provided  his  most  recent  personnel  evaluation.  The  evaluation 
+
+showed  he  either  met  standards  or  was  progressing  towards  the  standard  in  all  areas,  but  that 
+no  areas  showed  he  exceeded  standards.  Respondent  said  that  he  thinks  he  1s  an  exceptional 
+teacher  and  he  “does  not  put  much  faith”  in  evaluations. 
+
+12
+
+23. 
+
+Respondent  submitted  awards  and  certificates  that  he  has  won  over  the  years, 
+
+which  included,  in  part,  teacher  of  the  year,  certificates  of  achievement,  certificates  of 
+recognition,  and  the  Crystal  Apple  Award.° 
+
+24. 
+
+Respondent  submitted  a  character  reference  letter  from  SJHS  Principal  Luke 
+
+Smith,  dated  June  12,  2017.  The  letter  speaks  highly  of  respondent,  noting  that  respondent  is 
+highly  motivated,  dedicated,  and  an  outstanding  teacher.  Mr.  Smith  also  stated  that 
+respondent  used  innovative  approaches  in  the  classroom,  and  had  the  ability  to  connect  and 
+build  relationships  with  students.  The  letter  described  the  contributions  respondent  made 
+outside  the  classroom  during  his  entire  academic  career,  including  leading  clubs  and 
+organizations  such  as  EcoMind,  Leo  Club,  Shakespeare  Club,  Ramona  Pageant,  Journalism, 
+and  more.  Finally,  Mr.  Smith  described  respondent  as  a  highly  impactful  and  capable 
+teacher.  Mr.  Smith’s  letter  pre-dated  the  conduct  at  issue  in  this  case  and  thus,  did  not 
+reference  if  Mr.  Smith’s  opinion  is  the  same  in  light  of  the  present  allegations  of  misconduct. 
+Mr.  Smith  did  not  testify. 
+
+25. 
+
+Respondent  submitted  several  photographs  showing  himself  engaged  in 
+
+various  community  activities.  He  also  testified  regarding  his  activities  such  as  being  advisor 
+of  the  Leo’s  Club,  a  club  on  campus  for  various  social  causes.  He  is  also  president  of  the 
+Lion’s  Club,  the  adult  version  of  the  Leo’s  Club.  Respondent  also  submitted  photographs  of 
+minor  students  from  various  events  that  were  not  admitted,  but,  the  photographs  appeared  to 
+depict  what  respondent  represented  they  were:  a  community  college  field  trip;  students 
+enjoying  misters  he  installed  in  the  hallways;  and  a  yearbook  photograph  from  a  club. 
+
+RESPONDENT’S  TESTIMONY 
+
+26. 
+
+Respondent’s  educational  background  includes  community  college,  where  he 
+
+obtained  an  Associate  of  Arts  degree  in  general  education;  another  community  college, 
+where  he  obtained  an  Associate  of  Arts  in  Fire  Science;  California  State  University, 
+Fullerton,  where  he  obtained  a  Bachelor  of  Arts  in  English;  and  California  State  University, 
+San  Bernardino,  where  he  obtained  a  multi-subject  teaching  credential  and  is  also  authorized 
+to  teach  single  subject  English. 
+
+Respondent  served  as  a  seasonal-on  call  firefighter  for  12  years  until  he  was  injured. 
+
+Around  1997,  respondent  became  very  ill  and  had  a  near-death  experience,  which  caused 
+him  to  take  pause  regarding  his  life.  Respondent  decided  to  pursue  the  teaching  profession 
+instead.  He  started  out  as  a  substitute.  He  came  to  SJUSD  as  a  high  school  English  teacher 
+in  1998.  That  is  where  he  has  been  assigned  until  present.  He  has  taught  English  the  entire 
+time,  except  one  year  he  taught  the  TIGER  academy  which  covered  a  wide  curriculum. 
+Respondent  has  also  had  other  small  assignments  like  leadership  academies.  Respondent  has 
+
+  
+
+>  Respondent  included  a  “screen  shot”  that  he  said  was  sent  to  him  by a friend, 
+nominating  him  for  teacher  of  the  year  for  the  school  year  2018-2019.  However,  respondent 
+only  taught  for  one  full  day  of  the  2018-2019  school  year  before  he  was  removed  from  the 
+classroom.  So,  this  unauthenticated  “screen  shot”  can  be  given  little  weight. 
+
+13
+
+taught  junior,  sophomore,  and  senior  English,  although  once  he  taught  freshman  English. 
+Respondent  is  married  and  has  one  son. 
+
+The  2018-2019  school  year  began  on  a  Thursday  in  August.  It  was  a  very  short 
+
+introductory  day,  and  Friday  was  a  minimum  day.  The  following  Monday,  the  third  day  of 
+school,  was  the  first  full  day  of  the  school  year. 
+
+Regarding  the  allegations  concerning  the  “water  shots,”  respondent  said  he  did  it  as 
+an  “ice  breaker.”  It  was  for  the  students  to  meet  and  greet  and  get  to  know  each  other.  He 
+bought  paper  Dixie  cups  and  supplied  the  water.  It  was  very  hot  that  day  and  he  explained  to 
+the  students  that  the  purpose  of  the  water  was  to  cool  off  because  they  had  been  helping  him 
+bring  plants  and  supplies  into  the  classroom.  Respondent  designated  students  to  pour  the 
+water  into  the  cups  and  some  students  said  they  looked  like  shot  glasses.  Respondent  said  he 
+had  no  thought  of  that,  so  he  told  the  students  that  they  would  make  a  toast  to  them  being 
+seniors.  Respondent  said  he  did  show  the  students  a  “locking  arms”  motion  like  when  the 
+Russians  meet  each  other  and  lock  their  arms  in  a  toast.  Respondent  said  he  may  have  put 
+students  in  an  awkward  situation  because  students  at  that  age  have  difficulty  communicating 
+and  interacting  beyond  their  cell  phones. 
+
+Regarding  the  comment  about  a  female’s  menstrual  period,  respondent  said  he  did 
+make  reference  to  that  once  on  the  Monday  after  school  started.  He  said  that  he  was  going 
+over  policies  and  procedures  at  the  beginning  of  class.  He  was  standing  by  the  classroom 
+windows  and  he  told  students  “you'll  notice  that  is  the  boy’s  and  girl’s  bathroom”  but  “you 
+are  seniors,  [and]  I  want  you  to  have  some  agency  at  this  point  in  your  life.”  Respondent  told 
+the  students  he  does  not  want  them  to  have  to  interrupt  classroom  time  and  say  “I  am  on  my 
+period”  or  something  like  that.  He  is  against  hall  passes  and  told  the  students  he  just  wants 
+them  to  quietly  excuse  themselves.  Respondent  said  he  may  have  also  told  students  that  he 
+did  not  want  to  have  to  have  a  student  tell  him  that  it  was  her  “time  of  the  month.” 
+
+Regarding  the  use  of  profanity,  respondent  said  he  may  have  let  it  slip  out.  He  said 
+sometimes  teachers  think  they  are  giving  a  great  lecture  and  a  student’s  hand  goes  up.  The 
+teacher  thinks  the  student  is  engaged.  But  then,  the  student  may  ask  to  just  go  to  the 
+bathroom,  and  a  teacher  will  think  “fuck.”  Respondent  said  that  1s  what  happened  and  it  only 
+happened  once  on  the  Monday  after  school  started.  Respondent  denied  saying  “fuck  you  and 
+fuck  your  family”  to  students.  Respondent  also  said  he  may  have  used  the  words  “shit”  or 
+“asshole”  —  and  possibly  “bullshit”  —  the  previous  Friday.  Respondent  admitted  that  was  “a 
+lot  of  swearing  for  that  short  span  of  time.” 
+
+Respondent  said  he  never  told  a  student  that  he  had  “no  balls.”  Respondent  said  he 
+
+did  tell  a  student  something  like  “you  gotta  have  some  balls  in  this  life.” 
+
+Regarding  the  comment  about  some  students  only  being  born  because  of  a  bottle  of 
+
+wine,  respondent  said  that  he  told  students  that  he  knew  some  of  them  realized  they  were 
+only  here  because  of  an  “accident.”  Respondent  said  he  was  telling  students  that  their  lives 
+
+14
+
+are  not  about  how  they  were  born,  but  how  they  live. 
+classroom  procedures  and  purpose. 
+
+It  was  during  a  conversation  about 
+
+Regarding  the  comment  to  an  African  American  student  about  DNA,  respondent  said 
+they  were  talking  in  class  about  policies  and  procedures  responsibility,  agency,  and  intention. 
+Respondent  said  that  he  was  telling  students  that  his  success  as  a  teacher  is  dependent  upon 
+his  success  as  a  human  being.  He  said  he  was  telling  students  that  part  of  his  job  is  to  create 
+happy  and  healthy  human  beings  and  “not  miserable  idiots  that  think  they  can  do  whatever.” 
+Respondent  said  he  believes  he  told  students,  collectively,  that  they  are  a  family.  He  told 
+students  that  if  there  was  an  earthquake  and  the  ceiling  started  shaking  and  pinned  us  down  — 
+he  didn’t  care  how  much  you  think  that  person  next  to  you  is  a  jerk,  you  would  be  closer  than 
+twins.  Respondent  looked  at  two  African  American  students  1n  class  and  told  them  that  they 
+might  not  think  of  him  as  family  because  of  their  skin  color,  but,  if  you  check  your  DNA, 
+you  never  know.  Respondent  did  say  something  about  being  wild  in  his  younger  days.  Yet, 
+respondent  said  by  making  the  comment  he  did  not  mean  to  say  that  he  was  directly  related 
+to  the  students  or  that  their  parents  were  sexually  promiscuous. 
+
+Regarding  dropping  out  of  school,  respondent  said  he  did  not  tell  students  they 
+“should”  drop  out  of  school  but  rather,  that  they  “could”  drop  out  of  school  if  they  wanted  to. 
+Respondent  said  that  some  students  had  told  him  in  the  past  that  they  felt  like  they  were  just 
+holding  a  spot.  He  felt  that  telling  students  they  could  drop  out  was  consistent  with  his 
+overall  theme  of  personal  responsibility  and  living  with  a  purpose.  He  told  students  that  if 
+they  did  not  want  to  be  there,  they  need  to  find  something  else  for  themselves.  He  told  them 
+that  they  can  take  the  GED  when  they  turn  18.  Respondent  also  told  students  about  a  friend 
+of  his  who  used  to  be  a  “ditch  digger”  who  made a  successful  living. 
+
+Regarding  the  allegation  that  respondent  told  students  the  school  district  only 
+
+practices  social  promotion,  he  said  he  did  not  make  any  comment  in  that  regard. 
+
+Regarding  touching  students,  respondent  admitted  that  he  would  hold  his  clipboard 
+
+and  walk  around  class  as  he  instructed  and  sometimes  “tapped”  a  student  on  the  shoulder  as 
+he  was  walking  by.  He  said  it  may  have  been  3  or  4  students  and  the  tap  only  lasted  a 
+second.  He  never  pinched  a  student,  but  recalled  that  while  talking  about  “shining”  and 
+“owning”  oneself,  he  may  have  cupped  his  hand  like  Yoda  did  with  Luke  Skywalker  in  Star 
+Wars  and  said  something  like  “luminous  beings  we  are.”  Respondent  also  said  he  did  not 
+recall  ever  touching  a  student’s  hair,  but  if  he  did,  1t  may  have  been  when  he  was  telling  a 
+student  “you  are  the  light  within  you”  and  not  your  “face,  your  hair,  your  nails,  etc.” 
+
+Regarding  the  August  meeting  between  respondent,  his  union  representatives,  Mr. 
+
+Hixson,  Dr.  Raffiee,  and  district  counsel,  respondent  said  he  believed  it  was  “more  of  a 
+conversation”  than  anything  having  to  do  with  discipline.  He  did  not  mean  to  indicate  that 
+profanity  is  acceptable  in  class.  Respondent  said  he  believed  the  meeting  was  more  of  a 
+“philosophical  discussion”  and  had  he  known  it  was  something  that  would  rise  to  the  level 
+that  it  has  now,  he  would  have  just  apologized  and  told  them  it  would  not  happen  again. 
+
+15
+
+Prior  to  concluding  his  testimony,  respondent  was  asked  by  counsel  if  there  is 
+
+anything  he  wanted  to  say  to  the  Commission.  Respondent  said  that  the  job  of  a  senior 
+English  teacher  is  to  prepare  the  kids  for  graduation.  He  said  he  tries  to  be  a  part  of  the  flow 
+of  his  classroom  and  that  is  what  makes  him  an  effective  teacher.  He  does  not  consider 
+himself  a  “vulgarian”  but  said  that  profanity  can  be  a  “tool  of  language”  that  arguably  is 
+effective.  Respondent  said  he  can  comply  with  not  using  profanity  in  class.  The  whole 
+process  has  “been  an  awakening.”  He  said  if  he  had  known  someone  would  spend  this  much 
+money  regarding  his  use  of  profanity  in  class  he  would  have  been  much  more  cautious.  In 
+the  future,  he  will  pay  much  more  attention  to  his  language. 
+
+Respondent  acknowledged  the  prior  warnings  he  had  been  given,  and  his  suspension, 
+
+regarding  unprofessional  conduct.  Respondent  said  he  thought  most  of  the  prior  incidents 
+were  mischaracterizations.  He  said,  specifically,  that  the  December  11,  2007,  letter  notifying 
+him  of  unprofessional  conduct  was  unfair  and  motivated  for  political  reasons. 
+
+Respondent  feels  he  should  remain  a  teacher  in  the  district.  He  has  been  teaching  for 
+over  21  years.  He  and  his  wife  decided  to  make  San  Jacinto  their  home.  He  is  committed  to 
+the  school,  the  community,  and  his  family  is  established  here.  Respondent  became  one  of  the 
+most  senior  teachers  in  the  school  district  within  six  years  of  starting  his  job  because  there  is 
+such  a  high  turnover  rate.  People  cannot  believe  he  stuck  it  out  with  the  SJUSD  and  he  is 
+often  asked  “why  do  you  stay  in  that  dump.”  Respondent  said  that  despite  the  fact  that  there 
+are  “folks  in  leadership”  that  no  longer  want  him  in  this  school,  it  1s,  nonetheless,  his  school. 
+Respondent  wants  his  job  back  because  he  knows  he  1s  not  a  threat  to  his  students  and  he  1s 
+committed  to  serving  his  students. 
+
+Respondent  said  he  has  become  a  defining  part  of  the  school.  He  has  helped 
+revitalize  the  community  and  experiences  gratitude  working  at  SJHS.  Respondent  said  that 
+the  charges  are  very  serious  1n  this  case  and  he  knows  he  “messed  up.”  He  said  he  is 
+“ashamed  to  be  here”  and  he  “should  have  known  better.”  He  said  he  is  “ashamed  of  wasting 
+all  the  resources  that  have  been  wasted”  on  him. 
+
+Respondent  said  it  has  become  clear  to  him  that  he  cannot  use  foul  language  in  front 
+
+of  minors.  He  said  he  knows  if  he  does,  he  risks  the  district  “squandering  time  and 
+resources.”  He  will  not  let  that  happen  again. 
+
+Respondent  said  he  educates  and  inspires  excellence  and  teaching  is  his  passion.  He 
+
+knows  he  is  a  “menace  to  deal  with  from  time  to  time”  and  thinks  “this  whole  thing  is 
+shameful.”  He  is  ashamed  that  he  might  have  hurt  someone’s  feelings,  but  is  more  ashamed 
+that  the  district  has  wasted  so  much  time.  He  does  not  want  to  ever  be  in  a  position  again  to 
+give  the  district  “ammunition  to  squander  public  money.”  He  said  he  will  not  allow  the 
+district  the  opportunity  to  remove  him  from  the  classroom  “over  something  that  [he  believes| 
+was  a  mischaracterization.”  Respondent  said  he  will  not  make  himself  a  target  and  will  not 
+“afford  the  district  that  luxury  again.” 
+
+16
+
+LEGAL  CONCLUSIONS 
+
+Burden  and  Standard  of Proof 
+
+1. 
+
+The  standard  of  proof  in  a  teacher  disciplinary  proceeding  is  a  preponderance 
+
+of  the  evidence.  (Gardner  v.  Commission  on  Professional  Competence  (1985)  164 
+Cal.App.3d  1035,  1039-1040.) 
+
+2. 
+
+‘**Preponderance  of  the  evidence  means  evidence  that  has  more  convincing 
+
+force  than  that  opposed  to  it.’  [Citations.]”  (Glage  v.  Hawes  Firearms  Company  (1990)  226 
+Cal.App.3d  314,  324-325.)  The  sole  focus  of  the  legal  definition  of  ‘preponderance’  in  the 
+phrase  ‘preponderance  of  the  evidence’  is  on  the  quality  of  the  evidence.  The  quantity  of  the 
+evidence  presented  by  each  side  is  irrelevant.”  (/bid.,  italics  emphasis  in  original.) 
+
+Applicable  Law 
+
+3. 
+
+A  permanent  employee  may  be  dismissed  for  cause  only  after  a  dismissal 
+
+hearing.  (Ed.  Code,  §§  44932,  44934,  and  44944.) 
+
+4. 
+
+When  a  school  board  recommends  dismissal  for  cause,  a  Commission  on 
+
+Professional  Competence  may  only  vote  for  or  against  the  dismissal;  the  Commission  may 
+not  dispose  of  a  charge  seeking  dismissal  by  imposing  probation  or  an  alternative  sanction. 
+(Ed.  Code,  §  44944,  subds.  (c)(1)-(3).) 
+
+5. 
+
+A  permanent  certificated  teacher  may  not  be  dismissed  except  for,  among 
+
+other  things,  unprofessional  conduct,  evident  unfitness  for  service,  persistent  refusal  to  obey, 
+willful  refusal  to  perform  regular  assignments  as  prescribed  by  the  reasonable  rules  and 
+regulations  of  the  employing  school  district. 
+(Ed.  Code,  §  44932,  subds.  (a)(2),  (a)(6)  & 
+(a)(8);  44939.) 
+
+UNPROFESSIONAL  CONDUCT 
+
+6. 
+
+“Unprofessional  conduct”  has  been  defined  as  “that  conduct  which  breaches 
+
+the  rules  or  ethical  code  of  a  profession,  or  conduct  which  is  unbecoming  a  member  in  good 
+standing  of  a  profession.”  (Shea  v.  Bd.  of Medical  Examiners,  (1978)  81  Cal.  App.3d  564,  at 
+575;  Bd.  of Education  v.  Swan  (1953)  41  Cal.2d  546,  553.)  Unprofessional  conduct  must 
+also  be  considered  in  conjunction  with  the  unique  position  of  public  school  teachers,  upon 
+whom  are  imposed  responsibilities  and  limitations  on  freedom  of  action  which  do  not  exist  in 
+regard  to  other  callings.  (San  Diego  Unified  School  Dist.  v.  Commission  on  Professional 
+Competence  (2011)  194  Cal.App.4th  1454,  1466.)  The  determinative  test  of  a  charge  of 
+immoral  or  unprofessional  conduct  is  fitness  to  teach,  which  is  a  question  of  ultimate  fact. 
+(Bd.  of Education  v.  Jack  M.  (1977)  19  Cal.3d  691.) 
+
+17
+
+EVIDENT  UNFITNESS  FOR  SERVICE 
+
+7. 
+
+Unfitness  for  service  means  “not  fit;  not  adapted  to  a  purpose,  unsuitable; 
+
+incapable;  incompetent;  and  physically  or  mentally  unsound.”  (Palo  Verde  etc.  School  Dist.  v. 
+Hensey  (1970)  9  Cal.App.3d  967,  972.)  “Unprofessional  conduct”  and  “evident  unfitness  for 
+service”  do  not  mean  precisely  the  same  thing.  Although  conduct  constituting  “evident 
+unfitness  for  service”  will  often  constitute  “unprofessional  conduct,”  the  converse  is  not 
+always  true.  Evident  unfitness  for  service  requires  that  unfitness  for  service  be  attributable  to 
+defect  in  temperament,  which  is  not  necessary  for  a  finding  of  unprofessional  conduct. 
+Nevertheless,  lower  courts  may  not  disregard  the  criteria  for  unfitness  set  out  in  a  California 
+Supreme  Court  opinion,  in  which  the  court  concluded  “unprofessional  conduct”  meant 
+conduct  showing  a  teacher  was  unfit  to  teach.  These  criteria  must  be  analyzed  to  determine, 
+as  a  threshold  matter,  whether  the  cited  conduct  indicates  unfitness  for  service.  If  the  criteria 
+are  satisfied,  the  next  step  is  to  determine  whether  the  “unfitness”  is  “evident”;  7.e.,  whether 
+the  offensive  conduct  is  caused  by  a  defect  in  temperament.  (Woodland  Joint  Unified  School 
+Dist.  v.  Commission  on  Professional  Competence  (1992)  2  Cal.App.4th  1429,  1444-1445.) 
+
+PERSISTENT  VIOLATION  OF  SCHOOL  LAWS  OR  REGULATIONS 
+
+. 
+
+8. 
+
+.  stubborn;  persevering  . 
+
+The  word  “persistent”  is  defined  by  lexicographers  as  “refusing  to  relent; 
+.  constantly 
+
+continuing,  especially  in  the  face  of  opposition  . 
+repeated.”  And  in  the  judicial  decisions  of  this,  as  well  as  other  states,  the  word  has  been 
+interpreted  to  mean  “continuing  or  constant.”  (Governing  Board  of the  Oakdale  Union 
+School  District  v.  Seaman  (1972)  28  Cal.App.3d  77,  82.)  A  single  violation  of  a  school 
+board’s  rules  is  not  of  itself  cause  for  the  dismissal  of  a  permanent  teacher.  The  subdivision 
+pertains  to  unintentional  as  well  as  intentional  transgressions,  and  hence  the  Legislature  has 
+decreed  that  a  single  violation  is  not  sufficient  to  warrant  dismissal,  apparently  to  allow  for 
+correction;  “it  is  the  persistent  disregard”  of  school  rules  that  the  subdivision  is  designed  to 
+regulate.  (Governing  Board  of the  Oakdale  Union  School  District  v.  Seaman,  supra.,  28 
+Cal.App.3d  at  p.  84.) 
+
+. 
+
+WILLFUL  VIOLATION  TO  PERFORM  REGULAR  ASSIGNMENTS 
+
+9. 
+
+Under  Education  Code  section  44939,  the  willful  refusal  to  perform  regular 
+
+assignments  without  reasonable  cause,  as  prescribed  by  reasonable  rules  and  regulations  of 
+the  employing  school  district,  provides  cause  for  an  immediate  suspension  and  the  filing  of  a 
+notice  of  dismissal. 
+
+Evaluation 
+
+FACTUAL  ALLEGATIONS  AND  FINDINGS 
+
+10. 
+
+A  preponderance  of  the  evidence  established  the  factual  allegations  contained 
+
+in  the  Statement  of  Charges  in  paragraphs  5,  6,  7a  and  7b. 
+
+18
+
+Regarding  the  allegations  in  paragraph  5,  respondent  used  profanity  during  the  first 
+
+four  days  of  the  school  year,  and  witnesses  were  consistent  as  to  that  point.  Even  respondent 
+admitted  to  using  profanity. 
+
+Regarding  the  allegations  in  paragraph  6,  although  respondent  may  not  have  made  the 
+statements  alleged  in  the  Statement  of  Charges  verbatim,  he  did  make  a  reference  to  a  female 
+student’s  menstrual  period;  he  did  make  a  reference  to  a  student  that  he  needed  to  “have 
+balls”;  he  did,  according  to  students,  tell  some  of  them  that  they  were  only  here  because  of  a 
+bottle  of  wine;  and  he  did  make  reference  to  his  wild  youth  and  tell  an  African  American 
+student  that  they  could  be  related.  All  of  these  proven  allegations  are  close  enough  in 
+description  to  the  allegations  contained  in  the  Statement  of  Charges  to  be  sustained. 
+
+Regarding  the  allegations  in  paragraph  7a,  respondent  did  demonstrate  “water  shots” 
+to  students  and  make  reference  to  the  water  being  a  toast  or  celebration  to  their  senior  year. 
+
+Regarding  the  allegations  in  paragraph  7b,  respondent  did  make  reference  to  students 
+
+dropping  out  of  school,  pursuing  alternatives  other  than  school,  and  making  reference  to  at 
+least  one  individual  he  knew  outside  of  the  academic  arena  who  did  not  go  to  school  and  who 
+made  money. 
+
+The  conduct  described  in  paragraphs  5,  6,  7a,  and  7b  all  constitute  unprofessional 
+
+conduct,  in  violation  of  Education  Code  section  44932,  subdivision  (a)(2).  Given  the  prior 
+warnings  respondent  was  given  regarding  his  unprofessional  conduct  in  2007,  2010,  and 
+2013,  which  also  included  a  suspension  without  pay,  respondent  also  is  in  violation  of 
+Education  Code  section  44932,  subdivision  (a)(8),  persistent  refusal  to  obey  the  school  laws 
+or  the  state  or  reasonable  regulations  of  the  school  district  employing  respondent.  The 
+conduct  also  constituted  evident  unfitness  for  service,  in  violation  of  Education  Code  section 
+44932,  subdivision  (a)(6),  for  the  reasons  discussed  in  the  Conclusion  portion  below. 
+
+The  conduct  described  in  paragraphs  5,  6,  7a,  and  7b  does  not  constitute  willful 
+
+refusal  to  perform  regular  assignments  without  reasonable  cause,  in  violation  of  Education 
+Code  section  44939.  While  certainly  respondent  was  not  teaching  English  while  he  was 
+engaged  in  the  activity  detailed  in  paragraphs  5,  6,  7a,  and  7b,  there  was  no  evidence 
+submitted  that  he  failed  to  teach  English  or  perform  his  assignments  as  an  English  teacher. 
+
+11. 
+paragraph  7c  or  8. 
+
+A  preponderance  of  the  evidence  did  not  establish  the  allegations  contained  in 
+
+Although  respondent  made  reference  to  students  dropping  out  of  school,  he  did  not 
+
+mention  the  term  or  concept  of  social  promotion  or  otherwise  advocate  that  the  SJUSD  only 
+passes  students  to  move  them  along  as  opposed  to  giving  them  a  quality  education. 
+
+Although  respondent  may  have  tapped  some  students  on  the  shoulder,  and  possibly 
+
+the  hair  or  the  arm,  the  evidence  did  not  establish  that  the  touch  was  inappropriate,  illegal,  or 
+otherwise  made  any  student  feel  uncomfortable.  No  student  testified  that  respondent  tapping 
+
+19
+
+them  on  the  shoulder,  hair,  or  arm  made  them  uncomfortable  and  to  the  extent  any  such 
+comment  is  contained  in  the  written  statements  obtained  by  Dr.  Raffiee,  such  a  statement  1s 
+administrative  hearsay  and  cannot  be  used  to  make a  finding  of  fact. 
+
+CONCLUSION 
+
+12. 
+
+In  Morrison  v.  State  Board  of Education  (1969)  |  Cal.3d  214,  235,  the  Supreme 
+
+Court  held  that  “an  individual  can  be  removed  from  the  teaching  profession  only  upon  a 
+showing  that  his  retention  in  the  profession  poses  a  significant  danger  of  harm  to  either  students, 
+school  employees,  or  others  who  might  be  affected  by  his  actions  as  a  teacher.”  The  court 
+delineated  the  following  criteria  to  determine  whether  a  teacher’s  conduct  indicates  that  he  or 
+she  is  not  fit  to  teach:  (1)  the  likelihood  that  the  conduct  may  have  adversely  affected  students 
+or  fellow  teachers;  (2)  the  degree  of  such  adversity  anticipated;  (3)  the  proximity  or  remoteness 
+in  time  of  the  conduct;  (4)  the  type  of  teaching  certificate  held  by  the  teacher;  (5)  the 
+extenuating  or  aggravating  circumstances,  if  any,  surrounding  the  conduct  in  question;  (6)  the 
+praiseworthiness  or  blameworthiness  of  the  motives  resulting  in  the  conduct;  (7)  the  likelihood 
+of  the  recurrence  of  the  conduct  in  question;  and  (8)  the  extent  to  which  disciplinary  action  may 
+inflict  an  adverse  impact  or  have  a  chilling  effect  upon  the  constitutional  rights  of  the  teacher 
+involved  or  other  teachers.  (U/d.,  at  pp.  229-230.) 
+
+13. 
+
+In  Board  of Education  v.  Jack  M.,  supra,  the  Supreme  Court  detailed  the 
+
+process  to  be  considered  in  determining  fitness  to  teach.  In  addition  to  the  Morrison  factors, 
+the  court  provided  additional  factors  that  may  be  considered  to  determine  if  there  1s  a  nexus 
+between  the  conduct  and  a  teacher’s  fitness  to  teach:  (1)  likelihood  of  recurrence  of  the 
+questioned  conduct;  (2)  the  extenuating  or  aggravating  circumstances,  if  any;  (3)  the  effect  of 
+notoriety  and  publicity;  (4)  impairment  of  teachers’  and  students’  relationships;  (5) 
+disruption  of  educational  process;  (6)  motive;  (7)  proximity  or  remoteness  in  time  of 
+conduct.  (d.,  at  fn.  5.) 
+
+In  reaching  a  conclusion  that  grounds  exist  to  dismiss  a  certificated  employee  on  the 
+basis  of  evident  unfitness  for  service,  only  the  pertinent  Morrison  factors  need  be  examined. 
+(Governing  Board  v.  Haar  (1994)  28  Cal.App.4th  369,  384.)  In  this  sense,  the  purpose  of 
+examining  the  Morrison  criteria  is  to  establish  a  nexus  between  the  proven  conduct  and  fitness 
+to  teach.  However,  even  if  the  Morrison  analysis  shows  a  nexus  between  the  conduct  and 
+fitness  to  teach,  it  must  also  be  determined  that  the  alleged  conduct  shows  evident  unfitness  for 
+service.  (Morrison,  supra,  at  p.  1445  [emphasis  added].)  “Evident  unfitness  for  service” 
+means  clearly  not  fit  for  teaching,  ordinarily  by  reason  of  temperamental  defects  or 
+inadequacies;  it  connotes  fixed  character  trait,  presumably  not  remediable  merely  on  receipt 
+of  notice  that  one’s  conduct  fails  to  meet  expectations  of  the  school  district.  (Woodland  Joint 
+Unified  School  Dist.  v.  Commission  on  Professional  Competence,  supra,  2  Cal.App.4th  at  p. 
+1444  [emphasis  added].) 
+
+In  considering  the  relevant  Morrison  factors  in  conjunction  with  the  sustained 
+allegations  contained  in  paragraphs  5,  6,  7a,  and  7b,  the  following  conclusions  are  reached. 
+
+20
+
+Likelihood  of  adverse  effects  on  the  students:  there  was  at  least  one  complaint.  No 
+
+good  can  come  from  using  profanity  in  class,  using  vulgar  or  obscene  language  in  class, 
+modeling  alcohol  shots,  telling  students  they  are  the  result  of  a  bottle  of  wine,  and  promoting 
+alternatives  to  school  such  as  dropping  out.  Each  of  those  actions  can  have  an  adverse  effect  on 
+students. 
+
+The  degree  of  adversity:  this  case  does  not  represent  the  most  extreme  form  of  teacher 
+
+misconduct,  but  is  nonetheless,  moderately  serious.  Students,  especially  high  school  seniors 
+that  are  coming  of  age,  are  impressionable  young  adults.  Exposing  them  to  profanity,  vulgarity, 
+modeling  of  alcohol  shots,  and  making  comments  with  sexual  connotations  in  class  (1.e. 
+referring  to  a  woman’s  menstrual  cycle,  talking  about  “balls,”  referencing  bottles  of  wine  and 
+how  students  came  into  existence,  and  telling  a  student  they  may  be  related  because  of 
+respondent’s  wild  days  — all  this  behavior  is  adverse  to  an  appropriate  and  productive  learning 
+environment.  In  addition,  students  come  from  different  backgrounds  and  may  have  different 
+comfort  levels  with  having  a  teacher  make  such  comments  in  front  of  their  peers. 
+
+Proximity  or  remoteness  in  time:  the  allegations  were  made  in  August  2018  and  the 
+
+district  took  swift  action,  within  four  days  of  the  commencement  of  the  school  year. 
+
+Extenuating/aggravating  circumstances:  respondent  has  repeatedly  engaged  in 
+unprofessional  conduct  over  the  past  decade,  and  refuses  to  take  responsibility  for  his  actions. 
+Although  respondent  attempted  to  make  amends  in  the  hearing,  his  closing  statement  was 
+astounding.  Rather  than  recognize  the  inappropriateness  of  what  the  district  alleged,  respondent 
+instead  blamed  the  district  for  “squandering”  public  resources.  This  does  not  evidence  the  state 
+of  mind  one  would  normally  like  to  see  if  a  person  was  truly  remorseful  for  what  they  had 
+done.°  To  the  contrary,  respondent  appears  angry  and  bitter  that  the  district  is  pursuing  charges 
+for  conduct  that  he  believes  “mischaracterized”  what  truly  occurred. 
+
+Most  of  the  factors  in  the  case  of  Jack  M.,  supra,  parallel  those  factors  listed  in 
+Morrison,  supra.  However,  two  factors  -  impairment  of  the  teacher/student  relationship  and 
+disruption  of  educational  process  are  relevant.  Respondent’s  conduct  impaired  the 
+student/teacher  relationship  and  disrupted  the  educational  process  to  the  extent  that  he 
+appeared  to  be  acting  more  as  a  “buddy”  or  “one  of  them”  rather  than  assume  the  proper  role 
+of  a  teacher.  More  importantly,  while  doing  “water  shots,”  talking  about  menstrual  cycles, 
+telling  students  about  dropping  out  of  school,  using  profanity,  and  engaging  in  all  the  other 
+
+  
+
+°  Rehabilitation  is  a  “state  of  mind”  and  the  law  looks  with  favor  upon  rewarding  with 
+the  opportunity  to  serve,  one  who  has  achieved  “reformation  and  regeneration.”  (Pacheco  v. 
+State  Bar  (1987)  43  Cal.3d  1041,  1058.)  Fully  acknowledging  the  wrongfulness  of  past 
+actions  1s  an  essential  step  towards  rehabilitation.  (Seide  v.  Committee  of Bar  Examiners 
+(1989)  49  Cal.3d  933,  940.)  While  a  candid  admission  of  misconduct  and  full 
+acknowledgment  of  wrongdoing  1s  a  necessary  step  in  the  rehabilitation  process,  it  is  only  a  first 
+step;  a  truer  indication  of  rehabilitation  is  presented  if  an  individual  demonstrates  by  sustained 
+conduct  over  an  extended  period  of  time  that  he  or  she  is  once  again  fit  to  teach.  (See  /n  re 
+Trebilcock  (1981)  30  Cal.3d  312,  315-316.) 
+
+21
+
+sustained  instances  of  misconduct,  respondent  was  disrupting  the  educational  process  — 
+which  was  to  teach  English. 
+
+14.  |  Respondent  has  been  a  teacher  since  1997,  and  certainly  has  done  much  good  for 
+his  community  and  while  engaged  in  his  public  activities.  He  may,  indeed,  have  been  effective 
+at  teaching  students  over  the  years  as  well.  However,  ultimately,  based  on  the  Morrison  factors 
+and  factors  relevant  from  Jack  M.,  a  nexus  between  respondent’s  conduct  and  his  fitness  to 
+teach  at  SJUSD  was  well-established.  On  this  record,  1t  does  not  appear  respondent’s  conduct  is 
+remediable  because  he  has  received  notice  on  multiple  occasions  from  the  SJUSD  to  stop 
+engaging  in  unprofessional  conduct,  yet  continues  to  engage  in  unprofessional  behavior.  Such 
+behavior  therefore  evidences  either  an  inadequacy  or  fixed  character  trait  that  respondent  either 
+fails  to  recognize  the  conduct  expected  of  him  by  the  SJUSD  or  knows  exactly  what  is  expected 
+of  him  but  continues  to  willfully  disregard  those  standards.  Accordingly,  on  this  record,  the 
+district’s  request  to  dismiss  respondent  must  be  upheld. 
+
+ORDER 
+
+Respondent  James  Rizor’s  appeal  from  his  dismissal  of  employment  by  the  San 
+
+Jacinto  Unified  School  District  is  denied.  The  district’s  request  to  dismiss  respondent  is 
+upheld. 
+
+DATED -Aptil  23,  2019 
+
+DATED: Aptil  23,  2019 
+
+DocuSigned  by: 
+
+Lolbvool. 
+[Js 
+JESSICA HOLBROOK 
+Assistant  Principal 
+Chino  Valley  Unified  School  District 
+
+  
+
+[Stari  Cates 
+SHARILL  CORTEZ 
+Principal 
+Perris  Elementary  School  District 
+
+QAAGA. 
+ADD). 
+OAUISVUULCITOUS ZZ 
+
+DocuSigned  by: 
+
+PERPAREZOCACIAD2 
+DVUVVUDETULCVULES 
+
+buuedere 
+
+[  inber 
+KIMBERLY J. BELVEDERE 
+Administrative  Law  Judge 
+Office  of  Administrative  Hearings 
+
+22
+
+

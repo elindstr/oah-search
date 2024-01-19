@@ -1,0 +1,2456 @@
+BEFORE THE 
+OFFICE OF ADMINISTRATIVE HEARINGS AND THE 
+COMMISSION ON PROFESSIONAL COMPETENCE FOR THE  
+LOS ANGELES UNIFIED SCHOOL DISTRICT 
+STATE OF CALIFORNIA 
+
+In the Matter of the Dismissal of: 
+
+JASON KNOPKE, 
+
+a Permanent Certificated Employee, 
+
+Respondent. 
+
+OAH No. 2021120723 
+
+DECISION 
+
+The Commission on Professional Competence (Commission) heard this matter 
+
+by videoconference on June 1 and 2, 2022. The Commission consists of Kathryn 
+
+Breidenthal, Los Angeles Unified School District (retired); Alan Underwood, Temecula 
+
+Valley Unified School District; and Administrative Law Judge (ALJ) Ji-Lan Zang, Office 
+
+of Administrative Hearings (OAH), State of California, who presided.
+
+Kelly Kim, Assistant General Counsel II, represented complainant Los Angeles 
+
+Unified School District (District). 
+
+Tamra Smith, Esq., represented Jason Knopke (Respondent), who appeared 
+
+throughout the hearing. 
+
+At the hearing, the Commission was provided with Exhibit P, which are 
+
+Respondent’s employment records. Because the document contains confidential, 
+
+private information which cannot be protected by mere redaction, entry of a protective 
+
+order is appropriate. Therefore, on her own motion and good cause appearing, the ALJ 
+
+ordered that, following the use of the exhibit in preparation of the Decision, Exhibit P 
+
+shall be placed under seal and protected from disclosure to the public. 
+
+The parties presented opening statements and oral and documentary evidence. 
+
+The record remained open for written closing argument based on the following 
+
+briefing schedule: District's closing brief was due on June 10, 2022; Respondent's 
+
+closing brief was due on June 24, 2022; and District's reply brief was due on July 1, 
+
+2022. The parties timely submitted their briefs, which were marked for identification as 
+
+follows: District’s closing and reply briefs were marked as Exhibits 21 and 22, 
+
+respectively, and Respondent’s closing brief and revised closing brief were marked as 
+
+Exhibits U and V, respectively. Following the hearing and the submission of the parties’ 
+
+briefs, the Commission conducted its deliberations in executive session.
+
+SUMMARY 
+
+The District seeks to dismiss Respondent, a middle school music teacher, for 
+
+violating its policy requiring all teachers who work onsite at District facilities to be 
+
+vaccinated against COVID-19 by October 15, 2021 (COVID-19 vaccination policy). 
+
+Respondent applied and was approved for a reasonable accommodation under the 
+
+COVID-19 vaccination policy based on his sincerely held religious belief. However, 
+
+when the District offered him a reasonable accommodation to teach at an online 
+
+school, Respondent refused the reassignment. By October 15, 2021, Respondent had 
+
+not complied with the COVID-19 vaccination policy by either accepting the reasonable 
+
+2
+
+accommodation to work remotely or having been vaccinated to work onsite at a 
+
+District facility. The Commission concludes there is legal cause for terminating 
+
+Respondent’s employment based on his persistent violation of the COVID-19
+
+vaccination policy, and that the factors set forth in 
+
+(
+
+) (1969) 1 Cal.3d 214 demonstrate Respondent is unfit to act as a 
+
+teacher. Thus, Respondent’s dismissal is warranted.
+
+FACTUAL FINDINGS 
+
+Jurisdictional Matters 
+
+1. 
+
+The Board of Education (Board) is the duly elected, qualified, and acting 
+
+governing board of the District, organized, existing, and operating pursuant to the 
+
+provisions of the California Education Code and other laws of the State of California. 
+
+2.
+
+Respondent is a certificated, permanent employee of the District and, at 
+
+all times relevant, was assigned as a music teacher at Peary Middle School (Peary).
+
+3. 
+
+On November 23, 2021, a Statement of Charges against Respondent, 
+
+alleging factual and legal grounds for termination of his employment with the District, 
+
+was signed on behalf of Kristen K. Murphy (Murphy), Ed.D., the District’s Chief of 
+
+Employee Support and Labor Relations. (Ex. 1.) 
+
+4. 
+
+By a letter dated December 7, 2021, Respondent was advised by Murphy 
+
+that the Statement of Charges had been filed with the Board, and that, during a closed 
+
+session of a Board meeting held on December 7, 2021, the Board decided to dismiss 
+
+Respondent within 30 days, unless he requested a hearing. (Ex. 2, p A10.) On 
+
+December 15, 2021, Respondent timely requested a hearing. (Ex. 3.)
+
+3
+
+5. 
+
+On March 3, 2021, the District filed the First Amended Accusation with 
+
+OAH and served it on Respondent. It includes the allegations made in the Statement 
+
+of Charges. (Ex. 9.) 
+
+The COVID-19 Vaccination Policy 
+
+6.
+
+On August 13, 2021, the District issued the COVID-19 vaccination policy 
+
+to all employees. The COVID-19 vaccination policy states in relevant part: 
+
+As part of Los Angeles Unified School District's efforts to 
+
+provide the safest possible environment in which to learn 
+
+and work, all District employees will be required to be fully 
+
+vaccinated against COVID-19 no later than October 15, 
+
+2021. . . .
+
+The purpose of this correspondence is to inform District 
+
+staff of the vaccination requirement as a condition of 
+
+continued employment/service, as well as the supports in 
+
+place to assist with receiving the vaccination and/or 
+
+verifying vaccination status, and the process for seeking a 
+
+medical or religious exemption from this requirement. 
+
+[¶] . . . . [¶] 
+
+We care about our employees and we appreciate your 
+
+commitment to maintaining the safest possible 
+
+environment for our colleagues and the students and 
+
+families we serve. 
+
+(Ex. 18, p. A231.) 
+
+4
+
+7. 
+
+The COVID-19 vaccination policy allows District employees to seek a 
+
+reasonable accommodation from the vaccination requirement due to a disability or 
+
+sincerely held religious belief. The COVID-19 vaccination policy describes the 
+
+accommodation process as follows: 
+
+If the District determines that an employee cannot be 
+
+vaccinated due to disability or a sincerely held religious 
+
+belief, an accommodation process will commence to 
+
+determine whether an accommodation can be provided 
+
+which would eliminate or reduce this risk, so the 
+
+unvaccinated employee does not pose a danger to the 
+
+health and safety of others at the District worksite. 
+
+The accommodation process will determine whether an 
+
+accommodation exists to enable an employee to perform 
+
+the "essential functions" of their job. The accommodation 
+
+process initiates at the work site with the immediate 
+
+supervisor. Essential functions vary by job class and 
+
+therefore the process shall be case by case and may result 
+
+in different outcomes in different cases.
+
+If a risk to the health and safety of others cannot be 
+
+reduced to an acceptable level through a workplace 
+
+accommodation, the employee may be excluded from 
+
+physically entering the workplace. The District and 
+
+employee will then determine if there are any available 
+
+benefit time/leave provisions. 
+
+5
+
+(Ex. 18, p. A235.) 
+
+8. 
+
+The COVID-19 vaccination policy also warns that failure to comply may 
+
+result in “disciplinary action, being placed on unpaid leave, and/or separated from 
+
+District service.” (Ex. 18, p. A235.) 
+
+9. 
+
+On August 26 and August 27, 2021, a written copy of the COVID-19 
+
+vaccination policy was disseminated to all District employees via Blackboard Connect, 
+
+the District’s internal electronic message system. (Ex. 19, pp. A238-A240.) 
+
+10.  On September 8, 2021, the District sent another email message via 
+
+Blackboard Connect reminding its employees of the requirement to be vaccinated by 
+
+October 15, 2021. Attached to this message was a written copy of the COVID-19 
+
+vaccination policy. This message also contains additional information regarding the 
+
+District’s policy on reasonable accommodations. Specifically, the email states, under a 
+
+section entitled “Reasonable Accommodations”: 
+
+Being fully vaccinated is an "essential job function." Thus, 
+
+no one is "exempted" from the District's requirement that 
+
+all employees (and other adults providing services at 
+
+District facilities) be fully vaccinated by October 15, 2021. 
+
+That is, every adult working or providing services at a 
+
+District facility MUST be fully vaccinated no later than 
+
+October 15, 2021. Where feasible, the District will 
+
+reasonably accommodate employees who, based on a 
+
+documented disability or sincerely held religious belief, wish 
+
+to continue working without being fully vaccinated. Please 
+
+be aware, however, that reasonable accommodations do 
+
+6 
+
+not include permitting employees to continue working at a 
+
+District facility without being fully vaccinated. 
+
+In the event the District receives a request for a reasonable 
+
+accommodation based on a documented disability or 
+
+sincerely held religious belief, the District will engage with 
+
+the employee in what's known as the "interactive process" 
+
+to determine whether the District is able to reasonably 
+
+accommodate the employee. 
+
+Although rare, some positions at the District avail 
+
+themselves to remote work as a reasonable 
+
+accommodation. In making its determination concerning 
+
+whether to permit remote work, the District will engage 
+
+with you in the interactive process and will consider 
+
+multiple factors, including the availability and feasibility of 
+
+remote work. However, where your essential job duties 
+
+require your physical presence at a District facility, the 
+
+District will be unable to offer remote work as an 
+
+accommodation. Further, where a risk to the health and 
+
+safety of others cannot be reduced to an acceptable 
+
+level through a workplace accommodation, the 
+
+employee may be excluded from physically entering the 
+
+workplace. 
+
+(Ex. 19, pp. A238-A240, emphases in original.) 
+
+11.  On September 15, 2021, the District sent another email reminder of the 
+
+COVID-19 vaccination policy via Blackboard connect. This September 15, 2021 
+
+7 
+
+message repeats the same language about reasonable accommodations as described 
+
+above (
+
+, Factual Finding 10) and sets forth a September 24, 2021 deadline to apply 
+
+for a medical or religious accommodation request. It also contains the following 
+
+additional information: 
+
+Remote Work as a Reasonable Accommodation for 
+
+Teachers 
+
+Available accommodations for teachers may include, upon 
+
+availability, an assignment to the District's online 
+
+independent study program through City of Angels, Even if 
+
+accommodated, teachers who are not fully-vaccinated by 
+
+October 15, 2021 will not be permitted to continue teaching 
+
+at a site other than City of Angels. 
+
+Where Reasonable Accommodations Are Not Available
+
+Should an alternative accommodation not be available, the 
+
+District and employee will then determine if there are any 
+
+available benefit time/leave provisions, such as use of the 
+
+employee's illness leave (if due to medical reasons), 
+
+personal necessity, vacation, or unpaid leave options. 
+
+(Ex. 19, pp. A244, emphases in original.) 
+
+12.  On September 16, 22, and 29, and October 6, 8, and 13, 2021, the District 
+
+sent additional messages to all employees who remained unvaccinated to remind 
+
+them of the COVID-19 vaccination policy. All these messages repeat the same 
+
+language regarding reasonable accommodations described above. (
+
+, Factual 
+
+Findings 10 & 11.) 
+
+8 
+
+Respondent’s Application for Reasonable Accommodation 
+
+13.
+
+Respondent has taught as a music teacher at Peary since 2007. He 
+
+possesses a clear single subject teaching credential in music and an administrative 
+
+services credential. (Ex. O.) From March 2020 until February or March 2021, 
+
+Respondent taught his music classes remotely due to the District-wide shut down 
+
+during the COVID-19 pandemic. From February or March 2021 to August 2021, 
+
+Respondent returned to in person teaching. In August 2021, Respondent received the 
+
+COVID-19 vaccination policy, which requires him either to be vaccinated to work 
+
+onsite or to seek a reasonable accommodation. 
+
+14.  On August 27, 2021, pursuant to the COVID-19 vaccination policy, 
+
+Respondent submitted a Reasonable Accommodation Application to the District. (Ex. 
+
+A.) His application included a letter, dated August 24, 2021, in which Respondent 
+
+explained his religious objections to the COVID-19 vaccine. (
+
+. at p. B2-B3.) 
+
+Respondent also included a letter from his doctor stating that Respondent had 
+
+recovered from a previous infection of COVID-19. Respondent further explained that 
+
+he and his family “all have fully recovered [from COVID-19] and now I have natural 
+
+immunity which makes me an asset to the Los Angeles Unified School District because 
+
+I am not afraid to come to work unlike some of my colleagues.” (
+
+. at p. B3.)
+
+15.  On August 28, 2021, Respondent submitted to the District an additional 
+
+letter from his pastor in support of his Reasonable Accommodation Application. (Exs. C 
+
+& D.) On August 29, 2021, the District acknowledged receipt of Respondent’s 
+
+Reasonable Accommodation Application. 
+
+16.  On September 19, 2021, Naomi Suenaka (Suenaka) from the District’s 
+
+Sincerely Held Religious Belief Committee notified Respondent by email that his 
+
+9
+
+Reasonable Accommodation Application had been approved and that he would be 
+
+assigned to teach at the District’s online, independent study school, City of Angels. 
+
+Suenaka wrote, “You will be contacted directly by the HR team to provide an 
+
+assignment for City of Angels. In the event there are no available positions with the 
+
+City of Angels by October 15th, any applicable benefit time may be used after that 
+
+date in order to ensure payment.” (Ex. E, p. B8.)
+
+17.  On September 21, 2021, Respondent, unsure if he had been approved for 
+
+a reasonable accommodation, emailed the District to seek more information. He asked 
+
+about the next step in the reasonable accommodation process. He also wrote, “I have 
+
+heard the reasonable accommodation is teaching through City of Angels and I will not 
+
+be allowed on a ‘district facility?’ Is this true?” (Ex. F.) 
+
+18.  On September 24, 2021, Respondent emailed his principal, Christina 
+
+Green, to inquire about the next step in the reasonable accommodation process and 
+
+requested a meeting with Principal Green. (Ex. G.) 
+
+19.  On the same day, Respondent also emailed Steven J. McCarthy 
+
+(McCarthy), District’s Director of Arts Education, to inquire about a possible position as 
+
+a Visual and Performing Arts (VAPA) Coordinator. Respondent wrote in this email: 
+
+I have applied for a religious exemption for the covid 19 
+
+vaccine and sent a doctor's note stating that I have both 
+
+contracted and fully recovered from Covid-19. My natural 
+
+immunity is apparently not enough assurance to the board 
+
+of education and I hear they are shipping all of us 
+
+unvaccinated teachers to City of Angels, although there is 
+
+10 
+
+no guarantee they will pick me up. In that case, I will need 
+
+to use my sick days and then . . . [Sad face emoji.] 
+
+[¶] . . . . [¶] 
+
+Might you be able to inquire if CoA [City of Angels] is 
+
+looking for a VAPA coordinator to oversee the many VAPA 
+
+teachers they will probably be getting? I don't know how 
+
+much access the students have currently, but lemonade 
+
+could potentially be made from this adverse situation. . .  
+
+(Ex. H, pp. B15-16.) 
+
+20.  McCarthy responded on the same day there were no plans to hire a 
+
+VAPA coordinator at the City of Angels. (Ex. H, p. B15.) 
+
+21.
+
+On September 27 and September 28, 2021, Respondent sent more emails 
+
+to the District inquiring about the next step in the reasonable accommodation process. 
+
+(Exs. I & J.) 
+
+District’s Offer of Reasonable Accommodation
+
+22.  On September 28, 2021, Michelle Palomares, on behalf of Maria 
+
+Sotomayor (Sotomayor), the District’s Director of Organizational Effectiveness, 
+
+responded to Respondent’s inquiries. Sotomayor informed Respondent that a position 
+
+at the City of Angels was available effective October 5, 2021. If Respondent were to 
+
+accept the reassignment to City of Angels, Respondent must notify his principal 
+
+immediately. Sotomayor also warned, “Should you decide not to accept this 
+
+assignment, and remain at your worksite, you will be required to be vaccinated as 
+
+11 
+
+every employee working or providing services at a District facility MUST be fully 
+
+vaccinated no later than October 15, 2021.” (Ex. K, capitalization in original.) 
+
+23. 
+
+By October 11, 2021, however, Respondent had decided to decline the 
+
+District’s offer of reassignment to City of Angels. Respondent heard information from 
+
+his colleagues and Principal Green that he would be required to teach multiple 
+
+subjects at the City of Angeles. In an email to Woodrow Curry (Curry), Respondent’s 
+
+union representative, dated the same day, Respondent wrote, “I am one of the 
+
+teachers who filed for sincerely held religious beliefs, was ‘accommodated,’ but will 
+
+not be selecting the City of Angels (CoA) option. I will be using up my full sick days 
+
+and then exhausting the half days until I run out of both. . . .” (Ex. L, bold in original.) 
+
+24. 
+
+At this point, Respondent was under the belief that he could use his sick 
+
+days for leave because he had a meeting sometime in October with Principal Green 
+
+during which he was told the use of sick time was permissible. However, this was 
+
+misinformation, as the COVID-19 vaccination policy stated, “Should an alternative 
+
+accommodation not be available, the District and employee will then determine if 
+
+there are any available benefit time/leave provisions, such as use of the employee's 
+
+illness leave (if due to medical reasons) . . . “  (Ex. 19, pp. A244.) Thus, the use of sick 
+
+days was only available to those employees who qualified for reasonable 
+
+accommodations due to a medical condition. At a second meeting with Principal 
+
+Green in October 2021, Principal Green corrected this misinformation and notified 
+
+Respondent that he could only use personal necessity days, not sick days, to cover any 
+
+leave. 
+
+25. 
+
+By October 15, 2021, Respondent had refused the reassignment to City 
+
+of Angels, but he also remained unvaccinated and was thus unable to work at a District 
+
+facility per the COVID-19 vaccination policy. 
+
+12 
+
+The Disciplinary Process 
+
+26.
+
+On October 20, 2021, District Administrator Jose Posada (Posada) and 
+
+District Field Director Jeanette Stevens (Stevens) held a meeting with Respondent and 
+
+Curry, Respondent’s union representative. At this meeting, Posada and Stevens issued 
+
+to Respondent (1) a Notice of Unsatisfactory Act (NOUA), alleging that Respondent 
+
+had failed to comply with the District’s COVID-19 vaccination policy requiring all 
+
+employees who serve at  District facilities to be vaccinated by October 15, 2021; and 
+
+(2) a Notice of Suspension (NOS), notifying Respondent that he has been suspended 
+
+without pay for 15 days based on his violation of the COVID-19 vaccination policy. 
+
+(Exs. 15 & 16.) 
+
+27. 
+
+According to Respondent, he believed this October 20, 2021 meeting 
+
+with Posada and Stevens was part of the “interactive process” where he would be able 
+
+to discuss options for reasonable accommodation other than City of Angels. 
+
+Respondent expressed to Posada and Stevens his concerns about taking the City of 
+
+Angels assignment. Specifically, Respondent was worried that he would be teaching 
+
+outside of his credentials because teachers at City of Angels teach multiple subjects 
+
+while Respondent held a single subject credential in music. Respondent recalled that 
+
+Stevens was “caught off guard” (Respondent’s testimony) by this concern, but she told 
+
+Respondent that his credential would allow him to teach at City of Angels. Curry 
+
+suggested that Respondent reach out to Michael Thompson (Thompson), another 
+
+District administrator with his questions about teaching outside of his credentials. 
+
+Additionally, Respondent told Stevens and Posada that he had recovered from COVID 
+
+and was willing to test twice a week to teach on campus. Respondent’s recollection of 
+
+Posada’s response to this offer was “thank you but we are not doctors.” 
+
+13 
+
+28. 
+
+After the October 20, 2021 meeting, Respondent followed up on Curry’s 
+
+suggestion to email Thompson with his questions on credentialing. However, he never 
+
+received a response from Thompson. 
+
+29.
+
+In an email string dated October 20, 2021, Stevens requested that 
+
+Respondent sign the NOUA and the NOS. In an email dated October 21, 2021, 
+
+Respondent refused to sign the NOUA and the NOS because of what he called
+
+“libelous errors” in those documents. Respondent also asserted that the District was 
+
+“bearing false witness against me [Respondent] and that is a viola[ti]on of God’s 9th 
+
+Commandment.” (Ex. 11, p. A197.) Respondent also contended in this email that given 
+
+his prior COVID infection, his natural immunity was more robust than vaccinated 
+
+individuals, citing to four studies by Daniel Horowitz from the Blaze.com. Respondent 
+
+wrote: 
+
+I want to work at my school, Peary Middle School teaching 
+
+music- I signed a contract to teach music at Peary Middle 
+
+School, not anywhere else. I have been there for 14 years. I 
+
+would be willing to test twice a week if the district is willing 
+
+to offer that as a reasonable accommoda[ti]on. It is 
+
+unreasonable for the district to remove all employees with 
+
+Sincerely Held Religious Beliefs to a virtual setting when 
+
+vaccina[ti]on does not prevent infec[ti]on or the spread of 
+
+disease itself, it lessens the symptoms. I see no difference in 
+
+a vaccinated teacher versus one like me who has natural 
+
+immunity. . . .  
+
+(Ex. 11, p. A198.) 
+
+14 
+
+30.  On October 27, 2021, Respondent emailed Lisa Fassett (Fassett) at the 
+
+California Department of Education (CDE) to inquire about teaching outside of his 
+
+credentials. Respondent asked three questions, the third of which states, “Is there any 
+
+other scenario in which I could legally teach Math, English, Science, History, and P.E. 
+
+here in the state of California in a K12 public school? Please advise.” (Ex. N, p. B23.) 
+
+Fassett responded, “Teacher's [
+
+] need to be properly credentialed in the subject 
+
+matter and grade level they are teaching. However, in special circumstances when 
+
+there [
+
+] a shortage of teachers in certain subject areas, an LEA [Local Education 
+
+Agency] might have a teacher with a special permit or temporary certificate to teach 
+
+those classes. For further information please contact your school district.” (
+
+. at p. 
+
+B22.) According to Respondent, he also contacted the Commission on Teacher 
+
+Credentialing (CTC) to seek advice on teaching outside of his credentials, but he does 
+
+not recall the advice from the CTC about whether he would be able to teach at the City 
+
+of Angels with his music credential. 
+
+31. 
+
+In a letter dated November 2, 2021, the District notified Respondent that 
+
+a virtual meeting via Zoom was scheduled on November 9, 2021, to discuss 
+
+Respondent’s possible dismissal and immediate suspension by the Board. The letter 
+
+also informed Respondent that after the meeting, a District administrator will make 
+
+recommendations to the Board as to whether Respondent’s dismissal should move 
+
+forward. The letter states that if the administrator proceeds with the recommended 
+
+dismissal and the Board approves the recommendation, Respondent will be suspended 
+
+without pay pending the outcome of the dismissal action, unless he files a motion for 
+
+immediate reversal of suspension under Education Code (all further references are to 
+
+the Education Code unless otherwise designated) section 44939. 
+
+15 
+
+32. 
+
+Present at this November 9, 2021 meeting were Respondent, Stevens, 
+
+Carlen Powell (Powell), District administrator, and Jill Marucut (Marucut), Respondent’s 
+
+union representative. Respondent wrote an email on the same day after the meeting 
+
+addressed to Powell, with copies to Stevens and Marucut. In this email, Respondent 
+
+again asserted that the causes for dismissal against him are “libelous.” Respondent 
+
+wrote, “Given all current available vaccines are s[ti]ll under Emergency Use 
+
+Authoriza[ti]on, manda[ti]ng them is completely illegal! You are breaking the law. 
+
+Attemp[ti]ng to place me in disciplinary ac[ti]on based on an illegal mandate is also 
+
+not lawful.” (Ex. 11, A195.) Respondent also expressed his belief that he was the 
+
+subject of discrimination, writing “LAUSD does not have a right to treat students, 
+
+faculty and employees differently based on whether or not they are vaccinated, which I 
+
+am being treated differently. Most importantly, LAUSD does not have a right to 
+
+discriminate against employees with sincerely held religious beliefs, to be segregated
+
+to [
+
+] an online school called City of Angels for the remainder of the school year. This 
+
+is not a reasonable accommoda[ti]on.” (
+
+.) Regarding his ability to teach at the City 
+
+of Angels, Respondent wrote, “While I believe what Jeanette [Stevens] said today: ‘If I 
+
+had accepted the CoA [City of Angels] posi[ti]on, I would be creden[ti]aled to teach 
+
+it[,]’ the statement is contradicted by readily available informa[ti]on on CCTC's 
+
+website.” (
+
+.) 
+
+33. 
+
+In a letter addressed to Respondent dated November 15, 2021, Powell 
+
+informed him that she would be recommending Respondent’s dismissal from 
+
+employment with the District to the Board. Powell also described the November 9, 
+
+2021 meeting as follows: 
+
+During the meeting, on your behalf, Ms. Marucut stated 
+
+that you had sought and received a Reasonable 
+
+16 
+
+Accommodation as a teacher at City of Angels. You stated 
+
+that the COA [City of Angels] assignment was drastically 
+
+different than your current job responsibilities, and 
+
+therefore not a comparable, nor a reasonable 
+
+accommodation. You also stated that due to having had 
+
+COVID, that you possess a natural immunity to the COVID 
+
+virus. You discussed 15 research studies and shared that 
+
+you are not required by law to be vaccinated. You also 
+
+stated that you did not understand the Education Code that 
+
+was listed in the discipline packet, and you felt that the 
+
+charges listed in the discipline packet were libelous in 
+
+nature. In addition, you referenced the documents you had 
+
+sent on October 21, 2021, in response to the discipline 
+
+issued on October 20, 2021. These documents are included 
+
+in the Administrative Hearing Documents.
+
+(Ex. 12, p. A203.) 
+
+34. 
+
+In a letter dated December 7, 2021, Murphy notified Respondent that the 
+
+Statement of Charges had been filed with the Board, and that, during a closed session 
+
+of a Board meeting held on December 7, 2021, the Board decided to dismiss 
+
+Respondent within 30 days, unless he requested a hearing. 
+
+Testimony of Gifty Beets 
+
+35. 
+
+Gifty Beets (Beets), District’s Assistant Chief Human Resources Officer, 
+
+testified at the hearing on behalf of the District. Beets explained that the District 
+
+developed the COVID-19 vaccination policy based on guidance from physicians, the 
+
+17 
+
+Centers for Disease Control and Prevention (CDC), California Department of Public 
+
+Health (CDPH), and the Los Angeles County Department of Health (LACDH). The 
+
+purpose of the policy is to maintain in-person schooling, ensure the safety of students 
+
+and teachers, and minimize the circulation of the COVID-19 virus. Beets also explained 
+
+the dissemination of the COVID-19 vaccination policy through Blackboard Connect to 
+
+all District employees. 
+
+36.
+
+Based on her review of Respondent’s case, Beets testified that 
+
+Respondent applied and was ultimately approved for reasonable accommodation 
+
+based on his sincerely held religious beliefs. While the District did not expect those 
+
+employees with sincerely held religious beliefs to be vaccinated, the COVID-19 
+
+vaccination policy also did not allow any unvaccinated employees to work at any 
+
+District facility, which included the Peary campus. According to Beets, the “interactive 
+
+process” described in the COVID-19 vaccination policy is a communication process for 
+
+employees to ask questions about reasonable accommodation and for the District to 
+
+answers those questions. The reasonable accommodation provides an opportunity for 
+
+unvaccinated teachers to work remotely. 
+
+37. 
+
+Beets testified that teachers with valid credentials and approved for 
+
+reasonable accommodations were accommodated at the City of Angels. The City of 
+
+Angels is the District’s 100 percent online independent studies program. Any teacher 
+
+with a valid credential is able to teach at the City of Angeles without violating CTC 
+
+credentialing rules, and the District provides professional development to those 
+
+teachers assigned to the City of Angels to provide further instruction on how to 
+
+conduct the independent study program. Beets stated that employees who were not 
+
+accommodated through the City of Angels were offered utilization of unpaid leave. In 
+
+Respondent’s case, the District did not consider allowing him to teach his music class 
+
+18 
+
+at Peary virtually as a reasonable accommodation because the Peary students had 
+
+returned to campus to receive in-person instruction. Beets testified that the District’s 
+
+offer to work at City of Angles was a voluntary reassignment, not a directive. However, 
+
+Respondent violated the COVID-19 vaccination policy by refusing the City of Angels 
+
+assignment as a reasonable accommodation and demanding to work at a District 
+
+facility unvaccinated. 
+
+Respondent’s Testimony 
+
+38. 
+
+Respondent obtained his bachelor’s degree in music from the University 
+
+of Southern California. Respondent served as a teacher for the Norwalk-La Mirada 
+
+Unified School District and Kipp Los Angeles College-Preparatory School before 
+
+coming to work at Peary as a music teacher in March 2007. Respondent loves his job 
+
+because he enjoys giving back to his community through teaching. 
+
+39. 
+
+At Peary, Respondent teaches two days of beginning band with tutoring 
+
+and group private lessons, and two days of advanced band. Respondent also teaches 
+
+after-school programs. Respondent described his day-to-day duties as “accelerate the 
+
+kids and prepare them for high school.” Respondent recounted that some students 
+
+start with no experience and interest in music but finish the school year as successful 
+
+members of the band. The band that Respondent teaches has held joint performances 
+
+with the local high school band and performed in community events, including 
+
+Veteran's Day and Martin Luther King Day celebrations. Respondent submitted 
+
+evaluations from 2008 through 2021 showing that his work as a music teacher at Peary 
+
+was rated as “Meets Standard Performance” for each school year. (Ex. P.) 
+
+40. 
+
+Respondent acknowledged that he has received and read the COVID-19 
+
+vaccination policy through Blackboard Connect. He asserted that COVID-19 vaccines 
+
+19 
+
+contain aborted fetal cell lines, and he objects to them based on his religious beliefs. 
+
+Respondent testified that when he received the September 28, 2021 email from 
+
+Sotomayor offering him the reassignment to City of Angels, he believed the 
+
+reassignment was voluntary and he was free to accept or decline it. However, he also 
+
+conceded that he understood the COVID-19 vaccination policy does not allow 
+
+unvaccinated employees to work in District facilities. Although Respondent initially 
+
+wished to use his sick days, he now understands that only employees with medical 
+
+conditions may use sick days as a reasonable accommodation. Respondent stated that 
+
+he asked McCarthy about the VAPA Coordinator position at the City of Angels because 
+
+he thought it was an opportunity for him to use his administrator’s certificate. 
+
+Respondent also would have been amenable to a teaching position at the City of 
+
+Angels if he could have taught music classes only. Respondent feels that the District 
+
+did not properly conduct the “interactive process” described in its COVID-19 
+
+vaccination policy. Respondent thought that during the “interactive process,” the 
+
+District was going to engage in more discussion rather than using a “my way or the 
+
+highway” approach. 
+
+41. 
+
+Respondent believes that teaching multiple subjects at the City of Angels 
+
+would be “unethical” and he would be "cheating [his] students" if he were not teaching 
+
+music. Respondent conceded that he obtained information about the City of Angels 
+
+from the "rumor mill," but he also relied on information he obtained from Principal 
+
+Green. Respondent also relied on Fassett’s email in forming his belief that his 
+
+credential would not allow him to teach multiple subjects at the City of Angels. 
+
+However, Respondent admitted during cross-examination that Fassett’s email made no 
+
+reference to credentialing problems if he were to teach at the City of Angels. 
+
+Respondent presented no evidence that he would have been teaching outside of his 
+
+credentials had he accepted the reassignment to the City of Angels. 
+
+20 
+
+Analysis: Violation of the COVID-19 Vaccination Policy 
+
+42.
+
+The District broadcasted its policy requiring every employee working at a 
+
+District facility to be vaccinated by October 15, 2021, via Blackboard Connect on 
+
+September 8, 15, 16, 22, and 19, and October 6, 8, and 13, 2021. The COVID-19 
+
+vaccination policy explicitly states that reasonable accommodations based on disability 
+
+or religious belief do not include working at District facilities unvaccinated. 
+
+Respondent admitted that he received all these communications regarding the COVID-
+
+19 vaccination policy via Blackboard Connect. Due to his sincerely held religious 
+
+beliefs, Respondent was approved for reassignment to the City of Angels as a 
+
+reasonable accommodation. In her September 28, 2021 email to Respondent offering 
+
+the City of Angels reassignment, Sotomayor again emphasized that if Respondent did 
+
+not take the reassignment and chose to remain at his worksite, he was require to be 
+
+vaccinated no later than October 15, 2021. Respondent further testified he understood 
+
+unvaccinated employees were not allowed to work at District facilities, including Peary, 
+
+after October 15, 2021. Therefore, Respondent either knew, or should have known, 
+
+that his offer to undergo COVID-19 tests twice a week to teach in person at Peary 
+
+violated the COVID-19 vaccination policy. 
+
+43.
+
+Respondent also sought to work as a VAPA Coordinator at the City of 
+
+Angels, but McCarthy had informed him that no such position was open for hire. 
+
+Respondent also considered using his sick time as a reasonable accommodation, but 
+
+he eventually realized that the COVID-19 vaccination policy limited the use of sick time 
+
+to those employees with a medical condition. Given that these options were 
+
+foreclosed, Respondent either knew, or should have known, he could either (1) accept 
+
+the City of Angels reassignment in compliance with the COVID-19 vaccination policy, 
+
+or (2) refuse the City of Angels reassignment and thereby violate the COVID-19 
+
+21 
+
+vaccination policy because he was unvaccinated and could not work at a District 
+
+facility. 
+
+44. 
+
+Respondent ultimately declined the reassignment to the City of Angels 
+
+because he feared that his single subject credential would not allow him to teach 
+
+multiple subjects. This fear was unfounded, in that Respondent’s belief he could not 
+
+teach multiple subjects at the City of Angels was based on pure speculation. Although 
+
+Respondent sought advice from Fassett at the CDE about his credentials, Fassett did 
+
+not indicate that Respondent could not teach at the City of Angeles with his credential. 
+
+She directed Respondent to seek more information from his District. Respondent 
+
+presented no evidence, either from the CTC website or from his conversation with the 
+
+CTC, that the CTC prohibited him to teach at the City of Angels with his single subject 
+
+credential. On the contrary, Respondent was told by Stevens from the District that he 
+
+would be able to teach at the City of Angels without running afoul of credentialing 
+
+rules and regulations at the October 20 and November 9, 2021 meetings. 
+
+45. 
+
+Therefore, by refusing the City of Angels reassignment as a reasonable 
+
+accommodation and insisting on teaching in person at a District facility without being 
+
+vaccinated, Respondent violated the COVID-19 vaccination policy. 
+
+Character Evidence
+
+46. 
+
+At the hearing, Kevin Walker (Walker), a District teacher since 1991,
+
+testified on Respondent’s behalf. Walker, who also worked at Peary, has known 
+
+Respondent since 2007. Walker has observed Respondent as a music teacher and has 
+
+seen him transform students with no prior musical experience into performers at the 
+
+level of a high school band. Walker described Respondent as a “firm but fair” teacher 
+
+who is beloved by his students. Walker also applied and was approved for a 
+
+22 
+
+reasonable accommodation from the COVID-19 vaccination policy based on his 
+
+religious beliefs. Walker confirmed that Principal Green also misinformed him about 
+
+the use of sick time as a reasonable accommodation, but he later learned from another 
+
+source that only those with medical issues are allowed to use sick time. Walker is 
+
+currently working at the City of Angels as a reasonable accommodation. Walker holds 
+
+a multiple subject credential, and he feels comfortable teaching multiple subjects at 
+
+the City of Angels. Before starting his work at the City of Angels, the District also 
+
+provided instruction and support to Walker on using the Ingenuity program to 
+
+generate curriculum and grading for the independent studies program.
+
+47. 
+
+At the hearing, Emily Noguchi (Noguchi), the parent of a student at 
+
+Peary, testified on Respondent’s behalf. Respondent has taught music to four of 
+
+Noguchi’s children. Her children loved Respondent’s classes, and their musical skills 
+
+improved greatly under Respondent’s instruction. Noguchi described Respondent’s 
+
+classroom as a “very friendly, safe and welcoming environment.” She was also 
+
+impressed by how the middle school students in Respondent’s band were able to 
+
+perform concerts flawlessly after taking his class. 
+
+48. 
+
+Both Walker and Noguchi also submitted character reference letters 
+
+consistent with their testimony at hearing. Furthermore, Respondent submitted 
+
+additional character reference letters from his colleagues, parents of students, former 
+
+students, Peary’s Assistant Principal (Ramon Collins), and Peary’s former Principal 
+
+(Marva Woods). (Ex. Q.) These authors uniformly describe Respondent as an excellent 
+
+music teacher who performed his job with integrity and commitment. 
+
+/// 
+
+/// 
+
+23 
+
+LEGAL CONCLUSIONS 
+
+Burden and Standard of Proof 
+
+1.
+
+The District has the burden of proving the charges by a preponderance 
+
+of the evidence. (
+
+(1985) 164 
+
+Cal.App.3d 1035, 1038–1039.) Preponderance of the evidence means “the evidence on 
+
+one side outweighs, preponderates over, is more than, the evidence on the other side.”  
+
+(
+
+(1990) 226 Cal.App.3d 314, 325.)
+
+First Cause for Termination: Evident Unfitness for Service 
+
+2. 
+
+Certificated employees are subject to dismissal for evident unfitness for 
+
+service pursuant to section 44932, subdivision (a)(6). “Evident unfitness for service” 
+
+means clearly not fit, not adapted to or unsuitable for teaching, ordinarily by reason of 
+
+temperamental defects or inadequacies. (
+
+(
+
+) (1992) 2 Cal.App.4th 1429, 
+
+1444.) “'Evident unfitness for service' connotes a fixed character trait, presumably not 
+
+remediable merely on receipt of notice that one's conduct fails to meet the 
+
+expectations of the employing school district.” (
+
+) 
+
+3. 
+
+The District contends that Respondent’s refusal to accept the City of 
+
+Angels reassignment demonstrates “unreasonableness.” (Ex. 20, p. A293.) The District 
+
+further contends, “[Respondent’s] unreasonableness and his inability to adhere to the 
+
+District's policy is a condition that cannot be remedied, making him unfit to serve the 
+
+District as a teacher.” (
+
+.) These arguments were not convincing. 
+
+4. 
+
+As discussed below, the 
+
+factors indicate that Respondent is 
+
+unfit to serve as a teacher. (
+
+, Legal Conclusions 35 & 36.) However, the conclusion 
+
+24 
+
+that a teacher is unfit under the 
+
+ criteria is only the threshold issue. The next 
+
+step is to determine whether the unfitness is "evident"; that is, whether the offensive 
+
+conduct is caused by a defect in temperament or fixed character trait. (
+
+, 
+
+, Cal.App.4th at p. 1445; 
+
+(1989) 211 Cal.App.3d 986, 991.) Here, 
+
+Respondent did not comply with the COVID-19 vaccination policy, in that he refused 
+
+the City of Angels reassignment as a reasonable accommodation and insisted on 
+
+returning to Peary unvaccinated. Nevertheless, Respondent’s failure to comply with the 
+
+COVID-19 vaccination policy was not the result of a defect in temperament or a fixed 
+
+character trait. Although Respondent may have been unreasonable in refusing the City 
+
+of Angels reassignment in this instance, he had no prior, similar problem with failing to 
+
+follow other District policies. Respondent has the proper temperament to be a teacher, 
+
+as the record reflects he is a well-loved, effective teacher whose job performance met 
+
+the District’s performance standards throughout his tenure. Respondent’s refusal to 
+
+comply with the COVID-19 vaccination policy does not arise to the level of a defect in 
+
+temperament or a fixed character trait, and the District did not establish by a 
+
+preponderance of the evidence that Respondent is evidently unfit for service, pursuant 
+
+to section 44932, subdivision (a)(6). 
+
+Second Cause for Termination: Persistent Violation of School Laws 
+
+5. 
+
+Certificated employees are subject to dismissal for persistent violation of, 
+
+or refusal to obey, the school laws of the state or reasonable regulations prescribed for 
+
+the government of the public schools by the State Board of Education or by the 
+
+governing board of the school district employing him, pursuant to section 44932, 
+
+subdivision (a)(8). 
+
+/// 
+
+25 
+
+REASONABLENESS OF THE COVID-19 VACCINATION POLICY 
+
+6.
+
+Respondent contends in his closing brief that “[t]he District also bears 
+
+the burden of proving that any regulations it alleges Respondent violated were, in fact, 
+
+’reasonable,’ since that is one of the elements of the District's case under § 4932(a)(8). 
+
+Contrary to the District's contentions, Respondent does not bear the burden of 
+
+proving the District's regulations were unreasonable.” (Ex. V, p. B137.) Respondent’s 
+
+argument is not compelling. 
+
+7. 
+
+In general, a school district has all authority necessary to fulfill its 
+
+purposes except as expressly limited or preempted by statute. (§ 35160.) “It follows 
+
+that courts should give substantial deference to the decisions of local school districts 
+
+and boards within the scope of their broad discretion, and should intervene only in 
+
+clear cases of abuse of discretion.” (
+
+ (1994) 
+
+28 Cal.App.4th 998, 1017–1018.) As a result of section 35160, Respondent must show 
+
+that the District’s actions “conflict with or are preempted by any law and conflict with 
+
+the purposes for which school districts are established.” (
+
+Cal.App.4th 1379, 1386 [holding that a school district had the authority to require its 
+
+teachers to obtain a certification to teach English to children who do not speak the 
+
+language in a dismissal case for persistent violation of reasonable school laws].) 
+
+(2009) 177 
+
+8.
+
+In this case, Beets testified that the District developed its COVID-19 
+
+vaccination policy in consultation with physicians, the CDC, the CDPH, and LACDH. The 
+
+goal of the policy is to allow for in-person instruction while protecting the health and 
+
+safety of students and District employees and minimizing the transmission of the 
+
+COVID-19 virus. Beets’ testimony established that the COVID-19 vaccination policy 
+
+requiring all District employees who work in District facilities to be vaccinated is 
+
+26 
+
+reasonable. Respondent, on the other hand, presented no evidence that the COVID-19 
+
+vaccination policy contravened any law or the District’s purposes as a school district. 
+
+9. 
+
+In recognition of his sincerely held religious beliefs, the District did not 
+
+require or expect Respondent to be vaccinated. However, Respondent claimed that the 
+
+District did not properly engage in the interactive process as described in the COVID-
+
+19 vaccination policy. This is a misunderstanding of the interactive process, which 
+
+derives from employment discrimination laws. Pursuant to Government Code section 
+
+12940, it is an unlawful employment practice to fail to reasonably accommodate a 
+
+person's religious practices: "It shall be an unlawful employment practice . . . [f]or an 
+
+employer . . . to discharge a person from employment . . . or to discriminate against a 
+
+person . . . because of a conflict between the person's religious belief or observance 
+
+and any employment requirement, unless the employer . . . demonstrates that it has 
+
+explored any available reasonable alternative means of accommodating the religious 
+
+belief or observance . . . ." (Gov. Code, § 12940, subd. (l)(1).) The interactive process is 
+
+simply the process by which employees and their employers determine whether an 
+
+accommodation can be made for the employee. (
+
+. at subd. (n).) 
+
+10.  Here, the District accommodated Respondent by reassigning him to the 
+
+City of Angels. Respondent did not believe this reassignment to be reasonable
+
+because he would not be teaching music, but multiple subjects. Respondent was also 
+
+concerned about teaching outside of his credentials, but this concern was speculative, 
+
+as Respondent did not receive any responses from the CTC or the CDE prohibiting him 
+
+from teaching at the City of Angels. In fact, based on Stevens’ advice at the October 20 
+
+and November 9, 2021 meetings and the testimony of Beets and Walker at the 
+
+hearing, Respondent could have taught at the City of Angels with his single subject 
+
+credential without any issues. There is also no evidence that teaching at the City of 
+
+27 
+
+Angels would have conflicted with Respondent’s religious beliefs. On the other hand, 
+
+Respondent’s proposed accommodations—continuing to teach at Peary but testing 
+
+twice a week, using his sick time, being a VAPA coordinator, teaching at the City of 
+
+Angels as a music teacher only—either would have violated the COVID-19 vaccination 
+
+policy or would have required the District to create job positions which do not exist. In 
+
+light of these considerations, the District did properly engage in the interactive 
+
+process, and the District offer of reassignment to the City of Angels as an 
+
+accommodation was also reasonable. 
+
+PERSISTENT NATURE OF RESPONDENT’S VIOLATIONS
+
+11. 
+
+The District contends that Respondent has been in persistent violation of 
+
+the COVID-19 vaccination policy since October 15, 2021, because he refused 
+
+reassignment to the City of Angels as a reasonable accommodation and did not 
+
+submit proof of vaccination to work onsite at a District facility by the stated deadline. 
+
+(Ex. 20, p. A294.) Respondent, however, contends that his refusal to take the vaccine 
+
+constitutes a single violation, which is not “persistent” within the meaning of section 
+
+44932, subdivision (a)(7). (Ex. V, pp. B135-136.) Respondent’s arguments were not 
+
+persuasive because the facts of this case are distinguishable from the case law 
+
+Respondent cites in support of his position. 
+
+12. 
+
+For example, Respondent cites to 
+
+(
+
+) (1985) 174 Cal.App.3d 317, in which the Appellate Court held 
+
+that a teacher who repeatedly refused a principal’s directive to write two additional 
+
+objectives in her performance review was not subject to dismissal for persistent 
+
+violation of school rules. The Appellate Court reasoned: 
+
+28 
+
+Unlike 
+
+ (1982) 135 Cal.App.3d 278, 
+
+287, 185 Cal.Rptr. 203, cited by the board, this case does 
+
+not involve persistently repeated acts of conduct affecting 
+
+the students. [fn. omitted] Absent any conduct in violation 
+
+of school rules, the dragging on of the private debate 
+
+between respondent and her principal does not indicate the 
+
+type of continual insubordination that may seriously affect 
+
+the discipline in a school. [Citations]
+
+(
+
+at 321.) 
+
+13.
+
+Unlike in 
+
+, this case does not involve a private dispute between 
+
+Respondent and his principal. Respondent violated a District-wide COVID-19 
+
+vaccination policy whose aim was to maintain in-person instruction during the COVID-
+
+19 pandemic. Respondent’s violation of that policy rendered him unable to teach and 
+
+seriously affected the students by depriving them of his presence as a teacher. 
+
+14. 
+
+Respondent also cites to both 
+
+ (
+
+) 
+
+(1946) 29 Cal.2d 13 and 
+
+ (
+
+) (1972) 28 
+
+Cal.App.3d 77. In 
+
+, the Supreme Court rejected a school district's 
+
+characterization of a teacher's unauthorized six-day absence as a "persistent violation" 
+
+and instead analyzed the teacher's period of absence as a single violation. (
+
+, 29 Cal.2d 13.) Significantly, however, the Supreme Court did note a difference 
+
+between two leaves of absence as opposed to a period of seven months, as indicators 
+
+of continual insubordination. (
+
+at p. 860.) In 
+
+, the Appellate Court held that a 
+
+teacher’s unapproved leave of absence, lasting for a period of several months, did not 
+
+amount to “persistent violation of the governing board’s rules” merely by its duration. 
+
+29 
+
+The court found the teacher, Seaman, was not motivated by an attitude of 
+
+insubordination because she was unaware the school board had denied her request 
+
+for leave due to a lack of communication from the school board while Seaman was 
+
+overseas. The court wrote: 
+
+. . . before leaving on her trip [to attend conferences 
+
+abroad], appellant [Seaman] requested a leave of absence 
+
+and gave sound academic reasons in support of the 
+
+request; although the teacher left on her trip with 
+
+knowledge that the motion to grant her request for a leave 
+
+of absence had failed to pass for lack of a second, she 
+
+reasonably could have assumed, as she testified, that the 
+
+request had not been denied emphatically; appellant made 
+
+a second request for a leave of absence from Yokohama, 
+
+Japan, at a time when she could have returned for the 
+
+commencement of the school year had she received a reply 
+
+to her letter or a demand that she return.
+
+(
+
+, 
+
+, 28 Cal.App.3d 77 at p. 82.) 
+
+15.
+
+In summary, the principle in 
+
+and 
+
+ is that a longer period 
+
+of school rule violation is indicative of continual insubordination unless the teacher 
+
+was unaware of the rules, due to lack of contact with the school district or other 
+
+factors. In this case, Respondent was well aware of the COVID-19 vaccination policy, as 
+
+he admitted that he had received all of the messages the District disseminated on 
+
+September 8, 15, 16, 22, and 19, and October 6, 8, and 13, 2021. After his Reasonable 
+
+Accommodation Application was approved and during the interactive process, 
+
+Respondent also was in consistent contact with the District through its representatives. 
+
+30 
+
+McCarthy informed Respondent that his offer to work as a VAPA coordinator was not 
+
+feasible because the position was not open for hire. Principal Green eventually 
+
+corrected her prior mistake and told Respondent that he could not use his sick time as 
+
+an accommodation, and the COVID-19 vaccination policy also stated that use of sick 
+
+time was limited to those with medical conditions. Sotomayor’s September 28, 2021 
+
+email also explicitly warned Respondent that if he declined the City of Angels 
+
+reassignment, he would have to be vaccinated to continue at his worksite. Given these 
+
+communications, unlike the defendant in 
+
+, Respondent could not reasonably 
+
+assume that any of his proposals for accommodation were acceptable to the District.
+
+16. 
+
+Therefore, after October 15, 2021, Respondent was in violation of the 
+
+COVID-19 vaccination policy, and he has been in violation since that time, despite his 
+
+knowledge of the policy and the District’s emphatic refusal of Respondent’s proposed 
+
+alternative accommodations. The duration of Respondent’s months-long violation of 
+
+the COVID-19 vaccination policy is indicative of an attitude of insubordination and 
+
+constitutes a persistent, continual course of conduct. (See 
+
+(1957) 149 Cal.App.2d 265.) It is also noteworthy that while the school rule 
+
+violations in 
+
+and 
+
+ are unapproved leaves of absence, the violation 
+
+involved in this case, as described above, is a policy which aims to maintain in-person 
+
+instruction and to protect students and District employees during a global pandemic. 
+
+Persistent violation of such a policy is the type that “may seriously affect the discipline 
+
+in a school, impair its efficiency, and teach children lessons they should not learn.” 
+
+(
+
+ (1937) Cal.App.2d 405, 408.) 
+
+17. 
+
+The District established by a preponderance of the evidence that 
+
+Respondent persistently violated, or refused to obey, reasonable regulations 
+
+31 
+
+prescribed for the government of the public schools by the governing board of the 
+
+school district employing him, pursuant to section 44932, subdivision (a)(8). 
+
+Willful Refusal to Perform Regular Assignment Not a Ground for 
+
+Dismissal 
+
+18. 
+
+The District alleges in the First Amended Accusation that Respondent, as 
+
+an additional cause for dismissal, willfully refused to perform regular assignments 
+
+without reasonable cause, as described by reasonable rules and regulations of the 
+
+employing district, pursuant to section 44939, subdivision (b). (Ex. 9, p. A147.) 
+
+Respondent contends section 44932 contains the exclusive list of causes for dismissal. 
+
+According to Respondent, willful refusal to perform regular assignments described in 
+
+section 44939 constitutes cause only for immediate suspension, but it is not an 
+
+independent ground for dismissal. (Ex. V, pp. B138-141.) Respondent’s argument is 
+
+compelling.
+
+PRINCIPLES OF STATUTORY CONSTRUCTION 
+
+19. 
+
+To begin with, sections 44932 and 44939 are to be strictly construed 
+
+because they “have as their object the termination of a valuable right of a permanent 
+
+employee, that of continued employment.” (
+
+(1975) 46 Cal.App.3d 644, 649; see also 
+
+(1968) Cal.App.2d 784, 789.) The fundamental rule in 
+
+construing a statute is to determine the Legislature’s intent. (
+
+(1990) 50 Cal.3d 785, 798.) To determine that intent, “‘[t]he court turns first to the 
+
+words themselves for the answer.’” (
+
+ (1989) 48 Cal.3d 
+
+711, 724, quoting 
+
+(1950) 35 Cal.2d 175, 182.) Additionally, the basic 
+
+principles of statutory construction require that “[t]he words of the statute must be 
+
+32 
+
+construed in context, keeping in mind the statutory purpose, and statutes or statutory 
+
+sections relating to the same subject must be harmonized, both internally and with 
+
+each other, to the extent possible.” (
+
+(1987) 43 Cal.3d 1379, 1387.) 
+
+PLAIN LANGUAGE
+
+20. 
+
+Section 44932 enumerates 11 separate causes to dismiss a teacher, 
+
+including immoral conduct, unprofessional conduct, and alcoholism, among others.
+
+However, the statue begins with the phrase, “A permanent employee shall not be 
+
+dismissed except for one or more of the following causes . . . .” Thus, the plain 
+
+language of section 44932 is that the causes for dismissal listed thereunder are 
+
+exclusive.
+
+21. 
+
+Section 44939 authorizes the governing board of a school district to 
+
+immediately suspend a permanent employee based on five grounds, including 
+
+immoral conduct, conviction of a felony or of any crime involving moral turpitude, 
+
+incompetency due to mental disability, willful refusal to perform regular assignments 
+
+without reasonable cause, and violation of section 51530 (teaching communism). 
+
+Unlike employees charged only with dismissal under section 44932, employees who 
+
+are also charged with immediate suspension under section 44939 are suspended 
+
+without pay pending the outcome of the dismissal action. Section 44939, subdivision 
+
+(a), begins with, "This section applies only to dismissal or suspension proceedings 
+
+initiated pursuant to Section 44934." Section 44934, a procedural statute, then 
+
+references section 44932, stating: "This section shall apply to dismissal or suspension 
+
+proceedings based on charges as specified in Section 44932 or 44933 [statute relating 
+
+to dismissal or suspension on grounds of unprofessional conduct] . . . . " Hence, the 
+
+plain language of section 44939, is that only those employees charged with dismissal 
+
+33 
+
+under section 44932 may also be subject to immediate suspension without pay under 
+
+section 44939. 
+
+HARMONIZING THE STATUTES WITHIN THE STATUTORY FRAMEWORK
+
+22. 
+
+Turning then to the statutory framework, it is readily apparent that the 
+
+grounds for immediate suspension under section 44939 are a smaller subset of the 
+
+grounds for dismissal under section 44932, but the Education Code does not establish 
+
+separate, independent grounds for dismissal under section 44939. 
+
+23. 
+
+Substantively, the Education Code sets forth 11 grounds for dismissal 
+
+under section 44932. However, under section 44939, a teacher may be immediately 
+
+suspended based only on the five grounds which are described above. That is, many of 
+
+the causes for dismissal under section 44932, such as dishonesty, unfitness to teach, 
+
+and unsatisfactory performance, cannot form the grounds for immediate suspension 
+
+under section 44939. This narrowing of the substantive grounds for immediate 
+
+suspension under section 44939 within the larger set of grounds for dismissal 
+
+generally is even more apparent upon examination of the specific causes. For example, 
+
+the "violation of section 51530" basis for immediate suspension under section 44939, 
+
+subdivision (b), is a subset of the "[v]iolation of Section 51530 or conduct specified in 
+
+Section 1028 of the Government Code . . .” cause for dismissal under section 44932, 
+
+subdivision (a)(10). The "incompetency due to mental disability” basis for immediate 
+
+suspension under section 44939, subdivision (b), is a subset of the "physical or mental 
+
+condition unfitting him or her to instruct or associate with children" cause for dismissal
+
+under section 44932, subdivision (a)(7). And the "willful refusal to perform regular 
+
+assignments without reasonable cause" basis for immediate suspension under section
+
+44939, subdivision (b), is a subset of the "persistent violation" cause for dismissal
+
+under section 44932, subdivision (a)(8), as well as possibly “unprofessional conduct” 
+
+34 
+
+and “evident unfitness for service” causes for dismissal under section 44932, 
+
+subdivisions (a)(2) and (a)(6), respectively. 
+
+24. 
+
+Procedurally, the Education Code also sets forth different requirements 
+
+for dismissal and immediate suspension. Under section 44939, the employing district 
+
+may immediately suspend the employee, but the employee may also file a motion for 
+
+immediate reversal of suspension (MIRS) within 30 days of service of the initial 
+
+pleading. (§ 44939, subds. (a), (b), (c).) The MIRS shall include “a memorandum of 
+
+points and authorities setting forth law and argument supporting the employee’s 
+
+contention that the statement of charges does not set forth a sufficient basis for 
+
+immediate suspension.” (§ 44939, subd. (c)(1).) Review of the motion “shall be limited 
+
+to a determination as to whether the facts as alleged in the statement of charges, if 
+
+true, are sufficient to constitute a basis for immediate suspension under this section.” 
+
+(
+
+.) The MIRS process is unique to immediate suspension cases under section 44939 
+
+and does not exist for dismissal cases generally under section 44932. These procedural 
+
+differences further show that the intent of section 44939 is not to create a separate 
+
+category of causes for dismissal, but to afford additional due process protections for a 
+
+smaller subset of employees who are not only charged with dismissal but are also 
+
+suspended without pay.
+
+CASE LAW ON SECTIONS 44932 AND 44939 
+
+25. 
+
+The District contends that section 44939 establishes separate and 
+
+independent grounds for dismissal, citing to case law: “[A school district] may, if it so 
+
+chooses and if one of the grounds specified in subdivision (a) of section 44932 exists, 
+
+seek the dismissal rather than the suspension of an employee. And it may, if it so 
+
+chooses and if the ground for dismissal is also one of those specified in section 44939, 
+
+immediately suspend the employee without pay pending the disposition of the 
+
+35 
+
+dismissal proceeding.” (
+
+(
+
+) (1988) 45 Cal. 
+
+3d 208, 215-16.) However, this quote does not support the District’s position. To the 
+
+contrary, it tends to support the interpretation that the grounds for immediate 
+
+suspension under section 44939 are a narrower subset of those for dismissal under 
+
+section 44932. The quote states that a school district may charge an employee with 
+
+dismissal under section 44932. However, “if the ground for dismissal is also one of 
+
+those specified in section 44939,” that is, if those grounds for dismissal also fit into the 
+
+narrower category of grounds for immediate suspension under section 44939, then the 
+
+school district may choose to charge the employee with immediate suspension 
+
+without pay, in addition to dismissal. (
+
+, 
+
+, 45 Cal. 3d 208 at pp. 215-16, 
+
+emphasis added.) 
+
+26. 
+
+This interpretation is further strengthened by the following passage from 
+
+: “The district may determine when to seek disciplinary action and what 
+
+discipline to seek. It may, by choosing to pursue only a dismissal sanction [under 
+
+section 44932, subdivision (a)], preclude the commission from imposing suspension
+
+[under section 44932, subdivision (b)]. [fn. omitted] And it may, by invoking the 
+
+procedures of section 44939, accompany the notice of dismissal with an immediate 
+
+suspension of the employee without pay.” (
+
+, 
+
+, 45 Cal. 3d 208 at pp. 218.) 
+
+Thus, while a dismissal action under section 44932 may exist without a suspension, the 
+
+immediate suspension of the employee without pay under section 44939 must be 
+
+accompanied by the notice of dismissal under section 44932. A disciplinary action 
+
+under section 44939 cannot stand alone without a dismissal action under section 
+
+44932 because section 44939 does not create any independent causes for dismissal. 
+
+The causes for immediate suspension under 44939 are a narrower subset of the causes 
+
+for dismissal under section 44932, and any charge for immediate suspension under 
+
+36 
+
+section 44939 must be accompanied by a charge for dismissal under section 44932 
+
+that encompasses it. 
+
+27. 
+
+Applying this analysis to the instant case, Respondent cannot be charged, 
+
+as an independent cause for dismissal, with willful refusal to perform regular 
+
+assignments without reasonable cause, as described by the reasonable rules and 
+
+regulations of the employing district, pursuant to section 44939, subdivision (b). 
+
+However, the District may charge Respondent, as it has done here, with willful refusal 
+
+to perform regular assignments under section 44939, as a cause for immediate 
+
+suspension, because the District has accompanied this charge with causes for dismissal 
+
+under section 44932 (persistent violations and evident unfitness for service) that 
+
+encompass it. 
+
+Willful Refusal to Perform Regular Assignment as a Cause for 
+
+Immediate Suspension 
+
+28. 
+
+Respondent requests that the Commission render a determination as to 
+
+whether Respondent willfully refused to perform regular assignments without 
+
+reasonable cause, as a cause for immediate suspension. The District opposes this 
+
+request, contending that determination of causes for immediate suspension is outside 
+
+the scope of the Commission’s authority because Respondent’s request is essentially a 
+
+request for backpay under section 44946.
+
+29. 
+
+Section 44946 states, “If the employee has been suspended pending the 
+
+hearing, he shall be reinstated within five days after the governing board's decision in 
+
+his favor, and shall be paid full salary by the governing board for the period of his 
+
+suspension.” That is, the employee who was the subject of immediate suspension 
+
+without pay is entitled to backpay if the Commission decides in his or her favor. Case 
+
+37 
+
+law has confirmed that the predecessor statute to section 44946 entitled a teacher to 
+
+back pay because the Commission cleared her of the charge forming the basis for her 
+
+unpaid suspension, even though she was ultimately dismissed for a different reason.
+
+(
+
+ (1978) 83 Cal.App.3d 681, pp. 686-687; see also 
+
+ (1976) 61 Cal.App.3d 
+
+664, 669-670.) 
+
+30. 
+
+It should be noted that while section 44939, which authorizes immediate 
+
+suspension, provides for a teacher to seek relief through the MIRS procedure, such 
+
+relief is only interlocutory in nature; it is interim relief pending the outcome of the 
+
+dismissal case. (§ 44939, subd. (c)(6).) Thus, the MIRS is reviewed by an administrative 
+
+law judge sitting alone rather than the Commission (
+
+. at subd. (c)(2)), and the review 
+
+of the motion is “limited to a determination as to whether the facts as alleged in the 
+
+statement of charges, if true, are sufficient to constitute a basis for immediate 
+
+suspension . . . .” (
+
+. at subd. (c)(1)). Section 44939, subdivision (c)(4), also states, in 
+
+relevant part: “The grant or denial of the motion shall be without prejudice to 
+
+consideration by the Commission on Professional Competence, based upon the full 
+
+evidentiary record before it, of the validity of the grounds for dismissal.” Thus, reading 
+
+sections 44946 and 44939 together, the Commission has the authority to render a 
+
+determination on the cause for immediate suspension based on the full evidentiary 
+
+record before it. 
+
+31.
+
+The District contends that Respondent’s request for backpay is 
+
+inappropriate because section 44944 limits the disposition that the Commission is 
+
+authorized to determine. Section 44944, subdivision (d)(1), provides: 
+
+The decision of the Commission on Professional 
+
+Competence shall be made by a majority vote, and the 
+
+38 
+
+commission shall prepare a written decision containing 
+
+findings of fact, determinations of issues, and a disposition 
+
+that shall be, solely, one of the following: 
+
+(A)  That the employee should be dismissed. 
+
+(B)  That the employee should be suspended for a specific 
+
+period of time without pay. [This disposition is applicable 
+
+only based on charges for suspension under section 44932, 
+
+subdivision (b).] 
+
+(C)  That the employee should not be dismissed or 
+
+suspended. 
+
+32.  However, the District’s reading of section 44944 ignores the language in 
+
+the statute requiring the Commission to issue "a written decision containing findings 
+
+of fact, [and] determinations of issues . . . ." Here, whether there was cause to 
+
+immediately suspend Respondent for willful refusal to perform regular assignment is 
+
+an issue to be determined, as it is an allegation contained in the First Amended 
+
+Accusation. (Ex. 9, p. A147.) However, consistent with section 44944, subdivision (d)(1),
+
+the ultimate disposition of the case will be whether Respondent is to be dismissed or 
+
+not dismissed, even though Respondent may be automatically entitled to backpay 
+
+under section 44946 if the cause for immediate suspension was not established. This 
+
+interpretation of section 44944 recognizes while the employing school district has the 
+
+discretion to determine what charges to pursue, the Commission as a professional 
+
+body is vested with the discretion to determine all issues set forth in the charging 
+
+pleading. (See 
+
+, 
+
+, 45 Cal. 3d 208, 226.) 
+
+39 
+
+33. 
+
+In this case, Respondent contends the reassignment to the City of Angels 
+
+was not a directive, but voluntary. (Ex. V, p. B144.) Therefore, Respondent could not 
+
+have willfully refused his “regular assignment” by declining a voluntary reassignment. 
+
+(
+
+.) The District’s offer of reassignment was voluntary because it was a reasonable 
+
+accommodation for his sincerely held religious beliefs. Respondent did have the right 
+
+to refuse it, even if it was based on speculative reasons about potential credentialing 
+
+issues. However, after exerting that right, Respondent placed himself in the position of 
+
+violating the COVID-19 vaccination policy because Sotomayor’s September 29, 2021 
+
+email clearly informed him that if he refuses the City of Angels assignment, he must be 
+
+vaccinated to work onsite at Peary. (Factual Finding 21.) Respondent’s “regular 
+
+assignment” is to teach students, whether the teaching takes place at the City of 
+
+Angles or on site at Peary. By refusing the City of Angels reassignment and by insisting 
+
+on working at Peary unvaccinated in violation of the COVID-19 vaccination policy, 
+
+Respondent refused to perform his regular assignment because he is unable to teach, 
+
+either at the City of Angels or at Peary. This refusal is also willful, as it exhibited an 
+
+attitude of insubordination, as set forth above. (
+
+, Legal Conclusions 15 & 16.) As 
+
+the California Supreme Court observed in 
+
+(1953) 41 Cal.2d 546, 552, “[t]he willful refusal of a teacher to obey the 
+
+reasonable rules and regulations of the employing school district is insubordination.”
+
+34. 
+
+Consequently, the District established by a preponderance of the 
+
+evidence that Respondent willfully refused to perform regular assignments without 
+
+reasonable cause, as described by reasonable rules and regulations of the employing 
+
+district, pursuant to section 44939, subdivision (b). 
+
+/// 
+
+/// 
+
+40 
+
+Factor Analysis 
+
+35.
+
+The California Supreme Court in the case of 
+
+(
+
+) (1969) 1 Cal.3d 214 sets forth certain factors to determine 
+
+whether an employee's wrongful conduct relates to his fitness to perform duties in an 
+
+educational setting. These factors are known as the 
+
+factors. The cause for 
+
+dismissal of persistent violation of school laws is related directly to Respondent’s 
+
+conduct of District business and thus not subject to such an analysis for the nexus 
+
+between teacher misconduct and fitness to teach. However, the 
+
+ factors are 
+
+also used to analyze whether, in light of the misconduct, the teacher is fit to continue 
+
+to teach. (See 
+
+, 
+
+, 45 Cal. 3d at 220.) The ultimate inquiry is whether the 
+
+teacher's future classroom performance and overall impact on his or her students are 
+
+likely to meet the standards of the school employing the teacher. (
+
+ (1972) 25 Cal.App.3d 1098, 1109.) 
+
+36. 
+
+Therefore, an analysis of the 
+
+ factors is warranted. Not all 
+
+ factors must be met for the 
+
+test to be satisfied. (
+
+(1994) 28 Cal.App.4th 369.) It is sufficient when the most pertinent 
+
+factors have been considered. (
+
+ (1993) 16 Cal.App.4th 1766, 1777.) Moreover, the 
+
+analysis need 
+
+not be conducted on each individual fact established, but rather can be applied to the 
+
+accumulated facts established collectively. (
+
+, 
+
+, 2 Cal.App.4th at 1457.) In 
+
+this case, the 
+
+factors are analyzed as follows: 
+
+a.  The likelihood the conduct may adversely affect students or fellow teachers.  
+
+Respondent’s refusal to teach remotely at the City of Angels as a reasonable 
+
+accommodation rendered him unable to teach, as he was not allowed to work 
+
+at a District facility without being vaccinated under the COVID-19 vaccination 
+
+41 
+
+ 
+policy. Therefore, Respondent’s refusal to comply with the COVID-19 
+
+vaccination policy adversely affects the students. 
+
+b.  The degree of such adversity. Respondent’s conduct created significant 
+
+adversity for his students, as they have been deprived of Respondent’s presence 
+
+as a teacher. 
+
+c.  The proximity or remoteness in time of the conduct. Respondent’s conduct 
+
+occurred less than one year ago, in October 2021, which is recent. 
+
+d.  The type of teaching certificate held by the party involved. This factor does 
+
+not have significant application in this case. 
+
+e.  The existence of extenuating or aggravating circumstances, if any, 
+
+surrounding the conduct. This factor does not have significant application in 
+
+this case. 
+
+f.  The praiseworthiness or blameworthiness of the motives resulting in the 
+
+conduct. This factor does not have significant application in this case. 
+
+g.  The likelihood of recurrence of the questioned conduct. Respondent has 
+
+made no indication that he would be willing to teach at the City of Angels or 
+
+that he would be vaccinated to teach onsite at Peary. Therefore, the likelihood 
+
+of recurrence of Respondent’s continued refusal to comply with the COVID-19 
+
+vaccination policy is high. 
+
+h.  The extent discipline may cause adverse impact or chilling effect upon the 
+
+constitutional rights of the teacher involved or other teachers. The imposition of 
+
+discipline would not chill the constitutional rights of Respondent or other 
+
+teachers. Respondent has a sincerely held religious belief against vaccination, 
+
+42 
+
+and the District recognized that belief by offering him a reasonable 
+
+accommodation. No evidence was presented that this reasonable 
+
+accommodation to teach at City of Angels violates Respondent’s religious 
+
+beliefs, but Respondent, nevertheless, refused it. The discipline being imposed 
+
+on Respondent is not related to his religious beliefs, but to his ability to comply 
+
+with the COVID-19 vaccination policy. The District, for example, has not 
+
+imposed discipline against Walker, who, similar to Respondent, has a sincerely 
+
+held religious belief against vaccination but accepted the reassignment to the 
+
+City of Angels. Thus, the constitutional rights of Respondent or other teachers 
+
+are not involved in this case. 
+
+i.  The publicity or notoriety given to the conduct. This factor does not have 
+
+significant application in this case 
+
+37. 
+
+The 
+
+ factors demonstrate respondent is unfit to teach. Under the 
+
+circumstances, terminating his employment with the District is warranted. 
+
+///
+
+///
+
+/// 
+
+///
+
+///
+
+/// 
+
+///
+
+43 
+
+ORDER
+
+Respondent Jason Knopke is terminated from employment with the Los Angeles 
+
+Unified School District.
+
+DATE:
+
+DATE:
+
+DATE:
+
+ALAN UNDERWOOD
+
+Commissioner
+
+KATHRYN BRIEDENTHAL
+
+Commissioner
+
+JI-LAN ZANG
+
+Administrative Law Judge
+
+Office of Administrative Hearings
+
+44
+
+

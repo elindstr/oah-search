@@ -3,7 +3,7 @@ const app = express();
 const port = 3000;
 const http = require("http").createServer(app);
 const io = require("socket.io")(http);
-const fs = require("fs");
+const fs = require("fs").promises;
 const path = require("path");
 app.use(express.static("public"));
 
@@ -18,58 +18,70 @@ io.on("connection", (socket) => {
   });
 
   socket.on("searchInput", (query) => {
-    console.log(query)
+    //console.log(query)
     search(socket, query)
   })
 });
 
-
-
 function search(socket, query) {
   console.log("running search")
-  const directoryPath = path.join(__dirname, "../OAH Decisions/CPC/txt/");
-
   //log user and query
   //...
 
-  //run search
-  //...
+  // select folders
+  let directoryPaths = [] 
+  query["rifChecked"]? directoryPaths.push("public/CPC/txt/"): null
+  query["cpcChecked"]? directoryPaths.push("public/RIF/txt/"): null
+  query["mirsChecked"]? directoryPaths.push("public/MIRS/txt/"): null
+  query["ctcChecked"]? directoryPaths.push("public/CTC/txt/"): null
+  //console.log("directoryPaths:", directoryPaths)
 
-  // Read directory
-  fs.readdir(directoryPath, function (err, files) {
-    if (err) {
-      console.log("Unable to scan directory: " + err);
-      socket.emit("error", "Error scanning directory");
-      return;
-    }
+  // parse search query
+  let searchInput = query["searchInput"]
 
-    console.log("Searching:", directoryPath)
-    let results = [];
-    let filesProcessed = 0;
+  // results container
+  let results = []
+  
+  Promise.all(directoryPaths.map(directoryPath => 
+    
+    searchDirectory(directoryPath, searchInput)
 
-    files.forEach(function (file) {
-      const filePath = path.join(directoryPath, file);
-      
-      // Read each file
-      fs.readFile(filePath, "utf8", function (err, content) {
-        filesProcessed++;
-        
-        if (err) {
-          console.log("Error reading file:", filePath);
-        } else {
+  )).then(allResults => {
+    allResults.forEach(files => {
+      results.push(...files); 
+      //...
+    });
 
-          // Check if content **includes** the query
-          if (content.includes(query["searchInput"])) {
-            results.push(file); // or you can push an object with more details
-          }
-        }
-        
-        // Check if all files have been processed
-        if (filesProcessed === files.length) {
-          console.log("Search results:", results);
-          socket.emit("results", results);
-        }
-      })
-    })
-  })
+    console.log("Search done:", results.length, "results")
+    var filesProcessed=0 //TODO
+    socket.emit("results", {results, filesProcessed, searchInput})
+
+  }).catch(error => {
+    console.error("Error during search:", error);
+    socket.emit("error", "Error during search");
+  });
+}
+
+async function searchDirectory(directoryPath, searchInput) {
+  const fullDirectoryPath = path.join(__dirname, directoryPath);
+  try {
+    const files = await fs.readdir(fullDirectoryPath);
+    const searchResults = await Promise.all(files.map(file =>  
+      searchFile(path.join(fullDirectoryPath, file), searchInput)
+    ))
+    return searchResults.filter(result => result !== null); // Filter out nulls (files that didn't match)
+  } catch (error) {
+    console.error(`Error reading directory ${fullDirectoryPath}:`, error);
+    throw error; // Rethrow to catch in the main search function
+  }
+}
+
+async function searchFile(filePath, searchInput) {
+  try {
+    const content = await fs.readFile(filePath, "utf8");
+    return content.includes(searchInput) ? filePath : null;
+  } catch (error) {
+    console.error(`Error reading file ${filePath}:`, error);
+    return null; // Return null if there's an error reading the file
+  }
 }

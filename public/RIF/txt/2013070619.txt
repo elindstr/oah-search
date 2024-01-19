@@ -1,0 +1,559 @@
+BEFORE THE
+GOVERNING BOARD OF THE
+DENAIR UNIFIED SCHOOL DISTRICT
+COUNTY OF STANISLAUS
+STATE OF CALIFORNIA
+
+In the Matter of the Accusation Against :
+
+CERTAIN CERTIFICATED EMPLOYEES
+OF THE DENAIR UNIFIED SCHOOL
+DISTRICT,
+
+Respondents.
+
+OAH No. 2013070619
+
+PROPOSED DECISION
+
+Karl S. Engeman, Administrative Law Judge, Office of Administrative Hearings,
+
+State of California, heard this matter in Sacramento, California, on August 5, 2013.
+
+Roman J. Munoz and Chelsea Olson, Attorneys at Law, Kronick, Moskovitz,
+
+Tiedemann & Girard, represented the Denair Unified School District.
+
+Ernest Tuttle, IV, Attorney at Law, represented all of the respondents.
+
+Evidence was received and the record was left open for the receipt of a stipulated list
+of respondents whose positions will be eliminated or reduced in the 2013-2014 school year if
+the Denair School District qualifies for the application of Education Code section 44955.51.
+The stipulated list of those affected was received from the parties on August 6, 2013, marked
+as exhibit 21, and received in evidence. The matter was submitted on August 6, 2013. In
+accordance with the Governing Board’s Resolution number 071713R-29 and the language of
+section 44955.5 requiring the Board to adopt a schedule of notice and hearing, the Proposed
+Decision is to be submitted to the Board on or before August 12, 2013. The Board is to act
+on the Proposed Decision on August 12, 2013, and send final notices to respondents on
+August 14, 2013.
+
+1 All future statutory references are to the Education Code unless otherwise stated.
+
+1
+
+FACTUAL FINDINGS
+
+1.
+
+Walt L. Hanline, Ed.D, Interim Superintendent, Denair Unified School
+
+District (District), County of Stanislaus, State of California, filed the Accusation in his
+official capacity.
+
+2.
+
+On July 17, 2013, the Governing Board (Board) of the District adopted
+
+Resolution No. 071713R-29, that reduced and/or discontinued particular kinds of certificated
+services (PKS) no later than the beginning of the 2013-2014 school year, in the amount of
+14.78 full-time equivalent (FTE) certificated employee positions. The specific reductions
+were as follows:
+
+Human Performance (P.E., K-5)
+Band Teacher
+High School Photography
+High School Math
+High School Sheltered English
+High School Spanish
+High School English
+High School Science/Biology
+High School Ag Biology
+High School Physical Education
+Ag Mechanics
+High School ELD Teacher
+High School English/Drama
+K-8 ELD Teacher
+K-8 Teachers Multiple Subject
+Community Day School (K-12)
+
+.68 FTE
+.14 FTE
+.14FTE
+1.14 FTE
+.14 FTE
+.28 FTE
+.14 FTE
+.14 FTE
+.14 FTE
+1.0 FTE
+.14 FTE
+.28 FTE
+1.0 FTE
+.50 FTE
+6.92 FTE
+2.0 FTE
+
+3.
+
+The Board further determined that it shall be necessary by reason of the
+
+reduction and/or discontinuance of services to decrease the number of permanent and/or
+probationary certificated employees at the beginning of the 2013-2014 school year, and
+directed the Superintendent to proceed accordingly by notifying the appropriate employees to
+implement the Board’s determination.
+
+4.
+
+The Board’s Resolution referenced section 44955.5, recited below, which
+
+authorizes a school district to terminate the services of certificated personnel if the district’s
+total revenue limit per unit of average daily attendance has not increased by at least two
+percent and the district’s governing board is of the opinion that it is therefore necessary to
+decrease the number of certificated employees. The Board must act between five days after
+the enactment of the Budget Act and August 15 of the fiscal year to which the Budget Act
+applies.
+
+5.
+
+The Board’s Resolution also referenced section 44238.06, added to the
+Education Code on July 1, 2013, which provides that effective July 1, 2013, except as
+
+2
+
+otherwise indicated and where the context requires otherwise, references to “revenue limit”
+in the Education Code shall instead refer to the “local control funding formula” (explained
+below).
+
+6.
+
+The Board’s Resolution stated that (1) the total local control funding formula
+per unit of average daily attendance for fiscal year 2013-2014 had not increased by at least
+two percent; and (2) it was therefore necessary to decrease the number of permanent
+certificated employees in the District.
+
+7.
+
+8.
+
+A Request for Hearing was timely filed by respondents to determine if there is
+
+cause for not reemploying them for the next school year.
+
+The Superintendent made and filed the Accusation against respondents after
+
+respondents requested a hearing. The Accusation package included the required
+accompanying documents and a blank Notice of Defense (Accusation packet) and was timely
+served on respondents. Respondents filed timely notices of defense.
+
+9.
+
+At the administrative hearing, the parties stipulated that all procedural
+
+requirements relating to service of the required notices were satisfied. The parties also
+stipulated that assignments and reassignments (bumping) were properly considered in
+accordance with a chart received in evidence as exhibit 20. The parties further stipulated that
+exhibit 21 reflects the respondents whose positions will be eliminated or reduced in school
+year 2013-2014, providing the District qualifies for the layoff procedure described in section
+44955.5. The affected teachers are as follows:
+
+Halla (Inga) Bernard
+Cathy George
+Sheila Gianfortone
+Monica Gonzalez
+Diana Hulbert
+Korene Keene-Stark
+Stephen Ladine
+Joshua Lindsey
+Sean Pham
+Justin Riggs
+Kirsten Sweeten
+Rachel Watts
+
+Reduced from 1.0 Math to .86 Math
+Reduced from 1.0 Band/Choir to .86 Band/Choir
+Lay off (1.0 FTE)
+Lay off (.28 FTE)
+Lay off (.50 FTE)
+Reduced from 1.0 Ag to .72 Ag
+Lay off (1.0 FTE)
+Lay off (1.0 FTE)
+Reduced from 1.0 English to .72 English
+Lay off (1.0 FTE)
+Reduced from .68 ELD to .50 ELD
+Lay off (1.0 FTE)
+
+School Funding Changes Beginning Fiscal Year 2013-2014
+
+10.
+
+As part of the 2013-2014 budget package, the Legislature enacted major
+
+changes to the way in which the state allocates funding to school districts. The changes are
+incorporated in Chapter 47, Statutes of 2013 (AB 97). A major change was the movement
+away from the total revenue limit per unit of average daily attendance (ADA) plus
+“categorical funding,” to a system described as “local control funding formula” (LCFF).
+
+3
+
+Under LCFF, “target base rates” have been established to essentially reflect the amounts per
+pupil that school districts would be getting today, but for the state’s general fund deficits and
+its inability to fully fund the school districts.2 The base rates vary by grade levels with the
+lowest base rates for kindergarten students, and then rising for grades 4-6, 7-8, and 9-12.
+Most of the categorical funding has been eliminated and the amounts subsumed in the target
+base rates. The formula also allows for percentage augmentations for K-3 students to help
+fund class size reduction and for grades 9-12 to help fund career technical education. A
+second component of the formula provides a 20 percent increase (“supplement”) for each
+student satisfying one of three criteria: an English Learner (EL), low income student (LI)
+defined as receiving free or reduced charge school meals, and foster children. If the district
+has more than 55 percent EL/LI students, the district receives and additional 50 percent of
+the adjusted base for each EL/LI student exceeding 55 percent (“concentration”). District,
+with 53 percent of eligible students, does not receive the concentration augmentation.
+
+11.
+
+As noted, these funding figures are target rates, and because the state cannot
+
+afford to fund the entirety of the undeficited rates, LCFF contemplates the payment of part of
+the “gap” each year for eight years (approximately 12 percent) until the target is reached.
+The target rates include annual cost of living increases as well and the cost of living raise for
+fiscal year 2013-2014 is 1.57 percent.
+
+12.
+
+Because the goal is to restore districts to a position no less favorable than that
+
+enjoyed before budget deficits in 2007-2008, plus cost of living increases, some districts
+including Denair Unified School District also receive an Economic Recovery Target (ERT)
+amount of approximately one-eighth of the amount calculated to ensure that they are not
+disadvantaged by the new LCFF in comparison to what they would have received if the old
+funding were maintained and fully funded at the end of the eight year period.
+
+Application of the LCFF to District’s 2013-2014 Budget
+
+13.
+
+The parties were in agreement about most of the component numbers for the
+
+District’s 2013-2014LCFF.3 As explained below, their disagreement involves the proper
+interpretation of those numbers in the context of section 4499.5 read in conjunction with
+Chapter 47.
+
+14.
+
+In order to calculate a baseline against which to measure the percentage
+increase for budget year 2013-2014, the parties used the 2012-2013 revenue limit base
+funding (ADA) of $5,354,264 and added to that number the total dollars for categorical
+funding, $1,496,421, for a total of $6,850,685. Under LCFF, the target base grant for the
+district is $7,389,877 and since the district has 53 percent of students eligible for the 20
+percent increase, this adds another $768,598 for a total of $8,158,475. This leaves a gap of
+
+2 Described as “undeficited school district revenue limit.”
+
+3 The numbers and analysis were drawn from the respective experts called by the
+
+parties and the documents received in evidence that both experts relied upon.
+
+4
+
+$1,307,790 between what district would receive if fully funded at the target level and the
+base funding based on last year’s funding. As noted above, the state is only allocating
+approximately 12 percent of the gap to school districts each year. This equates to an
+additional $154,058 in funding for the current fiscal year, or an approximate 3.52 percent
+budget increase for District.
+
+15.
+
+The new legislation contemplates that school districts that receive increased
+funding based on eligible students (either the 20 percent or the 50 percent increases) shall
+“increase or improve services for [such students] in proportion to the increase in funds
+apportioned on the basis of the number and concentration of [such students] in the school
+district…” (Ed. Code. § 42238.07, subd. (a)(1).) The State Board of Education is directed to
+adopt regulations governing such apportioned expenditures by January 31, 2014, but no
+regulations have yet been promulgated.
+
+16.
+
+District reasons that essentially all of the funds attributable to eligible students
+
+should be regarded as “restricted” funds and excluded from the calculation of budget
+increases. If this were done, the 3.52 percent increase would be reduced to 1.45 percent, less
+than the threshold 2 percent. The District’s expert, Michael Ricketts, Associate Vice
+President of School Services of California, Inc., explained why he chose to view the
+percentage attributable to eligible students as 58.8 percent, rather than 53 percent. His
+graphical display and charts reveal that he obtained that number by calculating what percent
+of the gap ($1,307,790) the 20 percent increase ($768,598) reflected.4 The apparent rationale
+for attributing a larger percentage to eligible students than their percentage of total students is
+their ability to “earn” more for District by reason of the 20 percent supplemental allocation.5
+However, this is only an academic issue, because it makes no difference whether one uses
+the actual percentage of eligible students, 53 percent, or the 58.8 percent, as the Legal
+Conclusions explain.
+
+17. Mr. Ricketts also applied the 58.8 percent to reduce the amount received by
+the District as its ERT, thereby decreasing the $87,362 to $35,993.6 Although Mr. Ricketts
+
+4 One of Mr. Ricketts’s charts supporting his conclusions accurately reflects that
+while eligible students account for 53 percent of the base grant for target funding, they
+account for 100 percent of the 20 percent supplement.
+
+5 The Administrative Law Judge calculated the percentage of the target amount
+
+attributable to eligible students and the percentage is 57.4. As explained below, any
+discrepancies in these numbers are essentially irrelevant, because Mr. Ricketts’s
+consideration of all monies attributed to eligible students is based on flawed logic and an
+incorrect application of section 44955.5.
+
+6 In one of his charts, Mr. Ricketts inexplicably (from the Administrative Law Judge’s
+
+perspective), attributes in excess of 80 percent of the ERT to eligible students. However, in
+his chart used to try and demonstrate the errors in respondents’ analysis, he applied the 58.8
+percent figure to exclude that portion of the ERT from consideration as a budget increase.
+
+5
+
+testified that it would be “prudent” to attribute that portion to eligible students as well,
+District could identify no mandate to expend funds received as ERT in a manner proportional
+to the number of eligible students. If ERT funds were not so reduced, even if one used Mr.
+Ricketts’s 58.8 percent figure to reduce the gap funding ($154,058 – 58. 8 % = $63, 472)
+and added that figure to the ERT total ($87,362 + 63,472 = $150,834) or a 2.2 percent budget
+increase.
+
+18.
+
+Respondents’ expert Daniel Koen is a negotiator and budget analyst for the
+
+California State Teachers’ Association. Like Mr. Ricketts, he is has been heavily involved in
+the process of the adoption of the LCFF and assessing its ramifications. As noted above, Mr.
+Koen and Mr. Ricketts used essentially the same budget figures in analyzing whether the
+District’s 2013-2014 budget reflected at least a two percent increase over the previous year.
+Mr. Koen concluded that the increase was approximately 3.30 percent. The main reason that
+Mr. Koen reached a different conclusion than Mr. Ricketts was Mr. Koen’s treatment of the
+supplemental dollars generated by eligible students. For purposes of comparison with the old
+budgeting process, he treated the funds attributable to the 20 percent increase in the same
+manner as categorical funds were treated under section 44955.5 under the old funding
+system. He excluded them from consideration as “restricted” based on the proportionality
+spending requirements explained above. Thus, while the overall budget increase is 3.52
+percent, when the additional 20 percent earned by eligible students is eliminated from
+consideration, the increase is 3.30 percent.
+
+District’s Financial Situation
+
+19. Whichever analysis one applies to a comparison of last year’s District budget
+and that for 2013-2014, the District is receiving $241,420 more this year. However, District
+has been designated by the Stanislaus Office of Education as being in a “negative
+certification,” which denotes its inability to meet its financial obligations for last school year
+and the current school year.
+
+Prior Layoff Proceeding
+
+20.
+
+The District initiated an earlier layoff based on section 44955 that resulted in
+
+a hearing on April 18, 2013, and the issuance of a Proposed Decision by another
+Administrative Law Judge in the matter. Some of the same respondents were involved in
+that case and the parties suggested that the validity of the Board’s decision in the matter is
+being disputed. No issues relating to the prior matter were addressed in this proceeding, and
+the Administrative Law Judge did not rely in any manner on factual findings or legal
+conclusions reached in the earlier case.
+
+LEGAL CONCLUSIONS
+
+1.
+
+All notices and jurisdictional requirements were satisfied.
+
+6
+
+2.
+
+As the parties have stipulated to the effect of the Board’s resolution to reduce
+
+PKS and the respondents to whom notice shall be given of the elimination or reduction of
+their services in 2013-2014 school year, the only remaining legal issue for resolution is the
+District’s entitlement to use the layoff procedure provided in section 44955.5. For the
+reasons outlined below, the District has not demonstrated that it meets the requirements to
+conduct a section 44955.5 layoff.
+
+3.
+
+Section 44955.5 reads:
+
+(a) During the time period between five days after the enactment
+of the Budget Act and August 15 of the fiscal year to which that
+Budget Act applies, if the governing board of a school district
+determines that its total revenue limit per unit of average daily
+attendance for the fiscal year of that Budget Act has not
+increased by at least 2 percent, and if in the opinion of the
+governing board it is therefore necessary to decrease the number
+of permanent employees in the district, the governing board may
+terminate the services of any permanent or probationary
+certificated employees of the district, including employees
+holding a position that requires an administrative or supervisory
+credential. The termination shall be pursuant to Sections 44951
+and 44955 but, notwithstanding anything to the contrary in
+Sections 44951 and 44955, in accordance with a schedule of
+notice and hearing adopted by the governing board.
+
+(b) This section is inoperative from July 1, 2002, to July 1,
+2003, inclusive, and from July 1, 2011, to July 1, 2012
+
+4.
+
+Section 42238.06, subdivision (a), reads:
+
+Commencing on July 1, 2013, except for Sections 42238, 42238.1,
+42238.2, and 42238.5, or where the context requires otherwise, all of
+the following shall apply:
+
+(a) References to ‘revenue limit’ shall instead refer to the ‘local control
+funding formula.’
+
+5.
+
+For convenience, section 44955.5, subdivision (a), may now be read:
+
+(a) During the time period between five days after the enactment
+of the Budget Act and August 15 of the fiscal year to which that
+Budget Act applies, if the governing board of a school district
+determines that its total local control funding formula per unit of
+average daily attendance for the fiscal year of that Budget Act
+has not increased by at least 2 percent, and if in the opinion of
+
+7
+
+the governing board it is therefore necessary to decrease the
+number of permanent employees in the district, the governing
+board may terminate the services of any permanent or
+probationary certificated employees of the district, including
+employees holding a position that requires an administrative or
+supervisory credential. The termination shall be pursuant to
+Sections 44951 and 44955 but, notwithstanding anything to the
+contrary in Sections 44951 and 44955, in accordance with a
+schedule of notice and hearing adopted by the governing board.
+(Underlining added.)
+
+6.
+
+The obvious problem presented in this case is the movement from the old
+
+funding system to LCFF, resulting in an inevitable “apples and oranges” conundrum. Under
+the old system, it was clear that to determine the level of budget increase, if any, one would
+look exclusively at the ADA component (“total revenue limit per unit of average daily
+attendance”) and exclude from consideration the approximately 20 percent of categorical
+funding. This was not only compelled by the plain language of the statute, but also logical,
+based on the restrictions imposed for funds allocated for very specific categorical purposes.
+
+7.
+
+A literal reading of section 44955.5, as “amended” by section 42238.06, might
+
+render its application unworkable, because the LCFF did not exist in the previous year, and
+there is therefore no basis for comparison. To avoid this result, the parties have endeavored
+to devise analytical methods comparable to the old distinction between ADA and categorical
+funding to measure the budget increase for this school year. To this end, each side has
+attempted to quantify amounts of money allocated that are “restricted” in a manner similar to
+the restrictions imposed on the spending of categorical funds and exclude those amounts in
+the calculation of the budget increase for this school year.
+
+8.
+
+This approach finds support in the language of section 42238.07, subdivision
+
+(a)(1):
+
+(a) On or before January 31, 2014, the state board shall adopt
+regulations that govern the expenditure of funds apportioned on
+the basis of the number and concentration of unduplicated pupils
+pursuant to Sections 2574, 2575, 42238.02, and 42238.03. The
+regulations shall include, but are not limited to, provisions that
+do all of the following:
+
+(1) Require a school district, county office of education, or charter
+school to increase or improve services for unduplicated pupils in
+proportion to the increase in funds apportioned on the basis of the
+number and concentration of unduplicated pupils in the school district,
+county office of education, or charter school. (Underlining added.)
+
+8
+
+9.
+
+While the Board of Education has not yet promulgated the required
+
+regulations, the underlined language of section 42238.07 reflects a clear legislative mandate
+that the increase in funds apportioned for eligible7 students should be devoted to increased or
+improved services for such students.
+
+10.
+
+The differences in the analyses of the budget increases between District and
+
+respondents are easily explained by their interpretation of what the experts referred to as the
+“proportionality” requirement. District’s expert viewed the requirement as providing a
+rationale for restricting (and excluding from consideration for purposes of assessing the
+amount of the budget increase) all funds attributable to eligible students. Respondents’
+expert regarded only the 20 percent supplement as restricted funds and thus not to be
+considered in calculating the budget increase. Respondents’ view correctly applies the
+language of the proportionality statute, because the statute refers to the “increase in funds”
+on the basis of the number of eligible students. There is no reference to apportionment of the
+base amounts attributable to eligible students.
+
+11.
+
+Not only is this interpretation consistent with the plain language of the statute,
+
+it achieves a logical result, whereas District’s interpretation creates an illogical situation.
+The very name of the new formula connotes the increased flexibility the Legislature sought
+to provide school districts in contrast to the limitations of the old categorical funding system.
+This is spelled out in the Legislative Counsel’s Digest to Chapter 47: “This bill would
+authorize local educational agencies to expend, for any local educational purpose, the funds
+previously required to be spent for specified categorical educational programs, including,
+among others, programs for teacher training and class size reduction.” District’s
+calculations are premised on the proposition that all funds attributable to eligible students
+should only be used to provide services to them. This interpretation would limit a school
+district’s budgeting flexibility even beyond the limitations imposed by categorical funding, at
+least where more than 20 percent of students are eligible. Moreover, it would mean that the
+higher the percentage of eligible students and therefore the increase in a school district’s
+target and actual funding, the lower the percentage by which District would calculate the
+budget increase. Under this model, the increase would eventually be calculated as zero. This
+scenario would clearly run counter to the obvious purpose of Education Code section
+44955.5, to allow a school district with only a modest budget increase to affect a layoff after
+the budget is passed because of too little money to pay all of the costs related to teaching
+staff. Here, District’s budget increase was 3.52 percent, well above the 2 percent threshold,
+and even if one deducts the supplemental allocation for eligible students, the increase
+exceeded 3 percent. The expenditure of the funds to pay for teachers would obviously
+benefit all students, eligible and ineligible.
+
+12.
+
+District did not establish the necessary precondition for resort to the layoff
+
+process contemplated by section 44955.5, as modified by section 42238.06. District argued
+
+7 “Unduplicated” students refers to the three categories of students for which a district
+
+receives the supplement or concentration funding, and conveys that they are only to be
+counted once, even if meeting more than one criterion. (Educ. Code. § 2574, subd. (b)(2).)
+
+9
+
+that the determination of whether the two requirements contained in section 44955.5 were
+met was left to the sound discretion of the Board. That is only true for the second
+requirement: that less than a two percent increase necessitates a layoff “in the opinion of the
+governing board.” The first requirement must be supported by facts and those facts were not
+established in this matter.
+
+The Accusation is dismissed.
+
+ORDER
+
+Dated: August 8, 2013
+
+_____________________________
+KARL S. ENGEMAN
+Administrative Law Judge
+Office of Administrative Hearings
+
+10
+
+

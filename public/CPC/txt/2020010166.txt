@@ -1,0 +1,1733 @@
+BEFORE THE 
+OFFICE OF ADMINISTRATIVE HEARINGS AND THE 
+COMMISSION ON PROFESSIONAL COMPETENCE FOR THE  
+LOS ANGELES UNIFIED SCHOOL DISTRICT 
+STATE OF CALIFORNIA 
+
+In the Matter of the Dismissal of: 
+
+TUSHANA HOWARD,  
+
+a Permanent Certificated Employee, 
+
+Respondent. 
+
+OAH No. 2020010166 
+
+DECISION 
+
+The Commission on Professional Competence (Commission) heard this matter 
+
+by videoconferencing on March 1 through 12, 2021 (excluding the weekend).1 The 
+
+Commission consists of Dr. Allison V. Steppes, Pasadena Unified School District; 
+
+Carolynne Kleier, Los Angeles Unified School District (retired); and Administrative Law 
+
+Judge Eric Sawyer, Office of Administrative Hearings (OAH), State of California, who 
+
+presided. 
+
+ 
+
+1 Videoconferencing was due to the COVID-19 pandemic. 
+
+Susan Hyman, Assistant General Counsel II, represented complainant Los 
+
+Angeles Unified School District (District).
+
+Tamra Smith, Esq., represented Tushana Howard (Respondent). 
+
+The parties presented opening statements, oral and documentary evidence, and 
+
+closing arguments. The case was submitted for decision at the conclusion of the 
+
+hearing on March 12, 2021. The Commission thereafter conducted its deliberations in 
+
+executive session.
+
+SUMMARY 
+
+The District seeks to dismiss Respondent, a high school secondary counselor, 
+
+for allegedly making unauthorized grade changes for a varsity football player and by 
+
+making two class changes for him that allegedly violated District policy. The District 
+
+contends Respondent took these actions to maintain the student’s eligibility to play 
+
+football. However, while many unauthorized grade changes were made for the student 
+
+on Respondent’s computer, Respondent was not the one who made them. Respondent 
+
+made one class change for the student that violated District policy, but there were 
+
+many mitigating circumstances, including the change was motivated by concern for 
+
+the student’s personal welfare, not his athletic eligibility. The Commission concludes 
+
+there is no legal cause for terminating Respondent’s employment, and the factors set 
+
+forth in 
+
+(1969) 1 Cal.3d 214 do not demonstrate 
+
+Respondent is unfit to act as a secondary counselor. Therefore, Respondent’s dismissal 
+
+is not warranted. 
+
+2
+
+FACTUAL FINDINGS
+
+Parties and Jurisdiction 
+
+1.
+
+The Board of Education (Board) is the duly elected, qualified, and acting 
+
+governing board of the District, organized and operating pursuant to the provisions of 
+
+the California Education Code and other laws of the State of California.
+
+2. 
+
+Respondent is a certificated, permanent employee of the District and, at 
+
+all times relevant, was assigned as a secondary counselor at Narbonne High School 
+
+(Narbonne). 
+
+3. 
+
+On November 7, 2019, a Statement of Charges against Respondent, 
+
+alleging factual and legal grounds for termination of her employment with the District, 
+
+was signed on behalf of Jose R. Cantu, Ed.D., the District’s Assistant Chief Human 
+
+Resources Officer. (Ex. 1, pp. A3-A9.) 
+
+4. 
+
+By letter dated December 4, 2019, Mr. Cantu advised Respondent the 
+
+Statement of Charges had been filed with the Board, and, during a closed session 
+
+Board meeting held on December 3, 2019, the Board decided to dismiss Respondent
+
+within 30 days, unless she requested a hearing. (Ex. 1, p. A2.) On January 2, 2020,
+
+Respondent timely requested a hearing. (Ex. 3.) 
+
+5. 
+
+On April 16, 2020, the District filed an Accusation with OAH and served it 
+
+on Respondent, which included the allegations made in the Statement of Charges. (Ex. 
+
+2.) 
+
+3
+
+Respondent’s Relevant Background Information
+
+PERSONAL
+
+6.
+
+Respondent grew up in Los Angeles County and attended elementary 
+
+and secondary schools within the District. Cheryl Nakata, a retired District educator 
+
+and administrator, testified she taught Respondent in high school. Respondent has 
+
+two children who both attended Narbonne.
+
+EDUCATION AND CREDENTIAL
+
+7. 
+
+Respondent earned a Bachelor of Science degree in Human Services in 
+
+2008. She earned a Master’s Degree in Educational Counseling in 2014.
+
+8. 
+
+Respondent obtained a clear Pupil Personnel Services (PPS) credential 
+
+from the California Commission on Teacher Credentialing. The PPS credential 
+
+authorizes Respondent to develop, plan, and implement a school counseling and 
+
+guidance program for the academic, career, personal, and social development of 
+
+students, among other things.
+
+TEACHING EXPERIENCE WITH THE DISTRICT 
+
+9. 
+
+Respondent has worked her entire educational career for the District. 
+
+10. 
+
+The District first hired Respondent in 1998 as a children’s center aide. In 
+
+1999, she became a special education assistant. In 2008 or 2009, Respondent was 
+
+hired as Narbonne’s Healthy Start Coordinator. In 2015, after obtaining her PPS 
+
+credential, Respondent was hired as a secondary counselor at Narbonne.
+
+4
+
+Relevant Background Information About Narbonne and Student John 
+
+Doe2
+
+football. 
+
+11.
+
+Narbonne has one of the leading football programs within the District, 
+
+having won several California Interscholastic Federation (CIF) City Section and State 
+
+football championships. The football program is a source of pride for students and 
+
+staff of Narbonne. However, there were rumors within some quarters of the District of 
+
+favoritism by Narbonne administrators and faculty toward student-athletes who play 
+
+12. 
+
+John Doe, then a high school junior, moved from Hawaii to California 
+
+with his father in April 2018. John Doe was a successful varsity football player in 
+
+Hawaii, but by the end of his junior season he had received no scholarship offers to 
+
+play for a Division I college football program. John Doe’s father had played Division I 
+
+college football, and the two shared the dream of John Doe becoming a collegiate 
+
+scholarship athlete. The two believed John Doe would receive more recruiting 
+
+attention by playing football in Southern California, particularly at a major football 
+
+program like Narbonne. 
+
+13. 
+
+John Doe’s father had a number of football contacts such as Chris 
+
+Maumalanga, who played seven seasons in the National Football League. John Doe 
+
+and his father ended up moving near where Mr. Maumalanga lived, which was served 
+
+by Narbonne. 
+
+2 The name of the student is omitted as confidential.
+
+ 
+
+5
+
+14.
+
+John Doe enrolled in high school at Narbonne in the middle of the 
+
+Spring 2018 semester. Respondent was John Doe’s assigned counselor. 
+
+15. 
+
+John Doe fit in at Narbonne and was happy. He was described by 
+
+classmates as quiet but a “jokester.” His grades during the Spring 2018 semester were 
+
+mixed, with some B’s, one A, one D, and an F in Algebra 2B. John Doe was enrolled in 
+
+Algebra 2B in summer school to make up that credit. (Exs. 32 & 33.) 
+
+16. 
+
+In June 2018, John Doe’s father suddenly and unexpectedly passed away. 
+
+John Doe was devastated. John Doe went back to Hawaii for several weeks for his 
+
+father’s funeral and therefore had to withdraw from summer school.  
+
+17.  When John Doe returned to California, he was not the same person. All 
+
+of the witnesses who knew him uniformly testified that upon his return from Hawaii, 
+
+John Doe was depressed, withdrawn, and frequently cried over the death of his father. 
+
+He often told fellow students and teachers he wanted to quit school and stop playing 
+
+football. 
+
+18. 
+
+John Doe’s Fall 2018 semester class schedule was prepared not by 
+
+Respondent, but by Eric Magee, another counselor at Narbonne. Mr. Magee prepared 
+
+the schedule because he had experience and training pertaining to collegiate athletic 
+
+eligibility requirements, and it was hoped John Doe would play college football. 
+
+Charges Against Respondent Related to Grade Changes 
+
+JOHN DOE’S SITUATION 
+
+19. 
+
+John Doe continued to struggle with the death of his father throughout 
+
+the 2018-2019 school year. The death of his father essentially left John Doe home 
+
+alone, with Mr. Maumalanga and a few relatives living in the Inland Empire as his only 
+
+6
+
+support. John Doe’s emotional problems were exacerbated when later he learned his 
+
+mother was diagnosed with breast cancer. In the early part of the Fall 2018 semester, 
+
+John Doe also got into a fight on campus and was arrested. His attendance 
+
+throughout the school year was almost non-existent. He did few, if any, of his 
+
+assignments, and his grades suffered. 
+
+20. 
+
+Despite his emotional and academic problems, John Doe continued to 
+
+excel on the football field. He rarely missed practice and he was a starting player on 
+
+Narbonne’s vaunted varsity football team. The team had another successful season, 
+
+making the play-offs, and ultimately winning another CIF City Section football 
+
+championship in November 2018. John Doe also received various scholarship offers his 
+
+senior year. In early December 2018, John Doe was offered and accepted a full 
+
+scholarship to play football at the University of Southern California (USC), one of the 
+
+top Division I football programs in the country. John Doe and his family were excited 
+
+about the opportunity, and the Narbonne community was proud one of its players had 
+
+received such an honor. 
+
+UNAUTHORIZED CHANGES TO JOHN DOE’S GRADES DISCOVERED 
+
+21.  On March 12, 2019, during the Spring 2019 semester, Stuart Moore, an 
+
+English teacher at Narbonne, went into the District’s My Integrated Student 
+
+Information System (MiSiS) computer program to enter grades for his students. John 
+
+Doe was in Mr. Moore’s year-long Expository Reading and Writing Course (ERWC), but 
+
+had done few assignments and had been failing the course the entire year. Mr. Moore 
+
+noticed someone had entered a mid-term grade of B for John Doe that semester. Mr. 
+
+Moore was shocked because he had not entered the grade and John Doe was failing 
+
+the course. 
+
+7
+
+22. Mr. Moore was suspicious, so he reported the situation to Narbonne’s
+
+Assistant Principal Agnes Pitlik. Ms. Pitlik quickly notified Mira Pranata, the Operations 
+
+Coordinator of Local District South. Ms. Pitlik also was in contact with Peter Hastings, 
+
+the Operations Administrator of Local District South. Ms. Pitlik’s preliminary research 
+
+indicated the change in John Doe’s grade in Mr. Moore’s class had come from 
+
+Respondent’s computer. Ms. Pitlik explained her preliminary findings to Narbonne’s 
+
+Principal, Gerald Kobata. Mr. Kobata asked Ms. Pitlik to assign the investigation to 
+
+Earlondra Jackson-Grant, an Assistant Principal of Secondary Counseling, and 
+
+Respondent’s direct supervisor. Because Ms. Pranata and Mr. Hastings of Local District 
+
+South were expected to arrive on campus within the hour, Ms. Pitlik told Ms. Jackson-
+
+Grant she had less than 40 minutes to find out what happened. 
+
+23. 
+
+Assistant Principal Jackson-Grant took expedited investigatory steps, 
+
+including interviewing Respondent, reviewing MiSiS, watching school security video 
+
+covering the entrance to Respondent’s office, and interviewing John Doe.  
+
+24. 
+
+It was soon discovered grades had been changed in many of John Doe’s 
+
+classes, mostly from Respondent’s computer, but also a few on the computer of 
+
+Narbonne’s Athletic Director, Kyla Berman. However, based on anomalies she saw with 
+
+some of the grade changes, and her knowledge of Respondent, Assistant Principal 
+
+Jackson-Grant was not convinced Respondent made the changes. Although John Doe 
+
+denied making the changes when she interviewed him, Ms. Jackson-Grant still felt he 
+
+may have done so; she was not sure.  
+
+25.  When Mr. Hastings and Ms. Pranata arrived on campus, they took over 
+
+the investigation. However, Mr. Hastings approached the investigation with a 
+
+jaundiced eye toward Narbonne’s administrators and faculty, based on his suspicions 
+
+about the football program. He ultimately concluded Respondent and Ms. Berman had 
+
+8
+
+made the unauthorized grade changes in order for John Doe to maintain his athletic 
+
+eligibility to play football at Narbonne.
+
+THE UNAUTHORIZED GRADE CHANGES – CHARGES 4-16 
+
+26. 
+
+During the investigation, it was discovered that on the dates below the 
+
+following unauthorized grade changes had been made for John Doe: 
+
+a. On October 9, 2018, from D to A in Chemistry A for the five week grading 
+
+window of the Fall 2018 Semester. A “grading window” is the period of 
+
+time a teacher has to enter grades for that particular grading period.
+
+b.  On October 9, 2018, from F to A in Principles of American Democracy for 
+
+the five week grading window of the Fall 2018 Semester.
+
+c.  On October 9, 2018, from F to C in ERWC A for the five week grading 
+
+window of the Fall 2018 Semester.
+
+d.  On December 7, 2018, from D to A in Chemistry A for the ten week 
+
+grading window of the Fall 2018 Semester. 
+
+e.  On December 7, 2018, from F to A in Chemistry A for the 15 week 
+
+grading window of the Fall 2018 Semester. 
+
+f.  On December 7, 2018, from C to B in ERWC A for the five week grading 
+
+window of the Fall 2018 Semester.
+
+g.  On December 7, 2018, from C to A in Service Hours for the 15 week 
+
+grading window of the Fall 2018 Semester. 
+
+9
+
+h. On December 7, 2018, from F to A in Business Economics for the 15 week 
+
+grading window of the Fall 2018 Semester.
+
+i.  On February 25, 2019, from F to C in Economics for the 5 week grading 
+
+window of the Spring 2019 semester.
+
+j.  On February 25, 2019, from F to A in Chemistry B for the 5 week grading 
+
+window of the Spring 2019 semester.
+
+k.  On February 25, 2019, from F to B in ERWC B for the 5 week grading 
+
+window of the Spring 2019 semester.
+
+l.  On February 25, 2019, from an M (meeting standards) to A in Intro to 
+
+Sociology for the 5 week grading window of the Spring 2019 semester.
+
+27.  Most of the grade changes described above raised John Doe’s letter 
+
+grade in each class by three or four letters.
+
+RESPONDENT DID NOT MAKE THE UNAUTHORIZED GRADE CHANGES
+
+28. 
+
+It was established by a preponderance of the evidence that the 
+
+unauthorized grade changes were made on Respondent’s computer. However, for the 
+
+reasons described in more detail below, it was established by a preponderance of the 
+
+evidence that Respondent did not make the unauthorized grade changes. In fact, the 
+
+unauthorized grade changes were probably made by John Doe.
+
+29. 
+
+John Doe had the opportunity to make the unauthorized grade changes. 
+
+He was in the immediate vicinity of Respondent’s office on each of the three occasions 
+
+when the unauthorized changes were made. John Doe also was proficient with 
+
+computers. For example, John Doe occasionally assisted Ms. Berman with her Athletic 
+
+10 
+
+Department tasks. Ms. Berman was impressed with John Doe’s ability to quickly master 
+
+District software. 
+
+30. 
+
+John Doe had motives to make the unauthorized changes. Specifically, he 
+
+knew he needed a 2.0 or better grade point average (GPA) to be eligible to play 
+
+football at Narbonne. He also knew USC required him to have a 3.0 or better GPA to 
+
+be eligible for the scholarship. 
+
+31. 
+
+The timing of most of the unauthorized changes, or the way they were 
+
+made, indicate the unauthorized changes were executed by someone unfamiliar with 
+
+MiSiS or the grading process, like a student. For example, some changes were made 
+
+for the 5 week grading windows, which were not used to determine athletic eligibility 
+
+and would not be reported on a transcript sent to a college. 
+
+32. 
+
+After initially denying to District staff investigating the matter he made 
+
+the grade changes, John Doe later told Mr. Maumalanga he had made the grade 
+
+changes. Mr. Maumalanga insisted John Doe tell the District he made the grade 
+
+changes because he knew District employees, including Respondent, were being 
+
+blamed for them. Mr. Maumalanga persuaded John Doe to join him on a telephone 
+
+call to District staff to make this admission. In light of his past denials, and refusal to 
+
+answer other questions during the telephone call to the District staff member, the 
+
+District was not convinced by John Doe’s confession.
+
+33.
+
+Counselors at Narbonne who did not teach a class, like Respondent, had 
+
+no reason to have MiSiS access allowing them to enter or change grades. Respondent 
+
+was not told and did not know she had access to enter or change grades in MiSiS. In 
+
+fact, Respondent’s supervisor, Assistant Principal Jackson-Grant, did not know 
+
+Respondent had such access until she conducted her abbreviated investigation. She 
+
+11 
+
+was shocked to find out Respondent had such access. It is unclear how Respondent 
+
+would have made unauthorized grade changes if she did not know she had the access 
+
+to do so in the first place. 
+
+34. 
+
+Counselors at Narbonne, including Respondent, knew well MiSiS left 
+
+digital fingerprints showing each time someone accessed the system and what 
+
+activities they performed when they accessed it. It is unlikely Respondent would have 
+
+jeopardized her career by making unauthorized grade changes knowing that activity 
+
+quickly could be traced to her. 
+
+35. 
+
+Respondent was out of her office supervising during the nutrition break, 
+
+and then attending an IEP meeting, during the time window when the unauthorized 
+
+changes were made on one of the days in question. During the time window of 
+
+another round of unauthorized changes, security video clearly shows Respondent had 
+
+left her office but John Doe remained in the immediate vicinity.3 Respondent did not 
+
+have a documented alibi for the third round of unauthorized changes made on her 
+
+computer, but the fact she does have an alibi for the other two makes it unlikely she 
+
+was involved the third time.
+
+36.
+
+In January 2019, Respondent sent John Doe’s transcript to an admissions 
+
+counselor at USC. The transcript showed John Doe’s GPA was well under 3.0. If 
+
+Respondent had been involved in a scheme to make John Doe’s grades look better, 
+
+3 Although the timing between the District’s MiSiS system and Narbonne’s 
+
+ 
+
+security video system may not have been perfectly in sync at the time in question, and 
+
+was not in sync when the video was reviewed one year later, the timing between the 
+
+two systems was close enough to be persuasive. 
+
+12 
+
+she likely would not have made unauthorized changes insufficient to boost John Doe’s 
+
+GPA to 3.0. 
+
+37. 
+
+In aggravation, the unauthorized changes in question were made 
+
+possible, in part, because Respondent was not diligent in protecting her computer. For 
+
+example, Respondent typically did not log off of MiSiS when she left her office, but 
+
+rather minimized the window. That would have allowed someone direct access to 
+
+MiSiS in her absence. Respondent frequently allowed students, including John Doe, to 
+
+do school work on her computer. Respondent should have logged off of MiSiS
+
+whenever she left her office. She also could have used a more secure password for 
+
+access to her computer. 
+
+38. 
+
+In mitigation, the District also is to blame for the unauthorized access to 
+
+Respondent’s computer. Respondent’s office did not lock from the outside, just the 
+
+inside. This meant she could not lock her office when she left. She should have been 
+
+given a proper door lock for her office because she had to keep confidential student 
+
+information in it. Her office was located in a high traffic area where a number of 
+
+students were allowed to remain for significant periods of time. Because Respondent 
+
+was not told she had access to enter or change grades on MiSiS, she did not know this 
+
+was a danger that needed to be protected against. Finally, the District provided no in-
+
+person mandatory training on MiSiS; the training that was made available was 
+
+inadequate. 
+
+Charges Related to Class Changes 
+
+39. 
+
+The Local District South’s investigation also revealed two anomalous 
+
+class changes Respondent made for John Doe during the Fall 2018 semester. The 
+
+changes were made later in the semester than usual, and John Doe was moved from 
+
+13 
+
+classes in which he was doing poorly. Mr. Hastings concluded the class changes
+
+violated several District policies, and Respondent made the class changes in order to 
+
+replace John Doe’s poor grades with better ones in new classes, sometimes called 
+
+“grade washing.” 
+
+CHARGE 1 – CLASS CHANGE TO BUSINESS ECONOMICS
+
+40. 
+
+The District established by a preponderance of the evidence that, on 
+
+September 20, 2018, Respondent changed the classroom enrollment for John Doe, 
+
+moving him from Intro to Psychology to Business Economics A. At the time of the class 
+
+change, Respondent was failing the Intro to Psychology class. 
+
+41. 
+
+Respondent had a legitimate reason for making this class change. As 
+
+explained above, Counselor Eric Magee made John Doe’s schedule for the Fall 2018 
+
+semester. As the semester progressed, Respondent realized John Doe had taken 
+
+Business Economics B in the prior semester. She believed taking one full year of 
+
+Business Economics would be more beneficial to John Doe’s transcript for purposes of 
+
+college evaluation than taking one semester of Business Economics and one semester 
+
+of an elective (Intro to Psychology). Moreover, John Doe already had enough credits to 
+
+graduate on time, so the Intro to Psychology course was superfluous.
+
+42.
+
+A. In addition, the District failed to meet its burden of establishing by a 
+
+preponderance of the evidence that, as alleged, Respondent violated applicable 
+
+District policy by not obtaining her supervisor’s timely consent to make this class 
+
+change.
+
+B. Given the timing of the change so late in the semester, Respondent 
+
+needed her supervisor’s permission, Assistant Principal Jackson-Grant. During the 
+
+investigation conducted by Local District South, Ms. Jackson-Grant consistently stated 
+
+14 
+
+she did not recall giving Respondent permission to make this change. However, at no 
+
+time during the investigation, or while testifying, did Ms. Jackson-Grant affirmatively 
+
+state she did not give such consent. During the hearing, Ms. Jackson-Grant testified it 
+
+was possible she had given such consent and forgot about it. Ms. Jackson-Grant also 
+
+testified Respondent had never before made a class change under these circumstances 
+
+without obtaining her consent. 
+
+ 
+
+C. The timing of this change is noteworthy. This was a routine class 
+
+change frequently done in the beginning of a semester. Ms. Jackson-Grant would have 
+
+been approached by various counselors with various class changes at this time. Given 
+
+the fact Respondent and Ms. Jackson-Grant were friends, a discussion concerning this 
+
+particular class change for John Doe likely would have been a fast, unmemorable 
+
+event. Because this type of class change was not particularly unusual, and Ms. Jackson-
+
+Grant affirmed Respondent did not make late class changes like this without her 
+
+consent, the Commission has no reason to believe Respondent made this class change 
+
+without Ms. Jackson-Grant’s consent.
+
+43.
+
+A. However, Respondent did not document in MiSiS the circumstances of 
+
+this class change or Assistant Principal Jackson-Grant’s consent. Respondent and other 
+
+counselors at Narbonne had been repeatedly advised by Ms. Jackson-Grant they 
+
+should do so. While it was not District policy to document such a change in MiSiS, it 
+
+was a best practice strongly emphasized by Ms. Jackson-Grant. 
+
+ 
+
+ 
+
+B. In mitigation, Respondent had documented some events that semester 
+
+in MiSiS for John Doe, such as on September 24, 2018, when she documented meeting 
+
+with him concerning his individual graduation plan. Narbonne counselors were not 
+
+given adequate training on MiSiS and the system was often plagued by technical 
+
+problems and crashes. Narbonne counselors had high student caseloads and were 
+
+15 
+
+extremely busy, sometimes making it nearly impossible to document major events in 
+
+both a student’s mini-cumulative file (or mini-cum) and MiSiS. Brian Spencer, a retired 
+
+Local District South administrator who formerly oversaw Narbonne’s counselling corps, 
+
+testified that, due to these problems, student mini-cums were considered the primary 
+
+documenting source, with MiSiS as the secondary source. 
+
+ 
+
+ 
+
+C. The District confiscated Respondent’s mini-cum for John Doe during 
+
+the investigation but never returned it to her after the investigation concluded. The 
+
+District has never provided an explanation for the whereabouts of Respondent’s mini-
+
+cum for John Doe, which is troubling considering it returned to her all of her other 
+
+papers. Respondent convincingly testified she made all appropriate documentation for 
+
+John Doe, including this class change, in her mini-cum. Under these circumstances, the 
+
+Commission finds it is likely Respondent documented in her mini-cum for John Doe 
+
+that Ms. Jackson-Grant approved this class change. 
+
+CHARGES 2 & 3 – CLASS CHANGE TO SERVICE CLASS
+
+44. 
+
+The District has a course referred to as Service Class. It is not considered 
+
+to have educational content. Instead, a student enrolled in Service Class assists a 
+
+teacher, librarian, or similar staff member, with his or her daily duties. Service Class 
+
+enrollment is reserved only for academically proficient students and, as explained 
+
+below, has eligibility criteria that must be met for enrollment. (Ex. 12, pp. A192-A193.)
+
+45. 
+
+The District established by a preponderance of the evidence that, on 
+
+October 5, 2018, Respondent, without her supervisor’s permission, as required by 
+
+school policy and practice, changed the classroom enrollment for John Doe from Art 
+
+to Service Class. At the time of this class change, John Doe was failing the Art class. 
+
+16 
+
+46.
+
+Respondent had a legitimate reason for moving John Doe out of the Art 
+
+class. John Doe had already taken art classes in Hawaii and thus met the District’s art 
+
+requirement. Many students were enrolled in this Art class. So there was no reason to 
+
+have John Doe in this class. Given John Doe’s emotional problems, and the close 
+
+proximity of the Service Class to the Counseling Department offices, putting John Doe 
+
+in Service Class meant a greater level of supervision over him during this period. 
+
+47.  On the other hand, the District met its burden of establishing by a 
+
+preponderance of the evidence that Respondent made this change without Assistant 
+
+Principal Jackson-Grant’s consent. This change was done during the grading window, 
+
+which would have interfered with the grading process and issuance of report cards. 
+
+There would have been multiple layers of staff involved in this change due to the 
+
+impact it had on grades. Ms. Jackson-Grant testified she would have contacted Mr. 
+
+Spencer of Local District South about this type of change. Neither Ms. Jackson-Grant 
+
+nor Mr. Spencer testified that happened. This tends to show Respondent did not 
+
+involve Ms. Jackson-Grant in this change. During the hearing, Ms. Jackson-Grant 
+
+testified she did not remember being contacted by Respondent about this change, 
+
+something Ms. Jackson-Grant would have remembered. 
+
+48. 
+
+The District has specific criteria of eligibility a student must meet in order 
+
+to be enrolled in Service Class. (Ex. 12.) In this case, the District established by a 
+
+preponderance of the evidence that Respondent enrolled John Doe in the Service 
+
+Class, even though he was not eligible for it, as follows: 
+
+a. The Principal or Assistant Principal must authorize the move. Neither Principal 
+
+Kobata nor Assistant Principal Jackson-Grant authorized this change. 
+
+17 
+
+b. The move cannot be made during a grading window when the student is 
+
+receiving a failing grade. The move was made during a grading window when 
+
+John Doe was receiving a failing grade in two classes. 
+
+c. The student could not have received a failing grade in the prior semester. 
+
+John Doe had received a failing grade in Algebra 2B in the prior Spring 2018 
+
+semester. 
+
+d. The student meets the District’s attendance criteria. John Doe had a poor
+
+attendance record well below the District’s attendance criteria. 
+
+e. The student must be in good standing with the school’s Code of Ethics. John 
+
+Doe was not in good standing at Narbonne, as he had gotten into a fight on 
+
+campus and been arrested.
+
+49. 
+
+In mitigation, Respondent had a legitimate motive for making this 
+
+change. Mr. Spencer, formerly of Local District South, testified such changes were 
+
+often made at Narbonne, even when the involved students did not meet Service Class 
+
+eligibility. Mr. Spencer also testified moving John Doe into Service Class as a way of 
+
+addressing his emotional crisis was a valid objective, even though John Doe was not 
+
+qualified to be in the class. 
+
+CHARGES 19 & 20 – POLICIES INVOLVED IN THE SERVICE CLASS CHANGE
+
+50. 
+
+For the reasons explained below, the District failed to establish by a 
+
+preponderance of the evidence, as alleged, that Respondent’s conduct in making the 
+
+enrollment change for John Doe from Art to Service Class violated the following 
+
+reasonable rules and regulations of the District:
+
+18 
+
+a. Code of Conduct with Students. Respondent did not have improper motives 
+
+in making this one class change. 
+
+b. Employee Code of Ethics. This was not an ethical breach and therefore did 
+
+not violate this policy.
+
+c. School Counseling Framework Standards. It was not established the 
+
+counseling standards cited in the Conference Memorandum dated August 23, 
+
+2019 issued to Respondent (Ex. 5, pp. A75-A78) were violated as follows: 
+
+. On September 24, 2018, Respondent had an individual 
+
+graduation plan meeting with John Doe. She also mailed grade 
+
+deficiency notices showing his progress to John Doe’s known home 
+
+address.
+
+[SWPBS]
+
+. The District did not provide evidence of Narbonne’s SWPBS, so 
+
+the Commission cannot make a finding. However, bringing John Doe into 
+
+close proximity with the Counseling Department offices in order to 
+
+increase supervision over him was a way to address the SWPBS.
+
+. As explained above, Respondent’s conduct was not unethical. 
+
+The Commission concludes it was not unprofessional either. 
+
+19 
+
+. Respondent was required 
+
+to update enrollment in Service Class on MiSiS. (Ex. 12, p. A192.) But, as 
+
+explained above, MiSiS had a number of technical problems, and 
+
+Narbonne counselors had caseloads large enough to make difficult 
+
+updating both their mini-cums and MiSiS. Because the District last had 
+
+possession of Respondent’s mini-cum for John Doe, but did not return it 
+
+to her or provide it during the hearing, a finding cannot be made in that 
+
+regard. 
+
+d. Discipline Foundation Policy. Insufficient evidence of such a policy was 
+
+presented, so no finding can be made.
+
+e. Human Resources Class Description for Secondary Counselors. The District 
+
+was not specific as to which part of the policy was allegedly violated. However, 
+
+Respondent kept her mini-cums updated and completed other required 
+
+documents. MiSiS is not mentioned in this policy. Respondent did not falsify any 
+
+f. Administrative Policy Regarding Falsification. Respondent did not falsify any 
+
+records.
+
+records.
+
+51. 
+
+A. However, the District established by a preponderance of the evidence 
+
+that Respondent’s conduct in making the enrollment change for John Doe from Art to 
+
+Service Class violated the policy stated in 
+
+. 
+
+ 
+
+ 
+
+B. In closing argument, the District only focused on sections X and E of 
+
+the policy. Respondent violated those two sections because she moved John Doe from 
+
+20 
+
+classes not within the same department or into another academic elective with 
+
+educational content. As a practical matter, it was too late in the semester for 
+
+Respondent to make this kind of class change, especially without her supervisor’s 
+
+consent. 
+
+ 
+
+ 
+
+C. In mitigation, however, Service Class was the only course available to 
+
+John Doe at the time of the change, because he would have missed too much material 
+
+if he were moved into a class with educational content. As explained above, this 
+
+change was made for John Doe’s welfare, not to inflate his grades. John Doe did not 
+
+need the Art class to graduate or for any other purpose. 
+
+52. 
+
+Respondent’s conduct in making the enrollment change for John Doe 
+
+from Art into Service Class was not a breach of public trust in violation of the District’s 
+
+, as explained above in Factual Finding 50.b.
+
+Impact of Grade and Schedule Changes – Charges 17-23 4
+
+53. 
+
+A. The District failed to establish by a preponderance of the evidence, as 
+
+alleged, that Respondent’s moving John Doe into the Service Class was motivated by a 
+
+desire to raise John Doe’s GPA in order to maintain his eligibility to play football.
+
+B. Instead, Respondent moved John Doe into the Service Class to address 
+
+his emotional crisis, increase the level of supervision over him, and to keep him around 
+
+adults (the Narbonne counselors) who could support him.
+
+C. Although Respondent had some involvement with the Narbonne 
+
+football program, it was not enough to show she was motivated to make this class 
+
+4 Charges 21 and 24 are addressed in the Legal Conclusions. 
+
+ 
+
+21 
+
+change to inflate John Doe’s grades to maintain his eligibility for football. For example, 
+
+Respondent worked security on the sidelines of Narbonne football games because she 
+
+had a friendship with Narbonne’s Athletic Director, Ms. Berman. Respondent 
+
+supported all varieties of sports and extra-curricular activities at Narbonne, not just 
+
+football. In addition, Respondent had an adversarial relationship with Narbonne’s head 
+
+football coach, and would not have jeopardized her career to help him. 
+
+ 
+
+ 
+
+D. John Doe was failing the Art class at the time of the class change. He 
+
+later received an A in Service Class. Because Respondent was not responsible for the 
+
+unauthorized grade changes, and her other class change for John Doe did not violate 
+
+District policy, it cannot be concluded, as alleged, that moving John Doe into Service 
+
+Class was what kept him eligible to continue playing football. 
+
+54. 
+
+After John Doe was moved into the Service Class, he competed in the 
+
+remainder of Narbonne’s regular season football games, play-offs, and the CIF City 
+
+Section Open Division Championship game, which Narbonne won. As explained above, 
+
+it cannot be concluded, as alleged, that Respondent’s moving John Doe into the 
+
+Service Class was what allowed him to continue playing football. 
+
+55. 
+
+A. In 2019, after Local District South completed its investigation, the 
+
+District self-reported to the CIF City Section that John Doe should have been 
+
+academically ineligible to play football as of October 4, 2018. This self-report was 
+
+substantially based on Mr. Hastings’ conclusions Respondent had made the 
+
+unauthorized grade changes, and Respondent’s two class changes for John Doe 
+
+violated District policy. 
+
+ 
+
+ 
+
+B. On November 1, 2019, CIF ruled the Narbonne football team had to 
+
+forfeit seven wins from the 2018 season occurring after October 4, 2018, as well as the 
+
+22 
+
+2018 CIF City Section Open Division Championship. Narbonne also was banned from 
+
+participating in the play-offs for the next two football seasons. 
+
+C. However, as discussed above, Respondent did not falsify John Doe’s 
+
+grades. She did not violate District policy by moving John Doe into the Business 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Economics A class. 
+
+D. Respondent’s misconduct only relates to moving John Doe into 
+
+Service Class. The teacher of Respondent’s Service Class, Mr. Orozco, initially gave 
+
+John Doe a C. After discussing the matter with Respondent, Mr. Orozco decided to 
+
+give John Doe an A. It was not established Respondent exercised any undue influence 
+
+on Mr. Orozco or said anything improper to him. Ultimately, it was Mr. Orozco who 
+
+made the grading decision for John Doe. 
+
+ 
+
+ 
+
+E. The District self-reported far different information to the CIF than was 
+
+established in this case. It would be sheer speculation to conclude the CIF would have 
+
+issued the same sanctions against Narbonne had it been reported John Doe made the 
+
+unauthorized grade changes himself, and Respondent only violated District policy with 
+
+one of John Doe’s class changes, but under mitigating circumstances. 
+
+56. 
+
+A. The District did not establish by a preponderance of the evidence, as 
+
+alleged, that inaccurate grades were transmitted in an official transcript from 
+
+Narbonne to one or more universities as a result of Respondent’s conduct. 
+
+ 
+
+ 
+
+B. As discussed above, Respondent did not change John Doe’s grades. 
+
+The one class change she made for John Doe in violation of District policy resulted in 
+
+John Doe receiving an A in Service Class for the Fall 2018 mid-term. As discussed 
+
+above, that grade was given by Mr. Orozco. Thus, Respondent’s conduct did not cause 
+
+John Doe to receive an inaccurate grade. 
+
+23 
+
+C. John Doe’s official transcript only was sent to an admissions counselor 
+
+at USC, Katie Fuller. The official transcript sent to Ms. Fuller had John Doe’s correct 
+
+grades, including two F’s and two Incompletes. In any event, USC later rescinded its 
+
+scholarship offer to John Doe. 
+
+Other Relevant Facts
+
+57. 
+
+The CIF sanctions against Narbonne were widely reported in Southern 
+
+California newspapers and social media, which shed negative light on Narbonne and 
+
+its football program.
+
+58. Mr. Moore, John Doe’s ERWC teacher, testified students were shocked to 
+
+hear news of the scandal and became upset there was seemingly a double-standard 
+
+for football players. Mr. Hastings testified similarly.
+
+59.
+
+The entire Narbonne administration was replaced the following school 
+
+year, and the head football coach was fired. Mr. Hastings attributes the changes as fall-
+
+out from the scandal. However, there were other explanations for the movement of 
+
+some of the administrators in question, such as retirement or promotions, and none of 
+
+the administrators were disciplined over these events.
+
+60.
+
+Respondent has no other record of discipline by the District. She has 
+
+consistently received positive evaluations from her supervisors. The only evidence of a 
+
+poor evaluation for Respondent was the one completed just after the John Doe 
+
+scandal broke out, and was based essentially on Mr. Hastings’ conclusions.
+
+61.
+
+By all witnesses’ accounts, Respondent is a dedicated, hard-working, 
+
+productive counselor, who has made a difference in the lives of many young people 
+
+she has encountered while working for the District. Her supervisors have nothing but 
+
+24 
+
+praise for her performance, and all would hire her without hesitation. Respondent has 
+
+a passion for counseling and is able to connect with students. She is firm but fair, 
+
+which students respect and appreciate. 
+
+62.  Mr. Spencer found Respondent open to asking questions during staff 
+
+meetings. Ms. Jackson-Grant remembers Respondent always followed her directives. 
+
+Overall, Respondent demonstrated her willingness and capability of correcting her 
+
+mistakes established in this case. 
+
+LEGAL CONCLUSIONS
+
+Burden and Standard of Proof 
+
+1. 
+
+The District has the burden of proving the charges by a preponderance 
+
+of the evidence. (
+
+(1985) 164 
+
+Cal.App.3d 1035, 1038–1039.) Preponderance of the evidence means “the evidence on 
+
+one side outweighs, preponderates over, is more than, the evidence on the other side.” 
+
+(
+
+ (1990) 226 Cal.App.3d 314, 325.)
+
+Cause for Termination 
+
+2. 
+
+The governing board of a school district may dismiss a permanent 
+
+certificated employee if one or more of the causes enumerated in Education Code 
+
+sections 44932, subdivision (a), 44939, and 449425 are established by a preponderance 
+
+of the evidence. 
+
+5 Further undesignated statutory references are to the Education Code. 
+
+ 
+
+25 
+
+IMMORAL CONDUCT
+
+3.
+
+A. Certificated employees are subject to dismissal for immoral conduct 
+
+pursuant to section 44932, subdivision (a)(1).
+
+ 
+
+B. The term “immoral conduct” has been defined to include conduct 
+
+inconsistent with rectitude, or indicative of corruption, indecency, depravity, 
+
+dissoluteness; or as willful, flagrant, or shameless conduct showing moral indifference 
+
+to the opinions of respectable members of the community, and as an inconsiderate 
+
+attitude toward good order and the public welfare. (
+
+ (1960) 179 Cal.App.2d 808, 811.)
+
+ 
+
+ 
+
+C. In this case, the District did not establish by a preponderance of the 
+
+evidence that Respondent engaged in immoral conduct pursuant to section 44932, 
+
+subdivision (a)(1). Respondent did not make any unauthorized grade change for John 
+
+Doe or otherwise falsify his grades. She made one class change for John Doe that 
+
+violated District policy, but she did so out of concern for the student’s emotional 
+
+welfare, not to maintain his athletic eligibility by artifice. Thus, Respondent did not act 
+
+with corruption or moral indifference. (Factual Findings 11-52.)
+
+DISHONESTY 
+
+4. 
+
+A. Certificated employees are subject to dismissal for dishonesty 
+
+pursuant to section 44932, subdivision (a)(4).
+
+ 
+
+B. The word dishonesty is not defined in this part of the Education Code. 
+
+However, when examining use of the word in teacher discipline cases under the prior 
+
+statutory framework, the California Supreme Court noted “[a]n approved definition of 
+
+26 
+
+dishonesty connotes a disposition to deceive.” (
+
+(1946) 29 Cal.2d 13, 18.)
+
+ 
+
+ 
+
+C. In this case, the District did not establish by a preponderance of the 
+
+evidence that Respondent acted with dishonesty pursuant to section 44932, subdivision 
+
+(a)(4). Respondent did not falsify John Doe’s grades. Although she made one class 
+
+change without obtaining her supervisor’s consent, it was not proven she did so in order 
+
+to hide the move. In fact, moving John Doe into Service Class put him in the immediate 
+
+vicinity of the Counseling Department’s offices, where everyone could see him, including 
+
+Respondent’s supervisor. Respondent had a legitimate reason for the class change in 
+
+question. She simply violated District policy in making the change. Such activity does 
+
+not connote a disposition to deceive. (Factual Findings 11-52.) 
+
+EVIDENT UNFITNESS FOR SERVICE 
+
+ 
+
+(
+
+ 
+
+5. 
+
+A. Certificated employees are subject to dismissal for evident unfitness 
+
+for service pursuant to section 44932, subdivision (a)(6). 
+
+ 
+
+B. “Evident unfitness for service” means clearly not fit, not adapted to or 
+
+unsuitable for teaching, ordinarily by reason of temperamental defects or inadequacies. 
+
+(1992) 
+
+2 Cal.App.4th 1429, 1444 
+
+.) “'Evident unfitness for service' connotes a fixed 
+
+character trait, presumably not remediable merely on receipt of notice that one's 
+
+conduct fails to meet the expectations of the employing school district.” (
+
+) 
+
+ 
+
+C. In this case, the District did not establish by a preponderance of the 
+
+evidence that Respondent is evidently unfit for service pursuant to section 44932, 
+
+subdivision (a)(6). Respondent’s lone instance of misconduct was not the result of a 
+
+fixed character trait. Moving John Doe into a Service Class in violation of District policy 
+
+27 
+
+was an isolated incident, not part of a larger pattern. Respondent had no prior, similar 
+
+problem of following District policy in her class changes. To the extent Respondent’s 
+
+lone instance of misconduct in this case is a problem, it is easily remediable. It must be 
+
+remembered Respondent was a fairly new counselor during the events in question. Her 
+
+mistakes largely can be attributed to that. All of the administrators and teachers who 
+
+testified agree Respondent is a model counselor and good employee. Thus, Respondent 
+
+has demonstrated a willingness and capability to remedy her mistakes. The Commission 
+
+concludes it is highly unlikely Respondent will repeat her misconduct in the future. 6
+
+(Factual Findings 11-52.) 
+
+PERSISTENT VIOLATION OF SCHOOL LAWS
+
+6. 
+
+A. Certificated employees are subject to dismissal for persistent violation 
+
+of, or refusal to obey, the school laws of the state or reasonable regulations prescribed 
+
+for the government of the public schools by the State Board of Education or by the 
+
+governing board of the school district employing her, pursuant to section 44932, 
+
+subdivision (a)(8). 
+
+B. Cause for dismissal under section 44932, subdivision (a)(8), may be 
+
+based on the violation of school rules or district policies. (
+
+1180–1181.) However, there must be a “showing of intentional and continual refusal to 
+
+ (1985) 174 Cal.App.3d 1176, 
+
+6 As explained below, the Commission also analyzed the factors set forth in the 
+
+ 
+
+case of 
+
+(1969) 1 Cal.3d 214, 227–230, in 
+
+determining whether Respondent is fit for service as a secondary counselor for 
+
+purposes of section 44932, subdivision (a)(6). 
+
+28 
+
+cooperate.” (
+
+, p. 1196.) The violation must be persistent or “motivated by an attitude 
+
+of continuous insubordination.” (
+
+ (1972) 28 Cal.App.3d 77, 81-82.) Isolated events or incidents involving an issue 
+
+unresolved over a period of time are generally not considered persistent. (
+
+ (1985) 174 Cal.App.3d 317.) 
+
+ 
+
+C. In this case, the District did not establish by a preponderance of the 
+
+evidence that Respondent persistently violated District rules or policies pursuant to 
+
+section 44932, subdivision (a)(8). Respondent violated District policy in one of John 
+
+Doe’s two class changes. Her misconduct therefore is isolated to just one event. Under 
+
+these circumstances, it cannot be concluded Respondent was insubordinate or 
+
+persistently violated District rules or policies. (Factual Findings 11-52.) 
+
+Analysis of the 
+
+Factors 
+
+7. 
+
+A. In deciding whether cause for dismissal exists under the amorphous 
+
+concepts of immoral conduct, dishonesty, and evident unfitness for service, it also 
+
+must be established a teacher’s misconduct relates to her fitness, within the meaning 
+
+of 
+
+(1969) 1 Cal.3d 214, 227–230
+
+. The 
+
+ analysis does not apply to a cause for dismissal of persistent violation of 
+
+school rules, laws or policies, because such theory, by definition, has a direct nexus 
+
+with teaching. (
+
+, pp. 227-230.)
+
+ 
+
+ 
+
+B. As noted above, the Commission considered the 
+
+factors in 
+
+determining whether Respondent is fit to serve as a secondary counselor within the 
+
+meaning of section 44932, subdivision (a)(6). That analysis is explained below. However, 
+
+not all 
+
+ factors need be present for the 
+
+test to be satisfied. (
+
+(1994) 28 Cal.App.4th 369.) Moreover, the 
+
+ analysis need not be 
+
+29 
+
+conducted on each individual fact established, but rather can be applied to the 
+
+accumulated facts established collectively. (
+
+2 Cal.App.4th at p. 1457.) 
+
+In this case, it is concluded the 
+
+factors demonstrate Respondent is fit to serve 
+
+as a secondary counselor. (Factual Findings 6-62.)
+
+ 
+
+i. The likelihood the conduct may adversely affect students or fellow 
+
+teachers. The Commission cannot speculate whether Respondent’s lone policy violation 
+
+would have led the District to self-report Narbonne to the CIF, or whether the CIF would 
+
+have imposed the same sanctions on Narbonne. While students became upset when the 
+
+scandal first broke out, it is unclear they would have had the same reaction if they 
+
+suspected John Doe changed his grades and knew Respondent’s motivations for 
+
+moving him into Service Class. 
+
+ii. The degree of such adversity. See (i) above. 
+
+iii. The proximity or remoteness in time of the conduct. The misconduct 
+
+was limited to one incident in October 2018 and thus proximate. 
+
+iv. The type of teaching certificate held by the party involved. Respondent 
+
+operated under the confines of her secondary counselor credential. While she violated 
+
+District policy with one class change, she had a legitimate reason for the class change 
+
+and did not otherwise abuse the authority granted to her by the credential.
+
+v. The existence of extenuating or aggravating circumstances, if any, 
+
+surrounding the conduct. Extenuating circumstances explain why Respondent made the 
+
+one class change in violation of District policy. For example, Respondent made the 
+
+change out of concern for John Doe’s emotional welfare. The District gave Respondent 
+
+grade change access to MiSiS without advising her of it, so Respondent did not know 
+
+she had to protect her computer from that danger. In aggravation, Respondent could do 
+
+30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+better safeguarding her computer. She also needs to do better documenting her actions 
+
+on MiSiS, even if that means working more slowly. Overall, the extenuating 
+
+circumstances outweigh the aggravating circumstances. 
+
+vi. The praiseworthiness or blameworthiness of the motives resulting in the 
+
+conduct. Respondent’s motivation in caring for a student’s emotional welfare is 
+
+praiseworthy.
+
+vii. The likelihood of recurrence of the questioned conduct. It is highly 
+
+unlikely Respondent will repeat her misconduct. 
+
+ 
+
+viii. The extent discipline may cause adverse impact or chilling effect upon 
+
+the constitutional rights of the teacher involved or other teachers. This does not apply.
+
+Disposition 
+
+8. 
+
+A. “The Commission has broad discretion in determining what constitutes 
+
+unfitness to teach . . ., and whether dismissal or suspension is the appropriate 
+
+sanction.” (
+
+ (1999) 20 Cal.4th 327, 343–
+
+344.) Thus, even where cause for dismissal has been established, the Commission still 
+
+has broad discretion to determine whether such discipline is actually warranted. 
+
+(
+
+(1988) 45 Cal.3d 208, 222.) 
+
+ 
+
+B. In this case, no legal cause for termination was established pursuant to 
+
+section 44932. Therefore, dismissal of the Accusation against Respondent is warranted. 
+
+(Factual Findings 1-62; Legal Conclusions 1-7.) 
+
+31 
+
+The Accusation against Respondent Tushana Howard is dismissed.
+
+DATE: 
+
+DATE: 
+
+DATE:
+
+ORDER
+
+ 
+
+ 
+
+Dr. ALLISON V. STEPPES 
+
+Commissioner
+
+CAROLYNNE KLEIER
+
+Commissioner 
+
+ERIC SAWYER
+
+Commissioner 
+
+Administrative Law Judge
+
+Office of Administrative Hearings
+
+32 
+
+

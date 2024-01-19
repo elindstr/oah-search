@@ -1,0 +1,1919 @@
+BEFORE THE
+COMMISSION ON PROFESSIONAL COMPETENCE
+STATE OF CALIFORNIA
+
+In the Matter of the Dismissal of:
+
+ANTHONY LIALI (EN 671331),
+A Permanent Certificated Employee,
+
+OAH No. 2015091133
+
+Respondent.
+
+DECISION
+
+The Commission on Professional Competence (Commission), comprised of 
+
+Administrative Law Judge (ALJ) Angela Villegas, State of California, Office of 
+Administrative Hearings (OAH), Mary Bennett, and Gordon Brown, heard this matter March
+21-April 6 and May 16-19, 2016, in Los Angeles, California.
+
+Kristine E. Kwong, of Musick, Peeler & Garrett, LLP, represented complainant Justo
+
+H. Avila, Chief Human Resources Officer of the Los Angeles Unified School District 
+(LAUSD or District).
+
+Rosemary O. Ward, attorney at law, and Rosty G. Gore, of Trygstad, Schwab & 
+
+Trystad, represented respondent Anthony Liali, who was also present.
+
+Evidence was received.  The matter was submitted May 19, 2016.1 The Commission 
+
+deliberated on May 24, 2016.
+
+ADDITION OF HEARING TIME
+
+This matter was initially set for hearing from March 21-April 8, 2016. The parties 
+
+requested and were given additional hearing days, from May 16-19, 2016. When the record 
+closed on May 19, 2016, more than seven months had elapsed since respondent’s request for 
+hearing, dated September 24, 2015.
+
+//
+
+1 After the submission of the matter, it was discovered that a document designated as
+complainant’s exhibit 11, but not marked or admitted, remained in an exhibit binder due to 
+inadvertence.  That document has not been read or considered in rendering this decision.
+
+1
+
+As stated on the record of the proceeding, good cause existed for the delayed closing 
+of the record. (Ed. Code, § 44944, subd. (b)(1).) On four of the days initially scheduled for 
+the hearing, evidence could not be taken. On two of those days, this was due to the 
+replacement of one Commission member; on the other two days, a Commission member was 
+out of the country. The parties were unable to complete the presentation of evidence in the 
+shortened time available, and the additional dates selected were the earliest on which all 
+parties, counsel, panelists, and OAH were available.
+
+AMENDMENT OF STATEMENT OF CHARGES AND ACCUSATION
+
+On May 17, 2016, complainant orally moved to add the words “and erasers” to the 
+
+Statement of Charges and Accusation at page 5, paragraph 9(c), to conform to proof, so that 
+the allegation would read, “Threw dry erase board erasers and erasers at students[.]”
+(Emphasis supplied.)
+
+Respondent opposed the motion to amend.  Both parties presented argument.  For the 
+
+reasons stated on the record, good cause existed for the amendment, and respondent had an 
+adequate opportunity to defend, and did defend, against the proposed amended allegation.
+(Ed. Code, 2 §§ 44934, subd. (d); 44944, subd. (b)(1)(B); Gov. Code, § 11507.) On May 19,
+2016, the motion was granted, and the Statement of Charges and Accusation3 were amended 
+by interlineation to include the new language
+
+SEALING AND REDACTION OF CONFIDENTIAL INFORMATION
+
+After the hearing concluded, the ALJ ordered portions of the hearing transcripts 
+sealed, as reflected in the record of the proceeding.  The ALJ also ordered the following 
+exhibits sealed:  Complainant’s exhibits 38 (pp. -10 – 38-16 and 38-18 – 38-25), 41 (pp. 41-
+18 – 41-24 and 41-26 – 41-33), and 42 (pp. 42-18 – 42-24 and 42-26 – 42-33); respondent’s 
+exhibits F, J, L, V, FF-MM, PP-RR, TT, UU, WW, ZZ, CCC-GGG, KKK, PPP, TTT, 
+GGGG, HHHH, JJJJ, MMMM, PPPP, ZZZZ, PPPPPP, GGGGGGG, JJJJJJJ, and 
+RRRRRRR.
+
+The ALJ also redacted children’s surnames (except for initial) from exhibits EEEEE,
+
+HHHHHH and IIIIII.
+
+//
+//
+//
+
+2 Further statutory references are to the Education Code, unless otherwise indicated.
+
+3 The Statement of Charges and Accusation are congruent except for their dates;
+unless the context dictates otherwise, further references are to the Statement of Charges only.
+
+2
+
+ADDITIONAL PROCEDURAL HISTORY AND PRELMINARY MATTERS
+
+Prehearing Motion for Immediate Reversal of Suspension (MIRS)
+
+On September 29, 2015, respondent filed a motion to reinstate respondent to paid 
+
+status, with benefits, pending the hearing; the motion was deemed a MIRS.  OAH assigned 
+case number 2015091099 to the MIRS.  On October 6, 2015, complainant filed an opposition
+to the MIRS; on October 12, 2015, respondent filed a reply.  On October 16, 2015, the ALJ 
+heard oral argument on the MIRS, and on October 20, 2015, issued an order denying it.
+
+Prehearing Motion to Strike and/or Dismiss Portions of the Accusation
+
+On October 13, 2015, respondent filed a motion to strike and/or dismiss portions of 
+
+the Accusation.  On December 3, 2015, complainant filed an opposition to the motion; on
+December 14, 2015, respondent filed a reply.  On December 18, 2015, the ALJ heard oral 
+argument on the motion, and on December 21, 2015, issued an order denying it.
+
+Intrahearing Motions
+
+Complainant and respondent brought various oral and written motions as the hearing 
+
+progressed, including motions in limine, a motion to close the proceedings to the public, a
+motion regarding hearing conduct, and a motion by respondent, renewed several times, to
+redact and/or remove material from various exhibits.  The rulings on those motions are as 
+reflected on the record of the proceeding.4
+
+INTRODUCTION; ISSUES; SUMMARY OF DECISION
+
+1.
+
+Complainant seeks to dismiss a tenured teacher, respondent Anthony Liali, on 
+
+the following grounds: 
+
+//
+
+4 Respondent’s motions to redact and/or remove material concerned documents 
+imposing discipline on respondent in the past.  Under section 44944, subdivision (b)(2)(B), 
+the ALJ ruled prior-discipline documents were admissible as “records regularly kept” by the
+District, but to the extent they reflected “matters occurring more than four years before the 
+filing of the notice” in the present case, they could not be used as a basis for this decision,
+except to the extent they concerned Charges 11-13.  As such, the District conceded, and the 
+ALJ ruled, that the relevance of the prior-discipline documents in question was limited to 
+respondent’s notice of District expectations and policies, and the existence of progressive 
+discipline.  The ALJ declined to redact or remove information from these materials, but the 
+Commission has not considered the portions of the materials relating to matters other than
+notice and the existence of progressive discipline, and has not based this decision on any
+other such matters appearing in those documents.
+
+3
+
+(a)(1));
+
+(a)(8)); and 
+
+(1)
+
+(2)
+(3)
+(4)
+(5)
+
+(6)
+
+immoral conduct, including egregious misconduct (§ 44932, subd. 
+
+immoral conduct (§ 44939);
+unprofessional conduct (§ 44932, subd. (a)(2));
+evident unfitness for service (§ 44932, subd. (a)(6)); 
+persistent violation of school laws and/or regulations (§44932, subd. 
+
+willful refusal to perform regular assignments (§ 44939).
+
+2.
+
+The issues in this case are: 
+
+(a)
+Statement of Charges occurred?
+
+Did complainant establish that the factual matters alleged in the 
+
+(b)
+
+If so, do these matters constitute cause to dismiss respondent from his 
+
+position as a tenured teacher with LAUSD?
+
+3.
+
+This decision finds complainant established three of the factual matters alleged 
+in the Statement of Charges: namely, yelling during the period between August 12, 2014 and 
+January 28, 2015,5 and, on April 26, 2010, tossing a chair to the side and slamming a phone 
+receiver down three or four times.  The Commission concludes these matters do not 
+constitute cause to dismiss respondent from his tenured teaching position with LAUSD.
+
+Parties and Jurisdiction
+
+FACTUAL FINDINGS
+
+1.
+
+Complainant brought the Statement of Charges (and Accusation) in his official 
+
+capacity.6 On September 1, 2015, LAUSD gave respondent written notice of its intent to 
+dismiss and suspend him and a copy of the Statement of Charges (ex. 2), and removed him 
+from the classroom.  On September 24, 2015, respondent timely demanded a hearing. This
+proceeding followed.
+
+2.
+
+Respondent, who holds a multiple-subject credential, has been a certificated 
+
+employee of LAUSD since July 1, 1995.
+
+//
+
+5 This time period is sometimes referred to as the “first semester” or “Fall semester” 
+of the 2014-2015 school year. This denomination is for ease of reference only, and does not 
+imply a finding that the school year was divided in any particular manner.
+
+6 The Statement of Charges is dated August 14, 2014; since the Statement of Charges 
+
+refers to matters occurring after August 14, 2014, this date appears to be incorrect. 
+
+4
+
+3.
+
+The Statement of Charges concerns events that allegedly occurred at two 
+
+different times and at two different schools: over the course of the first semester of the 2014-
+2015 school year at 49th Street Elementary School (49th St.) (Charges 1-10 and 14-16), and 
+on April 26, 2010 at Los Angeles Academy Middle School (LAAMS) (Charges 11-16).
+
+Background; Respondent’s Disciplinary History, Performance, and Notice of District’s 
+Expectations and Policies
+
+4.
+
+(a)
+
+Until mid-2010, respondent taught elementary school, including at 
+
+Wadsworth Elementary School,7 where his principal was Lorraine Abner.
+
+(b)
+
+On December 18, 2009, Principal Abner issued a conference 
+
+memorandum to respondent (ex. 12), which attached various LAUSD policies, including the
+Respectful Treatment Policy, and directed respondent to follow the policies. Principal
+Abner’s conference memorandum was follow by a May 5, 2010 letter of reprimand, also
+directing respondent to follow the LAUSD Respectful Treatment Policy. (Ex. 23.)
+
+(c)
+
+On March 4, 2010, respondent received a Notice of Unsatisfactory Act
+and a notice of a three-day or five-day unpaid suspension (the notice is ambiguous), arising 
+from a different incident. (Exs.17 and 18.)
+
+5.
+
+On March 15, 2010, respondent was reassigned to LAAMS (ex. 19) to teach 
+eighth-grade math and science. Respondent received notice of his transfer to LAAMS via a 
+March 12, 2010 letter from Assistant Superintendent Christopher Ziegel, which also directed 
+respondent to follow policies including the LAUSD Ethics Policy, Code of Conduct with 
+Students, Respectful Treatment Policy, and “Anti-bullying Policies” (id.), and to cooperate 
+with staff, follow administrators’ directives, and conduct himself respectfully toward
+everyone.  The policies referenced in Mr. Ziegel’s letter were not attached to the copy of the 
+letter received in evidence, though respondent believably testified he received them from Mr. 
+Ziegel.
+
+6.
+
+(a)
+
+LAAMS’s principal while respondent taught there was Maria Borges.
+
+On April 27, 2010, Principal Borges issued a conference memorandum to respondent arising 
+from an incident that had occurred the previous day, directing respondent “to behave in a 
+professional manner at all time[s] and to follow both the LAUSD Code of Conduct and 
+Respectful Treatment of all Persons policies[,]” and attaching those policies. (Ex 21.)
+
+(b)
+
+On June 10, 2010, respondent received a Notice of Unsatisfactory Act
+
+and a Notice of Suspension arising from the April 26, 2010 incident. (Exs. 25 and 26.)
+
+(c)
+
+Respondent’s May 19, 2010 performance evaluation from LAAMS, 
+
+prepared shortly after the incident that led to his discipline, rated him “meets standards” 
+
+7 The evidence did not readily disclose whether respondent taught at other LAUSD 
+
+schools before Wadsworth Elementary.
+
+5
+
+overall, but “below standards” in the areas of “[e]stablish[ing] and maintain[ing] standards 
+for student behavior and creat[ing] a climate that promotes fairness and respect”; “plan[ning] 
+and implement[ing] classroom procedures and routines that support student learning”; and 
+“provid[ing] an effective classroom environment[.]”  (Exs. 41; 49; D.) Nevertheless, the 
+evaluation noted respondent to be “open to input from colleagues.”
+
+(d)
+
+By respondent’s next performance evaluation from LAAMS on May
+
+23, 2011, his overall rating continued to be “meets standards,” but with no “below standards” 
+categories. Respondent was noted to “operate[ ] in a positive way to help student[s] 
+overcome their problems.”  (Exs. 41; B.)
+
+7.
+
+(a)
+
+In July 2011, Respondent was assigned to 49th St., where he taught 
+first grade. Respondent’s April 26, 2013 performance evaluation (prepared by 49th St.’s
+former principal, Heather Lowe) rated respondent as “meets standards” and praised his 
+“positive classroom environment” and collaborative work with his grade level.  (Exs. 41; A.)
+
+(b)
+
+Beginning in October 2014, the principal of 49th St. was Maria “Maya”
+
+Rosas. On February 18, 2015, Principal Rosas issued a conference memorandum to 
+respondent (ex. 37), in which she reminded him of his previous discipline, and directed him 
+to follow District policies, including the Code of Conduct with Students, the Employee Code 
+of Ethics (also referred to as the Ethics Policy), the Board Resolution on the Respectful 
+Treatment of All Persons (also referred to as the Respectful Treatment Policy), and to treat 
+students with respect, courtesy, and sensitivity.  (Id.)  Principal Rosas’ conference 
+memorandum attached policies including the ones noted above.
+
+(c)
+
+On March 20, 2015, respondent received a Notice of Unsatisfactory
+
+Act (ex. 41) and a notice of a 15-day unpaid suspension. (Ex. 42.)
+
+(d)
+
+Respondent taught at 49th St. for the remainder of the 2014-2015
+
+school year, and 11 days of the 2015-2016 school year, without further incident. As noted 
+above, on September 1, 2015, the District suspended respondent indefinitely and removed 
+him from the classroom.
+
+Findings on the Allegations Against Respondent Regarding His 49th St. First-Grade Class
+
+PHYSICAL LAYOUT OF RESPONDENT’S CLASSROOM
+
+8.
+
+Respondent’s first-grade classroom at 49th St. had a white board at the front of 
+
+the room. (Exs. T, Z, DD, and JJJJJJJ; respondent’s testimony.) A large area rug, used as a 
+student seating area for some lessons, took up the front-middle portion of the room.  The 
+rug’s front edge lay approximately 18 inches to two feet from the front wall, where the white 
+board hung, so that there was little space between the students seated on the rug and 
+respondent, when he was teaching at the white board. (Id.)
+
+//
+
+6
+
+9.
+
+Near a back outer corner of the area rug stood a desk with an overhead “Elmo” 
+
+projector, where respondent sometimes sat or stood to teach. (Id.) Student tables were
+arranged around the edges of the area rug.  (Id.) Bookcases and closets lined the walls of the 
+classroom.  (Id.)
+
+CHARGES 1 AND 2
+
+10.
+
+Charge 1, alleging that on or about January 20, 2015, respondent “threw a dry
+
+V., hitting him in or around R
+
+ V.’s 
+
+erase board eraser at 6-year-old student R
+leg[,]” was not substantiated.
+
+11.
+
+R
+
+V. testified at the hearing, but did not recount this incident.  Even if he 
+
+had, his testimony lacked credibility. R
+ was reputed and acknowledged, even by his
+mother, to have an active imagination, which was on display during his testimony. He was
+also markedly inattentive while testifying, and often contradicted himself and manifestly
+exaggerated.  He appeared to have difficulty separating truth from fancy, even
+acknowledging his testimony had contained “a lot of lies and a lot of truths.” No other 
+student witness from respondent’s 49th St. first-grade class recounted this alleged incident.
+
+R
+
+12.
+
+ V.’s mother testified to R
+
+’s mother testified that “almost every day[,]” R
+
+’s having complained to her that 
+respondent “threw an eraser at me[,]” but that statement was not tied to any particular 
+occasion; rather, R
+(Testimony of Erica Nunez.) Although R
+of their consistency, R
+Moreover, the statements R
+support a finding that an eraser was thrown at him, let alone that it occurred on the date(s) 
+alleged. (Gov. Code, § 11513, subd. (d).) Likewise, they did not supplement or explain any
+other non-hearsay evidence.
+
+ made to his mother are not sufficient by themselves to 
+
+’s own testimony belied the reliability of his reporting.
+
+reported it.
+’s reports because
+
+’s mother credited R
+
+13.
+
+The same is true of R
+
+’s undated written statement about respondent, 
+
+which reads, “[H]e changes my pin still changes my pin8 when he throws the eraser at 
+Mauricio it bumpt the window.  It bumpt on my leg he yells wen it is P.E.” (Ex. 56.) 
+Although R
+indicate the eraser was thrown at R
+occurred.  Given R
+viewed skeptically, though some aspects of it are consistent with other students’ accounts.
+(See, e.g., Factual Finding 48.) Even if R
+
+’s statement notes an eraser “bumpt [his] leg[,]” the statement does not 
+
+’s overall lack of credibility, his written statement must also be 
+
+, and does not indicate when the bump supposedly
+
+’s statement could be read as indicating that 
+
+8 The reference to changing a student’s “pin” refers to a behavior chart respondent 
+
+employed in his classroom.  Each student’s behavior was tracked with a clothespin, and the 
+chart was divided into various colors: green for good behavior, yellow for a warning, red for 
+an office referral, and so forth. Students would start the day with their pins on green, and 
+changing the pin meant the student’s clothespin was moved into a different color on the 
+behavior chart.
+
+7
+
+ in the 
+respondent threw an eraser at R
+leg, that statement alone could not support such a finding.  (Gov. Code, § 11513, subd. (d).)
+
+ on or about January 20, 2015, which hit R
+
+14.
+
+In addition, notes from an interview Principal Rosas conducted with R
+
+ on 
+ did not recount respondent’s throwing an eraser at him 
+
+January 28, 2015, reflect that R
+and hitting his leg, despite the principal’s suggestive instruction to him: “Tell me about the 
+time he threw the eraser @ you.” (Ex. 63. ) R
+he did it but not. . . . He had one + then he threw at me + then at M
+on the window.”  (Id.) The suggestive nature of Principal Rosas’ prompt made the 
+information solicited unreliable, and R
+’s interview statements do not indicate that the incident alleged in Charge 1 more 
+R
+likely than not occurred.  In any event, the interview statements alone would not be sufficient 
+to support a finding.  (Gov. Code, § 11513, subd. (d).)
+
+ was already an unreliable source.  Hence, 
+
+’s response to that query was, “Last time 
+
+ . . . .  It bounced 
+
+15.
+
+Respondent’s explanation for this allegation, by contrast, was believable.  He 
+claimed he had been erasing the white board while teaching a lesson with the class seated on 
+the area rug. He lost his grip on the eraser, which popped out of his hand and landed on 
+R
+to the white board, to respondent’s right. (Ex. Z.) The eraser would not have had to travel 
+very far out of respondent’s hand to land on a student’s leg in the first row. (Exs. T and DD.)
+
+ was seated in his assigned place in the row closest 
+
+’s leg.  When this occurred, R
+
+16.
+
+In sum, Charge 1 was not established. By extension, Charge 2, alleging 
+
+respondent’s “misconduct in Charge #1” violated administrative directives and policies, also 
+was not substantiated.
+
+CHARGES 3 AND 4
+
+17.
+
+Charge 3, alleging that sometime between August 12, 2014 and January 28, 
+
+2015—i.e, the first semester of the school year—respondent “threw a dry erase board eraser 
+at 6-year old S
+
+ E.,9 hitting her in or around her head[,]” was not substantiated.
+
+18.
+
+(a)
+, however, was also a non-credible witness.  She had a reputation for being 
+
+ E. did testify respondent threw an eraser, which “touched [her] 
+
+face.” S
+untruthful, and the evidence revealed malleability in her reporting.
+
+S
+
+(b)
+
+’s written statement and in her interview with 
+For example, in S
+Principal Rosas on February 3, 2015, S
+indicated respondent would “pull ther pen” 
+[sic] (ex. 57) or “pull their pin” (ex. 64) when students misbehaved. These were obvious 
+references to respondent’s behavior chart, but when questioned about the behavior chart 
+during her testimony, S
+their pen,” she had meant respondent takes away students’ pens as punishment.  This was not 
+credible; indeed, the evidence showed respondent’s first-grade students did not use pens. It
+
+ denied its existence, and explained that when she wrote “pull 
+
+9 Various spellings of S
+
+used in the Statement of Charges.
+
+E.’s name appeared in the evidence; this is the spelling
+
+8
+
+appeared S
+in her accounts.
+
+was trying to explain away what she herself perceived as an inconsistency
+
+(c)
+
+In addition, S
+
+claimed not to have misbehaved in class, but other 
+students, as well as respondent himself, consistently attested the contrary. Her behavior as a 
+witness was likewise somewhat uncooperative. These matters cast doubt on S
+overall veracity and the reliability of her recollection.
+
+’s
+
+(d)
+recounted this alleged incident.
+
+No other student witness from respondent’s 49th St. first-grade class 
+
+S
+
+19.
+
+’s written statement from February 3, 2015 does not mention that 
+respondent threw an eraser at her, hitting her in the head.  Her statement does indicate, 
+“Mistr Leyale tros tens at studens hed” (ex. 57), but the evidence did not disclose what
+had in mind when she wrote this, and given S
+occurrence(s) S
+unreliability, the soundness of this statement was also dubious.  In any event, the statement 
+could not independently support a finding. (Gov. Code, § 11513, subd. (d).)
+
+’s overall 
+
+20.
+
+The same is true for Principal Rosas’ notes of her February 3, 2015 interview
+
+. (Ex. 64.) The notes recount S
+
+’s report that respondent threw an eraser to 
+
+with S
+her, which landed on her head.  (Id.) This is not necessarily the same thing as respondent’s 
+throwing an eraser at S
+’s
+remarks had indicated the incident happened as alleged in Charge 3, her overall lack of 
+credibility would still have cast doubt on those claims.  Moreover, even to the extent 
+’s interview statements tended to substantiate Charge 3, they could not, by
+S
+themselves, support a finding that the incident occurred. (Gov. Code, § 11513, subd. (d).)
+
+(see Factual Findings 24, 35, 36, and 42), but even if S
+
+21.
+
+Conversely, respondent’s account of the alleged incident was believable.  He 
+credibly explained that, once again, the students were seated on the area rug, and the eraser 
+came out of his hand while he was vigorously erasing the white board, and landed on 
+S
+’s head.  Respondent’s explanation was once again bolstered by the seating 
+arrangement in the class and the proximity of the white board to the students. (Exs. T, DD, 
+and Z.)
+
+22.
+
+In sum, Charge 3 was not established, and by extension, neither was Charge 4, 
+
+alleging respondent’s “misconduct in Charge #3” violated administrative directives and 
+policies.
+
+CHARGES 5 AND 6
+
+//
+
+23.
+
+Charge 5, alleging that during the first semester of the 2014-2015 school year,
+ and 
+
+ B., missing M
+
+respondent “threw a dry erase board eraser at 6-year old M
+hitting the window[,]” was not substantiated.
+
+9
+
+24.
+
+Respondent did not dispute that he cast such an eraser in M
+
+’s direction, 
+
+but the evidence did not show respondent more likely than not threw the eraser at M
+or intended to hit M
+
+ with the eraser,10 or that the eraser hit the window.
+
+,
+
+’s spot was near the back edge of the rug.  M
+
+As respondent credibly explained the incident,11 the children were seated on 
+became fixated on the
+
+25.
+the rug; M
+windows at the back of the classroom, and did not respond to respondent’s verbal attempts to 
+’s attention, respondent moved from the 
+refocus him.  As a means of trying to get M
+front of the room to the back part of the rug, and lobbed the eraser into the area he believed 
+to be the focal point of M
+bounced on the floor in the then-unoccupied back part of the classroom.
+
+ himself.  The eraser landed and 
+
+’s gaze: i.e., not at M
+
+26.
+
+’s written and interview statements did not establish, more likely than not, that 
+
+V.’s written statement and interview notes mention the
+ (exs. 56 and 63), no student testified to this alleged incident.
+
+Although R
+eraser being thrown at M
+R
+respondent cast the eraser with the intention of hitting M
+ with it.  Even if they had
+unequivocally stated such a thing occurred, their source was unreliable.  And even if that 
+were not the case, they still would be insufficient, by themselves, to support a finding.  (Gov. 
+Code, § 11513, subd. (d).)
+
+27.
+
+Respondent acknowledged, in retrospect, that throwing the eraser was an error 
+’s attention.  He now recognizes he should have 
+
+in judgment and a poor way to get M
+walked over to M
+
+ and personally intervened to get his attention.
+
+28.
+
+Nevertheless, Charge 5 was not established. Likewise, Charge 6, alleging 
+
+respondent’s “misconduct in Charge #5” violated administrative directives and policies, was 
+also not substantiated.12
+
+CHARGES 7 AND 8
+
+29.
+
+Charge 7, alleging that during the first semester of the 2014-2015 school year,
+
+ B. by the shirt and pushed him out of the 
+
+respondent “grabbed 6-year-old student A
+classroom[,]” was not substantiated.
+
+10 Such an intention is implied by Charge 5’s allegation that the eraser was thrown 
+
+“at” Mauricio, but “missed” him.
+
+11 Respondent’s explanation was consistent with the account he gave at the time of the 
+
+school’s investigation, and accorded with the physical arrangement of his classroom.
+
+12 Even if respondent’s action Charge 5 were deemed partially substantiated by
+respondent’s action, it did not violate the policies and directives invoked in the Statement of 
+Charges.  (See Factual Findings 51-59.) Although showing questionable judgment, 
+respondent’s action was not unprofessional, unethical, disrespectful, or bullying.
+
+10
+
+30.
+
+No student testified this incident occurred as alleged.  Student A
+
+D.
+
+; A
+
+ and S
+
+’s shirt collar and “push” A
+
+ did not testify that respondent pushed 
+
+ out of the classroom. The only evidence presented that respondent “[g]rab[bed] the 
+
+’s] shirt and pushe[d] him out of the door” was Principal Rosas’ undated
+
+testified he saw respondent pull A
+physical fight between A
+A
+front of [A
+notes of an interview with student K
+to Principal Rosas was doubtful—for example, K
+ H.;13 ex. IIIIII.) Even if K
+mother. (Testimony of S
+been wholly believable, they would not be sufficient, by themselves, to support a finding.
+(Gov. Code, § 11513, subd. (d).)
+
+did not make a similar report to her 
+’s interview statements had
+
+ H.  (Ex. 61.)  The reliability of K
+
+, but only to stop a 
+
+’s statements
+
+31. Moreover, Principal Rosas’ interview with A
+
+allegation.  Even when she asked A
+respondent had grabbed him by the hand or the shirt, A
+shirt.14 (Testimony of Maria Rosas; ex. 59.) Rather, when asked, “What about to you?
+What has [respondent] done to you?”, A
+out, he sends me to the Principal office, he calls your mom, that’s it.”  (Ex. 59.)
+
+ himself did not support the 
+a suggestive, closed-ended question about whether 
+ denied respondent grabbed his 
+
+told Principal Rosas, “He put[s] me on time 
+
+32.
+
+For respondent’s part, he recalled writing a referral for A
+shepherding or corralling, not pushing, him out the door.  Respondent’s testimony was
+believable and was consistent with his prior recounting of the incident, as related by
+respondent’s union representative, Jose Govea, to LAUSD administrator Kristen Murphy.
+
+, and
+
+33.
+
+In sum, Charge 7 was not established, and neither was Charge 8, alleging that 
+
+respondent’s “misconduct in Charge #7” violated administrative directives and policies.
+
+CHARGES 9 AND 10
+
+34.
+
+Charge 9, alleging various types of conduct during the first semester of the 
+2014-2015 school year, consisted of five subparts, one of which was substantiated. Each
+subpart is addressed in turn.
+
+35.
+
+Charge 9(a), alleging respondent  “[t]hrew pencils at students,” was not
+
+substantiated.
+
+36.
+
+Respondent more likely than not occasionally tossed pencils to students, but
+
+did not throw pencils at students. (E.g., testimony of A  D.; S
+R
+ A.; Maria Rosas; Jose Govea; exs. 38, HHHHHH, OOOOOOO, and PPPPPPP.)
+The wording of Charge 9(a) implies a forceful action with the intent of striking a student 
+with the object thrown. The evidence did not indicate respondent forcefully hurled objects or 
+intended to strike children with them. Rather, respondent more likely than not occasionally
+
+ O.; I
+
+ J.; 
+
+13 The last initial, rather than the full surname, is used to protect the child’s privacy.
+
+14 A
+
+ did maintain respondent had held his wrist.
+
+11
+
+lightly pitched pencils to students who asked for them, and sometimes tossed pencils he 
+picked up from the floor into the receptacle where they were kept.15
+
+37.
+
+Charge 9(b), alleging respondent “[t]hrew pencil boxes at students,” was not 
+
+substantiated.
+
+38.
+
+No student testified to it. Moreover, respondent’s explanation of the incident 
+
+that was the likely source of this charge was believable and consistent with his prior 
+explanations.  (Testimony of respondent, Kristen Murphy, and Jose Govea; ex. 38.)
+According to respondent, he had provided each student with a plastic pencil box filled with 
+school supplies at the beginning of the school year, and one day in class, student A
+was playing with his pencil box in a disruptive way and would not stop. Accordingly,
+respondent took A
+to the floor.
+
+’s pencil box, and reached behind his own chair to drop the pencil box 
+
+ G. 
+
+39.
+
+Principal Rosas’ notes of her interview with K
+
+ said 
+respondent threw “pencil boxes” (ex. 61), but the accuracy of this statement was doubtful, 
+because it stood alone, and because K
+(Testimony of S
+sufficiently credible to overcome the contrary evidence, it could not, by itself, support a 
+finding.16 (Gov. Code, § 11513, subd. (d).)
+
+ did not report any such thing to her mother.
+
+ H.; ex. IIIIII.)  Besides, even if K
+
+’s interview statement were 
+
+ H. indicate K
+
+40.
+
+Charge 9(c), as amended, alleging respondent “threw dry erase board erasers 
+
+and erasers at students,” was not substantiated.
+
+41.
+
+The evidence did not demonstrate that respondent, more likely than not, threw 
+
+dry erase board erasers at students.  The dry erase board eraser incidents have already been
+discussed. No incidents beyond these were substantiated. (See Factual Findings 10-28.)
+
+42. With regard to erasers, respondent more likely than not did occasionally toss
+
+“Pink Pearl” eraser halves to students, just as he occasionally tossed pencils to students.17
+(See Factual Findings 35 and 36.)
+
+//
+
+15 Respondent credibly explained that knee pain discouraged him from walking 
+around the classroom to put objects away or hand them to students.  Nevertheless, respondent 
+conceded, also credibly, that his knee pain did not actually prevent him from walking to
+accomplish these tasks.
+
+16 According to another student, R
+
+ A., it was S
+
+E. who actually threw a 
+
+pencil box. 
+
+17 These were standard oblong pencil erasers, approximately one-and-a-half inches 
+
+long, bisected to make two roughly square halves. (Ex. BBBB.) 
+
+12
+
+43.
+
+Charge 9(d), alleging respondent “threw markers at students,” was not 
+
+substantiated.
+
+44.
+
+Two students, R
+
+ V. and S
+
+E., testified respondent threw markers.
+
+Their testimony in this regard was consistent with the notes Principal Rosas took of her
+interviews with them (exs. 63, 64, and PPPPPPP), but was not consistent with their 
+handwritten statements (exs. 56 and 57).  Moreover, R
+ recanted his testimony, and both 
+of these students’ testimony lacked credibility in any event, for the reasons previously noted.
+
+45.
+
+Other students denied respondent threw things, and the parents of two 
+
+additional students indicated their children never reported respondent’s throwing things.
+(Testimony of A
+likewise consistently and credibly denied throwing markers.  (Respondent’s testimony;
+testimony of Kristen Murphy.)
+
+ J., Azucena Calderon, and Patricia Lopez.) Respondent
+
+ D., I
+
+46.
+B., and J
+
+Notes from Principal Rosas’ interviews with three other students—A
+
+ G., 
+
+ P. recanted this in a later statement (ex. CCCCC), which was consistent with 
+
+ P.—indicate those students reported that respondent threw a pen or a 
+
+A
+marker.  J
+what he reported to his mother: i.e., that respondent did not throw things.  (Testimony of
+Rebeca Santos Alcala.) Principal Rosas’ interview notes were insufficient to bolster 
+R
+finding that respondent threw markers.  (Gov. Code, § 11513, subd. (d.).)
+
+’s testimony on the subject, and could not, by themselves, support a 
+
+’s or S
+
+47.
+
+Charge 9(e), alleging respondent “[y]elled at students,” was substantiated.
+
+The colloquial, common understanding of the word “yell” includes speaking in a loud, sharp,
+and/or assertive voice.  It was with this understanding that the Commission determined 
+respondent “yelled” at students. 
+
+48.
+
+ E., by S
+
+One student, A
+
+ D., credibly described respondent as having yelled and 
+ D.’s testimony was corroborated by that of I
+
+turned pink or red in the face.18 A
+S
+E.’s written statement (ex. 57), and by the notes of Principal Rosas’ 
+interviews with A
+E.  (Exs. 59, 60, 62, 63,
+ V., and S
+ B., A
+and 64.)19 Even respondent admitted he had “raised [his] voice on a couple of occasions” 
+(ex. 38), though respondent unconvincingly attributed his raised voice to a throat infection.
+
+ P., R
+
+, J
+
+ J. and 
+
+18 Respondent denied this, but his denial was not credible, since respondent most
+
+likely could not have seen his own face redden.  He also suggested he might have “blood 
+pressure issues” that could have caused reddening, but this was implausible since it such 
+reddening would not likely be confined to times when respondent spoke loudly.
+
+19 Although the testimony and reporting of R
+
+ V. and S
+
+E. lacked 
+
+credibility overall, on this subject, their testimony and reporting found substantial and 
+reliable corroboration; therefore, in this instance, it was credible. (See Stevens v. Parke 
+Davis & Co. (1973) 9 Cal.3d 51, 67-68 [factfinder may accept or rejects portions of 
+testimony, and “weav[e] a cloth of truth out of selected available material”].)
+
+13
+
+It was more believable that respondent raised his voice, sometimes to a yell, when trying to 
+control the class or certain students and refocus them on the lesson.
+
+49.
+
+(a)
+
+Other evidence, however, bolstered the conclusion that respondent’s
+
+yelling was in the nature of an occasionally raised voice, and did not constitute verbal abuse.
+
+(b)
+
+Principal Rosas did not observe respondent yelling when she visited his 
+
+class.  (Testimony of Maria Rosas.) Respondent’s teacher’s aide also did not hear him
+yelling at students.  (Testimony of Christopher Epps.) Two parents who observed 
+respondent, sometimes unbeknownst to him, did not hear him yell at students. (Testimony of
+S
+
+ H. and Saleena Twyman.)
+
+(c)
+
+Likewise, another student, S
+
+ O., described respondent’s yelling
+
+ A. denied that respondent “scream[ed] loud” or scared him. (Testimony of 
+
+as “a raised voice,” of “medium” intensity, not a scream. (Testimony of S
+Student R
+R
+yelling.  (Testimony of A
+M
+
+ A.) According to several parents (and guardians), their children did not report 
+, M  
+
+ H., and S
+
+, P
+.)
+
+ O.)
+
+, R
+
+, S
+
+ A
+
+ C
+
+ T
+
+ L
+
+ S
+
+50.
+
+All of this was largely consistent with, and supported, respondent’s assessment 
+
+that he sometimes used his “teacher voice,” (testimony of respondent and Jose Govea), a 
+voice that is projected assertively, but not harshly or abrasively.  On the other hand, it was 
+not believable that respondent never, during the entire first semester of the 2014-2015 school 
+year, used a voice sharper or louder than a “teacher voice.”  Accordingly, Charge 9(e) was 
+substantiated to the extent that respondent sometimes used a voice that could be described as 
+“yelling.”
+
+51.
+
+Charge 10 alleges that “the misconduct in Charge #9 above” contravened an 
+administrative directive “to behave in a professional manner at all times,” and violated the
+following District policies: (a) the LAUSD Code of Conduct with Students; (b) the LAUSD 
+Ethics Policy; (c) the LAUSD Anti-bullying Policy; and (d) the LAUSD Respectful 
+Treatment of All Persons Policy, and that these policies had been made known to respondent 
+when he received discipline in 2009 and 2010 (see Factual Findings 4-6).
+
+52.
+
+Even assuming an ongoing, specific directive to behave in a professional 
+
+manner at all times could be inferred from respondent’s 2009 and 2010 discipline, and even 
+assuming respondent should reasonably have interpreted that directive to apply to his vocal 
+volume (see Factual Findings 4-6), respondent’s yelling at students did not contravene that
+directive. Respondent’s yelling was not shown to have risen to an “unprofessional” level.
+On the contrary, it was an occasional occurrence, which, although not maximally effective to 
+control students’ behavior (testimony of Laura Zeff), was nevertheless within the realm of 
+what is normal and acceptable for teachers.  (Gov. Code, § 11425.50, subd. (c).)
+
+53.
+
+Respondent’s yelling at students did not violate the District’s Code of 
+Conduct with Students. (E.g., ex 37.) The Code of Conduct with Students directs teachers, 
+
+(a)
+
+14
+
+in the interest of student safety, “to avoid situations including, but not limited to, the 
+following[,]” and then lists 12 situations. The only situation listed that might connect with 
+respondent’s yelling is number 3: “Engaging in any behaviors, either directly or indirectly
+with a student(s) or in the presence of a student(s), that are unprofessional, unethical, illegal, 
+immoral, or exploitative.”
+
+(b)
+
+Respondent’s yelling was not unethical, illegal, immoral, or 
+
+exploitative. As explained in Factual Finding 52, above, it was not unprofessional either.
+Accordingly, respondent’s yelling did not violate the Code of Conduct with Students.
+
+54
+
+Furthermore, although Charges 9(a) and 9(c), alleging respondent threw 
+
+objects at students, were not substantiated, the conduct in which respondent did engage—
+tossing pencils and pencil eraser halves to students—would not have violated this policy
+either.  Although it did not represent the best choice respondent could have made, it also did
+not rise to the level of “unprofessional.” (Gov. Code, § 11425.50, subd. (c).)
+
+(a)
+
+55.
+
+Respondent’s yelling at students did not violate the District’s Ethics
+Policy.  The Ethics Policy, also known as the Employee Code of Ethics (e.g., ex 37), “is 
+intended to help us achieve success by setting common expectations and increasing trust, 
+commitment and teamwork within the District, and between the District and the community.”
+
+(b)
+
+The Ethics Policy is largely concerned with avoiding conflicts of 
+
+interest and maintaining institutional integrity, but its “Commitment to Excellence” section 
+also sets forth guidelines for teacher behavior in the classroom. Among those guidelines are 
+for teachers to “provid[e] the best example we can, striving to demonstrate excellence,
+integrity and responsibility” and to “[c]reate an environment of trust, respect and non-
+discrimination.”
+
+(c)
+
+Respondent’s yelling did not violate the Ethics Policy because it was 
+not unprofessional, did not create an environment of distrust, disrespect, or discrimination, 
+and did not indicate that respondent failed to do his best to strive for excellence, integrity,
+and responsibility.
+
+(d)
+
+The same applies to respondent’s tossing pencils and eraser halves to 
+
+students.
+
+56.
+
+The Anti-bullying Policy was not among the evidence presented to the 
+
+Commission.20 Even if such a policy had been presented, respondent’s yelling would not 
+have violated it, because the evidence did not show respondent yelled in such a way as to
+bully, frighten, or coerce students. Neither would tossing pencils and eraser halves to 
+students have violated such a policy, also because that behavior also was not for the purpose 
+of intimidating, dominating, or scaring students.
+
+20 If the Anti-bullying Policy was present among the materials received, the 
+
+Commission could not locate it, despite a thorough and careful effort to do so.
+
+15
+
+57.
+
+(a)
+
+Respondent’s yelling at students did not violate the Respectful 
+
+Treatment Policy—actually a Board of Education resolution (e.g., ex. 37)—which in relevant 
+part reaffirms District 
+
+policy that students and adults in both schools and offices 
+should treat all persons equally and respectfully and refrain from 
+the willful or negligent use of slurs against any person on the 
+basis or [sic] race, language spoken, color, sex, religion, 
+handicap, national origin, immigration status, age, sexual 
+orientation, or political belief[.]
+
+(b)
+
+There was no indication that respondent’s yelling had any connection to 
+
+students’ race, language spoken, color, sex, religion, or other category listed. The same is 
+true for tossing pencils and eraser halves to students. Indeed, these behaviors cannot fairly
+be characterized as disrespectful even in a general sense, apart from the specific wording of 
+the Respectful Treatment policy.
+
+58.
+
+Complainant presented evidence that respondent’s approaches to classroom 
+
+discipline and management were inconsistent in some ways with LAUSD’s Discipline 
+Foundation Policy and policy of Schoolwide Positive Behavior Support, and the school-
+specific versions of those policies.21 But the Statement of Charges did not allege respondent 
+violated these particular policies, and complainant’s presentation regarding these policies had
+no bearing on whether respondent violated the policies actually mentioned in the Statement
+of Charges.
+
+59.
+
+In sum, despite the substantiation of Charge 9(e), Charge 10 was not 
+
+substantiated by respondent’s yelling at students.  Moreover, even if Charges 9(a) and 9(c) 
+were deemed partially substantiated by respondent’s having tossed pencils and eraser halves 
+to students, that conduct was also insufficient to substantiate Charge 10.
+
+Findings on the Allegations Against Respondent Regarding the April 26, 2010 Incident at 
+LAAMS
+
+60.
+
+Charges 11 through 13 arise from an April 26, 2010 incident at LAAMS.
+
+Charge 11 alleges that,
+
+while attempting to deal with a student problem, [respondent] 
+threw a book at the student, tossed a chair to the side, slammed 
+the class phone three to four times, kicked the trash can and told 
+the class to get out of the class prior to the bell ringing for the 
+end of class.
+
+21 Curiously, positive behavior support has been accepted by the District as its
+
+approach to improving and managing student behavior, but no such policy is in force for 
+employees. (Testimony of Laura Zeff.)
+
+16
+
+61.
+
+Of these alleged instances of misconduct, two were established. More likely
+
+than not, respondent did “toss[  ] a chair to the side,” and did slam or, in respondent’s words, 
+“jiggle,” the classroom phone a few times in a futile attempt to summon help.  (Respondent’s
+testimony.  Accord, testimony of Bertha Parra and Joseph Zeccola.)
+
+62.
+
+The remaining instances of alleged misconduct were not established.
+
+(Testimony of Maria Borges and respondent; exs. 21 and 22.)
+
+63.
+
+The April 26, 2010 incident occurred within six weeks of respondent’s transfer 
+
+from Wadsworth Elementary School to LAAMS (see Factual Findings 4-6), and respondent
+was not accustomed to teaching middle-school students (see Factual Findings 2 and 4). In
+addition, on April 26, 2010 respondent had a new group of eighth-grade students for his 
+“flex” period—a temporary remedial math class.
+
+64.
+
+(a)
+
+A few of the students in that class defied and challenged respondent
+
+verbally, and confronted him physically.
+
+(b)
+
+Respondent’s response to the situation included moving rapidly across
+the classroom toward the phone so he could call for help.  On the way across the classroom, 
+respondent did move, shove, or toss a chair out of his way—though not toward any students.
+He also ran into a trash can, kicking it accidentally. When he reached the phone, he could 
+not make it work, and slammed or “jiggled” it in an attempt to use it. The evidence did not 
+establish that respondent more likely than not threw a book or evicted the class before the 
+, and 
+bell rang.  (Testimony of Maria Borges, respondent, S
+E  M
+
+; exs. 21 and 22.)22
+
+, B
+
+ P
+
+ P
+
+65.
+
+Three of respondents’ students—Ms. P
+
+, Ms. P
+
+, and Ms. M
+
+—
+
+characterized respondent as having thrown the chair aside in a violent manner, and indicated
+respondent did throw a book.
+
+66.
+
+Nevertheless, the contemporaneous documents memorializing the incident—
+
+particularly Principal Borges’ conference memorandum—did not indicate respondent
+violently threw the chair or threw a book. (Exs. 21 and 22.) Principal Borges convincingly
+testified that if such things had been reported or alleged, she would have put them in her 
+memorandum, and also would have called police.  She did neither. Principal Borges’ 
+testimony thus implied that these things were not reported, which in turn implied they did not 
+occur. (Testimony of Maria Borges and respondent; exs. 21 and 22.) Rather, the students’
+testimony, nearly six years after the fact, appeared to reflect inaccurate recollections of
+events and exaggerated impressions of respondent’s conduct.
+
+22 Respondent did tell a student to “sit the fuck down” and otherwise verbally engaged
+
+the students, but these matters were not pled in the Statement of Charges, and were outside 
+the four-year rule in any event (see Legal Conclusions 4-11).
+
+17
+
+67.
+
+No student was harmed or endangered, mentally or physically, by respondent’s 
+
+actions. Consequently, Charge 12, alleging that respondent intended to and did cause harm 
+and/or mental suffering to student(s), was not substantiated.
+
+68.
+
+Charge 13 alleges respondent’s conduct on April 26, 2010 constituted an act 
+described in Penal Code sections 11165.2 through 11165.6.  This is a legal contention, not a 
+factual allegation.  As discussed in Legal Conclusions 4 through 11, Charge 13 was not 
+substantiated.
+
+Findings on the Remaining Charges
+
+CHARGE 14
+
+69.
+
+Charge 14, alleging, “The above conduct identified in [Charges] 1, 3, 5, 7, 9, 
+and 11” violated the District’s rules and regulations, “including, but not limited to, the Code 
+of Conduct with Students, the Ethics Policy, the Anti-bullying Policy, and the Respectful 
+Treatment of All Persons Policy[,]” was not substantiated.
+
+70.
+
+As previously explained, the conduct alleged in Charge 9, as established in this 
+
+case, did not violate the enumerated policies.23
+
+71.
+
+(a) With regard to respondent’s conduct on April 26, 2010, it occurred
+
+more than four years before “the filing of the notice” of respondent’s dismissal and 
+suspension. (See Factual Findings 1 and 7.) As is explained in Legal Conclusions 4 through 
+11, respondent’s April 26, 2010 conduct did not constitute “an act described” in Penal Code 
+sections 11165.2 through 11165.6; therefore, no decision relating to respondent’s dismissal
+can be based on it. Hence, the question whether respondent’s April 26, 2010 conduct 
+violated the enumerated policies need not be answered.
+
+(b)
+
+Nevertheless, it did not. In the context of the incident, respondent’s 
+
+moving the chair and slamming or jiggling the phone was not unprofessional; rather, it was a
+predictable response to an unexpected and alarming situation. (Gov. Code, § 11425.50, 
+subd. (c).) Nor can respondent’s brushing the chair aside or slamming the phone be deemed 
+unethical, bullying, or disrespectful.
+
+CHARGE 15
+
+72.
+
+Charge 15, alleging that respondent’s violation of “the above reasonable rules 
+
+of the District” constituted a willful refusal to perform regular assignments, was not 
+substantiated.  As previously noted, respondent did not violate the District’s “rules and 
+regulations[.]” (See Factual Findings 51-59.)
+
+23 It was not clear what other “rules and regulations” respondent’s conduct allegedly
+
+violated; therefore, the phrase “including, but not limited to” is deemed surplusage.
+
+18
+
+CHARGE 16
+
+73.
+
+Charge 16, alleging that “[t]he above charges, separately and in any
+
+combination, support [respondent’s] dismissal from the District[,]” is a legal contention, and
+is addressed in the Legal Conclusions, below.  Charge 16 was not substantiated.
+
+Findings Concerning Respondent’s Overall Fitness to Teach
+
+74.
+
+Respondent’s yelling during the 2014-2015 school year did not have a material 
+adverse effect on students or coworkers. It was in the nature of normal teacher behavior, and 
+was not shown to have been worse than that.24
+
+75.
+
+Respondent’s multiple-subject credentialing means he is likely to teach 
+
+elementary school—younger children—more often than not, as has been the case during his
+career.  Teaching younger children, who are especially impressionable, means the teacher 
+must be sensitive to the effects of his or her behavior on students. (Testimony of Laura 
+Zeff.) Respondent seemed to have been unaware he was perceived as yelling in class.
+
+76.
+
+Respondent’s yelling is somewhat likely to recur, but is not likely to exceed 
+
+what is customary and tolerable for a teacher, since that is the kind of yelling respondent has 
+previously done. It is to some extent unavoidable that students will perceive a teacher as 
+“yelling,” whether or not the teacher’s conduct actually warrants such a label. Nevertheless,
+to the extent the present proceeding has chastened respondent, he is likely to be more careful 
+in his future vocal expression.
+
+77.
+
+To discipline a teacher for “yelling” in the manner respondent did would have 
+
+a significant adverse or chilling effect on respondent and other teachers.  Occasionally
+raising the voice is a normal part of teaching and of a teacher’s expression.  (Gov. Code, § 
+11425.50, subd. (c).) For a teacher to be disciplined for engaging in this behavior would 
+send a message to students that they can wrest control from a teacher by reporting, or
+threatening to report, the teacher for “yelling,” and thereby jeopardize the teacher’s 
+livelihood.25
+
+78.
+
+Furthermore, respondent took conscientious measures, at both LAAMS and 
+
+49th St., to help students learn, and rewarded them for good behavior and academic 
+accomplishments. Overall, although respondent displayed questionable judgment,
+
+24 Likewise, respondent’s use of a dry erase board eraser to get a child’s attention on 
+
+one occasion, and his tossing pencils and erasers to students, while not ideal classroom 
+procedure, also did not have material adverse effects, and is not likely to recur in light of the 
+present proceeding. 
+
+25 This is not to suggest that a teacher who verbally abused students should not be 
+
+disciplined, but verbal abuse was not established in this case.
+
+19
+
+exasperation, and ineffective classroom management on some occasions, including during 
+the first semester of the 2014-2015 school year at 49th St., he is fit to teach.
+
+LEGAL CONCLUSIONS
+
+Introduction
+
+1.
+
+2.
+
+Jurisdiction exists.  (Factual Finding 1.)
+
+Complainant had the burden to establish the matters alleged in the Accusation 
+
+by a preponderance of the evidence.  (Gardner v. Com. on Prof. Competence (1985) 164 
+Cal.App.3d 1035, 1038-1040.)
+
+3.
+
+Complainant did not establish any cause to dismiss respondent. This
+
+conclusion dispenses with Charge 16, which alleges the contrary.
+
+No Cause for Dismissal Based on Respondent’s April 26, 2010 Conduct
+
+4.
+
+Under section 44944, subdivision (b)(2), evidence “relating to matters that 
+
+occurred more than four years” before the “filing of the notice” of dismissal is inadmissible 
+in a teacher-dismissal proceeding, and “no decision relating to the dismissal . . . shall be 
+made based on charges or evidence of any nature relating to matters occurring more than 
+four years before the filing of the notice[.]”  This is commonly referred to as the four-year
+rule.
+
+5.
+
+An exception to the four-year rule exists for “records regularly kept” by the 
+
+school district (§ 44944, subd. (b)(2)(B)), though their use is circumscribed as set forth 
+above. (Id.)  In this case, “records regularly kept” of respondent’s discipline from 
+Wadsworth Elementary School were received for the limited purposes of establishing the fact 
+of discipline and notice of District policies and directives. (Factual Findings 4-6.)
+
+6.
+
+Another exception to the four-year rule exists for “allegations of an act 
+
+described in Section 44010 of this code or Sections 11165.2 to 11165.6, inclusive, of the 
+Penal Code.”  (§ 44944, subd. (b)(2)(A) & (B).) For such allegations, evidence may be
+received and may form the basis for a decision to dismiss.
+
+7.
+
+Section 44010 defines “sex offense” according to various provisions of the 
+
+Penal Code. Penal Code sections 11165.2 through 11165.6 encompass child neglect (§ 
+11165.2), willful child harm or endangerment (§ 11165.3), unlawful corporal punishment or 
+injury (§ 11165.4), abuse or neglect in out-of-home care (§ 11165.5), and child abuse or 
+neglect (§ 11165.6).
+
+8.
+
+April 26, 2010 was more than four years prior to September 1, 2015, the date 
+
+of “filing” of respondent’s notice of dismissal and suspension.  (Factual Findings 1, 3, 7, and 
+
+20
+
+60-68.) Thus, respondent’s April 26, 2010 conduct would presumptively be subject to the 
+four-year rule.
+
+9.
+
+Nevertheless, respondent’s alleged conduct on April 26, 2010 was claimed to
+
+constitute an act described in one or more of the cited Penal Code sections, which is why 
+evidence of the April 26, 2010 incident was admitted and why findings about that incident 
+have been made in this decision.26 (Factual Finding 60-68.)
+
+10.
+
+The conduct in which respondent was shown to have engaged on April 26, 
+2010—tossing a chair to the side and slamming the classroom phone (Factual Findings 60-
+68)—did not constitute an act described in any of the statutory exceptions to the four-year
+rule, because it was not sexual in nature, did not harm or endanger any child, and did not 
+constitute neglect or a failure to supervise. (Id.)
+
+11.
+
+Accordingly, respondent’s April 26, 2010 conduct was not within any of the 
+
+exceptions to the four-year rule, and cannot form the basis of any decision to dismiss him.
+Charge 13, alleging the contrary, is not substantiated. Since respondent’s April 26, 2010 
+conduct is not cause for dismissal, it will not be further addressed in the sections of this 
+decision discussing the asserted causes for dismissal, except where appropriate in context.
+
+No Cause for Dismissal Based on Egregious Misconduct or Immoral Conduct
+
+12.
+
+Causes for dismissal 1 and 2 assert respondent’s employment should be 
+
+terminated for immoral conduct, including without limitation egregious misconduct, within 
+the meaning of sections 44932, subdivision (a)(1), and 44939. Complainant did not establish 
+these causes for dismissal. Respondent’s conduct, as established in this case, was neither 
+egregious nor immoral.
+
+NO EGREGIOUS MISCONDUCT
+
+13.
+
+Egregious misconduct “is defined exclusively as immoral conduct that is the 
+
+basis for an offense described in Section 44010 or 44011 of this code, or in Sections 11165.2 
+to 11165.6, inclusive, of the Penal Code.”  (§ 44932, subd (a)(1).)
+
+14.
+
+As noted above, section 44010 defines “sex offense” according to various
+
+provisions of the Penal Code.  Section 44011 likewise defines “controlled substance offense” 
+according to various provisions of the Health and Safety Code. Penal Code sections 11165.2
+through 11165.6 are as previously described.
+
+//
+//
+
+26 As noted previously (Factual Finding 64), respondent’s verbal utterances during 
+
+that incident were not pled in the Statement of Charges, and even if they had been, they
+would not likely fall within any of the Penal Code exceptions to the four-year rule.
+
+21
+
+15.
+
+Respondent’s occasional yelling and tossing of items during the first semester 
+
+of the 2014-2015 school year did not constitute, or even approach, any of these things.
+(Factual Findings 10-50.) Hence it was not “egregious misconduct.”27
+
+NO IMMORAL CONDUCT
+
+16.
+
+“Immoral conduct” is hostile to the welfare of the general public and contrary
+to good morals, inconsistent with rectitude, or indicative of corruption, indecency, depravity,
+and dissoluteness. It can also be conduct that is willful, flagrant, or shameless, showing 
+moral indifference to the opinions of respectable members of the community and an
+inconsiderate attitude toward good order and the public welfare.  (Bd. of Education of the 
+San Francisco Unified School Dist. v. Weiland (1960) 179 Cal.App.2d 808, 811.)
+
+17.
+
+Respondent’s conduct during the 2014-2015 school year at 49th St., as 
+
+described in the substantiated portion of Charge 9, was not immoral.  It included occasional 
+“yelling” and the tossing of implements to students for their use—and the latter was not the 
+conduct actually charged.  (Factual Findings 10-50.)  These actions cannot fairly be
+characterized as hostile to general welfare, contrary to good morals, corrupt, indecent, 
+depraved, dissolute, flagrant, shameless, or demonstrative of moral indifference.
+
+No Cause for Dismissal Based on Unprofessional Conduct
+
+18.
+
+Cause 3 asserts respondent should be dismissed for unprofessional conduct,
+
+within the meaning of section 44932, subdivision (a)(2). Complainant did not establish this
+cause for dismissal.
+
+19.
+
+“Unprofessional conduct” violates the rules or ethical code of a profession, or
+
+is unbecoming of a member of the profession in good standing (Bd. of Education v. Swan
+(1953) 41 Cal.2d 546, 553), and indicates unfitness to teach.  (Perez v. Com. on Prof. 
+Competence (1983) 149 Cal.App.3d 1167, 1174.) Dismissal based on unprofessional 
+conduct requires the school district to give the teacher written notice of the objectionable
+conduct and “an opportunity to correct his or her faults and overcome the grounds for the 
+charge.”  (§ 44938, subd. (a).)
+
+27 Although similar sets of Penal Code and Education Code sections define “egregious
+
+misconduct” and constitute an exception to the four-year rule (see Legal Conclusions 6 and 
+7), those statutes still do not apply to respondent’s chair-tossing and phone-slamming on 
+April 26, 2010.  That conduct cannot be considered cause for dismissal for the reasons 
+previously stated. Even if it could constitute grounds for dismissal, it was not “the basis for 
+an offense described” in section 44010 or 44011, or any of the cited Penal Code sections:  No 
+criminal prosecution or conviction was alleged or proven; indeed, the police were not even 
+called.  (Factual Finding 66.) The conduct was not sexual in nature, did not involve 
+controlled substances, did not harm or endanger any student, and did not constitute a failure 
+to supervise.  (Factual Findings 60-68.)  Accordingly, respondent’s April 26, 2010 conduct
+was not “egregious misconduct.”
+
+22
+
+20.
+
+Respondent’s conduct at 49th St. during the first semester of the 2014-2015
+
+school year did not rise to the level of “unprofessional.”  (Factual Findings 51-59.)  It did not 
+violate the rules or ethical code of the District.  (Id.)
+
+21.
+
+Even if some of respondent’s choices could be characterized as unbecoming 
+of a teacher in good standing—which they were not shown to be—respondent corrected his 
+behavior after receiving notice of them: he finished the 2014-2015 school year without 
+further incident.  (Factual Finding 7.) Accordingly, no cause to dismiss respondent for 
+unprofessional conduct was shown.
+
+No Cause for Dismissal Based on Persistent Violation of School Laws and/or Regulations, or 
+Based on Willful Refusal to Perform Regular Assignments
+
+22.
+
+Causes for dismissal 5 and 6, respectively, assert respondent should be 
+
+dismissed for violating school rules and regulations—i.e., the District policies enumerated in 
+the Statement of Charges—and that his violation of those policies constitutes a willful refusal 
+to perform regular assignments. Charge 15 (Factual Finding 72) is in accord.  Complainant
+did not establish these causes for dismissal.
+
+23.
+
+As implied by the word “persistent,” a single violation of a law or rule is not 
+
+cause for dismissal.  (Governing Bd. of the Oakdale Union School Dist. v. Seaman (1972) 28 
+Cal.App.3d 77, 81-84, rehearing denied, id. at p. 85.)  The District must establish more than a 
+single violation.
+
+24.
+
+In this case, no violations were established with regard to respondent’s 
+
+conduct during the first semester of the 2014-2015 school year. (Factual Findings 51-59.)
+Accordingly, no cause for dismissal exists based on violation of District policy, rule, or 
+regulation.
+
+25.
+
+“Willful refusal to perform regular assignments,” is not defined by either
+
+statute or case law.  Nevertheless, since the Statement of Charges equates it with 
+respondent’s alleged violation of District policies, rules, and regulations, complainant’s 
+failure to establish any violations means complainant also failed to establish respondent’s 
+willful refusal to perform regular assignments. (Factual Findings 51-59; see Legal 
+Conclusion 27.)
+
+No Cause for Dismissal Based on Evident Unfitness for Service
+
+26.
+
+Cause 4 asserts respondent should be dismissed on grounds of evident
+
+unfitness for service.  (§ 44932, subd. (a)(6).) Complainant did not establish this cause for 
+dismissal.
+
+27.
+
+A teacher displaying “evident unfitness for service” is one who is “clearly not
+fit, not adapted to or unsuitable for teaching, ordinarily by reason of temperamental defects 
+or inadequacies. Unlike unprofessional conduct, evident unfitness for service connotes a 
+
+23
+
+fixed character trait, presumably not remediable merely on receipt of notice that one’s
+conduct fails to meet the expectations of the employing school district.”  (Woodland Joint 
+Unified School Dist. v. Com. on Prof. Competence (1992) 2 Cal.App.4th 1429, 1444 [internal 
+quotation marks omitted].)
+
+28.
+
+Respondent’s conduct at 49th St. during the 2014-2015 school year did not 
+reveal temperamental defects or inadequacies in his character rendering him unfit to teach.
+(Factual Findings 10-50 and 74-78.) To the extent respondent’s conduct was undesirable or 
+deficient, when advised of those problems, he made corrections, and finished the 2014-2015
+school year without further incident.  (Factual Finding 7.)
+
+Even if Cause Had Been Established, Dismissal Would Not Be Appropriate
+
+29.
+
+Even where cause for dismissal appears, the Commission has broad latitude in
+
+determining whether dismissal is the appropriate sanction. (California Teachers Ass’n v. 
+State of California (1999) 20 Cal.4th 327, 343; Fontana Unified School Dist. v. Burman
+(1988) 45 Cal.3d 208, 215-222.) On the other hand, the Commission has no discretion to 
+fashion discipline short of dismissal.  (§ 44944, subd. (d)(1).) The relationship between a 
+teacher’s conduct and his or her overall fitness to teach must be considered in deciding 
+whether dismissal is warranted. (Morrison v. State Bd. of Education (1969) 1 Cal.3d 214, 
+229. (Morrison.))
+
+30.
+
+Under Morrison, the operative factors include the likelihood that the conduct 
+
+may have adversely affected students or fellow teachers; the degree of such adversity 
+anticipated; the proximity or remoteness in time of the conduct; the type of certificate held 
+by the teacher; extenuating or aggravating circumstances; the praiseworthiness or
+blameworthiness of the teacher’s motives; the probability of recurrence; and the likelihood
+that discipline will cause an adverse or chilling impact on the constitutional rights of the 
+teacher involved or other teachers. With regard to the last factor, public employers may
+regulate on-the-job speech or expression of their employees. (Garcetti v. Ceballos (2006)
+547 U.S. 410, 421; Kaye v. Bd. of Trustees of San Diego County Public Law Library (2009)
+179 Cal.App.4th 48, 56-59.)
+
+31.
+
+In this case, although respondent’s relevant conduct—that is, his yelling—was
+recent, it was not shown to have had material adverse effects. (Factual Findings 47-50.) No
+significant extenuating or aggravating circumstances appeared.  Although prior discipline 
+might have been an aggravating circumstance in another context, here it was not, because it 
+had occurred several years before, at other schools, based on unrelated events. (Factual
+Findings 4-6.) On the other hand, respondent’s motives for yelling were not likely
+blameworthy; rather, he was trying to control the classroom and focus the students on 
+instruction—albeit yelling was not the ideal way to accomplish these things. (Factual
+Findings 47-50.)
+
+//
+
+24
+
+32.
+
+Although some recurrence of occasional yelling is probable, the yelling is 
+
+likely to be in accord with what is normal and acceptable for teachers, and is not likely to rise 
+to the level of verbal abuse.  (Factual Findings 7, 47-50, and 76.)
+
+33.
+
+Finally, the chilling effect on respondent and other teachers would be 
+
+significant, if respondent were to be dismissed for the kind of yelling that occurred in this 
+case.  (Factual Findings 47-50 and 77.)
+
+34.
+
+Even considering respondent’s other conduct—tossing a chair and slamming 
+the phone on April 26, 2010, and tossing items in his classroom during the first semester of 
+the 2014-2015 school year—dismissal is too drastic a remedy. None of this conduct was 
+shown to have had material adverse effects. (Factual Findings 10-50 and 60-68.)  The April 
+26, 2016 incident is long past, and was extenuated by the context in which it occurred.
+(Factual Findings 60-68.) Similarly, the tossing of objects during the Fall semester of 2014-
+2015 was extenuated to a degree by respondent’s knee pain, which discouraged him from 
+moving around the classroom.  (Factual Finding 36.) Finally, respondent is unlikely to
+repeat any of this behavior—as shown by his improved performance.  (Factual Findings 6 
+and 7.) Accordingly, even if every instance of conduct proven in this case were factored in, 
+dismissal would still not be appropriate.
+
+35.
+
+On balance, respondent has had a 20-year teaching career, marked by a few 
+
+instances in which he handled situations less than ideally.  This does not subject him to 
+dismissal.
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+25
+
+ORDER
+
+Respondent Anthony Liali shall not be dismissed as a certificated employee of the 
+
+Los Angeles Unified School District.
+
+(cid:7)(cid:10)(cid:9)(cid:8)(cid:1)(cid:4)(cid:6)(cid:2)(cid:1)(cid:5)(cid:3)(cid:4)(cid:6)
+
+Dated:
+
+  
+
+(cid:7)(cid:10)(cid:9)(cid:8)(cid:1)(cid:4)(cid:6)(cid:2)(cid:1)(cid:5)(cid:3)(cid:4)(cid:6)
+
+Dated:
+
+  
+
+(cid:7)(cid:10)(cid:9)(cid:8)(cid:1)(cid:4)(cid:6)(cid:2)(cid:1)(cid:5)(cid:3)(cid:4)(cid:6)
+
+Dated:
+
+  
+
+DocuSigned  by: 
+
+( agele  gue 
+____________________________
+ANGELA VILLEGAS
+Administrative Law Judge
+Office of Administrative Hearings
+
+DocuSigned  by: 
+
+( Mary  Duet 
+____________________________
+MARY BENNETT
+Commission Member
+
+DocuSigned  by: 
+
+( Zordow.  Brown.
+____________________________
+GORDON BROWN
+Commission Member
+
+26
+
+
