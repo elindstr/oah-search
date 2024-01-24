@@ -7,13 +7,13 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
     <meta name="robots" content="noindex">
+    <link rel="stylesheet" href="style.css" />
 
   <title>OAH Search</title>
 </head>
 <body>
 
     <h1>OAH Teacher Case Search</h1>      
-
     <form>
         <input type = "text" id="searchInput" size="100" />
         <button id="searchButton">Search</button>
@@ -36,19 +36,21 @@
     </form>
 
     <hr>
-    <div id="outputDiv"></div><br>
+    <div id="outputDiv"></div>
     <div id="statusDiv"></div>
     <br>
     <br>
     <hr>
     
     
-    <p>Sources: RIF (2004-2022), CPC (2010-2022), MIRS (2018-2022), CTC (Sacramento OAH, 2020-2022).<br><br>
+    <p>Sources: RIF (2004-2023), CPC (2010-2023), MIRS (2018-2023), CTC (Sacramento OAH, 2020-2023).<br><br>
     Available Commands:<br>
-    &#8226 AND <i>(Unconnected terms are assumed to be connected by AND; use an explicit OR if desired)</i><br>
+    &#8226 AND (search assumes an AND connector for spaces)<br>
     &#8226 OR<br>
     &#8226 Quotations for literals<br>
     &#8226 /n (<i>n words apart</i>)<br>
+    Unconnected terms are assumed to be connected by AND; use an explicit OR if that is desired.
+    Parenthetical and nested conditional are not supported. 
     </p>
 
     <script src="/socket.io/socket.io.js"></script>

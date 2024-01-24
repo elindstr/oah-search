@@ -20,24 +20,38 @@ document.getElementById("searchButton").addEventListener("click", function(event
     socket.emit("searchInput", query)
 })
 
-// server data: {results, filesProcessed, searchInput}
+// server data:
+// results.push({
+//   fileName: fileName,
+//   pdfLink: pdfLink,
+//   snippet: getSnippet(content, searchInput),
+//   caseNo: path.basename(files[f]).replace(".txt", ""),
+//   caseName: getCaseName(content)
 socket.on("results", (data) => {
-  //console.log(data.results, data.filesProcessed, data.searchInput)
+  console.log(data)
   $("#outputDiv").empty()
   $("#statusDiv").empty()
 
-  if (data.filesProcessed && data.searchInput) {
-    let filesProcessed = data.filesProcessed? data.filesProcessed: 0
-    let dataLength = data.results? data.results.length: 0
+  if (data) {
+    $("#outputDiv").append(`<p>Found ${data.length} results:</p>`)
 
-    $("#outputDiv").append(`<p>Searched ${filesProcessed} decisions. Found ${dataLength} results:</p>`)
-  }
+    data.forEach(result => {
+      // Create elements for the result
+      const type = $("<span>").text(`${result.type}   `);
+      const pdfLink = $("<a>").text(`${result.caseNo}`).attr("href", result.pdfLink).attr("target", "_blank");
+      const caseNameDiv = $("<span>").text(`   ${result.caseName}`);
+      const snippetDiv = $("<div>").text(`Snippet: ...${result.snippet}...`);
+      
+      // Combine all elements into a single div
+      let resultDiv = $("<div class='result'>")
+        .append(type)
+        .append(pdfLink)
+        .append(snippetDiv)
+        .append(caseNameDiv)
+        .append(snippetDiv)
 
-  if (data.results) {
-    data.results.forEach(result => {
-      const link = $("<a></a>").text(result).attr("href", result);
-      const div = $("<div>").append(link)
-      $("#statusDiv").append(div);
+      // Append the result div to the statusDiv
+      $("#statusDiv").append(resultDiv);
     });
   }
 });

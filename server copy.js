@@ -56,20 +56,10 @@ async function getResults(directoryPaths, searchInput) {
       // read files
       let filePath = directoryPath + files[f]
       const content = await fs.readFile(filePath, "utf8");
-
-      // Convert content to uppercase for case-insensitive search
-      content = content.toUpperCase();
-      searchInput = searchInput.toUpperCase();
       
-      // Parse Search Input into Literal/AND/OR
-      
-
-
       // search and process results
       if (searchLogic(content, searchInput)) {
 
-
-        
         // prepare file names
         const fileName = path.basename(files[f]);
         const pdfFilePath = filePath.replace('/txt/', '/pdf/').replace('.txt', '.pdf');
@@ -93,7 +83,8 @@ async function getResults(directoryPaths, searchInput) {
 }
 
 function searchLogic(content, searchInput) {
-
+  // Convert content to uppercase for case-insensitive search
+  content = content.toUpperCase();
 
   // Handle literals enclosed in quotes
   let literals = [];
