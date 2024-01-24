@@ -1,12 +1,3 @@
-<html>
-<body>
-<input type="text" /><button>Go</button>
-
-<script>
-document.querySelector("button").addEventListener("click", () => {
-    parseSearchInput(document.querySelector("input").value)
-})
-
 function parseSearchInput(searchInput) {
     //console.log("1.", searchInput);
 
@@ -270,7 +261,3 @@ function processParenProximityOrs(searchInputs) {
 function filterAnd(searchInputs) {
     return searchInputs.map(input => input.filter(token => token !== 'AND'));
 }
-
-</script>
-</body>
-</html>
