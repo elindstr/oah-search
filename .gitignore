@@ -11,6 +11,7 @@
 *.sln.docstates
 *.DS_Store
 node_modules/
+.esl*
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
