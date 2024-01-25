@@ -20,8 +20,10 @@ function parseSearchInput(searchInput) {
     // console.log("7.", searchInputs);
 
     searchInputs = filterAnd(searchInputs);
-    console.log("Final parsing:");
-    console.log(searchInputs);
+    //console.log("Final parsing:");
+    //console.log(searchInputs);
+
+    return searchInputs
 }
 
 
@@ -199,30 +201,23 @@ function splitORsinParens(searchInput) {
 }
 
 // split remaining ORs
-function splitRemainingOrs(searchInput) {
-    let searchInputs = [];
+function splitRemainingOrs (searchInput) {
+    // Find the index of the 'OR' token
+    const orIndex = searchInput.indexOf('OR');
 
-    for (let i = 0; i < searchInput.length; i++) {
-        if (searchInput[i] === 'OR') {
-            // In searchInputs[0], remove the "OR" connector and the item immediately following the "OR" connector
-            let newArray1 = JSON.parse(JSON.stringify(searchInput));
-            newArray1.splice(i, 2);
-            searchInputs.push(newArray1);
-
-            // In searchInputs[1], remove the "OR" connector and the item immediately preceding the "OR" connector
-            let newArray2 = JSON.parse(JSON.stringify(searchInput));
-            newArray2.splice(i - 1, 2);
-            searchInputs.push(newArray2);
-
-            break; // Stop processing after the first "OR" connector is found
-        }
+    // If 'OR' is not found, return the original input inside an array
+    if (orIndex === -1) {
+        return [searchInput];
     }
-    // If no "OR" was found, return the original searchInput inside an array
-    if (searchInputs.length === 0) {
-        searchInputs.push(searchInput);
-    }
-    return searchInputs;
+
+    // Split the array at the 'OR' index
+    const beforeOr = searchInput.slice(0, orIndex);
+    const afterOr = searchInput.slice(orIndex + 1);
+
+    // Return the two new arrays
+    return [beforeOr, afterOr];
 }
+
 
 // Recursively process search inputs until no more changes are possible
 function processParenProximityOrs(searchInputs) {
@@ -261,3 +256,6 @@ function processParenProximityOrs(searchInputs) {
 function filterAnd(searchInputs) {
     return searchInputs.map(input => input.filter(token => token !== 'AND'));
 }
+
+
+module.exports = parseSearchInput
