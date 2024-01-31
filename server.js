@@ -78,7 +78,7 @@ async function getResults (directoryPaths, searchInputs) {
           type,
           snippet: getSnippet(contentNormalCase, snippetID),
           caseNo: path.basename(files[f]).replace('.txt', ''),
-          caseName: getCaseName(content, type)
+          caseName: getCaseName(contentNormalCase, type)
         })
       }
     }
@@ -171,64 +171,194 @@ function getSnippet (content, snippetID) {
 }
 
 function getCaseName (content, type) {
-  // Locate the first section of words in all caps in the text file
-  const allCapsRegex = /\b([A-Z]+\s*)+/
-  const matches = content.match(allCapsRegex)
-  let agency = matches ? matches[0].trim() : ''
+  let caseName = ''
+  let Teacher = ''
+  const Agency = ''
 
-  // List of words and symbols to remove
-  const removeList = ['\n', '\t', 'COMMISSION ON PROFESSIONAL COMPETENCE', ' ON ', 'COMMISSION', 'COMMISSON', 'PROFESSIONAL', 'PROFESSONAL', 'COMPETENCE', 'STATE', 'CALIFORNIA', 'ADMINISTRATOR', 'SCHOOLS', 'SUPERINTENDANT', 'SUPERINTENDENT', 'BEFORE', 'THE', 'OF ', 'COUNTY', 'CALIF ORNIA', 'EDUCATION', 'GOVERNING', 'BOARD', 'TRUSTEES', ' I', 'OAH N', 'OAH C', '*', ',', '/', 'Â', '©', '@', 'â', '€', 'œ', '~', '+', '.', '2', '|', '_', 'PROPOSED DECISION']
-  removeList.forEach(item => {
-    agency = agency.split(item).join(item.trim() ? ' ' : '')
-  })
-  agency = agency.replace(/\s+/g, ' ').trim()
-  let regex = / I$/
-  agency = agency.replace(regex, '')
+  // clean up special characters (except '.' and ',') and break into words
+  content = content.replace(/[!@#$%^&*()_+\=\[\]{};':"\\|<>\/?]/g, '')
+  const words = content.split(/\s+/)
 
-  // Individual
-  let nameBegin = 0
-  let nameEnd = 0
-  let trigger = false
-  let found = false
+  if (type === 'MIRS') {
+    // EG:
+    // BEFORE THE
+    // OFFICE OF ADMINISTRATIVE HEARINGS
+    // STATE OF CALIFORNIA
+    // In the Matter of the Motion for Immediate Reversal of
+    // Suspension of:
+    // LINDA PAPPAS, a permanent certificated employee,
+    // Moving Party,
+    // and
+    // GALT JOINT UNION ELEMENTARY SCHOOL DISTRICT,
+    // Responding Party.
 
-  for (let i = 0; i < Math.min(900, content.length); i++) { // Prevent exceeding the string length
-    if (trigger) {
-      if (found) {
-        // Check for a group of non-uppercase characters
-        if (!isUpperCase(content[i]) && !isUpperCase(content[i + 1]) && !isUpperCase(content[i + 2]) && !isUpperCase(content[i + 3]) && (i + 4 < content.length && !isUpperCase(content[i + 4]))) {
-          nameEnd = i
+    // --- MIRS: FIND TEACHER --->
+
+    // locate index of "BEFORE"
+    let currentIndex = words.indexOf('BEFORE')
+
+    // locate index of the first non-all CAP word (ie "In the Matter..")
+    for (let i = currentIndex; i < words.length; i++) {
+      if (words[i].length > 1 && words[i][1] !== words[i][1].toUpperCase()) {
+        currentIndex = i
+        break
+      }
+    }
+
+    // locate index of the first CAP word (Teacher)
+    let TeacherBegin = -1
+    for (let i = currentIndex + 1; i < words.length; i++) {
+      if (
+        (words[i] != 'OAH') &&
+      (words[i] != 'No.') &&
+      (isNaN(words[i].charAt(0))) &&
+      (words[i] !== 'ORDER') &&
+      (words[i] !== 'GRANTING') &&
+      (words[i] !== 'DENYING') &&
+      (words[i] !== 'MOTION') &&
+      (words[i] !== 'FOR') &&
+      (words[i] !== 'IMMEDIATE') &&
+      (words[i] !== 'REVERSAL') &&
+      (words[i] !== 'OF') &&
+      (words[i] !== 'SUSPENSION')) {
+        // if not; found TeacherBegin
+        if ((words[i].length > 1) &&
+            (words[i][1] !== words[i][1].toLowerCase())) {
+          TeacherBegin = i
           break
         }
-      } else {
-        // Check for a group of uppercase characters
-        if (isUpperCase(content[i]) && isUpperCase(content[i + 1]) && isUpperCase(content[i + 2]) && (i + 3 < content.length && isUpperCase(content[i + 3]))) {
-          nameBegin = i
-          found = true
+      }
+    }
+
+    // locate index of the first non-all CAP word (end of teacher)
+    let TeacherEnd = -1
+    for (let i = TeacherBegin + 1; i < words.length; i++) {
+      // if comma
+      if (words[i].indexOf(',') > 0) {
+        TeacherEnd = i
+        break
+      }
+
+      // otherwise; if not upper case
+      else if (words[i].length > 1 && words[i][1] !== words[i][1].toUpperCase()) {
+        TeacherEnd = i
+        break
+      }
+    }
+
+    // build teacher's name
+    Teacher = ''
+    if (TeacherBegin !== -1 && TeacherEnd !== -1) {
+      Teacher = words[TeacherBegin]
+      for (let i = TeacherBegin + 1; i <= TeacherEnd; i++) {
+        if (words[i].indexOf(',') > 0) {
+          const lastWord = words[i].split(',')[0]
+          Teacher += ' ' + lastWord
+        } else {
+          Teacher += ' ' + words[i]
         }
       }
-    } else if (isLowerCase(content[i])) {
-      trigger = true
     }
+
+    // --- MIRS: FIND AGENCY --->
+
+    // locate County Office of "Education" or School "District"
+    let Agency = ''
+    let AgencyEnd = 7
+    for (let i = 0; i < 100; i++) {
+      console.log("269", i, words[i].replace(',','').trim())
+      if ((words[i].replace(',','').trim() === 'DISTRICT') || (words[i].replace(',','').trim() === 'EDUCATION')) {
+        AgencyEnd = i
+        break
+      }
+    }
+    let AgencyBegin = AgencyEnd - 7
+    // go backwards and locate first not all CAP
+    for (let j = AgencyEnd; j > AgencyEnd - 7; j--) {
+      console.log("277", j, words[j])
+      if (words[j] != words[j].toUpperCase()) {
+        AgencyBegin = j+1
+        break
+      }
+    }
+
+    // build agency name 
+    Agency = ''
+    if (AgencyEnd !== -1) {
+      Agency = words[AgencyBegin]
+      for (let i = AgencyBegin + 1; i <= AgencyEnd; i++) {
+        if (words[i].indexOf(',') > 0) {
+          const lastWord = words[i].split(',')[0]
+          Agency += ' ' + lastWord
+        } else {
+          Agency += ' ' + words[i]
+        }
+      }
+    }
+
+    // done
+    caseName = `${Teacher} / ${Agency}`
+  } else {
+    // Locate the first section of words in all caps in the text file
+    const allCapsRegex = /\b([A-Z]+\s*)+/
+    const matches = content.match(allCapsRegex)
+    let agency = matches ? matches[0].trim() : ''
+
+    // List of words and symbols to remove
+    const removeList = ['\n', '\t', 'COMMISSION ON PROFESSIONAL COMPETENCE', ' ON ', 'COMMISSION', 'COMMISSON', 'PROFESSIONAL', 'PROFESSONAL', 'COMPETENCE', 'STATE', 'CALIFORNIA', 'ADMINISTRATOR', 'SCHOOLS', 'SUPERINTENDANT', 'SUPERINTENDENT', 'BEFORE', 'THE', 'OF ', 'COUNTY', 'CALIF ORNIA', 'EDUCATION', 'GOVERNING', 'BOARD', 'TRUSTEES', ' I', 'OAH N', 'OAH C', '*', ',', '/', 'Â', '©', '@', 'â', '€', 'œ', '~', '+', '.', '2', '|', '_', 'PROPOSED DECISION']
+    removeList.forEach(item => {
+      agency = agency.split(item).join(item.trim() ? ' ' : '')
+    })
+    agency = agency.replace(/\s+/g, ' ').trim()
+    let regex = / I$/
+    agency = agency.replace(regex, '')
+
+    // Individual
+    let nameBegin = 0
+    let nameEnd = 0
+    let trigger = false
+    let found = false
+
+    for (let i = 0; i < Math.min(900, content.length); i++) { // Prevent exceeding the string length
+      if (trigger) {
+        if (found) {
+          // Check for a group of non-uppercase characters
+          if (!isUpperCase(content[i]) && !isUpperCase(content[i + 1]) && !isUpperCase(content[i + 2]) && !isUpperCase(content[i + 3]) && (i + 4 < content.length && !isUpperCase(content[i + 4]))) {
+            nameEnd = i
+            break
+          }
+        } else {
+          // Check for a group of uppercase characters
+          if (isUpperCase(content[i]) && isUpperCase(content[i + 1]) && isUpperCase(content[i + 2]) && (i + 3 < content.length && isUpperCase(content[i + 3]))) {
+            nameBegin = i
+            found = true
+          }
+        }
+      } else if (isLowerCase(content[i])) {
+        trigger = true
+      }
+    }
+
+    let individual = content.substring(nameBegin, nameEnd)
+    individual = individual.replace(/\n/g, ' ') // Replace newlines with spaces
+    regex = / I$/
+    individual = individual.replace(regex, '')
+    individual = individual.replace('PROPOSED DECISION', '')
+    individual = individual.replace(', OAH N', '')
+    individual = individual.trim() // Trim whitespace from the start and end
+
+    // Function to check if a character is uppercase
+    function isUpperCase (character) {
+      return character && character === character.toUpperCase() && character !== character.toLowerCase()
+    }
+
+    // Function to check if a character is lowercase
+    function isLowerCase (character) {
+      return character && character === character.toLowerCase() && character !== character.toUpperCase()
+    }
+
+    caseName = individual + ' / ' + agency
   }
 
-  let individual = content.substring(nameBegin, nameEnd)
-  individual = individual.replace(/\n/g, ' ') // Replace newlines with spaces
-  regex = / I$/
-  individual = individual.replace(regex, '')
-  individual = individual.replace('PROPOSED DECISION', '')
-  individual = individual.replace(', OAH N', '')
-  individual = individual.trim() // Trim whitespace from the start and end
-
-  // Function to check if a character is uppercase
-  function isUpperCase (character) {
-    return character && character === character.toUpperCase() && character !== character.toLowerCase()
-  }
-
-  // Function to check if a character is lowercase
-  function isLowerCase (character) {
-    return character && character === character.toLowerCase() && character !== character.toUpperCase()
-  }
-
-  const caseName = individual + ' / ' + agency
   return caseName
 }
