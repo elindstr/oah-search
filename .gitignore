@@ -12,6 +12,7 @@
 *.DS_Store
 node_modules/
 .esl*
+.eslintrc.js
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
