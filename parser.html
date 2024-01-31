@@ -1,22 +1,52 @@
+<html>
+<head>
+<style>
+  input {
+    width: 300px;
+    }  
+</style>
+</head>
+<body>
+  <input type="text"/><button>Go</button>
+<script>
+
+document.querySelector("button").addEventListener("click", () => {
+  searchInput = document.querySelector("input").value
+  parseSearchInput(searchInput)
+})
+document.addEventListener('keydown', function(event) {
+    if (event.key === 'Enter' || event.keyCode === 13) {
+      searchInput = document.querySelector("input").value
+      parseSearchInput(searchInput)   
+    }
+});
+
+
 function parseSearchInput (searchInput) {
+
   // Make case insensitive
   searchInput = searchInput.toUpperCase()
 
   // Split on space, quote, or paren; remove white space
   const tokens = searchInput.split(/(\s+|["()])/).filter(token => token.trim() !== '')
   searchInput = regroupQuotedStrings(tokens)
+  console.log("2.", searchInput);
 
   // Replace & => AND
   searchInput = searchInput.map(token => token === '&' ? 'AND' : token)
+  console.log("3.", searchInput);
 
   searchInput = enforceTCSyntax(searchInput)
+  console.log("4.", searchInput);
 
   let searchInputs = processParenQuotesProximityORs(searchInput)
+  console.log("7.", searchInputs);
 
   searchInputs = filterAnd(searchInputs)
+  console.log("8.", searchInputs);
 
-  // console.log('Final parsing:')
-  // console.log(searchInputs)
+  console.log("Final parsing:");
+  console.log(searchInputs);
 
   return searchInputs
 }
@@ -76,7 +106,7 @@ function regroupQuotedStrings (tokens) {
 function enforceTCSyntax (searchInput) {
   const connectors = ['AND', 'OR']
   const isConnector = token => connectors.includes(token) || /^\//.test(token) // Connector is 'AND', 'OR', or starts with '/'
-
+  
   const isParen = token => token === '(' || token === ')'
 
   const processedInput = []
@@ -94,10 +124,12 @@ function enforceTCSyntax (searchInput) {
 
     // If current token and next token are not a connector or paren, concatenate them
     if (!isConnector(currentToken) && !isParen(currentToken) && nextToken && !isConnector(nextToken) && !isParen(nextToken)) {
+      
       processedInput.push(currentToken + ' ' + nextToken)
 
       i += 2 // Skip the next token as it's been concatenated
     } else {
+      
       processedInput.push(currentToken)
       i++ // Move to the next token
     }
@@ -108,23 +140,24 @@ function enforceTCSyntax (searchInput) {
 
 // if any parenthetical has been reduced to one element, delete the parentheses
 function removeSingleElementParentheses (searchInputs) {
-  for (let s = 0; s < searchInputs.length; s++) {
-    const searchInput = JSON.parse(JSON.stringify(searchInputs[s]))
 
-    // identify parens to kill; ["(", "x", ")"]
-    const sliceIDs = []
+  for (s = 0; s < searchInputs.length; s++) {
+    searchInput = JSON.parse(JSON.stringify(searchInputs[s]))
+
+    // identify parens to kill; ["(", "x", ")"] 
+    let sliceIDs = []
     if (searchInput.length > 2) {
-      for (let i = 0; i < searchInput.length - 2; i++) {
-        if ((searchInput[i] === '(') &&
-            (searchInput[i + 2] === ')')) {
-          sliceIDs.push(i)
-          sliceIDs.push(i + 2)
+      for (let i = 0; i < searchInput.length -2; i++) {
+        if ((searchInput[i] == '(') && 
+            (searchInput[i+2] == ')') ){
+              sliceIDs.push(i)
+              sliceIDs.push(i+2)
         }
       }
     }
 
     // build new list without sliceIDs values
-    const newList = []
+    let newList = []
     for (let i = 0; i < searchInput.length; i++) {
       if (!sliceIDs.includes(i)) {
         newList.push(searchInput[i])
@@ -136,21 +169,22 @@ function removeSingleElementParentheses (searchInputs) {
   return searchInputs
 }
 
-function removeEmptyQuotes (searchInputs) {
-  for (let s = 0; s < searchInputs.length; s++) {
-    const searchInput = JSON.parse(JSON.stringify(searchInputs[s]))
+function removeEmptyQuotes(searchInputs) {
 
-    // identify empty quotes to kill
-    const sliceIDs = []
+  for (s = 0; s < searchInputs.length; s++) {
+    searchInput = JSON.parse(JSON.stringify(searchInputs[s]))
+
+    // identify empty quotes to kill 
+    let sliceIDs = []
     if (searchInput.length > 2) {
       for (let i = 0; i < searchInput.length; i++) {
-        if (searchInput[i] === '') {
-          sliceIDs.push(i)
+        if (searchInput[i] == '') {
+              sliceIDs.push(i)
         }
       }
     }
     // build new list without sliceIDs values
-    const newList = []
+    let newList = []
     for (let i = 0; i < searchInput.length; i++) {
       if (!sliceIDs.includes(i)) {
         newList.push(searchInput[i])
@@ -163,34 +197,45 @@ function removeEmptyQuotes (searchInputs) {
 
 // searchInput is a list of elements. Look for Proximity Connectors, /n, in the form: [..., ..., "Term1", "/2", "Term2"..., ..., ...]. Use a stack and output method to find elements in that specific form: "Term1", "/2", "Term2". Skip the elements if Term1 or Term2 is a paren. When a "Term1", "/2", "Term2" syntax is found, remove those elements from the list and replace them with an array in the form [2, "Term1", "Term2"]. Do not try to distribute elements inside parentheses. Except for Term1 and Term2, do not change the content or order of the other elements in the searchInput list.
 function processProximity (searchInputs) {
-  const searchInputsTemp = []
 
-  for (let s = 0; s < searchInputs.length; s++) {
-    const searchInput = JSON.parse(JSON.stringify(searchInputs[s]))
+  searchInputsTemp = []
+
+  for (s = 0; s < searchInputs.length; s++) { 
+    searchInput = JSON.parse(JSON.stringify(searchInputs[s]))  
 
     let i = 0
     while (i < searchInput.length - 2) {
+      
       // Check if the current element and the one two places ahead are strings, and if the next element is a proximity connector
       if (typeof searchInput[i] === 'string' && typeof searchInput[i + 2] === 'string' && /^\/\d+$/.test(searchInput[i + 1])) {
+
+        console.log("here")
+        
         // Extract the number from the proximity connector
         const proximityNumber = parseInt(searchInput[i + 1].substring(1))
 
         // Ensure neither Term1 nor Term2 is a parenthesis
         if (searchInput[i] !== '(' && searchInput[i] !== ')' && searchInput[i + 2] !== '(' && searchInput[i + 2] !== ')') {
+
           // Replace the three elements with the array [n, "Term1", "Term2"]
           searchInput.splice(i, 3, [proximityNumber, searchInput[i], searchInput[i + 2]])
+          
+          break // to avoid errors; but that means this function will need to be run multiple times 
 
-          break // to avoid errors; but that means this function will need to be run multiple times
         } else {
+
           // If a parenthesis is found, move to the next element
           i++
         }
       } else {
+
         // If the pattern is not matched, move to the next element
         i++
       }
+
     }
     searchInputsTemp.push(searchInput)
+
   }
 
   searchInputs = JSON.parse(JSON.stringify(searchInputsTemp))
@@ -199,21 +244,27 @@ function processProximity (searchInputs) {
 
 // Read the searchInput items from left to right. If you find an OR connector inside a parenthetical, stop. Make a deep copy of searchInput into two new arrays (searchInputs[0] and searchInputs[1]). In searchInputs[0], remove the OR connector and the item immediately following the OR connector, and include all items before and after in the original searchInput unchanged. In searchInputs[1], remove the OR connector and the item immediately preceding the OR connector, and include all items before and after in the original searchInput unchanged.
 function splitORsinParens (searchInputs) {
+  
   const searchInputsTemp = []
 
-  for (let s = 0; s < searchInputs.length; s++) {
-    const searchInput = JSON.parse(JSON.stringify(searchInputs[s]))
+  for (s = 0; s < searchInputs.length; s++) {
+    let searchInput = JSON.parse(JSON.stringify(searchInputs[s]))
 
-    if (typeof searchInput !== 'string') {
+    if (typeof searchInput != 'string') {
       let isChanged = false
 
       let parentheticalDepth = 0
       for (let i = 0; i < searchInput.length; i++) {
+        
+
         if (searchInput[i] === '(') {
           parentheticalDepth++
+
         } else if (searchInput[i] === ')') {
           parentheticalDepth--
+
         } else if (searchInput[i] === 'OR' && parentheticalDepth > 0) {
+
           // If "OR" connector is found inside a parenthetical, proceed with the split
 
           // In searchInputsTemp[0], remove the "OR" connector and the item immediately following the "OR" connector
@@ -230,11 +281,12 @@ function splitORsinParens (searchInputs) {
           break // Stop processing after the first "OR" connector inside a parenthetical to avoid errors; so need to run this multiple times.
         }
       }
-      if (isChanged === false) {
+      if (isChanged == false) {
         searchInputsTemp.push(searchInput)
       }
+
     } else {
-      // if string:
+      //if string:
       searchInputsTemp.push(searchInput)
     }
   }
@@ -243,15 +295,17 @@ function splitORsinParens (searchInputs) {
   return searchInputs
 }
 
-function filterORs (searchInputs) {
+function filterORs(searchInputs) {
   const searchInputsTemp = []
-  for (let s = 0; s < searchInputs.length; s++) {
-    const searchInput = JSON.parse(JSON.stringify(searchInputs[s]))
+  for (s = 0; s < searchInputs.length; s++) {
+    let searchInput = JSON.parse(JSON.stringify(searchInputs[s]))
 
-    if (typeof searchInput !== 'string') {
+    if (typeof searchInput != 'string') {
       let isChanged = false
       for (let i = 0; i < searchInput.length; i++) {
+        
         if (searchInput[i] === 'OR') {
+
           // In searchInputsTemp[0], remove the "OR" connector and the item immediately following the "OR" connector
           const newArray1 = JSON.parse(JSON.stringify(searchInput))
           newArray1.splice(i, 2)
@@ -266,11 +320,12 @@ function filterORs (searchInputs) {
           break // Stop processing after the first "OR" connector inside a parenthetical to avoid errors; so need to run this multiple times.
         }
       }
-      if (isChanged === false) {
+      if (isChanged == false) {
         searchInputsTemp.push(searchInput)
       }
+
     } else {
-      // if string:
+      //if string:
       searchInputsTemp.push(searchInput)
     }
   }
@@ -278,56 +333,67 @@ function filterORs (searchInputs) {
   return searchInputs
 }
 
-function processParenQuotesProximityORs (searchInput) {
-  let searchInputs = [searchInput]
+function processParenQuotesProximityORs(searchInput) {
+    searchInputs = [searchInput]  
+    console.log(searchInputs)
 
-  let isChanged = true
-  while (isChanged) {
-    const oldArray = JSON.stringify(searchInputs)
+    isChanged = true
+    while (isChanged) {
+      let oldArray = JSON.stringify(searchInputs)
 
-    // clean up
-    searchInputs = removeSingleElementParentheses(searchInputs)
-    searchInputs = removeEmptyQuotes(searchInputs)
+      // clean up
+      searchInputs = removeSingleElementParentheses(searchInputs);
+      searchInputs = removeEmptyQuotes(searchInputs);
+      console.log(searchInputs)
 
-    // process proximity connections
-    searchInputs = processProximity(searchInputs)
+      // process proximity connections
+      searchInputs = processProximity(searchInputs);
+      console.log(searchInputs)
 
-    // clean up
-    searchInputs = removeSingleElementParentheses(searchInputs)
-    searchInputs = removeEmptyQuotes(searchInputs)
+      // clean up
+      searchInputs = removeSingleElementParentheses(searchInputs);
+      searchInputs = removeEmptyQuotes(searchInputs);
+      console.log(searchInputs)
 
-    // distribute OR in parens by splitting into two lists
-    searchInputs = splitORsinParens(searchInputs)
+      // distribute OR in parens by splitting into two lists
+      searchInputs = splitORsinParens(searchInputs);
+      console.log(searchInputs)
 
-    // clean up
-    searchInputs = removeSingleElementParentheses(searchInputs)
-    searchInputs = removeEmptyQuotes(searchInputs)
+      // clean up
+      searchInputs = removeSingleElementParentheses(searchInputs);
+      searchInputs = removeEmptyQuotes(searchInputs);
+      console.log(searchInputs)
 
-    // split on OR
-    searchInputs = filterORs(searchInputs)
-    searchInputs = filterORs(searchInputs)
+      // split on OR
+      searchInputs = filterORs(searchInputs);
+      searchInputs = filterORs(searchInputs);
+      console.log(searchInputs)
 
-    // check for changes
-    const newArray = JSON.stringify(searchInputs)
-    if (oldArray === newArray) {
-      isChanged = false
+      // check for changes
+      let newArray = JSON.stringify(searchInputs)
+      if (oldArray == newArray) {
+        isChanged = false
+      } 
     }
-  }
 
-  return searchInputs // Return the updated searchInputs
+  return searchInputs; // Return the updated searchInputs
 }
 
-function filterAnd (searchInputs) {
+function filterAnd(searchInputs) {
   for (let i = 0; i < searchInputs.length; i++) {
-    // Iterate backwards through the list
-    for (let j = searchInputs[i].length - 1; j >= 0; j--) {
-      if (searchInputs[i][j] === 'AND') {
-        // Remove the item if it is "AND"
-        searchInputs[i].splice(j, 1)
+      // Iterate backwards through the list
+      for (let j = searchInputs[i].length - 1; j >= 0; j--) {
+          if (searchInputs[i][j] === "AND") {
+              // Remove the item if it is "AND"
+              searchInputs[i].splice(j, 1);
+          }
       }
-    }
   }
   return searchInputs
 }
 
 module.exports = parseSearchInput
+
+</script>
+</body>
+</html>

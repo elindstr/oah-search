@@ -30,10 +30,10 @@ async function search (socket, query) {
 
   // select folders
   const directoryPaths = []
-  query.rifChecked ? directoryPaths.push('public/CPC/txt/') : null
-  query.cpcChecked ? directoryPaths.push('public/RIF/txt/'): null
-  query.mirsChecked ? directoryPaths.push('public/MIRS/txt/'): null
-  query.ctcChecked ? directoryPaths.push('public/CTC/txt/'): null
+  if (query.rifChecked) { directoryPaths.push('public/CPC/txt/') }
+  if (query.cpcChecked) { directoryPaths.push('public/RIF/txt/') }
+  if (query.mirsChecked) { directoryPaths.push('public/MIRS/txt/') }
+  if (query.ctcChecked) { directoryPaths.push('public/CTC/txt/') }
   // console.log("directoryPaths:", directoryPaths)
 
   // parse search query
@@ -106,14 +106,13 @@ function searchLogic (content, searchInputs) {
         } else {
           snippetID = content.indexOf(currentANDItem)
         }
-      }
 
       // proximity array: [n, term1, term2]
-      else if (typeof searchInputs[ORList][ANDItem] === 'object') {
+      } else if (typeof searchInputs[ORList][ANDItem] === 'object') {
         const n = searchInputs[ORList][ANDItem][0]
         const t1 = searchInputs[ORList][ANDItem][1]
         const t2 = searchInputs[ORList][ANDItem][2]
-        //console.log('120:', n, t1, t2)
+        // console.log('120:', n, t1, t2)
         if (isClose(n, t1, t2, content) === false) {
           hasAllAnds = false
           break
