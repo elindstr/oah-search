@@ -34,7 +34,7 @@ async function search (socket, query) {
   if (query.cpcChecked) { directoryPaths.push('public/RIF/txt/') }
   if (query.mirsChecked) { directoryPaths.push('public/MIRS/txt/') }
   if (query.ctcChecked) { directoryPaths.push('public/CTC/txt/') }
-  // console.log("directoryPaths:", directoryPaths)
+  console.log('directoryPaths:', directoryPaths)
 
   // parse search query
   const searchInputs = parseSearchInput(query.searchInput)
@@ -57,6 +57,8 @@ async function getResults (directoryPaths, searchInputs) {
       // read files
       const filePath = directoryPath + files[f]
       let content = await fs.readFile(filePath, 'utf8')
+
+      const contentNormalCase = content
       content = content.toUpperCase()
 
       // use parsed searchInputs to decide whether file is a hit; if hit return content-index location of first hit for use by getSnippet
@@ -74,7 +76,7 @@ async function getResults (directoryPaths, searchInputs) {
           fileName,
           pdfLink,
           type,
-          snippet: getSnippet(content, snippetID),
+          snippet: getSnippet(contentNormalCase, snippetID),
           caseNo: path.basename(files[f]).replace('.txt', ''),
           caseName: getCaseName(content, type)
         })
@@ -161,8 +163,8 @@ function isClose (n, t1, t2, content) {
 
 function getSnippet (content, snippetID) {
   const searchIndex = snippetID
-  const snippetStart = Math.max(0, searchIndex - 25)
-  const snippetEnd = Math.min(content.length, searchIndex + 50)
+  const snippetStart = Math.max(0, searchIndex - 40)
+  const snippetEnd = Math.min(content.length, searchIndex + 120)
   let snippet = content.substring(snippetStart, snippetEnd)
   snippet = snippet.replace(/\n/g, '')
   return snippet
