@@ -30,8 +30,8 @@ async function search (socket, query) {
 
   // select folders
   const directoryPaths = []
-  if (query.rifChecked) { directoryPaths.push('public/CPC/txt/') }
-  if (query.cpcChecked) { directoryPaths.push('public/RIF/txt/') }
+  if (query.rifChecked) { directoryPaths.push('public/RIF/txt/') }
+  if (query.cpcChecked) { directoryPaths.push('public/CPC/txt/') }
   if (query.mirsChecked) { directoryPaths.push('public/MIRS/txt/') }
   if (query.ctcChecked) { directoryPaths.push('public/CTC/txt/') }
   console.log('directoryPaths:', directoryPaths)
@@ -78,7 +78,7 @@ async function getResults (directoryPaths, searchInputs) {
           type,
           snippet: getSnippet(contentNormalCase, snippetID),
           caseNo: path.basename(files[f]).replace('.txt', ''),
-          caseName: getCaseName(contentNormalCase, type)
+          caseName: getCaseName(contentNormalCase, type, fileName)
         })
       }
     }
@@ -170,10 +170,10 @@ function getSnippet (content, snippetID) {
   return snippet
 }
 
-function getCaseName (content, type) {
+function getCaseName (content, type, fileName) {
   let caseName = ''
   let Teacher = ''
-  const Agency = ''
+  let Agency = ''
 
   // clean up special characters (except '.' and ',') and break into words
   content = content.replace(/[!@#$%^&*()_+\=\[\]{};':"\\|<>\/?]/g, '')
@@ -263,11 +263,11 @@ function getCaseName (content, type) {
     // --- MIRS: FIND AGENCY --->
 
     // locate County Office of "Education" or School "District"
-    let Agency = ''
+    Agency = ''
     let AgencyEnd = 7
     for (let i = 0; i < 100; i++) {
-      console.log("269", i, words[i].replace(',','').trim())
-      if ((words[i].replace(',','').trim() === 'DISTRICT') || (words[i].replace(',','').trim() === 'EDUCATION')) {
+      console.log('269', i, words[i].replace(',', '').trim())
+      if ((words[i].replace(',', '').trim() === 'DISTRICT') || (words[i].replace(',', '').trim() === 'EDUCATION')) {
         AgencyEnd = i
         break
       }
@@ -275,14 +275,14 @@ function getCaseName (content, type) {
     let AgencyBegin = AgencyEnd - 7
     // go backwards and locate first not all CAP
     for (let j = AgencyEnd; j > AgencyEnd - 7; j--) {
-      console.log("277", j, words[j])
+      console.log('277', j, words[j])
       if (words[j] != words[j].toUpperCase()) {
-        AgencyBegin = j+1
+        AgencyBegin = j + 1
         break
       }
     }
 
-    // build agency name 
+    // build agency name
     Agency = ''
     if (AgencyEnd !== -1) {
       Agency = words[AgencyBegin]
@@ -294,6 +294,99 @@ function getCaseName (content, type) {
           Agency += ' ' + words[i]
         }
       }
+    }
+
+    // done
+    caseName = `${Teacher} / ${Agency}`
+  } else if (type === 'CPC') {
+    // e.g.:
+    // BEFORE THE COMMISSION ON PROFESSIONAL COMPETENCE
+    // SAN JUAN UNIFIED SCHOOL DISTRICT
+    // STATE OF CALIFORNIA
+    // In the Matter of:
+    // DANIEL WESTOVER,
+    // A Permanent Certificated Employee,
+    // OAH No. 2008100579
+
+    // --- CPC: FIND TEACHER --->
+
+    // locate index of "BEFORE"
+    const currentIndex = words.indexOf('BEFORE')
+    let nextIndex = 0
+
+    // locate index of the first non-all CAP word (ie "In the Matter..")
+    for (let i = currentIndex; i < words.length; i++) {
+      if (words[i]) {
+        if (words[i] !== words[i].toUpperCase()) {
+          nextIndex = i
+          break
+        }
+      }
+    }
+
+    // locate index of the first CAP word (Teacher)
+    let TeacherBegin = -1
+    for (let i = nextIndex + 1; i < words.length; i++) {
+      if ((words[i] !== 'OAH') &&
+          (words[i] !== 'Case') &&
+          (words[i] !== 'No.') &&
+          (isNaN(words[i]))) {
+        if ((words[i].length > 1) &&
+            (words[i][1] !== words[i][1].toLowerCase())) {
+          TeacherBegin = i
+          break
+        }
+      }
+    }
+
+    // locate index of the first non-all CAP word (end of teacher)
+    Teacher = words[TeacherBegin]
+    for (let i = TeacherBegin + 1; i < TeacherBegin + 4; i++) {
+      console.log('342:', i, words[i], fileName)
+      console.log('346:', words[i], words[i+1], words[i+2])
+
+      try {
+        // if not a letter
+        if (/^[a-zA-Z]$/.test(words[i][0]) == false) {
+          console.log("349", words[i])
+          break
+        }
+
+        // if comma
+        else if (words[i].indexOf(',') > 0) {
+          console.log("355", words[i])
+          Teacher = Teacher + ' ' + words[i].split(',')[0]
+          break
+        }
+
+        // otherwise; if not upper case
+        else if (words[i][1] !== words[i][1].toUpperCase()) {
+          console.log("361", words[i])
+          break
+        }
+
+        else {
+          console.log("367", words[i])
+          Teacher = Teacher + ' ' + words[i]
+        }
+      }
+      catch {
+        console.log("374:")
+      }
+    }
+
+    // --- CPC: AGENCY --->
+    Agency = ''
+    for (let i = 0; i < 20; i++) {
+      Agency = Agency + ' ' + words[i]
+      if ((words[i].replace(',', '').trim() === 'DISTRICT') || (words[i].replace(',', '').trim() === 'EDUCATION') || (words[i].replace(',', '').trim() === 'CALIFORNIA')) {
+        AgencyEnd = i
+        break
+      }
+    }
+    if (Agency.includes('COMPETENCE')) {
+      Agency = Agency.split('COMPETENCE')[1]
+      Agency = Agency.replace('OF THE', '')
     }
 
     // done
