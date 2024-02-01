@@ -30,9 +30,9 @@ async function search (socket, query) {
 
   // select folders
   const directoryPaths = []
-  if (query.rifChecked) { directoryPaths.push('public/RIF/txt/') }
   if (query.cpcChecked) { directoryPaths.push('public/CPC/txt/') }
   if (query.mirsChecked) { directoryPaths.push('public/MIRS/txt/') }
+  if (query.rifChecked) { directoryPaths.push('public/RIF/txt/') }
   if (query.ctcChecked) { directoryPaths.push('public/CTC/txt/') }
   console.log('directoryPaths:', directoryPaths)
 

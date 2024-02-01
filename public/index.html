@@ -19,16 +19,16 @@
         <button id="searchButton">Search</button>
         <br>
 
-        <input type="checkbox" id="rifChecked" checked>
-        <label for="rifChecked">RIF Decisions</label>
-        <br>
-
         <input type="checkbox" id="cpcChecked" checked>
         <label for="cpcChecked">CPC Decisions</label>
         <br>
 
         <input type="checkbox" id="mirsChecked" checked>
         <label for="mirsChecked">MIRS Orders</label>
+        <br>
+
+        <input type="checkbox" id="rifChecked" checked>
+        <label for="rifChecked">RIF Decisions</label>
         <br>
 
         <input type="checkbox" id="ctcChecked" checked>
@@ -45,12 +45,10 @@
     
     <p>Sources: RIF (2004-2023), CPC (2010-2023), MIRS (2018-2023), CTC (Sacramento OAH, 2020-2023).<br><br>
     Available Commands:<br>
-    &#8226 AND (search assumes an AND connector for spaces)<br>
+    &#8226 AND<br>
     &#8226 OR<br>
-    &#8226 Quotations for literals<br>
-    &#8226 /n (<i>n words apart</i>)<br>
-    Unconnected terms are assumed to be connected by AND; use an explicit OR if that is desired.
-    Parenthetical and nested conditional are not supported. 
+    &#8226 "literals" (search assumes unconnected terms are literals)<br>
+    &#8226 /n (n words apart)<br>
     </p>
 
     <script src="/socket.io/socket.io.js"></script>
