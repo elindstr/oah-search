@@ -8,9 +8,9 @@ const path = require('path')
 app.use(express.static('public'))
 const parseSearchInput = require('./parser')
 
-http.listen(port, () => {
-  console.log(`Server running at http://localhost:${port}/`)
-})
+http.listen(port, '0.0.0.0', () => {
+  console.log(`Server running at http://0.0.0.0:${port}/`);
+});
 
 io.on('connection', (socket) => {
   console.log('a user connected')
