@@ -1,4 +1,11 @@
-body {
+body, input, button, label {
+    font-size: 1.2em;
+}
+h1 {
+    margin-bottom: 5px;
+}
+#searchInput {
+    width: 300px;
 }
 .result {
     font-family: Helvetica, Arial, sans-serif;
@@ -6,5 +13,11 @@ body {
     padding: 2px;
     border: 1px solid black;
     border-radius: 3px;
-    background-color: antiquewhite;
+    background-color: rgb(246, 235, 222);
+}
+ul, li {
+    margin: 0;
+}
+ul {
+    margin-bottom: 5px;
 }

@@ -1,5 +1,18 @@
 const socket = io()
 
+$(function () {
+  // get check boxes from localStorage
+  const cpcChecked = localStorage.getItem('cpcChecked') === 'true'
+  const mirsChecked = localStorage.getItem('mirsChecked') === 'true'
+  const rifChecked = localStorage.getItem('rifChecked') === 'true'
+  const ctcChecked = localStorage.getItem('ctcChecked') === 'true'
+
+  document.getElementById('cpcChecked').checked = cpcChecked
+  document.getElementById('mirsChecked').checked = mirsChecked
+  document.getElementById('rifChecked').checked = rifChecked
+  document.getElementById('ctcChecked').checked = ctcChecked
+})
+
 document.getElementById('searchButton').addEventListener('click', function (event) {
   event.preventDefault()
 
@@ -18,6 +31,16 @@ document.getElementById('searchButton').addEventListener('click', function (even
   }
   // console.log(query)
   socket.emit('searchInput', query)
+
+  // display loading message
+  $('#statusDiv').text('Fetching results...')
+  $('#outputDiv').empty()
+
+  // save check boxes to localStorage
+  localStorage.setItem('cpcChecked', cpcChecked)
+  localStorage.setItem('mirsChecked', mirsChecked)
+  localStorage.setItem('rifChecked', rifChecked)
+  localStorage.setItem('ctcChecked', ctcChecked)
 })
 
 // server data:
@@ -29,11 +52,11 @@ document.getElementById('searchButton').addEventListener('click', function (even
 //   caseName: getCaseName(content)
 socket.on('results', (data) => {
   // console.log(data)
-  $('#outputDiv').empty()
   $('#statusDiv').empty()
+  $('#outputDiv').empty()
 
   if (data) {
-    $('#outputDiv').append(`<p>Found ${data.length} results:</p>`)
+    $('#statusDiv').append(`<p>Found ${data.length} results:</p>`)
 
     data.forEach(result => {
       // Create elements for the result
@@ -51,7 +74,7 @@ socket.on('results', (data) => {
         .append(snippetDiv)
 
       // Append the result div to the statusDiv
-      $('#statusDiv').append(resultDiv)
+      $('#outputDiv').append(resultDiv)
     })
   }
 })

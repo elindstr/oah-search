@@ -15,7 +15,7 @@
 
     <h1>OAH Teacher Case Search</h1>      
     <form>
-        <input type = "text" id="searchInput" size="100" />
+        <input type = "text" id="searchInput"/>
         <button id="searchButton">Search</button>
         <br>
 
@@ -36,20 +36,29 @@
     </form>
 
     <hr>
-    <div id="outputDiv"></div>
     <div id="statusDiv"></div>
+    <div id="outputDiv"></div>
     <br>
     <br>
     <hr>
     
+    <footer>
+        <strong>Sources:</strong>
+        <ul>
+            <li>RIF: 2004 - 2023</li>
+            <li>CPC: 2010 - 2023</li>
+            <li>MIRS: 2018 - 2023</li>
+            <li>CTC (Sacramento Region only): 2020 - 2023</li>
+        </ul>
     
-    <p>Sources: RIF (2004-2023), CPC (2010-2023), MIRS (2018-2023), CTC (Sacramento OAH, 2020-2023).<br><br>
-    Available Commands:<br>
-    &#8226 AND<br>
-    &#8226 OR<br>
-    &#8226 "literals" (search assumes unconnected terms are literals)<br>
-    &#8226 /n (n words apart)<br>
-    </p>
+        <strong>Available Search Connectors:</strong>
+        <ul>
+            <li><strong>and</strong></li>
+            <li><strong>or</strong></li>
+            <li><strong>"literal"</strong></li>
+            <li><strong>/n</strong>: terms within "n" words of each other</li>
+        </ul>
+    </footer>
 
     <script src="/socket.io/socket.io.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

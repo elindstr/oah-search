@@ -266,10 +266,9 @@ function getCaseName (content, type, fileName) {
       if (words[i].indexOf(',') > 0) {
         TeacherEnd = i
         break
-      }
 
       // otherwise; if not upper case
-      else if (words[i].length > 1 && words[i][1] !== words[i][1].toUpperCase()) {
+      } else if (words[i].length > 1 && words[i][1] !== words[i][1].toUpperCase()) {
         TeacherEnd = i
         break
       }
@@ -304,7 +303,7 @@ function getCaseName (content, type, fileName) {
     let AgencyBegin = AgencyEnd - 7
     // go backwards and locate first not all CAP
     for (let j = AgencyEnd; j > AgencyEnd - 7; j--) {
-      if (words[j] != words[j].toUpperCase()) {
+      if (words[j] !== words[j].toUpperCase()) {
         AgencyBegin = j + 1
         break
       }
