@@ -3,9 +3,13 @@ const socket = io()
 $(function () {
   // get check boxes from localStorage
   const cpcChecked = localStorage.getItem('cpcChecked') === 'true'
+  cpcChecked !== null ? cpcChecked === 'true' : true
   const mirsChecked = localStorage.getItem('mirsChecked') === 'true'
+  mirsChecked !== null ? mirsChecked === 'true' : true
   const rifChecked = localStorage.getItem('rifChecked') === 'true'
+  rifChecked !== null ? rifChecked === 'true' : true
   const ctcChecked = localStorage.getItem('ctcChecked') === 'true'
+  ctcChecked !== null ? ctcChecked === 'true' : true
 
   document.getElementById('cpcChecked').checked = cpcChecked
   document.getElementById('mirsChecked').checked = mirsChecked
