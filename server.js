@@ -1,19 +1,20 @@
 const express = require('express')
 const app = express()
-const port = 80
 const http = require('http').createServer(app)
-const io = require('socket.io')(http)
+
 const fs = require('fs').promises
 const path = require('path')
-app.use(express.static('public'))
 const parseSearchInput = require('./parser')
 
+app.use(express.static('public'))
+const port = 80
 http.listen(port, '0.0.0.0', () => {
-  console.log(`Server running at http://0.0.0.0:${port}/`);
-});
+  console.log(`Server running at http://0.0.0.0:${port}/`)
+})
 
+const io = require('socket.io')(http)
 io.on('connection', (socket) => {
-  console.log('a user connected')
+  console.log('a user connected', Date.now())
   socket.on('disconnect', () => {
     console.log('user disconnected')
   })
@@ -26,7 +27,17 @@ io.on('connection', (socket) => {
 
 async function search (socket, query) {
   console.log('running search')
-  // log user and query
+  const startDt = Date.now()
+
+  // parse search query
+  let searchInputsErr = ''
+  let searchInputs = ''
+  try {
+    searchInputs = parseSearchInput(query.searchInput)
+    console.log(searchInputs)
+  } catch (err) {
+    searchInputsErr = err
+  }
 
   // select folders
   const directoryPaths = []
@@ -36,15 +47,32 @@ async function search (socket, query) {
   if (query.ctcChecked) { directoryPaths.push('public/CTC/txt/') }
   console.log('directoryPaths:', directoryPaths)
 
-  // parse search query
-  const searchInputs = parseSearchInput(query.searchInput)
-  console.log(searchInputs)
-
   // results container
-  const results = await getResults(directoryPaths, searchInputs)
-
+  let results
+  let resultsErr
+  try {
+    results = await getResults(directoryPaths, searchInputs)
+  } catch (err) {
+    resultsErr = err
+  }
   // return results to Client
   socket.emit('results', results)
+
+  // log user and query
+  const logQuery = {
+    dt: Date.now(),
+    lag: Date.now() - startDt,
+    query,
+    searchInputs,
+    results: results.length,
+    ip: socket.request.connection.remoteAddress,
+    socketId: socket.id,
+    userAgent: socket.request.headers['user-agent'],
+    referer: socket.request.headers.referer,
+    searchInputsErr,
+    resultsErr
+  }
+  console.log(logQuery)
 }
 
 async function getResults (directoryPaths, searchInputs) {
@@ -266,7 +294,7 @@ function getCaseName (content, type, fileName) {
     Agency = ''
     let AgencyEnd = 7
     for (let i = 0; i < 100; i++) {
-      console.log('269', i, words[i].replace(',', '').trim())
+      // console.log('269', i, words[i].replace(',', '').trim())
       if ((words[i].replace(',', '').trim() === 'DISTRICT') || (words[i].replace(',', '').trim() === 'EDUCATION')) {
         AgencyEnd = i
         break
@@ -275,7 +303,6 @@ function getCaseName (content, type, fileName) {
     let AgencyBegin = AgencyEnd - 7
     // go backwards and locate first not all CAP
     for (let j = AgencyEnd; j > AgencyEnd - 7; j--) {
-      console.log('277', j, words[j])
       if (words[j] != words[j].toUpperCase()) {
         AgencyBegin = j + 1
         break
@@ -342,36 +369,26 @@ function getCaseName (content, type, fileName) {
     // locate index of the first non-all CAP word (end of teacher)
     Teacher = words[TeacherBegin]
     for (let i = TeacherBegin + 1; i < TeacherBegin + 4; i++) {
-      console.log('342:', i, words[i], fileName)
-      console.log('346:', words[i], words[i+1], words[i+2])
-
       try {
         // if not a letter
         if (/^[a-zA-Z]$/.test(words[i][0]) == false) {
-          console.log("349", words[i])
           break
         }
 
         // if comma
         else if (words[i].indexOf(',') > 0) {
-          console.log("355", words[i])
           Teacher = Teacher + ' ' + words[i].split(',')[0]
           break
         }
 
         // otherwise; if not upper case
         else if (words[i][1] !== words[i][1].toUpperCase()) {
-          console.log("361", words[i])
           break
-        }
-
-        else {
-          console.log("367", words[i])
+        } else {
           Teacher = Teacher + ' ' + words[i]
         }
-      }
-      catch {
-        console.log("374:")
+      } catch (err) {
+        console.log('374:', err)
       }
     }
 
