@@ -1,17 +1,20 @@
-const express = require('express');
-const app = express();
-const http = require('http').createServer(app);
-const io = require('socket.io')(http);
-const fs = require('fs').promises;
-const path = require('path');
-const parseSearchInput = require('./parser');
+const express = require('express')
+const app = express()
+const http = require('http').createServer(app)
+const io = require('socket.io')(http)
+const fs = require('fs').promises
+const path = require('path')
+const parseSearchInput = require('./parser')
 
-app.use(express.static('public'));
+app.use(express.static('public'))
 
+// // For direct http exposure
 // const port = 80
 // http.listen(port, '0.0.0.0', () => {
 //   // console.log(`Server running at http://0.0.0.0:${port}/`)
 // })
+
+// For production deployment using nginx forwarding
 const PORT = process.env.PORT || 3000
 http.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`)
@@ -19,14 +22,14 @@ http.listen(PORT, () => {
 
 // redirect /oah to the root
 app.get('/oah', (req, res) => {
-  res.redirect(301, '/');
-});
+  res.redirect(301, '/')
+})
 
 // init socket.io
 io.on('connection', (socket) => {
-  // console.log('a user connected', Date.now())
+  console.log(Date.now(), 'a user connected:', socket.request.connection.remoteAddress)
   socket.on('disconnect', () => {
-    // console.log('user disconnected')
+    console.log(Date.now(), 'a user disconnected:', socket.request.connection.remoteAddress)
   })
 
   socket.on('searchInput', (query) => {
