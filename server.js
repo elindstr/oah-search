@@ -8,14 +8,14 @@ const parseSearchInput = require('./parser');
 
 app.use(express.static('public'));
 
-const port = 80
-http.listen(port, '0.0.0.0', () => {
-  // console.log(`Server running at http://0.0.0.0:${port}/`)
-})
-// const PORT = process.env.PORT || 3000
-// http.listen(PORT, () => {
-//   console.log(`Server running on port ${PORT}`)
+// const port = 80
+// http.listen(port, '0.0.0.0', () => {
+//   // console.log(`Server running at http://0.0.0.0:${port}/`)
 // })
+const PORT = process.env.PORT || 3000
+http.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`)
+})
 
 // redirect /oah to the root
 app.get('/oah', (req, res) => {
