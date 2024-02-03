@@ -1,19 +1,19 @@
-const express = require('express')
-const app = express()
-const http = require('http').createServer(app)
+const express = require('express');
+const app = express();
+const http = require('http').createServer(app);
+const io = require('socket.io')(http);
+const fs = require('fs').promises;
+const path = require('path');
+const parseSearchInput = require('./parser');
 
-const fs = require('fs').promises
-const path = require('path')
-const parseSearchInput = require('./parser')
+app.use(express.static('public'));
 
-app.use(express.static('public'))
 // const port = 80
 // http.listen(port, '0.0.0.0', () => {
 //   // console.log(`Server running at http://0.0.0.0:${port}/`)
 // })
-
 const PORT = process.env.PORT || 3000
-app.listen(PORT, () => {
+http.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`)
 })
 
@@ -23,7 +23,6 @@ app.get('/oah', (req, res) => {
 });
 
 // init socket.io
-const io = require('socket.io')(http)
 io.on('connection', (socket) => {
   // console.log('a user connected', Date.now())
   socket.on('disconnect', () => {
