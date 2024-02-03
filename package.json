@@ -1,17 +1,18 @@
 {
   "name": "oah-search",
   "version": "1.0.0",
-  "description": "",
+  "description": "a node.js search engine for California administrative hearing decisions regarding teachers",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/elindstr/oah-search.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "https://github.com/elindstr",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/elindstr/oah-search/issues"
   },
@@ -27,5 +28,9 @@
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-n": "^16.6.2",
     "eslint-plugin-promise": "^6.1.1"
-  }
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": ["nodejs", "express", "websockets", "search-engine"]
 }
