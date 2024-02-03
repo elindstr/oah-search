@@ -9,14 +9,14 @@ const parseSearchInput = require('./parser')
 app.use(express.static('public'))
 const port = 80
 http.listen(port, '0.0.0.0', () => {
-  console.log(`Server running at http://0.0.0.0:${port}/`)
+  // console.log(`Server running at http://0.0.0.0:${port}/`)
 })
 
 const io = require('socket.io')(http)
 io.on('connection', (socket) => {
-  console.log('a user connected', Date.now())
+  // console.log('a user connected', Date.now())
   socket.on('disconnect', () => {
-    console.log('user disconnected')
+    // console.log('user disconnected')
   })
 
   socket.on('searchInput', (query) => {
@@ -26,7 +26,7 @@ io.on('connection', (socket) => {
 })
 
 async function search (socket, query) {
-  console.log('running search')
+  // console.log('running search')
   const startDt = Date.now()
 
   // parse search query
@@ -34,7 +34,7 @@ async function search (socket, query) {
   let searchInputs = ''
   try {
     searchInputs = parseSearchInput(query.searchInput)
-    console.log(searchInputs)
+    // console.log(searchInputs)
   } catch (err) {
     searchInputsErr = err
   }
@@ -45,7 +45,7 @@ async function search (socket, query) {
   if (query.mirsChecked) { directoryPaths.push('public/MIRS/txt/') }
   if (query.rifChecked) { directoryPaths.push('public/RIF/txt/') }
   if (query.ctcChecked) { directoryPaths.push('public/CTC/txt/') }
-  console.log('directoryPaths:', directoryPaths)
+  // console.log('directoryPaths:', directoryPaths)
 
   // results container
   let results = ''
@@ -373,16 +373,14 @@ function getCaseName (content, type, fileName) {
         // if not a letter
         if (/^[a-zA-Z]$/.test(words[i][0]) === false) {
           break
-        }
 
         // if comma
-        else if (words[i].indexOf(',') > 0) {
+        } else if (words[i].indexOf(',') > 0) {
           Teacher = Teacher + ' ' + words[i].split(',')[0]
           break
-        }
 
         // otherwise; if not upper case
-        else if (words[i][1] !== words[i][1].toUpperCase()) {
+        } else if (words[i][1] !== words[i][1].toUpperCase()) {
           break
         } else {
           Teacher = Teacher + ' ' + words[i]
