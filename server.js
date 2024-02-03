@@ -12,6 +12,12 @@ http.listen(port, '0.0.0.0', () => {
   // console.log(`Server running at http://0.0.0.0:${port}/`)
 })
 
+// redirect /oah to the root
+app.get('/oah', (req, res) => {
+  res.redirect(301, '/');
+});
+
+// init socket.io
 const io = require('socket.io')(http)
 io.on('connection', (socket) => {
   // console.log('a user connected', Date.now())
