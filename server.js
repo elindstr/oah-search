@@ -48,13 +48,14 @@ async function search (socket, query) {
   console.log('directoryPaths:', directoryPaths)
 
   // results container
-  let results
-  let resultsErr
+  let results = ''
+  let resultsErr = ''
   try {
     results = await getResults(directoryPaths, searchInputs)
   } catch (err) {
     resultsErr = err
   }
+
   // return results to Client
   socket.emit('results', results)
 
@@ -237,8 +238,8 @@ function getCaseName (content, type, fileName) {
     let TeacherBegin = -1
     for (let i = currentIndex + 1; i < words.length; i++) {
       if (
-        (words[i] != 'OAH') &&
-      (words[i] != 'No.') &&
+        (words[i] !== 'OAH') &&
+      (words[i] !== 'No.') &&
       (isNaN(words[i].charAt(0))) &&
       (words[i] !== 'ORDER') &&
       (words[i] !== 'GRANTING') &&
@@ -371,7 +372,7 @@ function getCaseName (content, type, fileName) {
     for (let i = TeacherBegin + 1; i < TeacherBegin + 4; i++) {
       try {
         // if not a letter
-        if (/^[a-zA-Z]$/.test(words[i][0]) == false) {
+        if (/^[a-zA-Z]$/.test(words[i][0]) === false) {
           break
         }
 
@@ -397,7 +398,6 @@ function getCaseName (content, type, fileName) {
     for (let i = 0; i < 20; i++) {
       Agency = Agency + ' ' + words[i]
       if ((words[i].replace(',', '').trim() === 'DISTRICT') || (words[i].replace(',', '').trim() === 'EDUCATION') || (words[i].replace(',', '').trim() === 'CALIFORNIA')) {
-        AgencyEnd = i
         break
       }
     }
