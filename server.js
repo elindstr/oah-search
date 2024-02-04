@@ -65,6 +65,20 @@ async function search (socket, query) {
   let resultsErr = ''
   try {
     results = await getResults(directoryPaths, searchInputs)
+
+    // Sort results
+    results.sort((a, b) => {
+      // Adjust case number if it's 11 digits long
+      const caseNoA = a.caseNo.length === 11 ? a.caseNo.slice(0, 10) : a.caseNo
+      const caseNoB = b.caseNo.length === 11 ? b.caseNo.slice(0, 10) : b.caseNo
+
+      // Convert to integers for comparison
+      const numA = parseInt(caseNoA, 10)
+      const numB = parseInt(caseNoB, 10)
+
+      return numB - numA
+    })
+
   } catch (err) {
     resultsErr = err
   }
