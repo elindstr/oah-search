@@ -1,20 +1,16 @@
 const socket = io()
 
 $(function () {
-  // get check boxes from localStorage
-  const cpcChecked = localStorage.getItem('cpcChecked') === 'true'
-  cpcChecked !== null ? cpcChecked === 'true' : true
-  const mirsChecked = localStorage.getItem('mirsChecked') === 'true'
-  mirsChecked !== null ? mirsChecked === 'true' : true
-  const rifChecked = localStorage.getItem('rifChecked') === 'true'
-  rifChecked !== null ? rifChecked === 'true' : true
-  const ctcChecked = localStorage.getItem('ctcChecked') === 'true'
-  ctcChecked !== null ? ctcChecked === 'true' : true
-
-  document.getElementById('cpcChecked').checked = cpcChecked
-  document.getElementById('mirsChecked').checked = mirsChecked
-  document.getElementById('rifChecked').checked = rifChecked
-  document.getElementById('ctcChecked').checked = ctcChecked
+  const directories = ['cpcChecked', 'mirsChecked', 'rifChecked', 'ctcChecked']
+  directories.forEach((id) => {
+    let isChecked = localStorage.getItem(id)
+    if (isChecked === null) { // true by default
+      isChecked = true
+    } else {
+      isChecked = isChecked === 'true' // convert string to bool
+    }
+    document.getElementById(id).checked = isChecked
+  })
 })
 
 document.getElementById('searchButton').addEventListener('click', function (event) {
