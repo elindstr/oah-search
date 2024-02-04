@@ -179,41 +179,39 @@ function searchLogic (content, searchInputs) {
   }
 }
 
-function findAllIndices(content, substring) {
-  const indices = [];
-  const words = content.split(/\s+/); // Split content into words
+function findAllIndices (content, substring) {
+  const indices = []
+  const words = content.split(/\s+/) // Split content into words
 
   for (let i = 0; i < words.length; i++) {
     if (words[i].toUpperCase().includes(substring.toUpperCase())) {
-      indices.push(i); // Save the word index instead of character index
+      indices.push(i) // Save the word index instead of character index
     }
   }
 
-  return indices;
+  return indices
 }
 
-function isClose(n, t1, t2, content) {
-  const words = content.split(/\s+/); // Split content into words
-
-  const indicesT1 = findAllIndices(content, t1);
-  const indicesT2 = findAllIndices(content, t2);
+function isClose (n, t1, t2, content) {
+  const words = content.split(/\s+/)
+  const indicesT1 = findAllIndices(content, t1)
+  const indicesT2 = findAllIndices(content, t2)
 
   for (const indexT1 of indicesT1) {
     for (const indexT2 of indicesT2) {
-      const distance = Math.abs(indexT1 - indexT2) - 1; // Count the number of words between the two terms
+      const distance = Math.abs(indexT1 - indexT2) - 1
       if (distance <= n) {
-        // Find the character position of the word in the original content
-        let charPos = 0;
+        // if it meets the n-word limit, then find the character index for later creating a snippet
+        let charPos = 0
         for (let i = 0; i < indexT1; i++) {
-          charPos += words[i].length + 1; // Include space
+          charPos += words[i].length + 1
         }
-        return charPos;
+        return charPos
       }
     }
   }
-  return false;
+  return false
 }
-
 
 function getSnippet (content, snippetID) {
   const searchIndex = snippetID
