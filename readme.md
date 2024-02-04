@@ -2,9 +2,9 @@
 
 ## Project Overview 
 
-The California Office of Administrative Hearings (OAH) is a quasi-judicial tribunal that conducts formal adjudicatory hearings for thousands of state and local governmental agencies in California. OAH annually issues tens of thousands of decisions. Its decisions are binding on the litigants and can be cited as persuasive precedent by litigants in other cases.
+The California Office of Administrative Hearings (OAH) is a quasi-judicial tribunal that conducts formal adjudicatory hearings for thousands of state and local public agencies in California. OAH annually issues tens of thousands of decisions.
 
-Although its decisions constitute public records accessible to the public under the California Public Records Act (CPRA)[^1], the vast majority of OAH decisions are in reality not publicly accessible because OAH does not publish its decisions.
+Although its decisions constitute public records accessible to the public under the California Public Records Act[^1], the vast majority of OAH decisions are in reality not publicly accessible because OAH does not publish its decisions.
 
 This is a project to make OAH decisions regarding public school teachers accessible online.
 
@@ -16,10 +16,8 @@ Each year I request from OAH, pursuant to the Public Records Act, all decisions 
 
 ## Technical Description
 
-A minimalist front-end interface allows a user to enter a search query with optional filters for CPC, MIRS, RIF, and CTC cases. Terms in a search query may be connected using AND, OR, 'literal', and/or a special proximity connector ('/n') to find terms n words apart.
+A minimalist front-end interface allows the user to enter a search query with optional filters for CPC, MIRS, RIF, and CTC cases. Terms in a search query may be connected using AND, OR, 'literal', and/or a special proximity connector ('/n') to find terms n words apart.
 
-A backend node.js server, using express and socket.io, receives the query, parses the query into searchable logic, iteratively applies the search logic to the selected directories of text files, parses the case name and number from the resulting decisions along with a snippet of the hit, and returns these results to the front-end.
+A backend node.js server using express and socket.io receives the query, parses the query into searchable logic, iteratively applies the search logic to the selected directories of text files, parses the case name and number from the resulting decisions along with a snippet of the hit, and returns these results to the front-end.
 
-The project is currently deployed on a minimalist Ionos virtual machine running an nginx server on Ubuntu: [https://www.ericjlindstrom.com/](https://www.ericjlindstrom.com/).
-
-Pull requests welcomed.
+The project is currently deployed on an economy-class Ionos virtual machine running an nginx server: [www.ericjlindstrom.com](https://www.ericjlindstrom.com/).
