@@ -5,7 +5,15 @@ h1 {
     margin-bottom: 5px;
 }
 #searchInput {
-    width: 300px;
+    width: 275px;
+}
+div {
+    margin: 5px;
+    padding: 0px;
+}
+p {
+    margin: 0px;
+    padding: 0px;
 }
 .result {
     font-family: Helvetica, Arial, sans-serif;
@@ -19,5 +27,5 @@ ul, li {
     margin: 0;
 }
 ul {
-    margin-bottom: 5px;
+    margin-bottom: 6px;
 }
