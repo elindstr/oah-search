@@ -156,6 +156,7 @@ function searchLogic (content, searchInputs) {
         const n = searchInputs[ORList][ANDItem][0]
         const t1 = searchInputs[ORList][ANDItem][1]
         const t2 = searchInputs[ORList][ANDItem][2]
+
         // console.log('120:', n, t1, t2)
         if (isClose(n, t1, t2, content) === false) {
           hasAllAnds = false
@@ -178,30 +179,41 @@ function searchLogic (content, searchInputs) {
   }
 }
 
-function findAllIndices (content, substring) {
-  const indices = []
-  let index = content.indexOf(substring)
-  while (index !== -1) {
-    indices.push(index)
-    index = content.indexOf(substring, index + 1)
+function findAllIndices(content, substring) {
+  const indices = [];
+  const words = content.split(/\s+/); // Split content into words
+
+  for (let i = 0; i < words.length; i++) {
+    if (words[i].toUpperCase().includes(substring.toUpperCase())) {
+      indices.push(i); // Save the word index instead of character index
+    }
   }
-  return indices
+
+  return indices;
 }
 
-function isClose (n, t1, t2, content) {
-  const indicesT1 = findAllIndices(content, t1)
-  const indicesT2 = findAllIndices(content, t2)
+function isClose(n, t1, t2, content) {
+  const words = content.split(/\s+/); // Split content into words
+
+  const indicesT1 = findAllIndices(content, t1);
+  const indicesT2 = findAllIndices(content, t2);
 
   for (const indexT1 of indicesT1) {
     for (const indexT2 of indicesT2) {
-      const distance = Math.abs(indexT1 - indexT2) - Math.min(t1.length, t2.length)
+      const distance = Math.abs(indexT1 - indexT2) - 1; // Count the number of words between the two terms
       if (distance <= n) {
-        return indexT1
+        // Find the character position of the word in the original content
+        let charPos = 0;
+        for (let i = 0; i < indexT1; i++) {
+          charPos += words[i].length + 1; // Include space
+        }
+        return charPos;
       }
     }
   }
-  return false
+  return false;
 }
+
 
 function getSnippet (content, snippetID) {
   const searchIndex = snippetID
