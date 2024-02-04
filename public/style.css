@@ -5,7 +5,11 @@ h1 {
     margin-bottom: 5px;
 }
 #searchInput {
-    width: 275px;
+    width: 260px;
+}
+button {
+
+
 }
 div {
     margin: 5px;
