@@ -38,8 +38,11 @@ document.getElementById('searchButton').addEventListener('click', function (even
 
   // gtag
   gtag('event', 'search', {
-    event_category: 'Search',
-    event_label: searchInput
+    event_query: searchInput,
+    event_cpc: cpcChecked,
+    event_mirs: mirsChecked,
+    event_ctc: rifChecked,
+    event_rif: ctcChecked
   })
 
   // save check boxes to localStorage
