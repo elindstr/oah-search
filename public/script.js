@@ -4,10 +4,10 @@ $(function () {
   const directories = ['cpcChecked', 'mirsChecked', 'rifChecked', 'ctcChecked']
   directories.forEach((id) => {
     let isChecked = localStorage.getItem(id)
-    if (isChecked === null) { // true by default
+    if (isChecked === null) {
       isChecked = true
     } else {
-      isChecked = isChecked === 'true' // convert string to bool
+      isChecked = isChecked === 'true'
     }
     document.getElementById(id).checked = isChecked
   })
