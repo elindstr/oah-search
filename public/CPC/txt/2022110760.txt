@@ -1,0 +1,2537 @@
+BEFORE THE 
+OFFICE OF ADMINISTRATIVE HEARINGS 
+STATE OF CALIFORNIA 
+
+In the Matter of the Appeal from Dismissal by: 
+
+ROY DESMANGLES, JR., Respondent 
+
+OAH No. 2022110760 
+
+DECISION 
+
+Jessica Wall, Administrative Law Judge (ALJ), Office of Administrative Hearings 
+
+(OAH), State of California, heard this matter by videoconference on June 27 through 
+
+30, 2023, from Sacramento, California. 
+
+Monica M. Espejo and Eileen O’Hare-Anderson, Attorneys at Liebert Cassidy 
+
+Whitmore, represented complainant San Joaquin Delta Community College District 
+
+(District). 
+
+Gary G. Kreep, Robroy R. Fawcett, and Kenneth Ely, Attorneys at Law, 
+
+represented respondent Roy Desmangles, Jr., who was present throughout the 
+
+hearing. 
+
+The record remained open after the hearing’s conclusion for the parties to 
+
+submit written arguments. They did so timely, the record closed, and the matter 
+
+submitted for decision on October 24, 2023. 
+
+FACTUAL FINDINGS 
+
+Jurisdictional Matters 
+
+1. 
+
+The District serves residents of San Joaquin County and other counties 
+
+around the Central Valley. Located in Stockton, California, San Joaquin Delta College 
+
+(Delta College) is the District’s main campus. The District educates approximately 
+
+14,000 students each year, the majority of whom are students of color. 
+
+2. 
+
+The District hired respondent in January 2015 to serve as a full-time 
+
+Counselor for the AFFIRM Program (AFFIRM) at Delta College. AFFIRM is a learning 
+
+community that focuses on increasing the retention and transfer rates for African 
+
+American and Black students. In February 2019, the District’s Board of Trustees (Board) 
+
+approved respondent’s employment as a tenured faculty member. During the relevant 
+
+period, respondent taught a single course in the fall semester titled, “Education and 
+
+Interpersonal Growth.” 
+
+3. 
+
+On March 23, 2022, the District served respondent with a Notice of 
+
+Intended Termination and an unsigned Statement of Charges. The documents 
+
+informed respondent the District was recommending his termination based upon his 
+
+alleged (1) evident unfitness for service; (2) persistent violation of or refusal to obey 
+
+the school laws of the state or reasonable regulations prescribed for the government 
+
+of the community colleges by the governing board of the community college district 
+
+employing him; and (3) willful refusal to perform regular assignments without 
+
+reasonable cause, as prescribed by reasonable rules and regulations of the employing 
+
+district. (Ed. Code, §§ 87732, subds. (d), (f), 87735.) 
+
+2 
+
+Specifically, the Statement of Charges alleged respondent refused to comply 
+
+with the District’s COVID-19 safety protocols. Respondent received a religious 
+
+exemption to the District’s vaccine mandate. The Statement of Charges alleged 
+
+respondent refused to agree to the accommodations offered pursuant to that 
+
+exemption (wear a face covering on campus and test for COVID-19) or provide 
+
+clarification about his objections to those accommodations in the interactive process. 
+
+The District alleged these refusals meant the District could not depend on respondent 
+
+to provide a safe environment for its diverse student body, including the vulnerable 
+
+students in AFFIRM. 
+
+4. 
+
+On June 21, 2022, Lisa Aguilera Lawrenson, Ph.D., Superintendent and 
+
+President of Delta College, signed the Statement of Charges and Recommendation for 
+
+Termination. The Board subsequently voted to terminate respondent’s employment on 
+
+July 5, 2022. Respondent timely requested a hearing under Education Code section 
+
+87673 and Government Code section 11506. This hearing followed. 
+
+Collective Bargaining Agreement 
+
+5. 
+
+Respondent’s position was subject to the collective bargaining 
+
+agreement (CBA) between the District and the San Joaquin Delta College Teachers’ 
+
+Association (CTA). The CBA was a bilateral and binding agreement between the 
+
+parties, which they supplemented with memoranda of understanding (MOUs). MOUs 
+
+addressed significant issues that arose outside of the contract negotiation period and 
+
+served as addenda to the CBA. 
+
+6. 
+
+The District and CTA negotiated a CBA for the period of July 1, 2021, 
+
+through June 30, 2024. Under Article II of the CBA, the CTA was “the exclusive 
+
+representative of all full-time and adjunct faculty of the District, including librarians 
+
+3 
+
+and counselors, … for the purposes of meeting and negotiating.” The CBA provides 
+
+that any item negotiated and agreed to by both the District and the CTA becomes a 
+
+part of the CBA. (CBA, § 1.4.) 
+
+7. 
+
+The CBA requires the District to evaluate regular faculty members at least 
+
+once every three years. (CBA, § 16.1.4.2.) If a faculty member is teaching an online 
+
+course, the District observes “any communication platform such as live chat rooms, 
+
+listservs, discussion forums and class and/or service materials excluding email.” (CBA, 
+
+§ 16.1.4.2.3.) If a faculty member’s evaluation indicates unsatisfactory performance in 
+
+any area, “a performance improvement plan is required.” (CBA, § 16.1.5.) 
+
+8. 
+
+“All faculty are expected to fulfill their professional obligations and to 
+
+conduct themselves in a manner which is appropriate to an academic environment, is 
+
+aligned with the District’s Mission Statement, and supports student success.” (CBA, 
+
+§ 29.1.) When a faculty member does not meet professional expectations or does not 
+
+follow the District’s policies, procedures, or obligations under the CBA, there is a 
+
+progressive discipline process. (CBA, § 29.3.) Progressive discipline applies unless the 
+
+Vice President of Human Resources and Risk Management determines that skipping 
+
+the steps is warranted under Education Code section 87732. The progressive discipline 
+
+steps are as follows: (1) verbal discussion; (2) conference memorandum; (3) letter of 
+
+reprimand; (4) formal reprimand letter; and (5) notice of intention to suspend, place on 
+
+leave, reassign, or dismiss. (CBA, § 29.4.) 
+
+COVID-19 VACCINE MOU 
+
+9. 
+
+In August 2021, the Board voted to institute a COVID-19 vaccine 
+
+mandate as part of the District’s return-to-campus efforts. In the subsequent months, 
+
+the District and the CTA drafted an MOU on the COVID-19 vaccine mandate (Vaccine 
+
+4 
+
+MOU) to effectuate the Board’s vote. The Vaccine MOU was a bilateral agreement, 
+
+executed by both the District and the CTA, which took effect October 11, 2021. 
+
+10. 
+
+Under the Vaccine MOU, all employees had to be fully vaccinated for 
+
+COVID-19 or apply for a medical or religious exemption by October 15, 2021. 
+
+Employees who were in the process of complying, but had not fully complied by 
+
+October 15, 2021, would receive a warning letter, and then had to test for COVID-19 
+
+twice a week until they provided proof of full vaccination. If that employee failed to 
+
+comply fully by December 17, 2021, the employee would receive a final letter with 
+
+intent to terminate. The District was to “begin the termination process no later than 
+
+December 31, 2021.” The employee would be placed on unpaid status effective 
+
+January 1, 2022, and remain on unpaid status until the termination process concluded. 
+
+11. 
+
+Employees who refused vaccination and did not apply for an exemption 
+
+would receive a warning letter by October 16, 2021. That employee then had until 
+
+December 17, 2021, to comply or be terminated. If at any point that employee refused 
+
+to complete twice weekly COVID-19 testing, the employee would immediately be 
+
+placed on unpaid status pending termination. 
+
+12. 
+
+The Vaccine MOU provided policies for how an employee could request a 
+
+medical or religious exemption to the vaccine mandate. It provided a link to a website 
+
+with the exemption request form and instructions. Exemption requests were due by 
+
+October 15, 2021. Once the employee completed the exemption request, the District 
+
+would contact the employee about “next steps in the interactive process.” 
+
+13. 
+
+If the District denied the exemption request, the employee had to 
+
+immediately comply with the vaccine mandate. Employees who received exemptions 
+
+were ”required to undergo COVID-19 testing twice a week for the indefinite future 
+
+5 
+
+even if they are working remotely.” The testing requirement only applied when the 
+
+employee had an active assignment at the District. Staff did not need to test when 
+
+classes were not in session. 
+
+The 2021–2022 School Year 
+
+14.  During the 2021–2022 school year, Dr. Aguilera Lawrenson was the 
+
+Assistant Superintendent/Vice President of Instruction and Planning. In her role, she 
+
+made recommendations to the Board about termination. She was familiar with 
+
+respondent from their work together on the Black Faculty Equity Task Force. She 
+
+testified at hearing about her recollection of the events in the 2021–2022 school year. 
+
+15. 
+
+Lonita Cordova, Ph.D., has been the Assistant Superintendent/Vice 
+
+President of Student Services at Delta College since March 2021. The Student Services 
+
+Division includes counseling faculty. During the 2021–2022 school year, Delta College 
+
+had 30 counselors, including respondent. Dr. Cordova testified at hearing about 
+
+respondent’s job duties and the District’s COVID-19 safety protocols. 
+
+AFFIRM 
+
+16.  Delta College provided AFFIRM with a center for its learning community 
+
+to gather. The AFFIRM center contained a front desk, a student study area with 
+
+computers, and several offices, including respondent’s. Before the pandemic, the 
+
+AFFIRM center was typically full during its open hours. 
+
+17. 
+
+Respondent’s job was to provide one-on-one counseling to students and 
+
+to teach. His focus was on supporting AFFIRM’s students so they would attend a four-
+
+year university after Delta College. Face-to-face contact was particularly important for 
+
+students in AFFIRM. Like many staff members, respondent worked remotely at the 
+
+6 
+
+start of the pandemic. The District never approved him for permanent remote work. 
+
+Delta College was repopulating during the 2021–2022 school year. Its learning 
+
+communities were open, except AFFIRM. Dr. Cordova was concerned that the AFFIRM 
+
+center remained closed because respondent was still working remotely. 
+
+DELTA COLLEGE’S COVID-19 SAFETY PROTOCOLS 
+
+18.  Dr. Cordova was on the District’s COVID-19 Task Force. In setting safety 
+
+protocols, the District reviewed state and local policies and aligned with the most 
+
+conservative ones to protect its students and staff. For guidance on testing and 
+
+masking, the District followed recommendations from the California Department of 
+
+Public Health (CDPH), the California Division of Occupational Safety and Health 
+
+(Cal/OSHA), and the San Joaquin County Health Department. 
+
+19. 
+
+San Joaquin County required face masks for in-person interactions. Staff 
+
+and students were required to wear face masks while interacting with others on 
+
+campus. Masks were not required when working from home. 
+
+20. 
+
+Local school districts in San Joaquin County imposed vaccine mandates. 
+
+The District worked to mirror those efforts. All employees were subject to the vaccine 
+
+mandate unless they received exemptions. This requirement reflected the evolving 
+
+nature of when different departments returned to campus. Some fields, like nursing 
+
+and transportation, had continued in person throughout the pandemic. Other 
+
+departments had worked remotely and were transitioning back to in-person work. In 
+
+November 2021, the District notified counselors that they were to work from campus 
+
+in person once per week, beginning in January 2022. Their in-person days were 
+
+staggered to limit exposure. 
+
+7 
+
+The Vaccine Exemption Process 
+
+21.  Dana Kosaka has worked for the District for 23 years. She is a Human 
+
+Resources Manager. She was involved in the District’s handling of medical and 
+
+religious exemption requests and tracked COVID-19 testing compliance. Ms. Kosaka 
+
+testified at the hearing about her recollection of events during the 2021–2022 school 
+
+year. 
+
+22. 
+
+The District expected many exemption requests, so it retained Shaw 
+
+Consulting (Shaw) to assist with the exemption process. The process followed a set 
+
+structure with uniform documentation to ensure staff were treated equally. The first 
+
+step was to go to the exemption website and fill out a form, indicating the intent to 
+
+apply for an exemption. For religious exemptions, the form was titled “Religious 
+
+Exemption Request Form for COVID-19 Vaccination” (religious exemption form). The 
+
+form explained that the District would consider requests for sincerely held religious 
+
+beliefs on an individual basis. It stated that religious beliefs included closely held 
+
+moral/ethical convictions, but not purely personal preferences. Under the terms of the 
+
+Vaccine MOU, employees had to submit the exemption request form by October 15, 
+
+2021. 
+
+23. 
+
+Shaw received the requests and kept track of the interactive process. The 
+
+District provided Shaw with the criteria that requests should meet, but Shaw did not 
+
+make decisions for the District. Instead, Shaw aggregated all information and made 
+
+presentations during weekly meetings with the District. Ms. Kosaka was on the panel 
+
+that considered these requests. In videoconference meetings, the panel reviewed each 
+
+request to decide whether to approve it, deny it, or seek more information. The District 
+
+received a high number of religious requests and approved the vast majority. 
+
+According to Ms. Kosaka, the standard for religious requests was light. 
+
+8 
+
+24.  When the District approved an exemption request, the exemption only 
+
+applied to vaccination. After approval, the employee would receive a standard letter 
+
+with the same accommodations offered to others with approved exemption requests. 
+
+For religious exemptions, those accommodations were to wear a face mask and test 
+
+for COVID-19. The second step was to sign and return the Vaccine Exemption 
+
+Accommodations Agreement (Accommodations Agreement). The Accommodations 
+
+Agreement was a brief, one-page form with two checkboxes. The first checkbox stated 
+
+that the employee would continue to work unvaccinated and agreed to the masking 
+
+and testing accommodations. The second checkbox simply stated, “I do not agree with 
+
+the above.” It then asked the employee to “Please provide any clarification and/or 
+
+corrections to the above to assist the parties to understand how best to support you 
+
+going forward in this interactive process.” 
+
+25. 
+
+Employees who checked the second box, stating they disagreed with the 
+
+accommodations, moved to a third step. The District engaged them in the interactive 
+
+process to understand the reasons they could not mask or test and to find agreeable 
+
+accommodations. Several employees completed the third step. Some employees wore 
+
+face shields instead of face masks. Other employees took saliva-based COVID-19 tests 
+
+instead of using swab-based tests. No employee with a vaccine exemption received an 
+
+accommodation to skip COVID-19 testing altogether. This was because employees 
+
+who worked remotely could choose to come on campus at any time, potentially 
+
+infecting students and staff. 
+
+RESPONDENT’S RELIGIOUS EXEMPTION REQUEST 
+
+26. 
+
+Elizabeth Maloney, Ed.D., is a full-time instructor at Delta College. She 
+
+has been CTA president for eight years. Dr. Maloney testified about her recollection of 
+
+the events that took place during the 2021–2022 school year. At the start of that year, 
+
+9 
+
+the CTA surveyed its members about the vaccine mandate. The CTA negotiated the 
+
+Vaccine MOU based on the results of that survey. 
+
+27. 
+
+In late September 2021, respondent was copied on an email chain 
+
+between a member of his union and Dr. Maloney. The emails addressed the vaccine 
+
+mandate and the ongoing communications between the CTA and the District about 
+
+exemption forms. Dr. Maloney also communicated with respondent individually about 
+
+his options. She spoke with him about the available exemptions and how to fill out 
+
+forms. In their communications, respondent told her he wanted to work remotely, did 
+
+not want to wear a mask, and did not want to put chemicals in his nose. He felt the 
+
+District was being unreasonable, so the CTA referred him to its legal counsel, Eric 
+
+Lindstrom. 
+
+28.  On October 11, 2021, respondent emailed the District a list of concerns 
+
+he had with the exemption process. His concerns included his belief that he taught 
+
+successfully online; that he had “Natural Immunity” to COVID-19; that he did not agree 
+
+with the form’s options; that he did not feel he had enough time to review the forms; 
+
+and that he felt entitled to know the ethnic backgrounds of those reviewing exemption 
+
+requests. 
+
+29. 
+
+Rebecca Wicks is a Senior Consultant at Shaw, where she has worked for 
+
+the past nine years. She testified at the hearing about respondent’s exemption request 
+
+and the District’s attempts to engage him in the interactive process. Ms. Wicks replied 
+
+to respondent’s email the day he sent it. She explained that the District would offer 
+
+reasonable accommodations to employees with approved exemption requests. She 
+
+detailed that the accommodations would generally consist of masking and testing. The 
+
+District was unable to accommodate respondent’s “Natural Immunity” request because 
+
+10 
+
+of Equal Employment Opportunity Commission (EEOC) rules. Ms. Wicks also offered 
+
+respondent an extension to submit his request. 
+
+Respondent Submitted a Religious Exemption Request 
+
+30.  On the evening of October 31, 2021, respondent faxed his religious 
+
+exemption request to the District. On the form, he did not check the box that he 
+
+worked on campus. Instead, he wrote he was currently working 100 percent online but 
+
+worked on campus “when there is a normal/usual working environment.” 
+
+31. 
+
+In response to the question asking respondent to describe his sincerely 
+
+held religious beliefs, practices, or observances that conflicted with the COVID-19 
+
+vaccine, respondent wrote: 
+
+I am evoking [sic] my legal right to ethical, moral and 
+
+religious exemption. My spiritual convictions do not allow 
+
+for any unwanted or unneeded intrusion on my mind, body 
+
+or soul. I am exempt from your activities because they are 
+
+opposed to my sincerely help [sic] system of commitments. 
+
+Much like my students with disabilities, I am ready to 
+
+discuss reasonable accommodations. You are being 
+
+formally notified that I am exempt from this process/activity 
+
+based on my sincerely held spiritual commitments. The 
+
+Most High created me fully equipped with a magnificent 
+
+and Godly immune system and I will not alter The Most 
+
+High’s incredible design. It is a moral sin to disavow the will 
+
+of The Most High. I am completely healthy and have no 
+
+sickness which might require medication advised by my 
+
+11 
+
+doctor when or if needed. It is against my God given 
+
+conscience to allow anyone or anything to intrude into my 
+
+body which is a temple of The Most High and I follow his 
+
+commands. Deuteronomy 7:12-15 ... The Most High will 
+
+keep me free from every disease ... 
+
+Respondent did not define or explain what he believed would be a mental, 
+
+bodily, or spiritual intrusion. He did not reference masking or testing, or state that his 
+
+religious objection expanded beyond vaccination. 
+
+32. 
+
+In response to the question asking how respondent has applied his 
+
+sincerely held religious beliefs about vaccines and preventative medicine in other 
+
+contexts, respondent wrote: 
+
+I do not worry about drugs of any sort because The Most 
+
+High instructs me in everything that I do. I have been 
+
+instructed to stay physically fit and to eat of the fruit of the 
+
+Most High. Timothy 4:8 
+
+For physical training is of some value, but godliness has 
+
+value for all things, holding promise for both the present 
+
+life and the life to come. 
+
+Jeremiah 33:6 Nevertheless, I will bring health and healing 
+
+to it; I will heal my people and will let them enjoy abundant 
+
+peace and security. 
+
+33. 
+
+The form also asked if respondent could provide documentation to 
+
+support his sincerely held religious belief and need for an exemption, providing two 
+
+checkboxes (Yes or No). Respondent did not check either box or provide 
+
+12 
+
+documentation. Instead, he wrote, “By way of this form—I have answered all your 
+
+questions to the best of my ability. Feel free to reach out if you need to communicate.” 
+
+Respondent signed the form and dated it “10-27-31.” 
+
+The District Granted Respondent’s Exemption Request and 
+
+Began the Interactive Process 
+
+34.  On November 3, 2021, the District granted respondent’s religious 
+
+exemption request. Dr. Vicki Nicholson, the Interim Vice President of Human 
+
+Resources, sent respondent a letter titled, “Interactive Process Update: COVID-19 
+
+Religious Vaccine Exemption Approval & Vaccine Exemption Agreement.” The letter 
+
+said, in relevant part: 
+
+[The] District has approved your religious exemption and 
+
+approved your presence at work unvaccinated with the 
+
+provision that you will be required to continue to wear an 
+
+approved face covering until such time [the District] 
+
+determines unvaccinated employees may remove face 
+
+coverings. In addition to this, you will be subject to COVID-
+
+19 testing and/or other safety measures as required by [the 
+
+District]. 
+
+To memorialize the exemption, the District required respondent to sign and 
+
+return the Accommodations Agreement. The deadline was November 10, 2021. 
+
+35. 
+
+Respondent received a reminder email to sign the Accommodations 
+
+Agreement on November 9, 2021, the day before the form was due. He responded the 
+
+next day that he was “send[ing] this info to [his] counselor” and would then respond. 
+
+13 
+
+36.  When respondent failed to submit the Accommodations Agreement, Dr. 
+
+Nicholson followed up on December 2, 2021. Like the prior letter, Dr. Nicholson 
+
+advised respondent that the District had granted him a vaccine exemption, and he 
+
+needed to submit the Accommodations Agreement. She extended his deadline until 
+
+December 7, 2021. 
+
+37. 
+
+A week later, respondent emailed his direct supervisor, Elizabeth David, 
+
+Dean of Student Services, copying Ms. Kosaka and Ms. Wicks. He wrote that he was “in 
+
+an unknown quandary” because he felt the accommodations were “unreasonable 
+
+institutional dictates.” Respondent repeated that he would not agree “to any unwanted 
+
+intrusions on or in my body.” This time, he specified that his perception of “unwanted 
+
+intrusions” included “a face mask or drug experiments.” He did not define “drug 
+
+experiments,” and Ms. Kosaka testified she did not understand what he meant. 
+
+Respondent further wrote that he was “not going to place [his] body in any jeopardy 
+
+because [he was] very healthy and doing great with [his] natural antibodies and a 
+
+strong and powerful immune system.” 
+
+38. 
+
+Respondent did not comply with the Vaccine MOU by the December 
+
+2021 deadline. By January 2022, respondent still had not returned that 
+
+Accommodations Agreement. He emailed District employees again on January 19, 
+
+2022, copying his legal counsel, Mr. Lindstrom. In that email, respondent expressed he 
+
+would not sign the form because he disagreed with the accommodations. His email 
+
+focused on his health, rather than his religious beliefs. He wrote his “health [was] 
+
+exceptional” and he had “a strong immune system and strong antibodies.” Conversely, 
+
+he challenged whether the campus was safe enough for him to return since he felt safe 
+
+at home. He further argued he had “a legal religious exemption from unwanted 
+
+14 
+
+intrusions on or in my body.” He did not clarify how masking or testing conflicted with 
+
+his religious beliefs. 
+
+39.  Ms. Wicks showed respondent’s email to the panel, who expressed they 
+
+needed more clarification about how masking and testing conflicted with respondent’s 
+
+religious beliefs. At the hearing, Ms. Wicks explained how flexible the District tried to 
+
+be, repeatedly offering individuals extensions and following up when deadlines 
+
+approached. The District was open to exploring alternative accommodations with 
+
+respondent. It just needed more information. 
+
+40. 
+
+To better understand the religious basis for respondent’s objections, the 
+
+District sent him another letter on January 20, 2022. In this letter, Dr. Nicholson 
+
+requested that respondent submit a Religious Clarification Form, explaining how his 
+
+sincerely held religious beliefs impacted the accommodations offered by the District. 
+
+The District gave him until January 27, 2022, to return the completed form. 
+
+41. 
+
+The Religious Clarification Form had four simple questions. First, it asked 
+
+whether wearing a face mask conflicted with the employee’s religious beliefs. If so, the 
+
+employee was given room to explain that conflict. Second, if the employee had a 
+
+religious objection to masking, it asked whether that objection applied to all types of 
+
+face coverings, such as cloth masks and face shields. Third, the form asked if taking a 
+
+COVID-19 test conflicted with the employee’s religious beliefs. If it did, the form 
+
+provided space for the employee to explain the conflict. Fourth, if the employee had a 
+
+religious objection to COVID-19 testing, the form asked if that objection extended to 
+
+all types of COVID-19 tests. The employee was required to sign the form, certifying the 
+
+answers were true and accurate. 
+
+15 
+
+The District Closed the Interactive Process 
+
+42. 
+
+Another month passed and respondent did not return the Religious 
+
+Clarification Form. Ms. Kosaka testified about her perception that respondent was not 
+
+willing to interact with the District. She wanted to work with him to find a solution. Yet 
+
+respondent refused to cooperate, return the necessary forms, and provide clarity 
+
+about his religious objections. The whole process took several months beyond the 
+
+Vaccine MOU’s deadlines because the District repeatedly extended the time for 
+
+respondent, hoping to gain his compliance. 
+
+43.  On February 23, 2022, Dr. Nicholson sent respondent a letter titled, 
+
+“Interactive Process: COVID-19 Religious Vaccine Exemption Notice of File Closure.” 
+
+Over 100 days had passed since the District granted respondent’s religious vaccine 
+
+exemption and began the interactive process. The letter memorialized the 
+
+communications between respondent and the District from October 2021 through 
+
+February 2022. It stated, in relevant part: 
+
+You did not return a completed Religious Clarification Form 
+
+by January 27, 2022. As such, the [District] only has your 
+
+above emails to understand your inability to wear a face 
+
+covering and COVID-19 test. In reviewing the above emails, 
+
+it does not appear your objection to wear a face covering 
+
+and COVID-19 test is religious in nature. As such, please 
+
+allow this letter to serve as notice that your religious 
+
+interactive process is being concluded and the District will 
+
+not provide additional accommodations to you. 
+
+As such, the San Joaquin Delta Community College will 
+
+16 
+
+expect you to wear an approved face covering and COVID-
+
+19 testing 2x weekly in accordance with its policies. 
+
+44. 
+
+Three days later, respondent responded. He wrote, in relevant part: 
+
+I have said from the beginning while evoking [sic] my legal 
+
+right to a religious exemption that I will not allow ungodly 
+
+intrusions in or on my body. The experimental drug, the 
+
+masks and testing have all been mentioned and discussed 
+
+rather openly throughout this process and they are all 
+
+unnecessary, unwanted, and ungodly intrusions. I do not 
+
+sign documents that have pending disagreements. Perhaps, 
+
+there is a misunderstanding whereby Liz Maloney could be 
+
+an intermediary or a mediator. In more than 40 years of 
+
+education employment, I have never had an employer ask 
+
+me so many questions centered around my spirituality and 
+
+frankly it is and [sic] intrusive and uncomfortable and 
+
+maybe an illegal process. I remind you that I am working 
+
+productively from home and have been for 2 years. Masks 
+
+and testing are very questionable matters, particularly now, 
+
+and I group these matters in my religious exemption. 
+
+He did not provide any further clarification about how face masks and COVID-
+
+19 testing violated his religious beliefs. He did not specify whether his objections 
+
+applied to all face coverings and types of COVID-19 tests. 
+
+17 
+
+DISABILITY ACCOMMODATION REQUEST 
+
+45. 
+
+After the interactive process closed on his religious exemption request, 
+
+respondent sought a disability accommodation to work remotely. Respondent sent the 
+
+District a March 9, 2022, email requesting medical accommodations. Attached to the 
+
+email was a “COVID-19 Request for Temporary Reasonable Accommodation” form, 
+
+dated March 3, 2022. On the form, respondent requested a remote work assignment 
+
+and stated: “I HAVE MAINTAINED A HIGH WORK LOAD [sic] AND PERFORMANCE 
+
+WORKING REMOTELY AND THAT WILL CONTINUE.” He listed the expected duration of 
+
+his accommodation as March 3 through May 20, 2022. He did not sign the form or 
+
+certify the accommodation was required because of the COVID-19 pandemic. 
+
+46. 
+
+Respondent also attached an undated letter from his physician, 
+
+Mohammad Reza, M.D. That letter stated: 
+
+Patient had an appointment with Dr. Reza on 3/3/2022. 
+
+Please allow patient to continue to work remotely from 
+
+home until 5/20/22 given his current age and risk factor. 
+
+Thank you for your consideration. 
+
+47. 
+
+Initially, there was a delay in responding to respondent’s request because 
+
+he sent it to the wrong email address. On April 12, 2022, the District sent respondent a 
+
+letter about the disability interactive process. The letter advised him that his doctor’s 
+
+letter did not indicate he required COVID-19-related accommodations. Thus, the letter 
+
+denied his disability accommodation request. 
+
+18 
+
+RESPONDENT’S PERFORMANCE REVIEW 
+
+48.  Dean David worked for the District from September 2021 through June 
+
+2023. She was respondent’s direct supervisor and testified at the hearing about remote 
+
+learning and respondent’s 2021 performance review. Dean David was familiar with 
+
+studies documenting the negative impact that remote learning had on students. Not 
+
+all students had adequate access to technology and some of the programs offered at 
+
+Delta College could not be converted to an online equivalent. 
+
+49. 
+
+Between October and December 2021, Dean David evaluated 
+
+respondent’s performance in his online course and a counseling appointment. Dean 
+
+David is a former faculty member with certifications in online course instruction. She 
+
+was concerned about the lack of content in respondent’s course website. While many 
+
+instructors would post videos, comparable to a presentation, respondent did not. He 
+
+also did not provide any activities for student participation. 
+
+50. 
+
+Respondent received positive remarks in most categories on his 
+
+performance review. Yet in two areas, he failed to meet standards. Under Organization 
+
+and Use of Time, Dean David noted that respondent needed to improve his 
+
+organization and align his course curriculum with the themes and number of lecture 
+
+hours required. Under Presentation/Delivery, he failed to meet standards because his 
+
+course did not have sufficient instructional content, lecture hours, and activities. 
+
+Respondent’s performance evaluation did not include respondent’s noncompliance 
+
+with the District’s COVID-19 protocols because that was not within Dean David’s 
+
+purview to evaluate. 
+
+51.  On December 9, 2021, Dean David met with respondent via 
+
+videoconference to answer his questions and provide feedback. She recalled that 
+
+19 
+
+respondent felt there would be no impact on his students if he continued to work 
+
+remotely. She disagreed. Dean David also allowed respondent to go over the 
+
+evaluation with his union representative. Dr. Maloney was present at the meeting 
+
+where respondent discussed his objections to the evaluation. She recalled that 
+
+respondent disagreed with why he received unsatisfactory marks, minimizing the 
+
+issues as a small part of his job. 
+
+52.  Dean David sent respondent a copy of the performance evaluation, dated 
+
+December 15, 2021, for his signature via DocuSign. Above the instructor’s signature 
+
+line, the form stated, in relevant part, “I have reviewed this evaluation, but my 
+
+signature does not necessarily indicate my agreement with the evaluation.” 
+
+Respondent refused to sign the performance evaluation because he disagreed with the 
+
+evaluation. He had until March 28, 2022, to provide a response. He did not do so. 
+
+53. 
+
+A performance improvement plan (PIP) is required when a faculty 
+
+member fails to meet performance standards. The PIP outlines the deficiencies, what 
+
+support the faculty member needs to succeed, and a timeline for additional review. 
+
+Dean David found no deficiencies with respondent’s counseling session and offered 
+
+him the opportunity to avoid a PIP if he chose to stop teaching. She recognized, 
+
+however, that many District employees would be reluctant to give up a part-time 
+
+teaching assignment because the overtime hours made it so lucrative. 
+
+54. 
+
+If respondent wanted to continue teaching, he needed to follow the PIP. 
+
+The PIP required respondent to complete training on how to teach an online course, 
+
+update his course website to include necessary content, find a faculty peer mentor to 
+
+help him with course design and development, and engage in peer shadowing or 
+
+research activities related to his deficiencies. Dean David offered respondent time to 
+
+consider his options and gave him until May 2022 to decide. 
+
+20 
+
+DECISION TO TERMINATE 
+
+Letter of Warning 
+
+55. 
+
+The District supplied COVID-19 tests for individuals required to test. The 
+
+individuals tested through a proctored website and reported their results to the 
+
+District. Ms. Kosaka tracked employee testing and confirmed that respondent never 
+
+submitted test results during the 2021–2022 school year or requested saliva-based 
+
+testing. 
+
+56.  On March 11, 2021, Dean David prepared a Letter of Warning for 
+
+respondent. The letter stated it was to “serve as a Letter of Reprimand regarding 
+
+[respondent’s] insubordination by failing to follow the [District’s] vaccination mandate 
+
+for all employees and students of the [District].” She advised respondent about the 
+
+grounds for termination later listed in the Statement of Charges. 
+
+Specifically, the letter informed respondent that employees granted a religious 
+
+exemption to the vaccine mandate needed to submit COVID-19 test results twice 
+
+weekly. Respondent failed to comply. Dean David provided the timeline of 
+
+respondent’s request for exemption and reminded him that he had failed to return the 
+
+Religious Clarification Form, which the District interpreted as his disengagement from 
+
+the interactive process. The letter also warned respondent about the consequences of 
+
+continued noncompliance, as follows: 
+
+Your actions, in continually refusing or otherwise failing to 
+
+comply with the District’s mandate and the MOU 
+
+constitutes grounds for discipline under the CTA Contract. 
+
+Your failure to follow the District’s vaccination requirement 
+
+places your colleagues, the District’s students, and the 
+
+21 
+
+community at risk. Especially during a pandemic and a state 
+
+of emergency, the District must be able to depend on its 
+
+employees to comply with directives and act in a safe 
+
+manner. 
+
+The letter gave respondent seven days to come into compliance by testing for 
+
+COVID-19 twice a week or he would be terminated. 
+
+Notice of Intended Termination 
+
+57.  On March 23, 2022, Dr. Nicholson issued respondent a letter about the 
+
+District’s intent to terminate his employment. She attached the Statement of Charges, 
+
+which set forth the factual findings underlying the notice. Respondent had until April 
+
+15, 2022, to present relevant information to the human resources department. 
+
+58.  On April 13, 2022, respondent submitted a letter to the District instead of 
+
+attending a meeting under Skelly v. State Personnel Board (1975) 15 Cal.3d 194. In that 
+
+letter, respondent’s attorney, Mr. Lindstrom, argued that respondent’s failure to 
+
+comply with COVID-19 safety protocols did not impact his ability to perform his job 
+
+duties. He described the interactive process pursued by the District as composed of 
+
+“cold, inflexible, and untailored form letters,” and argued that the District did not 
+
+consider respondent’s individual circumstances. The letter demanded respondent be 
+
+allowed to work from home indefinitely. 
+
+Recommendation to Terminate and Board Vote 
+
+59. 
+
+The District advised respondent that his termination would be considered 
+
+at the Board meeting on July 5, 2022, and provided him with the relevant documents 
+
+in advance. Dr. Aguilera Lawrenson signed a Recommendation for Statement of 
+
+22 
+
+Decision to Terminate. She recommended the Board terminate respondent’s 
+
+employment. She wrote that respondent’s conduct had disrupted the District’s orderly 
+
+administration and negatively impacted student education. 
+
+60.  On July 5, 2022, the Board voted to terminate respondent. In the 
+
+Resolution of Termination, the Board noted it had considered Dr. Aguilera Lawrenson’s 
+
+July 2022 recommendation, as well as respondent’s December 2021 performance 
+
+evaluation, in reaching its conclusion. The Board found the charges constituted good 
+
+cause to terminate respondent under the Education Code. The termination was 
+
+effective 30 days after respondent was served with notice of his termination. 
+
+61. 
+
+The District served respondent with notice of his termination on July 7, 
+
+2022. Respondent sent his notice of defense and requested a hearing on July 11, 2022. 
+
+62.  On October 18, 2022, the Board passed an additional resolution to 
+
+address the issue of unpaid suspension. The amended resolution stated, in part: 
+
+Pursuant to the provisions of the California Education Code 
+
+sections 87732, 87735 and 87666 et seq., the Board of 
+
+Trustees terminates and suspends [respondent] without 
+
+pay, retroactively to July 5, 2022. 
+
+63. 
+
+The District’s witnesses testified about the number of employees 
+
+terminated because they would not comply with the vaccine mandate and related 
+
+accommodation requirements. Respondent was one of two permanent employees 
+
+terminated for this reason. In addition, about 100 adjunct faculty were released for 
+
+non-compliance. Some chose to resign, while others were terminated. 
+
+23 
+
+Respondent’s Evidence 
+
+RESPONDENT’S TESTIMONY 
+
+64. 
+
+Respondent testified extensively at the hearing. He started as a full-time 
+
+counselor for AFFIRM in January 2015. Before Delta College, respondent worked with 
+
+the RISE program at Sacramento City College, a community college in a different 
+
+district. 
+
+65. 
+
+Respondent lives in Lincoln, California, 80 miles from Delta College. His 
+
+typical commute to Delta College was 80 minutes each way. He commuted to work in-
+
+person for five years, then worked remotely for the first two years of the pandemic. 
+
+Respondent wanted to continue teleworking because he felt safer at home. He 
+
+understood that COVID-19 was a serious illness that caused harm. At 66 years old, he 
+
+was in a high-risk group. 
+
+66. 
+
+Respondent spoke highly of his specialty in assisting high-need students. 
+
+He believed that his skills and presence transformed AFFIRM. AFFIRM’s students 
+
+needed a lot of coaching. A lot of these students lacked personal computers and 
+
+internet access, limiting their ability to study at home. 
+
+Vaccine Exemption and Accommodations Process 
+
+67. 
+
+At the hearing, respondent did not dispute that the District had granted 
+
+him a religious exemption to the vaccine mandate. The issue was the accommodation 
+
+the District offered him. Respondent explained for the first time at the hearing that he 
+
+did not want to wear a face mask because he has hypoxia and claustrophobia. He did 
+
+not provide medical documentation about these diagnoses and could not explain how 
+
+these medical conditions related to his religious beliefs. 
+
+24 
+
+68. 
+
+Respondent also provided further detail about his objection to COVID-19 
+
+testing. Respondent did his own research during the pandemic. In that research, he 
+
+discovered a theory that the swabs used in COVID-19 testing were laced with toxic 
+
+chemicals. This theory led him to conclude that swab-based COVID-19 tests were 
+
+ungodly because he would be putting toxic chemicals inside his nose or mouth. 
+
+Respondent testified that he requested saliva-based COVID-19 testing during the 
+
+2021–2022 school year. He was unable to produce any evidence of that request. 
+
+69. 
+
+Respondent testified that the title of the exemption form, “Religious 
+
+Exemption Request Form for COVID-19 Vaccination,” was ambiguous. He thought the 
+
+form was not specific to vaccination and applied to testing and masking. After the 
+
+District approved his exemption, respondent recalled receiving the Accommodations 
+
+Agreement. Feeling like it “imposed upon” him, he sought legal counsel. Because he 
+
+did not agree with the accommodations offered, he refused to sign it. Respondent 
+
+testified if he checked the second checkbox, which reflected he did not agree to the 
+
+accommodations, it would mean he agreed to them. He was offended the District 
+
+asked him how masking and testing violated his religious beliefs. He considers his 
+
+religion to be private. He felt the entire process was “delusional.” 
+
+70. 
+
+Respondent agreed he never returned the Accommodations Agreement 
+
+or Religious Clarification Form to the District. He understood there were deadlines to 
+
+return the forms, but he wanted “a meeting of the minds.” Nevertheless, he also 
+
+acquiesced that he never requested a meeting. He was “trying to buy time.” Similarly, 
+
+he does not dispute that he never tested for COVID-19. 
+
+71. 
+
+Respondent felt surprised by the Letter of Warning. He found it offensive 
+
+and rude, believing that it questioned his credibility and professionalism. He described 
+
+25 
+
+the Letter of Warning, as well as the Statement of Charges, as “abusive.” Respondent 
+
+believed that he “engaged with everybody.” 
+
+72. 
+
+Respondent would be willing to return to the District if he was not 
+
+required to comply with COVID-19 safety protocols. When asked if there was anything 
+
+he would do differently in retrospect, respondent spoke at length about his desire to 
+
+communicate. He did not express remorse for his actions or the impact his choices had 
+
+on students. Likewise, he did not identify anything he would change going forward. 
+
+Performance Evaluations 
+
+73. 
+
+Respondent provided several performance evaluations from his time at 
+
+Delta College. His student reviews were positive. In 2017 and 2018, he received an 
+
+overall rating of “competent.” The tenure review committee noted in his 2018 review 
+
+that he lacked responsiveness in “Organization and Use of Time” and needed 
+
+reminders to complete professional obligations. Nevertheless, he improved after his 
+
+supervisor addressed the deficiencies with him directly. Right before the tenure 
+
+decision in January 2019, his rating increased to “strong.” The committee found 
+
+respondent improved in the areas where he was previously borderline. 
+
+74. 
+
+Respondent did not dispute he received the December 2021 
+
+performance review and met with Dean David and Dr. Maloney about his objections. 
+
+He testified the December 2021 performance evaluation was the first negative review 
+
+he received in 45 years of education work. Respondent believed he was more 
+
+knowledgeable about teaching his course than Dean David. He decided to “exert 
+
+faculty freedom” rather than operate within the normal curriculum requirements. He 
+
+said a prior dean permitted him to do so. 
+
+26 
+
+Specifically, respondent did not like Canvas, the District’s official platform for 
+
+online instruction. He thought it worked poorly. He chose not to use Canvas and 
+
+substituted with other methods. Respondent taught his course using emails, text 
+
+messages, and other websites. He testified that he could have used Canvas like his 
+
+colleagues, but he made “an executive decision” to do something different. He also 
+
+thought the deficiencies in his online instruction were moot because he was not 
+
+teaching in Fall 2022. His course no longer qualified for transfer credits. 
+
+RESPONDENT’S WITNESSES 
+
+75. 
+
+Respondent offered the testimony of several character witnesses at the 
+
+hearing. None of his witnesses had reviewed the Statement of Charges or had personal 
+
+knowledge about the facts alleged, other than what respondent and his attorneys told 
+
+them. 
+
+76.  Daniel Fernandez is a professor and counselor with the Puente Program 
+
+at Delta College, a learning community for Latino students. Mr. Fernandez has worked 
+
+at Delta College for seven years. During the pandemic, his relationship with 
+
+respondent grew close because they were both focusing on ethnic-specific 
+
+programming. He thinks respondent is a good counselor. Mr. Fernandez eventually 
+
+returned to campus and wore a face mask in common areas. He chose to mask and be 
+
+vaccinated because he respects other people. 
+
+77. 
+
+Randolph Gaines has worked at Delta College since 1981. He has worked 
+
+in the position of counselor for 22 years and teaches a course. He believes respondent 
+
+made AFFIRM more successful during his years at Delta College. Jonathan Harris has 
+
+been a part-time counselor at Delta College since 2013. He was respondent’s 
+
+colleague in AFFIRM from 2014 until the pandemic began. He testified about how 
+
+27 
+
+AFFIRM thrived when it was in-person. During the pandemic, AFFIRM experienced 
+
+challenges because some students lacked internet access and equipment. Mr. Harris 
+
+returned to the general counseling department when the campus repopulated. 
+
+78. 
+
+Angela Williams has worked for Delta College since 1993. She has been a 
+
+resource specialist for the past nine years. She worked with respondent planning 
+
+activities for AFFIRM. She explained respondent was like a father figure to many 
+
+students and cared about their success. Ms. Williams returned to campus in July 2022. 
+
+Many of AFFIRM’s students have not come back to campus because they prefer to 
+
+take classes online. She believed it could help AFFIRM to have respondent, or 
+
+someone like him, back on campus to reinvigorate AFFIRM. She agreed face-to-face 
+
+interaction was important in AFFIRM but also thought they used technology to 
+
+communicate effectively during the pandemic. 
+
+79.  Destiny Akins is a graduate of AFFIRM. She attended Delta College from 
+
+2017 to 2020 and graduated before the pandemic. Ms. Akins used respondent’s 
+
+services as a counselor, teacher, and mentor. She described respondent as an 
+
+inspirational figure who was dedicated to his students. Ms. Akins spent much of her 
+
+time at Delta College in the AFFIRM center. During those years, the center was busy, 
+
+loud, and full of students. Ms. Akins has visited the AFFIRM center since she graduated 
+
+and testified it is now “bleak” and less populated. 
+
+80. 
+
+Evan Wade is a history professor at Delta College, where he has worked 
+
+for the past nine years. Mr. Wade teaches courses for AFFIRM and co-chaired the Black 
+
+Faculty Task Force with respondent. He thinks respondent was an “awesome” 
+
+colleague who helped AFFIRM improve student outcomes. Mr. Wade is “a Christian, 
+
+first and foremost,” and maintains that his religious beliefs trump District policies. Mr. 
+
+Wade was able to comply with the District’s COVID-19 safety protocols without 
+
+28 
+
+violating his religious beliefs. Still, he thinks it was “profound and brilliant” that 
+
+respondent stood on his religious principles. 
+
+RESPONDENT’S LEGAL ARGUMENTS 
+
+81. 
+
+In his briefs and at hearing, respondent presented a plethora of legal 
+
+arguments. He argued the District violated the California Fair Employment and 
+
+Housing Act (FEHA) and Title VII of the Civil Rights Act of 1964 (Title VII) by not 
+
+granting him his preferred accommodation. He contended the District’s vaccine 
+
+mandate was preempted because the California State Legislature fully occupied the 
+
+legal field related to the vaccination of employees in state educational facilities. He 
+
+asserted that the vaccine mandate violated the First and Fourteenth Amendments to 
+
+the United States Constitution, as well as the California Constitution. 
+
+82. 
+
+Respondent also argued the District failed to impose progressive 
+
+discipline, in violation of the CBA. He contended that the CBA and Vaccine MOU 
+
+cannot be considered reasonable regulations. He asserted the Board could not 
+
+terminate him under Education Code section 87732 because his performance review 
+
+was unsigned and did not relate to his noncompliance with COVID-19 safety protocols. 
+
+He argued Education Code section 87735 does not apply to faculty. He asserted the 
+
+District abused its discretion. Finally, respondent argued multiple issues related to his 
+
+compensation grievance and termination date. 
+
+LEGAL CONCLUSIONS 
+
+1. 
+
+A community college district that seeks to dismiss a tenured academic 
+
+employee bears the burden of establishing the appropriateness of that action by a 
+
+preponderance of the evidence. (Evid. Code, §§ 115; 500; Ricasa v. Office of Admin. 
+
+29 
+
+Hearings (2018) 31 Cal.App.5th 262, 270 (Ricasa).) Preponderance of the evidence 
+
+means “evidence that has more convincing force than that opposed to it.” (People v. 
+
+Mabini (2001) 92 Cal.App.4th 654, 663.) 
+
+2. 
+
+“The terms and conditions of employment for community college 
+
+employees are governed by a comprehensive statutory scheme set forth in the 
+
+Education Code.” (Ricasa, supra, 31 Cal.App.5th at p. 272.) Education Code section 
+
+87667 provides that a regular employee may be dismissed for one or more of the 
+
+grounds set forth in Education Code section 87732. “A ‘regular’ employee is … one 
+
+who has achieved tenure.” (Ricasa, supra, 31 Cal.App.5th at p. 272.) 
+
+3. 
+
+In the dismissal of a regular employee, Education Code section 87671 
+
+requires the following conditions to be satisfied: 
+
+(a) The employee has been evaluated in accordance with 
+
+standards and procedures established in accordance with 
+
+the provisions of this article. 
+
+(b) The district governing board has received all statements 
+
+of evaluation which considered the events for which 
+
+dismissal or penalties may be imposed. 
+
+(c) The district governing board has received 
+
+recommendations of the superintendent of the district and, 
+
+if the employee is working for a community college, the 
+
+recommendations of the president of that community 
+
+college. 
+
+30 
+
+(d) The district governing board has considered the 
+
+statements of evaluation and the recommendations in a 
+
+lawful meeting of the board. 
+
+4. 
+
+Education Code section 87732 provides that an academic employee shall 
+
+not be dismissed except for one or more enumerated causes, including: 
+
+(d) Evident unfitness for service. 
+
+[¶] … [¶] 
+
+(f) Persistent violation of, or refusal to obey, the school laws 
+
+of the state or reasonable regulations prescribed for the 
+
+government of the community colleges by the board of 
+
+governors or by the governing board of the community 
+
+college district employing him or her. 
+
+5. 
+
+Education Code section 87735 provides, in relevant part, that: 
+
+Upon the filing of written charges, duly signed and verified 
+
+by the person filing them with the governing board of a 
+
+community college district, or upon a written statement of 
+
+charges formulated by the governing board, charging a 
+
+permanent employee of the district with … willful refusal to 
+
+perform regular assignments without reasonable cause, as 
+
+prescribed by reasonable rules and regulations of the 
+
+employing district, the governing board may, if it deems 
+
+such action necessary, immediately suspend the employee 
+
+from his or her duties and give notice to him or her of his or 
+
+31 
+
+her suspension, and that 30 days after service of the notice, 
+
+he or she will be dismissed, unless he or she demands a 
+
+hearing. 
+
+6. 
+
+Following an evidentiary hearing, “the administrative law judge shall 
+
+determine whether there is cause to dismiss or penalize the employee. If he or she 
+
+finds cause, he or she shall determine whether the employee shall be dismissed and 
+
+determine the precise penalty to be imposed, and shall determine whether his or her 
+
+decision should be imposed immediately or postponed pursuant to Section 87672.” 
+
+(Ed. Code, § 87680.) 
+
+Respondent’s Legal Arguments 
+
+STATUTORY CIVIL RIGHTS CLAIMS 
+
+7. 
+
+Respondent argued the District should have granted him his preferred 
+
+accommodation to work remotely. He believes its failure to do so violated his religious 
+
+rights under FEHA and Title VII. 
+
+8. 
+
+To establish a prima facie case of religious discrimination, respondent 
+
+had to show “(1) he had a bona fide religious belief, the practice of which conflicts with 
+
+an employment duty; (2) he informed his employer of the belief and conflict; and 
+
+(3) the employer discharged, threatened, or otherwise subjected him to an adverse 
+
+employment action because of his inability to fulfill the job requirement.” (Berry v. 
+
+Dept. of Social Services (9th Cir. 2006) 447 F.3d 642, 654.) The District accepted that 
+
+respondent had a bona fide religious belief when it granted him a religious exemption 
+
+from the vaccine mandate. Respondent refused to return the Religious Clarification 
+
+Form, choosing not to provide the information necessary to inform the District about 
+
+the conflict between his religious beliefs and the proffered accommodations. 
+
+32 
+
+9. 
+
+To the extent respondent argued the District deprived him of his 
+
+preferred accommodation, that argument fails. (Hanson v. Lucky Stores, Inc. (1999) 74 
+
+Cal.App.4th 215, 228 [“As the Supreme Court has held in analogous circumstances, an 
+
+employee cannot make his employer provide a specific accommodation if another 
+
+reasonable accommodation is instead provided.”].) Respondent did not carry his 
+
+burden with respect to his statutory civil rights defenses. 
+
+CONSTITUTIONAL CLAIMS 
+
+10. 
+
+Respondent also argued the District’s vaccine mandate violated the First 
+
+Amendment’s Free Exercise Clause, the First Amendment prohibition on penalizing an 
+
+employee for exercising a constitutional right, and similar protections under the 
+
+California Constitution. Additionally, he contended the District treated him differently 
+
+because of his religion, and thus violated the Fourteenth Amendment. 
+
+11.  Neutral and generally applicable laws seeking to protect community 
+
+health and safety do not violate free exercise rights. (Doe v. San Diego Unified School 
+
+Dist. (9th Cir. 2021) 19 F.4th 1173, 1177, reconsideration en banc den. (9th Cir. 2022) 
+
+22 F.4th 1099.) Likewise, the desire to curb the spread of communicable diseases 
+
+through vaccination is a compelling governmental interest that outweighs free 
+
+exercise concerns under the California Constitution. (Brown v. Smith (2018) 24 
+
+Cal.App.5th 1135, 1145.) 
+
+12. 
+
+Governmental powers are even broader in the context of the employer-
+
+employee relationship. (Waters v. Churchill (1994) 511 U.S. 661, 671.) Courts have 
+
+approved the constitutionality of vaccine mandates and mask/test accommodations at 
+
+other postsecondary educational institutions. (See, e.g., Klaassen v. Trustees of Indiana 
+
+Univ. (7th Cir. 2021) 7 F.4th 592, 593 (Easterbrook, J.) [“These plaintiffs just need to 
+
+33 
+
+wear masks and be tested, requirements that are not constitutionally problematic.”]; 
+
+Norris v. Stanley (6th Cir. 2023) 73 F.4th 431, 437.) 
+
+13.  On its face, the Vaccine MOU was neutral and applied to all members of 
+
+the CTA, regardless of religious beliefs. The Vaccine MOU only referenced religion with 
+
+respect to the process for applying for an exemption. As applied, the Vaccine MOU 
+
+was also neutral. Respondent did not show he was treated differently than other 
+
+employees because of his religious beliefs. Multiple witnesses discussed the District’s 
+
+flexibility with religious accommodations and the light standard imposed for granting 
+
+religious requests, so long as the employee participated in the interactive process. 
+
+14. 
+
+The evidence showed respondent’s refusal to provide clarification closed 
+
+the interactive process. Thereafter, his refusal to comply with District COVID-19 safety 
+
+protocols and test biweekly, not his religious beliefs, resulted in his termination. 
+
+Respondent did not provide evidence that the District showed any religious animus. 
+
+PREEMPTION ARGUMENT 
+
+15. 
+
+Respondent further contended the California State Legislature 
+
+preempted the issue of vaccination requirements at state educational facilities. In 
+
+support of this argument, respondent cited to California Code of Regulation, title 8, 
+
+sections 5199 and 3205; Health & Safety Code section 120360; and Let Them Choose 
+
+v. San Diego Unified School Dist. (2022) 85 Cal.App.5th 693, 705, review den. (Feb. 22, 
+
+2023) (“Let Them Choose”). 
+
+16. 
+
+Cal/OSHA’s “Aerosol Transmissible Diseases” standard (Cal. Code Regs., 
+
+tit. 8, § 5199) “is limited to only certain employers, such as medical services and 
+
+facilities, certain laboratories, correctional facilities, homeless shelters, and drug 
+
+treatment programs.” (Western Growers Assn. v. Occupational Safety and Health Stds. 
+
+34 
+
+Bd. (2021) 73 Cal.App.5th 916, 927 fn. 2.) Community colleges are not among the listed 
+
+facilities. (Cal. Code Regs., tit. 8, § 5199, subd. (a)(1).) California Code of Regulation, 
+
+title 8, section 3205 requires employees to wear face masks when required by a CDPH 
+
+order and authorizes more protective or stringent local orders and guidance. (Cal. 
+
+Code Regs., tit. 8, § 3205, subds. (f)(1) & (a)(3).) The regulation is silent on the issue of 
+
+whether an employer can require employees to be vaccinated for COVID-19. 
+
+17.  Health and Safety Code section 120360 provides that the statute 
+
+governing compulsory student vaccination does not apply to adults or minors seeking 
+
+to enroll in community college. (See also Health & Saf. Code, § 120335, subd. (b).) 
+
+Correspondingly, in interpreting that statute, the court of appeal addressed 
+
+preemption solely in the context of vaccination requirements for students in primary 
+
+and secondary education. (Let Them Choose, supra, Cal.App.5th at pp. 705–706.) None 
+
+of the sources respondent cited addressed requirements applicable to employees 
+
+working in public postsecondary educational institutions. 
+
+EDUCATION CODE ARGUMENTS 
+
+Section 87732 
+
+18. 
+
+First, respondent argued the CBA and Vaccine MOU do not qualify for 
+
+consideration under Education Code section 87732. He asserted the CBA and Vaccine 
+
+MOU set forth contractual obligations and refusing to comply cannot constitute a 
+
+violation under Education Code section 87732. 
+
+19. 
+
+Education Code section 87732, subdivision (f), provides that a regular 
+
+employee may be terminated for persistently violating or refusing to obey “reasonable 
+
+regulations prescribed for the government of the community colleges by the board of 
+
+governors or by the governing board of the community college district employing him 
+
+35 
+
+or her.” Here, the District’s Board voted to mandate vaccines for all employees in 
+
+August 2021. The Vaccine MOU effectuated that vote and thus constituted a 
+
+regulation that the Board prescribed for the health and safety of students and staff. 
+
+Respondent did not offer evidence demonstrating that this regulation was objectively 
+
+unreasonable. 
+
+Sections 87735 and 87622 
+
+20.  Next, respondent argued Education Code section 87735 cannot penalize 
+
+a faculty member. Under respondent’s interpretation of Education Code section 87622, 
+
+the only section of Article 6 that applies to faculty members is section 87732. 
+
+21. 
+
+Education Code, title 3, division 7, part 51, includes the statutes 
+
+governing community college employees. Relevant articles include Article 2 
+
+(“Employment of Faculty), Article 4 (“Evaluations and Discipline”), and Article 6 
+
+(“Termination of Services and Reduction in Force”). Article 3 (“Community College 
+
+Faculty”) includes Education Code section 87622, which provides: 
+
+The employment, rights, responsibilities, dismissal, 
+
+imposition of penalties for persons employed by a 
+
+community college district in faculty positions shall be 
+
+governed by Article 2 (commencing with Section 87600), 
+
+and Article 4 (commencing with Section 87660). The 
+
+employment of faculty by a community college district shall 
+
+otherwise be governed as provided by law and in a manner 
+
+consistent with Articles 2 and 4 and with this article 
+
+(hereinafter referred to in this article, collectively, as “this 
+
+act”). 
+
+36 
+
+This act shall take precedence, for the purposes of 
+
+community college faculty, over any other act enacted by 
+
+the Legislature at any session which, explicitly or implicitly, 
+
+would result in community college faculty being governed 
+
+by provisions inconsistent with this act. 
+
+22. 
+
+Courts reviewing similar arguments have looked to whether the relevant 
+
+Education Code sections are distinct from or consistent with section 87622. (See Santa 
+
+Monica College Faculty Assn. v. Santa Monica Community College Dist. (2015) 243 
+
+Cal.App.4th 538, 554.) Here, Article 6, section 87735, is consistent with section 87622 
+
+and Articles 2 and 4. Section 87735 applies to permanent employees and Article 2, 
+
+section 87602, subdivision (b), defines “permanent employee” to include tenured 
+
+faculty members. 
+
+23. 
+
+Read as a whole, the sections in Article 4 set forth the procedures to be 
+
+followed before pursuing termination or other penalties under Article 6. For instance, 
+
+Article 4, section 87667 provides that a regular employee may be dismissed or 
+
+penalized for one or more grounds listed in Article 6, section 87732. Article 4 also 
+
+provides that employees can be subject to penalties other than dismissal. (Ed. Code, 
+
+§§ 87666–87669). Specifically, Article 4, section 87668 considers suspensions, the 
+
+subject of Article 6, section 87735, and includes unpaid suspensions. Recognizing that 
+
+Article 4 procedures generally apply to Article 6, only one exception was specified: 
+
+suspensions for sex and narcotics offenses under section 87736. (Ed. Code, § 87670.) 
+
+24. 
+
+Indeed, Article 4 recognizes there are “[o]ther provisions of [the 
+
+Education] code which govern the evaluation of, dismissal of, and the imposition of 
+
+penalties on, community college faculty,” and requires those other provisions apply 
+
+consistently with Article 4. (Ed. Code, § 87660.) In sum, Education Code section 87735 
+
+37 
+
+is consistent with section 87622 and Articles 2 and 4. This conclusion aligns with 
+
+precedent, under which other districts have suspended faculty members under 
+
+Education Code section 87735. (See, e.g., West Valley-Mission Community College 
+
+Dist. v. Concepcion (1993) 16 Cal.App.4th 1766.) 
+
+Sections 87671 and 87672 
+
+25. 
+
+Finally, respondent asserted the Board could not terminate him under 
+
+Education Code section 87732 because his performance review was unsigned and did 
+
+not detail his noncompliance with COVID-19 safety protocols. In support of this 
+
+argument, he cited Education Code section 87671. He also argued the Board only 
+
+offered him “an incomplete and imprecise decision and its reasons,” violating 
+
+Education Code section 87672. 
+
+26. 
+
+Under Education Code section 87671, the District may dismiss or penalize 
+
+a regular employee if one or more of the grounds outlined in Section 87732 are 
+
+present and the following criteria are satisfied. Here, respondent’s last performance 
+
+evaluation was performed in Fall 2021. His supervisor, Dean David, did not assess his 
+
+failure to comply with the District’s COVID-19 protocols because that was outside her 
+
+purview. Instead, she assessed his counseling and teaching. While the former was fine, 
+
+the latter was deficient. As detailed above, respondent’s performance evaluation was 
+
+unsigned because he refused to sign it. There is no factual dispute that he received it 
+
+and had meetings with Dean David and Dr. Maloney to review his objections. 
+
+Respondent was evaluated as required. He cannot use his refusal to sign the 
+
+evaluation to exculpate himself. 
+
+27. 
+
+At the July 2022 meeting, the Board was provided with respondent’s 
+
+evaluation, as well as the Statement of Charges, Dr. Aguilera Lawrenson’s 
+
+38 
+
+recommendation, the Vaccine MOU, respondent’s exemption request, interactive 
+
+process letters, emails between respondent and the exemption/accommodation team, 
+
+the Letter of Warning, and respondent’s February 2022 response. These documents 
+
+included “all statements of evaluation which considered the events for which dismissal 
+
+or penalties may be imposed.” Respondent did not argue any documents were 
+
+improperly omitted. Rather, he interpreted section 87671 to require his December 
+
+2021 performance evaluation to detail the reasons for which he was terminated. The 
+
+Education Code does not require this. All the documents that the Board must consider 
+
+were present at the time the Board made its decision. 
+
+28.  On July 7, 2022, the Board sent respondent the Notice of the Decision to 
+
+Terminate. This letter set forth that the Board decided there was cause to terminate 
+
+respondent based on the reasons outlined in the Statement of Charges. The notice 
+
+satisfied the Education Code’s requirement that the Board provide respondent with a 
+
+written statement setting forth the Board’s complete and precise decision and its 
+
+reasons therefor. (Ed. Code, § 87672.) 
+
+CONTRACTUAL ARGUMENTS 
+
+29. 
+
+Respondent also argued the District violated the CBA by not engaging in 
+
+progressive discipline. He asserted the CBA only allows the District to skip the steps of 
+
+progressive discipline for violations related to Education Code section 87732, which he 
+
+does not believe he violated. 
+
+30. 
+
+The CBA provides that when a faculty member violates District policies 
+
+and procedures, progressive discipline will be used unless skipping steps is warranted 
+
+because the conduct related to an Education Code section 87732 violation. (CBA, 
+
+§ 29.3.) The Vaccine MOU gave employees until December 17, 2021, to comply or be 
+
+39 
+
+terminated. It required employees who applied for or received a vaccine exemption to 
+
+test for COVID-19 twice a week. Employees who failed to comply were to be placed on 
+
+unpaid status effective January 1, 2022, and remain on unpaid status throughout the 
+
+termination process. 
+
+31. 
+
+Based on the language in the CBA and Vaccine MOU, the issue is not that 
+
+the District denied respondent a right or process to which he was entitled. The Vaccine 
+
+MOU clearly stated that refusal to comply with the District’s COVID-19 protocols 
+
+would result in a letter of intent to terminate and unpaid status during the termination 
+
+process. Here, the evidence indicates the District offered respondent repeated 
+
+warnings and additional time to comply—more time than he was contractually entitled 
+
+to receive. Under the contractual terms, the termination process should have begun in 
+
+December 2021. Respondent’s compensation should have stopped on January 1, 2022. 
+
+His termination was based on conduct related to an Education Code section 87732 
+
+violation, which similarly allows skipping of progressive discipline under the CBA. 
+
+32. 
+
+Given the volume of respondent’s legal arguments and the varied 
+
+analysis he provided for each, only the most cogent were analyzed here. All other legal 
+
+arguments he presented were considered and rejected. 
+
+Causes for Discipline 
+
+33. 
+
+The evidence provided at the hearing showed respondent refused to 
+
+follow the District’s COVID-19 safety protocols throughout 2021–2022 school year, 
+
+resulting in his inability to perform on-campus assignments that began in January 
+
+2022. His CBA required him to fulfill his professional obligations and conduct himself 
+
+in a manner that supported student success. Because the Vaccine MOU was 
+
+incorporated into the CBA, respondent was required to comply with the Vaccine MOU. 
+
+40 
+
+For individuals with vaccine exemptions, those obligations included testing twice 
+
+weekly for COVID-19 and wearing a mask in common areas on campus. Respondent 
+
+chose not to comply with the Vaccine MOU, placing his preference for telework above 
+
+the needs of his students. 
+
+34. 
+
+From the start, respondent’s communications with the District were 
+
+amorphous and confusing. He told them he did “not worry about drugs” and anything 
+
+he felt was unnecessary or intrusive violated his religious beliefs. He spoke at length 
+
+about his excellent health and superior immune system before claiming the opposite. 
+
+At the hearing, respondent offered areligious reasons for his refusal to accept the 
+
+accommodations. He testified he could not wear a mask because of hypoxia and 
+
+claustrophobia. His objection to COVID-19 testing was based on his belief in a theory 
+
+that the swabs contain toxic chemicals. Notably, respondent refused to provide either 
+
+explanation to the District before his termination. 
+
+35. 
+
+The District did not dispute the sincerity of respondent’s religious beliefs 
+
+and put forth a good-faith effort to engage him in an interactive process. After 
+
+granting his vaccine exemption, the District reached out on multiple occasions, seeking 
+
+clarification about exactly what respondent objected to and why. Was his objection to 
+
+all facial coverings, including face shields, or just face masks? Did he have an objection 
+
+to all COVID-19 tests or just certain ones? Respondent chose not to provide the 
+
+information that would have enabled the District to offer additional accommodations. 
+
+36. 
+
+Instead, respondent insisted he was entitled to his preferred 
+
+accommodation: telework. He argued in closing briefing that the District should have 
+
+reassigned his in-person duties to other staff so he could continue teleworking. Yet 
+
+the law does not allow an employee to dictate the terms of his employment 
+
+unilaterally. (Am. Postal Workers Union v. Postmaster Gen. (9th Cir. 1986) 781 F.2d 772, 
+
+41 
+
+777 [“In other words, a reasonable accommodation need not be on the employee’s 
+
+terms only.”].) 
+
+EVIDENT UNFITNESS FOR SERVICE 
+
+37. 
+
+Section 87732, subdivision (d), authorizes dismissal for “evident unfitness 
+
+for service.” The term “evident unfitness for service” means “clearly not fit, not adapted 
+
+to or unsuitable for teaching, ordinarily by reason of temperamental defects or 
+
+inadequacies.” (Woodland Joint Unified School Dist. v. Com. on Prof. Competence 
+
+(Woodland) (1992) 2 Cal.App.4th 1429, 1444.) The term “connotes a fixed character 
+
+trait, presumably not remediable merely on receipt of notice that one’s conduct fails to 
+
+meet the expectations of the employing school district.” (Ibid.) To assess unfitness for 
+
+service, the factors listed in Morrison v. State Board of Education (1969) 1 Cal.3d 214 
+
+(Morrison) are used. (Id. at p. 1445.) 
+
+38. 
+
+In Morrison, the California Supreme Court provided a list of factors for 
+
+assessing a person’s fitness to teach. The inquiry includes (1) the likelihood that the 
+
+conduct may have adversely affected others and the degree of such adversity 
+
+anticipated; (2) the proximity or remoteness in time of the conduct; (3) the type of 
+
+certification held by the party involved; (4) the extenuating or aggravating 
+
+circumstances, if any, surrounding the conduct; (5) the praiseworthiness or 
+
+blameworthiness of the motives resulting in the conduct; (6) the likelihood of the 
+
+recurrence of the questioned conduct; and (7) the extent to which disciplinary action 
+
+may inflict an adverse impact or chilling effect upon the constitutional rights of the 
+
+person involved or other people in the profession. (Ricasa, supra, 31 Cal.App.5th at 
+
+p. 285 [citing Morrison, supra, 1 Cal.3d at p. 229].) 
+
+42 
+
+39. 
+
+“The [Morrison] factors are not rules, but broad classes of issues to be 
+
+considered to assist in determining whether to impose discipline.” (Ricasa, supra, 31 
+
+Cal.App.5th at p. 285.) Not all the Morrison factors must be considered, only the most 
+
+pertinent ones. (West Valley-Mission Community College Dist. v. Conception, supra, 16 
+
+Cal.App.4th at p. 1777.) The factors may apply to all charges in the aggregate, 
+
+considering the totality of offensive conduct. (Woodland, supra, 2 Cal.App.4th at 
+
+pp. 1456–1457 [“When a camel’s back is broken we need not weigh each straw in its 
+
+load to see which one could have done the deed.”].) The determination of fitness for 
+
+service required by Morrison is a factual one. (Fontana Unified School Distr. v. Burman 
+
+(1988) 45 Cal.3d. 208, 220–221.) 
+
+Likelihood of Adverse Impact 
+
+40. 
+
+The District established through its witnesses’ testimonies that 
+
+respondent’s refusal to comply with COVID-19 safety protocols harmed the District, 
+
+and specifically AFFIRM’s students. Because respondent would not agree to test for 
+
+COVID-19 and wear a face mask, he was not cleared to return to campus and reopen 
+
+the AFFIRM center. Both parties’ witnesses spoke about how many students in AFFIRM 
+
+lacked access to technology, which increased the urgency of reopening the center to 
+
+provide students with resources. During the relevant period, AFFIRM was the only 
+
+learning community that had not reopened. Indeed, respondent was well-acquainted 
+
+with the struggles his students faced. Yet he placed his preference for telework above 
+
+their needs. The AFFIRM center did not reopen until July 2022. Accordingly, 
+
+respondent’s conduct adversely impacted AFFIRM’s students. 
+
+43 
+
+Proximity of Remoteness in Time 
+
+41. 
+
+The conduct at issue here occurred close in time to when the District filed 
+
+the Statement of Charges. The alleged conduct occurred between November 2021 and 
+
+March 2022. Respondent did not attempt to remedy his conduct before termination. 
+
+Extenuating or Aggravating Circumstances 
+
+42. 
+
+Respondent did not present evidence of any circumstances that would 
+
+justify or mitigate his conduct. While he argued in his closing belief that his religious 
+
+beliefs constituted extenuating circumstances, he received a religious exemption from 
+
+the vaccine mandate. He then refused to provide the District with clarification about 
+
+how masking and taking a COVID-19 test violated his religious beliefs, instead hoping 
+
+to “buy time” until the semester ended. 
+
+Praiseworthiness or Blameworthiness of the Motives 
+
+43. 
+
+Respondent claims his religious beliefs motivated his conduct. Yet there 
+
+is no evidence that the District retaliated against him because of his religion. Indeed, 
+
+the District accommodated respondent’s religious beliefs by granting him a vaccine 
+
+exemption. Thereafter, he chose not to comply with COVID-19 safety protocols or 
+
+explain the reason he could not accept the accommodations offered. 
+
+Likelihood of Recurrence 
+
+44. 
+
+Respondent has not acknowledged any wrongdoing. He was unwilling or 
+
+unable to concede his position, despite the District’s many attempts to work with him, 
+
+educate him about rules and regulations, and offer him opportunities to correct his 
+
+behavior. Consistent with his view that he is without fault in this matter, he did not 
+
+provide rehabilitation evidence. 
+
+44 
+
+45. 
+
+Respondent’s testimony suggested his likelihood of violating policies 
+
+again in the future is high. He insisted he knew better than his supervisor about 
+
+instructing online courses, even though she held certifications he lacked. He 
+
+maintained he had the authority to operate outside of normal curriculum 
+
+requirements. He lacked insight and seemed to believe that he need not adhere to the 
+
+rules required of others. Returning respondent to employment with the District 
+
+presents the risk that respondent will violate other District policies and procedures 
+
+because he views himself to be exempt from directives he disfavors. 
+
+Chilling Effect Upon Constitutional Right 
+
+46. 
+
+Respondent made a myriad of arguments about how the District violated 
+
+his rights. As detailed in the legal arguments above, respondent’s constitutional 
+
+arguments lack merit. While respondent told others that his termination was based on 
+
+religious discrimination, the evidence overwhelmingly showed his termination was 
+
+based on unprotected conduct rather than unlawful discrimination. Witnesses also 
+
+confirmed other employees with sincerely held religious beliefs successfully received 
+
+exemptions and accommodations from the District. Thus, respondent’s termination did 
+
+not and will not deter others from exercising their constitutional rights. 
+
+47. 
+
+After considering the relevant Morrison factors and the totality of the 
+
+circumstances, respondent’s conduct in the aggregate indicates a factual nexus 
+
+between his conduct and unfitness for service. A preponderance of the evidence 
+
+demonstrated that respondent has temperamental defects that make him unfit for 
+
+District employment. Therefore, the District established cause to dismiss respondent 
+
+for evident unfitness for service. 
+
+45 
+
+PERSISTENT VIOLATION/REFUSAL TO OBEY SCHOOL LAWS OR REASONABLE 
+
+REGULATIONS 
+
+48. 
+
+The Education Code empowers the governing board of each district to 
+
+promulgate rules and regulations about the operation and administration of the 
+
+community colleges within its jurisdiction, including “specific standards which it 
+
+expects its faculty to meet in the performance of their duties.” (See Ed. Code, § 87664.) 
+
+To constitute a “persistent violation of, or refusal to obey … reasonable regulations 
+
+prescribed for the government of the community colleges” under Education Code 
+
+section 87732, subdivision (f), the District must show more than a single violation of its 
+
+regulations. (Governing Bd. of the Oakdale Union School Dist. v. Seaman (1972) 28 
+
+Cal.App.3d 77, 83.) Instead, the District must show respondent’s “intentional and 
+
+continual refusal to cooperate” with reasonable regulations. (San Dieguito Union High 
+
+School Dist. v. Com. on Prof. Competence (1985) 174 Cal.App.3d 1176, 1196.) 
+
+49. 
+
+As a member of the CTA, respondent was bound by the requirements of 
+
+the CBA. These included the requirement to follow District policies and directives, or 
+
+face discipline. Those policies and directives included the requirements imposed by 
+
+the Vaccine MOU. (CBA, § 1.4.) As a condition of his religious vaccine exemption, 
+
+respondent was required to test twice weekly for COVID-19. The District repeatedly 
+
+advised respondent of the testing requirement and attempted to learn more about his 
+
+objections. Nevertheless, between November 2021 and March 2022, respondent never 
+
+tested or otherwise complied with COVID-19 safety protocols. His repeated refusal to 
+
+obey this reasonable regulation, imposed to protect the safety of students and staff, 
+
+meant he was never cleared to return to campus and reopen the AFFIRM center. The 
+
+District established cause to dismiss respondent for persistent refusal to obey 
+
+reasonable regulations by a preponderance of the evidence. 
+
+46 
+
+WILLFUL REFUSAL TO PERFORM REGULAR ASSIGNMENTS 
+
+50. 
+
+Under Education Code section 87735, a district’s governing board may 
+
+immediately suspend an employee for “willful refusal to perform regular assignments 
+
+without reasonable cause, as prescribed by reasonable rules and regulations of the 
+
+employing district.” “Although the term ‘willful’ has no ‘single, uniformly applicable’ 
+
+definition, it refers generally to intentional conduct undertaken with knowledge or 
+
+consciousness of its probable result.” (Patarak v. Williams (2001) 91 Cal.App.4th 826, 
+
+829.) 
+
+51. 
+
+Respondent’s job duties included holding counseling hours, coordinating 
+
+AFFIRM, and teaching. Beginning in January 2022, the District required him to return to 
+
+campus on a hybrid schedule so the AFFIRM center could reopen. Respondent’s 
+
+refusal to comply with the District’s COVID-19 safety protocols prevented him from 
+
+returning to campus, Thus, he could not perform his regular assignments in person, as 
+
+required. The District established cause to dismiss respondent for willful refusal to 
+
+perform regular assignments by a preponderance of the evidence. 
+
+Conclusion 
+
+52. 
+
+Cause exists to dismiss respondent for evident unfitness for service (Ed. 
+
+Code, § 87732, subd. (d)), persistent violation of or refusal to obey the reasonable 
+
+regulations prescribed by the governing board of the community college district 
+
+employing him (Id. at subd. (f)), and willful refusal to perform regular assignments 
+
+without reasonable cause (Ed. Code, § 87735). The District’s decision to dismiss 
+
+respondent from employment is reasonable and supported by a preponderance of the 
+
+evidence. 
+
+47 
+
+ORDER 
+
+The San Joaquin Delta Community College District’s decision to terminate 
+
+respondent Roy Desmangles, Jr.’s employment is AFFIRMED. 
+
+Respondent is dismissed from his employment with the District, effective 
+
+immediately. 
+
+DATE: November 13, 2023 
+
+JESSICA WALL 
+
+Administrative Law Judge 
+
+Office of Administrative Hearings 
+
+48 
+
+Jessica Wall (Nov 13, 2023 14:32 PST)Jessica Wall 
+ 
+
