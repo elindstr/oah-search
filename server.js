@@ -7,11 +7,10 @@ const path = require('path')
 const parseSearchInput = require('./parser')
 
 app.use(express.static('public'))
+
 app.get('/oah', (req, res) => {
   res.redirect(301, '/')
 })
-
-//app.use(express.static(path.join(__dirname, 'public')));
 
 // // For direct http exposure
 // const port = 80
@@ -78,30 +77,30 @@ async function search (socket, query) {
 
       return numB - numA
     })
-
   } catch (err) {
     resultsErr = err
   }
 
-  // return results to Client
+  // return results to client
   socket.emit('results', results)
 
-  // log user and query
-  const logQuery = {
-    dt: Date.now(),
+  // log performance and errors
+  const dtNow = new Date()
+  let logQuery = {
+    dtString: `${dtNow.getFullYear()}-${(dtNow.getMonth() + 1)}-${(dtNow.getDate())} ${(dtNow.getHours())}:${(dtNow.getMinutes())}:${(dtNow.getSeconds())}`,
     lag: Date.now() - startDt,
     query,
     searchInputs,
     results: results.length,
-    ip: socket.request.connection.remoteAddress,
+    ip1: socket.request.connection.remoteAddress,
     ip2: socket.request.headers['x-forwarded-for'],
     ip3: socket.request.headers['x-real-ip'],
-    socketId: socket.id,
     userAgent: socket.request.headers['user-agent'],
-    referer: socket.request.headers.referer,
     searchInputsErr,
     resultsErr
   }
+  logQuery = JSON.stringify(logQuery, null, '\t')
+  fs.appendFile('logQuery.json', logQuery, 'utf8')
   console.log(logQuery)
 }
 
