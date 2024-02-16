@@ -1,4 +1,4 @@
-const socket = io()
+const socket = io();
 
 $(function () {
   const directories = ['cpcChecked', 'mirsChecked', 'rifChecked', 'ctcChecked']

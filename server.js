@@ -7,6 +7,11 @@ const path = require('path')
 const parseSearchInput = require('./parser')
 
 app.use(express.static('public'))
+app.get('/oah', (req, res) => {
+  res.redirect(301, '/')
+})
+
+//app.use(express.static(path.join(__dirname, 'public')));
 
 // // For direct http exposure
 // const port = 80
@@ -18,11 +23,6 @@ app.use(express.static('public'))
 const PORT = process.env.PORT || 3000
 http.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`)
-})
-
-// redirect /oah to the root
-app.get('/oah', (req, res) => {
-  res.redirect(301, '/')
 })
 
 // init socket.io
@@ -94,6 +94,8 @@ async function search (socket, query) {
     searchInputs,
     results: results.length,
     ip: socket.request.connection.remoteAddress,
+    ip2: socket.request.headers['x-forwarded-for'],
+    ip3: socket.request.headers['x-real-ip'],
     socketId: socket.id,
     userAgent: socket.request.headers['user-agent'],
     referer: socket.request.headers.referer,
