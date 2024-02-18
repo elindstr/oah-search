@@ -101,7 +101,7 @@ async function search (socket, query) {
   }
   logQuery = JSON.stringify(logQuery, null, '\t')
   fs.appendFile('logs/logQuery.json', logQuery, 'utf8')
-  console.log(logQuery)
+  // console.log(logQuery)
 }
 
 async function getResults (directoryPaths, searchInputs) {
