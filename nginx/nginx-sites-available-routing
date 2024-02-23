@@ -1,3 +1,5 @@
+#scp nginx-sites-available-routing root@50.21.186.124:/etc/nginx/sites-available/www.ericjlindstrom.com
+
 server {
     listen 80;
     server_name www.ericjlindstrom.com ericjlindstrom.com;
@@ -27,7 +29,7 @@ server {
     }
 
     # Serve oah domain
-    location /oah/ {
+    location / {
         proxy_pass http://localhost:3000;
         proxy_http_version 1.1;
         proxy_set_header Upgrade $http_upgrade;
