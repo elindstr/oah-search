@@ -8,9 +8,9 @@ const parseSearchInput = require('./parser')
 
 app.use(express.static('public'))
 
-// app.get('/oah', (req, res) => {
-//   res.redirect(301, '/')
-// })
+app.get('/oah', (req, res) => {
+  res.redirect(301, '/')
+})
 
 // // For direct http exposure
 // const port = 80

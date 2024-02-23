@@ -1,6 +1,6 @@
 server {
     listen 80;
-    server_name www.ericjlindstrom.com ericjlindstrom.com;
+    server_name www.ericjlindstrom.com;
 
     # Redirect HTTP to HTTPS
     return 301 https://$server_name$request_uri;
@@ -8,26 +8,14 @@ server {
 
 server {
     listen 443 ssl;
-    server_name www.ericjlindstrom.com ericjlindstrom.com;
+    server_name www.ericjlindstrom.com;
 
     # SSL Certificate Settings
     ssl_certificate /etc/letsencrypt/live/www.ericjlindstrom.com/fullchain.pem;
     ssl_certificate_key /etc/letsencrypt/live/www.ericjlindstrom.com/privkey.pem;
 
-    # Redirect from root to /oah
-    location = / {
-        return 301 https://$server_name/oah/;
-    }
-
-    # Serve root domain and all subfolders if they have an index file
+    # Serve root domain
     location / {
-        root /var/www/;
-        index index.html;
-        try_files $uri $uri/ =404;
-    }
-
-    # Serve oah domain
-    location /oah/ {
         proxy_pass http://localhost:3000;
         proxy_http_version 1.1;
         proxy_set_header Upgrade $http_upgrade;
