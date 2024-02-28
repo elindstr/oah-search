@@ -26,4 +26,11 @@ server {
         proxy_set_header X-Forwarded-Proto $scheme; # Pass the original protocol (http or https)
         proxy_cache_bypass $http_upgrade;
     }
+
+    # Serve specific subdirectories from /var/www
+    location /etc/ {
+        root /var/www;
+        index index.html index.htm;
+        try_files $uri $uri/ =404;
+    }
 }
