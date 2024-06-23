@@ -1,4 +1,4 @@
-# OAH-Search: a node.js search engine for California administrative hearing decisions regarding teachers
+# OAH-Search: a node.js search engine for California admin hearing teacher cases
 
 ## Project Overview 
 
