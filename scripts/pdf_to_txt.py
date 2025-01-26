@@ -38,8 +38,8 @@ def pdf_to_text(input_folder, output_folder):
 
 if __name__ == "__main__":
     # Replace with your actual folder paths
-    input_folder_path = r"../EL/PRAs/MIRS"
-    output_folder_path = r"../EL/PRAs/MIRS-txt"
+    input_folder_path = r"../public/CTC/"
+    output_folder_path = r"../public/CTC/"
 
     pdf_to_text(input_folder_path, output_folder_path)
     print("All PDFs have been successfully converted to text.")
