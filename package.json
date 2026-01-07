@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/elindstr/oah-search#readme",
   "dependencies": {
-    "express": "^4.21.2",
-    "socket.io": "^4.8.1"
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
   },
   "engines": {
     "node": ">=14.0.0"
