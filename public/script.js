@@ -36,15 +36,6 @@ document.getElementById('searchButton').addEventListener('click', function (even
   $('#statusDiv').text('Fetching results...')
   $('#outputDiv').empty()
 
-  // gtag
-  gtag('event', 'search', {
-    event_query: searchInput,
-    event_cpc: cpcChecked,
-    event_mirs: mirsChecked,
-    event_ctc: rifChecked,
-    event_rif: ctcChecked
-  })
-
   // save check boxes to localStorage
   localStorage.setItem('cpcChecked', cpcChecked)
   localStorage.setItem('mirsChecked', mirsChecked)
