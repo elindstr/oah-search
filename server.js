@@ -17,14 +17,26 @@ const SEARCH_LIMITS = Object.freeze({
   maxSearchesPerMinute: 30,
   maxConcurrentPerIp: 2
 })
+const SOURCE_KEYS = Object.freeze(['CPC', 'MIRS', 'RIF', 'CTC'])
+const SOURCE_DIRECTORIES = Object.freeze({
+  CPC: path.join(__dirname, 'public/CPC/txt'),
+  MIRS: path.join(__dirname, 'public/MIRS/txt'),
+  RIF: path.join(__dirname, 'public/RIF/txt'),
+  CTC: path.join(__dirname, 'public/CTC/txt')
+})
 const RATE_LIMIT_WINDOW_MS = 60 * 1000
+const RESULT_CACHE_TTL_MS = 30 * 1000
+const RESULT_CACHE_MAX_ENTRIES = 50
+const RESULT_CACHE_MAX_RESULTS_PER_ENTRY = 500
 const searchTimestampsByIp = new Map()
 const activeSearchesByIp = new Map()
+const queryResultCache = new Map()
 const MONGO_URI = process.env.MONGO_URI
 const MONGO_DB_NAME = process.env.MONGO_DB_NAME
 const MONGO_COLLECTION_NAME = process.env.MONGO_COLLECTION_NAME || 'search_queries'
 let mongoCollectionPromise = null
 let didWarnMissingMongoConfig = false
+let corpusCachePromise = null
 
 app.get('/oah', (req, res) => {
   res.redirect(301, '/')
@@ -41,6 +53,11 @@ const PORT = process.env.PORT || 3000
 const HOST = process.env.HOST || '127.0.0.1'
 http.listen(PORT, HOST, () => {
   console.log(`Server running on ${HOST}:${PORT}`)
+})
+
+// Warm the corpus cache on startup so first real user query is faster.
+getCorpusCachePromise().catch((err) => {
+  console.error('Failed to build corpus cache at startup:', err)
 })
 
 // init socket.io
@@ -112,6 +129,105 @@ function decrementActiveSearches (ipAddress) {
   } else {
     activeSearchesByIp.set(ipAddress, next)
   }
+}
+
+function getSelectedSources (normalizedQuery) {
+  const selectedSources = []
+  if (normalizedQuery.cpcChecked) { selectedSources.push('CPC') }
+  if (normalizedQuery.mirsChecked) { selectedSources.push('MIRS') }
+  if (normalizedQuery.rifChecked) { selectedSources.push('RIF') }
+  if (normalizedQuery.ctcChecked) { selectedSources.push('CTC') }
+  return selectedSources
+}
+
+function makeResultCacheKey (normalizedQuery) {
+  return [
+    normalizedQuery.searchInput,
+    normalizedQuery.cpcChecked ? '1' : '0',
+    normalizedQuery.mirsChecked ? '1' : '0',
+    normalizedQuery.rifChecked ? '1' : '0',
+    normalizedQuery.ctcChecked ? '1' : '0'
+  ].join('|')
+}
+
+function getCachedResults (cacheKey) {
+  const cached = queryResultCache.get(cacheKey)
+  if (!cached) {
+    return null
+  }
+  if (cached.expiresAt <= Date.now()) {
+    queryResultCache.delete(cacheKey)
+    return null
+  }
+  return cached.results
+}
+
+function setCachedResults (cacheKey, results) {
+  if (!Array.isArray(results) || results.length > RESULT_CACHE_MAX_RESULTS_PER_ENTRY) {
+    return
+  }
+  if (queryResultCache.size >= RESULT_CACHE_MAX_ENTRIES) {
+    const oldestKey = queryResultCache.keys().next().value
+    if (oldestKey) {
+      queryResultCache.delete(oldestKey)
+    }
+  }
+  queryResultCache.set(cacheKey, {
+    results,
+    expiresAt: Date.now() + RESULT_CACHE_TTL_MS
+  })
+}
+
+function getCorpusCachePromise () {
+  if (!corpusCachePromise) {
+    corpusCachePromise = buildCorpusCache().catch((err) => {
+      corpusCachePromise = null
+      throw err
+    })
+  }
+  return corpusCachePromise
+}
+
+async function buildCorpusCache () {
+  const startedAt = Date.now()
+  const corpusBySource = Object.create(null)
+  let fileCount = 0
+  let totalBytes = 0
+
+  for (const source of SOURCE_KEYS) {
+    const directoryPath = SOURCE_DIRECTORIES[source]
+    const files = await fs.readdir(directoryPath)
+    const sourceEntries = []
+
+    for (const fileName of files) {
+      if (!fileName.endsWith('.txt')) {
+        continue
+      }
+
+      const filePath = path.join(directoryPath, fileName)
+      const content = await fs.readFile(filePath, 'utf8')
+      const caseNo = path.basename(fileName, '.txt')
+      const pdfLink = `/${source}/pdf/${caseNo}.pdf`
+
+      sourceEntries.push({
+        fileName,
+        pdfLink,
+        type: source,
+        caseNo,
+        caseName: getCaseName(content, source, fileName),
+        contentOriginal: content,
+        contentUpper: content.toUpperCase()
+      })
+      fileCount += 1
+      totalBytes += Buffer.byteLength(content, 'utf8')
+    }
+
+    corpusBySource[source] = sourceEntries
+  }
+
+  const elapsedMs = Date.now() - startedAt
+  console.log(`Corpus cache loaded: ${fileCount} files, ${totalBytes} bytes in ${elapsedMs}ms`)
+  return corpusBySource
 }
 
 function getMongoCollectionPromise () {
@@ -201,6 +317,7 @@ async function search (socket, query) {
   let searchInputs = []
   let results = []
   let resultsErr = ''
+  let resultsFromCache = false
 
   try {
     try {
@@ -209,12 +326,7 @@ async function search (socket, query) {
       searchInputsErr = err instanceof Error ? err.message : String(err)
     }
 
-    // select folders
-    const directoryPaths = []
-    if (normalizedQuery.cpcChecked) { directoryPaths.push('public/CPC/txt/') }
-    if (normalizedQuery.mirsChecked) { directoryPaths.push('public/MIRS/txt/') }
-    if (normalizedQuery.rifChecked) { directoryPaths.push('public/RIF/txt/') }
-    if (normalizedQuery.ctcChecked) { directoryPaths.push('public/CTC/txt/') }
+    const selectedSources = getSelectedSources(normalizedQuery)
 
     if (searchInputsErr) {
       socket.emit('searchError', searchInputsErr)
@@ -223,20 +335,29 @@ async function search (socket, query) {
     }
 
     try {
-      results = await getResults(directoryPaths, searchInputs)
+      const cacheKey = makeResultCacheKey(normalizedQuery)
+      const cachedResults = getCachedResults(cacheKey)
+      if (cachedResults) {
+        results = cachedResults
+        resultsFromCache = true
+      } else {
+        results = await getResults(selectedSources, searchInputs)
 
-      // Sort results
-      results.sort((a, b) => {
-        // Adjust case number if it's 11 digits long
-        const caseNoA = a.caseNo.length === 11 ? a.caseNo.slice(0, 10) : a.caseNo
-        const caseNoB = b.caseNo.length === 11 ? b.caseNo.slice(0, 10) : b.caseNo
+        // Sort results
+        results.sort((a, b) => {
+          // Adjust case number if it's 11 digits long
+          const caseNoA = a.caseNo.length === 11 ? a.caseNo.slice(0, 10) : a.caseNo
+          const caseNoB = b.caseNo.length === 11 ? b.caseNo.slice(0, 10) : b.caseNo
 
-        // Convert to integers for comparison
-        const numA = parseInt(caseNoA, 10)
-        const numB = parseInt(caseNoB, 10)
+          // Convert to integers for comparison
+          const numA = parseInt(caseNoA, 10)
+          const numB = parseInt(caseNoB, 10)
 
-        return numB - numA
-      })
+          return numB - numA
+        })
+
+        setCachedResults(cacheKey, results)
+      }
     } catch (err) {
       resultsErr = err instanceof Error ? err.message : String(err)
     }
@@ -265,44 +386,33 @@ async function search (socket, query) {
       ip3: socket.request.headers['x-real-ip'],
       userAgent: socket.request.headers['user-agent'],
       searchInputsErr,
-      resultsErr
+      resultsErr,
+      resultsFromCache
     }
     await logSearchToMongo(logQuery)
   }
 }
 
-async function getResults (directoryPaths, searchInputs) {
+async function getResults (selectedSources, searchInputs) {
+  const corpusBySource = await getCorpusCachePromise()
   const results = []
 
-  for (let d = 0; d < directoryPaths.length; d++) {
-    const directoryPath = path.join(__dirname, directoryPaths[d])
-    const files = await fs.readdir(directoryPath)
-    for (let f = 0; f < files.length; f++) {
-      // read files
-      const filePath = directoryPath + files[f]
-      let content = await fs.readFile(filePath, 'utf8')
-
-      const contentNormalCase = content
-      content = content.toUpperCase()
+  for (const source of selectedSources) {
+    const entries = corpusBySource[source] || []
+    for (let f = 0; f < entries.length; f++) {
+      const entry = entries[f]
 
       // use parsed searchInputs to decide whether file is a hit; if hit return content-index location of first hit for use by getSnippet
-      const snippetID = await searchLogic(content, searchInputs)
+      const snippetID = searchLogic(entry.contentUpper, searchInputs)
       if (snippetID !== -1) {
-        // prepare file names
-        const fileName = path.basename(files[f])
-        const pdfFilePath = filePath.replace('/txt/', '/pdf/').replace('.txt', '.pdf')
-        const pdfLink = pdfFilePath.replace(path.join(__dirname, 'public'), '')
-        const pdfLinkSplits = pdfLink.split('/')
-        const type = pdfLinkSplits[1]
-
         // push results
         results.push({
-          fileName,
-          pdfLink,
-          type,
-          snippet: getSnippet(contentNormalCase, snippetID),
-          caseNo: path.basename(files[f]).replace('.txt', ''),
-          caseName: getCaseName(contentNormalCase, type, fileName)
+          fileName: entry.fileName,
+          pdfLink: entry.pdfLink,
+          type: entry.type,
+          snippet: getSnippet(entry.contentOriginal, snippetID),
+          caseNo: entry.caseNo,
+          caseName: entry.caseName
         })
       }
     }
@@ -312,7 +422,6 @@ async function getResults (directoryPaths, searchInputs) {
 
 // use parsed searchInputs to decide whether file is a hit; if hit return content-index location of first hit for use by getSnippet
 function searchLogic (content, searchInputs) {
-  const isHit = false
   let snippetID = -1
 
   for (let ORList = 0; ORList < searchInputs.length; ORList++) {
@@ -325,12 +434,13 @@ function searchLogic (content, searchInputs) {
       if (typeof currentANDItem === 'string') {
         // console.log(currentANDItem, content.indexOf(currentANDItem))
 
-        if (content.indexOf(currentANDItem) === -1) {
+        const matchIndex = content.indexOf(currentANDItem)
+        if (matchIndex === -1) {
           // console.log("107: ", currentANDItem, content)
           hasAllAnds = false
           break
         } else {
-          snippetID = content.indexOf(currentANDItem)
+          snippetID = matchIndex
         }
 
       // proximity array: [n, term1, term2]
@@ -355,19 +465,14 @@ function searchLogic (content, searchInputs) {
       return snippetID
     }
   } // ORList loop
-  if (isHit === false) {
-    return -1
-  } else {
-    return snippetID
-  }
+  return -1
 }
 
-function findAllIndices (content, substring) {
+function findAllIndicesInWords (wordsUpper, substringUpper) {
   const indices = []
-  const words = content.split(/\s+/) // Split content into words
 
-  for (let i = 0; i < words.length; i++) {
-    if (words[i].toUpperCase().includes(substring.toUpperCase())) {
+  for (let i = 0; i < wordsUpper.length; i++) {
+    if (wordsUpper[i].includes(substringUpper)) {
       indices.push(i) // Save the word index instead of character index
     }
   }
@@ -377,8 +482,9 @@ function findAllIndices (content, substring) {
 
 function isClose (n, t1, t2, content) {
   const words = content.split(/\s+/)
-  const indicesT1 = findAllIndices(content, t1)
-  const indicesT2 = findAllIndices(content, t2)
+  const wordsUpper = words.map(word => word.toUpperCase())
+  const indicesT1 = findAllIndicesInWords(wordsUpper, t1.toUpperCase())
+  const indicesT2 = findAllIndicesInWords(wordsUpper, t2.toUpperCase())
 
   for (const indexT1 of indicesT1) {
     for (const indexT2 of indicesT2) {
