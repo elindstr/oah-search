@@ -1,13 +1,30 @@
+const PARSER_LIMITS = Object.freeze({
+  maxInputLength: 320,
+  maxTokens: 64,
+  maxOrConnectors: 12,
+  maxExpandedClauses: 20000
+})
+
 function parseSearchInput (searchInput) {
+  if (typeof searchInput !== 'string') {
+    throw new Error('Search input must be text.')
+  }
+  if (searchInput.length > PARSER_LIMITS.maxInputLength) {
+    throw new Error(`Search input is too long (max ${PARSER_LIMITS.maxInputLength} characters).`)
+  }
+
   // Make case insensitive
   searchInput = searchInput.toUpperCase()
 
   // Split on space, quote, or paren; remove white space
   const tokens = searchInput.split(/(\s+|["()])/).filter(token => token.trim() !== '')
+  enforceComplexityLimits(tokens)
   searchInput = regroupQuotedStrings(tokens)
+  enforceComplexityLimits(searchInput)
 
   // Replace & => AND
   searchInput = searchInput.map(token => token === '&' ? 'AND' : token)
+  enforceComplexityLimits(searchInput)
 
   searchInput = enforceTCSyntax(searchInput)
 
@@ -19,6 +36,22 @@ function parseSearchInput (searchInput) {
   // console.log(searchInputs)
 
   return searchInputs
+}
+
+function enforceComplexityLimits (tokens) {
+  if (tokens.length > PARSER_LIMITS.maxTokens) {
+    throw new Error(`Search is too complex (max ${PARSER_LIMITS.maxTokens} tokens).`)
+  }
+  const orCount = tokens.filter(token => token === 'OR').length
+  if (orCount > PARSER_LIMITS.maxOrConnectors) {
+    throw new Error(`Search is too complex (max ${PARSER_LIMITS.maxOrConnectors} OR connectors).`)
+  }
+}
+
+function enforceExpandedClauseLimit (searchInputs) {
+  if (searchInputs.length > PARSER_LIMITS.maxExpandedClauses) {
+    throw new Error('Search is too complex. Please reduce OR terms or parentheses.')
+  }
 }
 
 // regroup tokens that inside quotes; remove unpaired quotes and parens
@@ -298,6 +331,7 @@ function processParenQuotesProximityORs (searchInput) {
 
     // distribute OR in parens by splitting into two lists
     searchInputs = splitORsinParens(searchInputs)
+    enforceExpandedClauseLimit(searchInputs)
 
     // clean up
     searchInputs = removeSingleElementParentheses(searchInputs)
@@ -305,7 +339,9 @@ function processParenQuotesProximityORs (searchInput) {
 
     // split on OR
     searchInputs = filterORs(searchInputs)
+    enforceExpandedClauseLimit(searchInputs)
     searchInputs = filterORs(searchInputs)
+    enforceExpandedClauseLimit(searchInputs)
 
     // check for changes
     const newArray = JSON.stringify(searchInputs)

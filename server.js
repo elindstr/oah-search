@@ -6,7 +6,17 @@ const fs = require('fs').promises
 const path = require('path')
 const parseSearchInput = require('./parser')
 
+app.disable('x-powered-by')
 app.use(express.static('public'))
+
+const SEARCH_LIMITS = Object.freeze({
+  maxQueryLength: 320,
+  maxSearchesPerMinute: 30,
+  maxConcurrentPerIp: 2
+})
+const RATE_LIMIT_WINDOW_MS = 60 * 1000
+const searchTimestampsByIp = new Map()
+const activeSearchesByIp = new Map()
 
 app.get('/oah', (req, res) => {
   res.redirect(301, '/')
@@ -20,91 +30,201 @@ app.get('/oah', (req, res) => {
 
 // For production deployment using nginx forwarding
 const PORT = process.env.PORT || 3000
-http.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`)
+const HOST = process.env.HOST || '127.0.0.1'
+http.listen(PORT, HOST, () => {
+  console.log(`Server running on ${HOST}:${PORT}`)
 })
 
 // init socket.io
 io.on('connection', (socket) => {
-  console.log(Date.now(), 'a user connected:', socket.request.connection.remoteAddress)
+  const clientIp = getClientIp(socket)
+  console.log(Date.now(), 'a user connected:', clientIp)
   socket.on('disconnect', () => {
-    console.log(Date.now(), 'a user disconnected:', socket.request.connection.remoteAddress)
+    console.log(Date.now(), 'a user disconnected:', clientIp)
   })
 
   socket.on('searchInput', (query) => {
-    // console.log(query)
-    search(socket, query)
+    search(socket, query).catch((err) => {
+      console.error('Unhandled search error:', err)
+      socket.emit('searchError', 'Search failed due to a server error. Please retry.')
+      socket.emit('results', [])
+    })
   })
 })
+
+function getClientIp (socket) {
+  const xff = socket.request?.headers?.['x-forwarded-for']
+  if (typeof xff === 'string' && xff.trim()) {
+    return xff.split(',')[0].trim()
+  }
+  const xRealIp = socket.request?.headers?.['x-real-ip']
+  if (typeof xRealIp === 'string' && xRealIp.trim()) {
+    return xRealIp.trim()
+  }
+  return socket.request?.connection?.remoteAddress || socket.handshake?.address || 'unknown'
+}
+
+function normalizeQuery (query) {
+  const safeQuery = (query && typeof query === 'object') ? query : {}
+  const searchInputRaw = typeof safeQuery.searchInput === 'string' ? safeQuery.searchInput : ''
+  const searchInput = searchInputRaw.trim().replace(/\s+/g, ' ')
+
+  return {
+    searchInput,
+    cpcChecked: Boolean(safeQuery.cpcChecked),
+    mirsChecked: Boolean(safeQuery.mirsChecked),
+    rifChecked: Boolean(safeQuery.rifChecked),
+    ctcChecked: Boolean(safeQuery.ctcChecked)
+  }
+}
+
+function canSearchNow (ipAddress) {
+  const now = Date.now()
+  const existing = searchTimestampsByIp.get(ipAddress) || []
+  const recent = existing.filter((timestamp) => now - timestamp <= RATE_LIMIT_WINDOW_MS)
+  if (recent.length >= SEARCH_LIMITS.maxSearchesPerMinute) {
+    searchTimestampsByIp.set(ipAddress, recent)
+    return false
+  }
+  recent.push(now)
+  searchTimestampsByIp.set(ipAddress, recent)
+  return true
+}
+
+function incrementActiveSearches (ipAddress) {
+  const active = activeSearchesByIp.get(ipAddress) || 0
+  activeSearchesByIp.set(ipAddress, active + 1)
+}
+
+function decrementActiveSearches (ipAddress) {
+  const active = activeSearchesByIp.get(ipAddress) || 0
+  const next = active - 1
+  if (next <= 0) {
+    activeSearchesByIp.delete(ipAddress)
+  } else {
+    activeSearchesByIp.set(ipAddress, next)
+  }
+}
 
 async function search (socket, query) {
   // console.log('running search')
   const startDt = Date.now()
+  const clientIp = getClientIp(socket)
+  const normalizedQuery = normalizeQuery(query)
+
+  if (normalizedQuery.searchInput.length === 0) {
+    socket.emit('searchError', 'Enter at least one search term.')
+    socket.emit('results', [])
+    return
+  }
+
+  if (normalizedQuery.searchInput.length > SEARCH_LIMITS.maxQueryLength) {
+    socket.emit('searchError', `Search input is too long (max ${SEARCH_LIMITS.maxQueryLength} characters).`)
+    socket.emit('results', [])
+    return
+  }
+
+  if (!normalizedQuery.cpcChecked && !normalizedQuery.mirsChecked && !normalizedQuery.rifChecked && !normalizedQuery.ctcChecked) {
+    socket.emit('searchError', 'Select at least one source (CPC, MIRS, RIF, or CTC).')
+    socket.emit('results', [])
+    return
+  }
+
+  if (!canSearchNow(clientIp)) {
+    socket.emit('searchError', 'Too many searches from this IP. Please wait 1 minute and retry.')
+    socket.emit('results', [])
+    return
+  }
+
+  const currentActiveSearches = activeSearchesByIp.get(clientIp) || 0
+  if (currentActiveSearches >= SEARCH_LIMITS.maxConcurrentPerIp) {
+    socket.emit('searchError', 'Too many concurrent searches from this IP. Please wait for current searches to finish.')
+    socket.emit('results', [])
+    return
+  }
+  incrementActiveSearches(clientIp)
 
   // parse search query
   let searchInputsErr = ''
-  let searchInputs = ''
-  try {
-    searchInputs = parseSearchInput(query.searchInput)
-    // console.log(searchInputs)
-  } catch (err) {
-    searchInputsErr = err
-  }
-
-  // select folders
-  const directoryPaths = []
-  if (query.cpcChecked) { directoryPaths.push('public/CPC/txt/') }
-  if (query.mirsChecked) { directoryPaths.push('public/MIRS/txt/') }
-  if (query.rifChecked) { directoryPaths.push('public/RIF/txt/') }
-  if (query.ctcChecked) { directoryPaths.push('public/CTC/txt/') }
-  // console.log('directoryPaths:', directoryPaths)
-
-  // results container
-  let results = ''
+  let searchInputs = []
+  let results = []
   let resultsErr = ''
+
   try {
-    results = await getResults(directoryPaths, searchInputs)
+    try {
+      searchInputs = parseSearchInput(normalizedQuery.searchInput)
+    } catch (err) {
+      searchInputsErr = err instanceof Error ? err.message : String(err)
+    }
 
-    // Sort results
-    results.sort((a, b) => {
-      // Adjust case number if it's 11 digits long
-      const caseNoA = a.caseNo.length === 11 ? a.caseNo.slice(0, 10) : a.caseNo
-      const caseNoB = b.caseNo.length === 11 ? b.caseNo.slice(0, 10) : b.caseNo
+    // select folders
+    const directoryPaths = []
+    if (normalizedQuery.cpcChecked) { directoryPaths.push('public/CPC/txt/') }
+    if (normalizedQuery.mirsChecked) { directoryPaths.push('public/MIRS/txt/') }
+    if (normalizedQuery.rifChecked) { directoryPaths.push('public/RIF/txt/') }
+    if (normalizedQuery.ctcChecked) { directoryPaths.push('public/CTC/txt/') }
 
-      // Convert to integers for comparison
-      const numA = parseInt(caseNoA, 10)
-      const numB = parseInt(caseNoB, 10)
+    if (searchInputsErr) {
+      socket.emit('searchError', searchInputsErr)
+      socket.emit('results', [])
+      return
+    }
 
-      return numB - numA
-    })
-  } catch (err) {
-    resultsErr = err
+    try {
+      results = await getResults(directoryPaths, searchInputs)
+
+      // Sort results
+      results.sort((a, b) => {
+        // Adjust case number if it's 11 digits long
+        const caseNoA = a.caseNo.length === 11 ? a.caseNo.slice(0, 10) : a.caseNo
+        const caseNoB = b.caseNo.length === 11 ? b.caseNo.slice(0, 10) : b.caseNo
+
+        // Convert to integers for comparison
+        const numA = parseInt(caseNoA, 10)
+        const numB = parseInt(caseNoB, 10)
+
+        return numB - numA
+      })
+    } catch (err) {
+      resultsErr = err instanceof Error ? err.message : String(err)
+    }
+
+    // return results to client
+    if (resultsErr) {
+      socket.emit('searchError', 'Search failed. Please retry with a simpler query.')
+      socket.emit('results', [])
+    } else {
+      socket.emit('results', results)
+    }
+  } finally {
+    decrementActiveSearches(clientIp)
+
+    // log performance and errors
+    const dtNow = new Date()
+    let logQuery = {
+      dtString: `${dtNow.getFullYear()}-${(dtNow.getMonth() + 1)}-${(dtNow.getDate())} ${(dtNow.getHours())}:${(dtNow.getMinutes())}:${(dtNow.getSeconds())}`,
+      lag: Date.now() - startDt,
+      query: normalizedQuery,
+      searchInputs,
+      results: Array.isArray(results) ? results.length : 0,
+      ip1: clientIp,
+      ip2: socket.request.headers['x-forwarded-for'],
+      ip3: socket.request.headers['x-real-ip'],
+      userAgent: socket.request.headers['user-agent'],
+      searchInputsErr,
+      resultsErr
+    }
+    logQuery = JSON.stringify(logQuery, null, '\t')
+    const logDir = path.join(__dirname, 'logs')
+    const logFile = path.join(logDir, 'logQuery.json')
+
+    try {
+      await fs.mkdir(logDir, { recursive: true })
+      await fs.writeFile(logFile, logQuery, { flag: 'a', encoding: 'utf8' })
+    } catch (logErr) {
+      console.error('Failed to write query log:', logErr)
+    }
   }
-
-  // return results to client
-  socket.emit('results', results)
-
-  // log performance and errors
-  const dtNow = new Date()
-  let logQuery = {
-    dtString: `${dtNow.getFullYear()}-${(dtNow.getMonth() + 1)}-${(dtNow.getDate())} ${(dtNow.getHours())}:${(dtNow.getMinutes())}:${(dtNow.getSeconds())}`,
-    lag: Date.now() - startDt,
-    query,
-    searchInputs,
-    results: results.length,
-    ip1: socket.request.connection.remoteAddress,
-    ip2: socket.request.headers['x-forwarded-for'],
-    ip3: socket.request.headers['x-real-ip'],
-    userAgent: socket.request.headers['user-agent'],
-    searchInputsErr,
-    resultsErr
-  }
-  logQuery = JSON.stringify(logQuery, null, '\t')
-  const logDir = path.join(__dirname, 'logs');
-  const logFile = path.join(logDir, 'logQuery.json');
-  await fs.mkdir(logDir, { recursive: true });
-  await fs.writeFile(logFile, logQuery, { flag: 'a', encoding: 'utf8' });
-  // console.log(logQuery)
 }
 
 async function getResults (directoryPaths, searchInputs) {
@@ -176,11 +296,12 @@ function searchLogic (content, searchInputs) {
         const t2 = searchInputs[ORList][ANDItem][2]
 
         // console.log('120:', n, t1, t2)
-        if (isClose(n, t1, t2, content) === false) {
+        const proximityPosition = isClose(n, t1, t2, content)
+        if (proximityPosition === false) {
           hasAllAnds = false
           break
         } else {
-          snippetID = isClose(n, t1, t2, content)
+          snippetID = proximityPosition
         }
       }
     } // ANDItem loop
@@ -266,6 +387,9 @@ function getCaseName (content, type, fileName) {
 
     // locate index of "BEFORE"
     let currentIndex = words.indexOf('BEFORE')
+    if (currentIndex < 0) {
+      currentIndex = 0
+    }
 
     // locate index of the first non-all CAP word (ie "In the Matter..")
     for (let i = currentIndex; i < words.length; i++) {
@@ -334,17 +458,18 @@ function getCaseName (content, type, fileName) {
     // locate County Office of "Education" or School "District"
     Agency = ''
     let AgencyEnd = 7
-    for (let i = 0; i < 100; i++) {
-      // console.log('269', i, words[i].replace(',', '').trim())
-      if ((words[i].replace(',', '').trim() === 'DISTRICT') || (words[i].replace(',', '').trim() === 'EDUCATION')) {
+    for (let i = 0; i < 100 && i < words.length; i++) {
+      const word = words[i]
+      if (!word) { break }
+      if ((word.replace(',', '').trim() === 'DISTRICT') || (word.replace(',', '').trim() === 'EDUCATION')) {
         AgencyEnd = i
         break
       }
     }
-    let AgencyBegin = AgencyEnd - 7
+    let AgencyBegin = Math.max(0, AgencyEnd - 7)
     // go backwards and locate first not all CAP
-    for (let j = AgencyEnd; j > AgencyEnd - 7; j--) {
-      if (words[j] !== words[j].toUpperCase()) {
+    for (let j = AgencyEnd; j > AgencyEnd - 7 && j >= 0; j--) {
+      if (words[j] && words[j] !== words[j].toUpperCase()) {
         AgencyBegin = j + 1
         break
       }
@@ -352,9 +477,10 @@ function getCaseName (content, type, fileName) {
 
     // build agency name
     Agency = ''
-    if (AgencyEnd !== -1) {
+    if (AgencyEnd !== -1 && AgencyBegin <= AgencyEnd && words[AgencyBegin]) {
       Agency = words[AgencyBegin]
       for (let i = AgencyBegin + 1; i <= AgencyEnd; i++) {
+        if (!words[i]) { break }
         if (words[i].indexOf(',') > 0) {
           const lastWord = words[i].split(',')[0]
           Agency += ' ' + lastWord
@@ -408,34 +534,30 @@ function getCaseName (content, type, fileName) {
     }
 
     // locate index of the first non-all CAP word (end of teacher)
-    Teacher = words[TeacherBegin]
-    for (let i = TeacherBegin + 1; i < TeacherBegin + 4; i++) {
-      try {
-        // if not a letter
-        if (/^[a-zA-Z]$/.test(words[i][0]) === false) {
+    Teacher = (TeacherBegin >= 0 && words[TeacherBegin]) ? words[TeacherBegin] : ''
+    if (TeacherBegin >= 0) {
+      for (let i = TeacherBegin + 1; i < TeacherBegin + 4 && i < words.length; i++) {
+        const word = words[i]
+        if (!word || /^[a-zA-Z]$/.test(word[0]) === false) {
           break
-
-        // if comma
-        } else if (words[i].indexOf(',') > 0) {
-          Teacher = Teacher + ' ' + words[i].split(',')[0]
+        } else if (word.indexOf(',') > 0) {
+          Teacher = Teacher + ' ' + word.split(',')[0]
           break
-
-        // otherwise; if not upper case
-        } else if (words[i][1] !== words[i][1].toUpperCase()) {
+        } else if (word.length < 2 || word[1] !== word[1].toUpperCase()) {
           break
         } else {
-          Teacher = Teacher + ' ' + words[i]
+          Teacher = Teacher + ' ' + word
         }
-      } catch (err) {
-        console.log('374:', err)
       }
     }
 
     // --- CPC: AGENCY --->
     Agency = ''
-    for (let i = 0; i < 20; i++) {
-      Agency = Agency + ' ' + words[i]
-      if ((words[i].replace(',', '').trim() === 'DISTRICT') || (words[i].replace(',', '').trim() === 'EDUCATION') || (words[i].replace(',', '').trim() === 'CALIFORNIA')) {
+    for (let i = 0; i < 20 && i < words.length; i++) {
+      const word = words[i]
+      if (!word) { break }
+      Agency = Agency + ' ' + word
+      if ((word.replace(',', '').trim() === 'DISTRICT') || (word.replace(',', '').trim() === 'EDUCATION') || (word.replace(',', '').trim() === 'CALIFORNIA')) {
         break
       }
     }

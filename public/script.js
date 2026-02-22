@@ -1,8 +1,11 @@
-const socket = io();
+const socket = io()
 
-$(function () {
-  const directories = ['cpcChecked', 'mirsChecked', 'rifChecked', 'ctcChecked']
-  directories.forEach((id) => {
+const checkboxIds = ['cpcChecked', 'mirsChecked', 'rifChecked', 'ctcChecked']
+const statusDiv = document.getElementById('statusDiv')
+const outputDiv = document.getElementById('outputDiv')
+
+document.addEventListener('DOMContentLoaded', () => {
+  checkboxIds.forEach((id) => {
     let isChecked = localStorage.getItem(id)
     if (isChecked === null) {
       isChecked = true
@@ -13,7 +16,7 @@ $(function () {
   })
 })
 
-document.getElementById('searchButton').addEventListener('click', function (event) {
+document.getElementById('searchButton').addEventListener('click', (event) => {
   event.preventDefault()
 
   // prepare query
@@ -29,12 +32,11 @@ document.getElementById('searchButton').addEventListener('click', function (even
     rifChecked,
     ctcChecked
   }
-  // console.log(query)
   socket.emit('searchInput', query)
 
   // display loading message
-  $('#statusDiv').text('Fetching results...')
-  $('#outputDiv').empty()
+  statusDiv.textContent = 'Fetching results...'
+  outputDiv.textContent = ''
 
   // save check boxes to localStorage
   localStorage.setItem('cpcChecked', cpcChecked)
@@ -43,38 +45,48 @@ document.getElementById('searchButton').addEventListener('click', function (even
   localStorage.setItem('ctcChecked', ctcChecked)
 })
 
-// server data:
-// results.push({
-//   fileName: fileName,
-//   pdfLink: pdfLink,
-//   snippet: getSnippet(content, searchInput),
-//   caseNo: path.basename(files[f]).replace(".txt", ""),
-//   caseName: getCaseName(content)
+socket.on('searchError', (message) => {
+  statusDiv.textContent = message || 'Search failed.'
+  outputDiv.textContent = ''
+})
+
 socket.on('results', (data) => {
-  // console.log(data)
-  $('#statusDiv').empty()
-  $('#outputDiv').empty()
+  statusDiv.textContent = ''
+  outputDiv.textContent = ''
 
-  if (data) {
-    $('#statusDiv').append(`<p>Found ${data.length} results:</p>`)
-
-    data.forEach(result => {
-      // Create elements for the result
-      const type = $('<span>').text(`${result.type}   `)
-      const pdfLink = $('<a>').text(`${result.caseNo}`).attr('href', result.pdfLink).attr('target', '_blank')
-      const caseNameDiv = $('<span>').text(`   ${result.caseName}`)
-      const snippetDiv = $('<div>').text(`Snippet: ...${result.snippet}...`)
-
-      // Combine all elements into a single div
-      const resultDiv = $("<div class='result'>")
-        .append(type)
-        .append(pdfLink)
-        .append(snippetDiv)
-        .append(caseNameDiv)
-        .append(snippetDiv)
-
-      // Append the result div to the statusDiv
-      $('#outputDiv').append(resultDiv)
-    })
+  if (!Array.isArray(data)) {
+    statusDiv.textContent = 'No results.'
+    return
   }
+
+  const countP = document.createElement('p')
+  countP.textContent = `Found ${data.length} results:`
+  statusDiv.appendChild(countP)
+
+  data.forEach((result) => {
+    const resultDiv = document.createElement('div')
+    resultDiv.className = 'result'
+
+    const typeSpan = document.createElement('span')
+    typeSpan.textContent = `${result.type}   `
+
+    const pdfLink = document.createElement('a')
+    pdfLink.textContent = `${result.caseNo}`
+    pdfLink.href = result.pdfLink
+    pdfLink.target = '_blank'
+    pdfLink.rel = 'noopener noreferrer'
+
+    const caseNameDiv = document.createElement('span')
+    caseNameDiv.textContent = `   ${result.caseName}`
+
+    const snippetDiv = document.createElement('div')
+    snippetDiv.textContent = `Snippet: ...${result.snippet}...`
+
+    resultDiv.appendChild(typeSpan)
+    resultDiv.appendChild(pdfLink)
+    resultDiv.appendChild(caseNameDiv)
+    resultDiv.appendChild(snippetDiv)
+
+    outputDiv.appendChild(resultDiv)
+  })
 })
