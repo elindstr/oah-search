@@ -1,9 +1,12 @@
+require('dotenv').config()
+
 const express = require('express')
 const app = express()
 const http = require('http').createServer(app)
 const io = require('socket.io')(http)
 const fs = require('fs').promises
 const path = require('path')
+const { MongoClient } = require('mongodb')
 const parseSearchInput = require('./parser')
 
 app.disable('x-powered-by')
@@ -17,6 +20,11 @@ const SEARCH_LIMITS = Object.freeze({
 const RATE_LIMIT_WINDOW_MS = 60 * 1000
 const searchTimestampsByIp = new Map()
 const activeSearchesByIp = new Map()
+const MONGO_URI = process.env.MONGO_URI
+const MONGO_DB_NAME = process.env.MONGO_DB_NAME
+const MONGO_COLLECTION_NAME = process.env.MONGO_COLLECTION_NAME || 'search_queries'
+let mongoCollectionPromise = null
+let didWarnMissingMongoConfig = false
 
 app.get('/oah', (req, res) => {
   res.redirect(301, '/')
@@ -103,6 +111,50 @@ function decrementActiveSearches (ipAddress) {
     activeSearchesByIp.delete(ipAddress)
   } else {
     activeSearchesByIp.set(ipAddress, next)
+  }
+}
+
+function getMongoCollectionPromise () {
+  if (!MONGO_URI || !MONGO_DB_NAME) {
+    if (!didWarnMissingMongoConfig) {
+      console.warn('Mongo logging disabled: set MONGO_URI and MONGO_DB_NAME in .env')
+      didWarnMissingMongoConfig = true
+    }
+    return null
+  }
+
+  if (!mongoCollectionPromise) {
+    const client = new MongoClient(MONGO_URI, {
+      serverSelectionTimeoutMS: 5000,
+      maxPoolSize: 10
+    })
+
+    mongoCollectionPromise = client
+      .connect()
+      .then(() => {
+        console.log(`Mongo logging enabled: db=${MONGO_DB_NAME}, collection=${MONGO_COLLECTION_NAME}`)
+        return client.db(MONGO_DB_NAME).collection(MONGO_COLLECTION_NAME)
+      })
+      .catch((err) => {
+        mongoCollectionPromise = null
+        throw err
+      })
+  }
+
+  return mongoCollectionPromise
+}
+
+async function logSearchToMongo (logEntry) {
+  const collectionPromise = getMongoCollectionPromise()
+  if (!collectionPromise) {
+    return
+  }
+
+  try {
+    const collection = await collectionPromise
+    await collection.insertOne(logEntry)
+  } catch (err) {
+    console.error('Failed to write search log to MongoDB:', err)
   }
 }
 
@@ -201,7 +253,8 @@ async function search (socket, query) {
 
     // log performance and errors
     const dtNow = new Date()
-    let logQuery = {
+    const logQuery = {
+      createdAt: dtNow,
       dtString: `${dtNow.getFullYear()}-${(dtNow.getMonth() + 1)}-${(dtNow.getDate())} ${(dtNow.getHours())}:${(dtNow.getMinutes())}:${(dtNow.getSeconds())}`,
       lag: Date.now() - startDt,
       query: normalizedQuery,
@@ -214,16 +267,7 @@ async function search (socket, query) {
       searchInputsErr,
       resultsErr
     }
-    logQuery = JSON.stringify(logQuery, null, '\t')
-    const logDir = path.join(__dirname, 'logs')
-    const logFile = path.join(logDir, 'logQuery.json')
-
-    try {
-      await fs.mkdir(logDir, { recursive: true })
-      await fs.writeFile(logFile, logQuery, { flag: 'a', encoding: 'utf8' })
-    } catch (logErr) {
-      console.error('Failed to write query log:', logErr)
-    }
+    await logSearchToMongo(logQuery)
   }
 }
 

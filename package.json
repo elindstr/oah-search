@@ -19,11 +19,21 @@
   },
   "homepage": "https://github.com/elindstr/oah-search#readme",
   "dependencies": {
+    "dotenv": "^17.3.1",
     "express": "^5.2.1",
+    "mongodb": "^7.1.0",
     "socket.io": "^4.8.3"
   },
   "engines": {
     "node": ">=14.0.0"
   },
-  "keywords": ["node.js", "express", "socket.io", "websockets", "search-engine", "California", "law"]
+  "keywords": [
+    "node.js",
+    "express",
+    "socket.io",
+    "websockets",
+    "search-engine",
+    "California",
+    "law"
+  ]
 }

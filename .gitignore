@@ -12,6 +12,8 @@
 *.DS_Store
 node_modules/
 .esl*
+.env
+.env.*
 etc/
 nginx_default
 EL/
