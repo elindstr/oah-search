@@ -19,13 +19,16 @@
   },
   "homepage": "https://github.com/elindstr/oah-search#readme",
   "dependencies": {
-    "dotenv": "^17.3.1",
+    "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "mongodb": "^7.1.0",
+    "mongodb": "^7.2.0",
     "socket.io": "^4.8.3"
   },
+  "overrides": {
+    "ws": "8.20.1"
+  },
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=20.19.0"
   },
   "keywords": [
     "node.js",
