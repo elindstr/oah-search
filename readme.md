@@ -21,3 +21,16 @@ A minimalist front-end interface allows the user to enter a search query with op
 A backend node.js server using express and socket.io receives the query, parses the query into searchable logic, iteratively applies the search logic to the selected directories of text files, parses the case name and number from the resulting decisions along with a snippet of the hit, and returns these results to the front-end.
 
 The project is currently deployed on an economy-class Ionos virtual machine running an nginx server: [www.ericjlindstrom.com](https://www.ericjlindstrom.com/).
+
+## Node.js runtime
+
+Use Node.js **24.22.1** (Node 24 LTS). Run `nvm install` and `nvm use` from the
+repository root, or install the version in `.nvmrc` with your preferred manager.
+All package manifests declare the supported Node 24 range.
+
+After changing Node versions, reinstall with `npm ci` in each package directory
+and rebuild the client where present. Production uses `/usr/bin/node` through
+PM2's `pm2-root` systemd service; after a system runtime upgrade, restart the
+service so the daemon and all apps use the new executable, then run `pm2 save`.
+Verify database connectivity, authentication, static assets, and automatic
+startup before removing the previous runtime's rollback package.
